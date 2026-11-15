@@ -1,0 +1,20 @@
+---
+wordpress_display_date: '2011-04-30'
+author: Step
+categories:
+- 40-jours
+date: '2011-04-30T11:10:59+00:00'
+guid: http://wp.overstep.fr/2011/04/30/jour-33-sophia/
+post_id: '2085'
+tags:
+- deesse
+- gaia
+- gnose
+- mythe
+- sophia
+title: 'Jour 33: Sophia'
+url: /2011/04/30/jour-33-sophia/
+---
+(Musique : The Do " Dust it off ")
+
+![](/wp-content/uploads/2011/dotclear/day33.jpg)

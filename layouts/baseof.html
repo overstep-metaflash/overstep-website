@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ if not .IsHome }}{{ .Title | htmlUnescape }} | {{ end }}{{ site.Title }} — {{ site.Params.description }}</title>
+  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary | plainify | truncate 160 }}{{ else }}{{ site.Params.description }}{{ end }}{{ end }}">
+  <link rel="canonical" href="{{ .Permalink }}">
+  {{ with .OutputFormats.Get "RSS" }}<link rel="alternate" type="application/rss+xml" title="{{ site.Title }}" href="{{ .RelPermalink }}">{{ end }}
+  <link rel="stylesheet" href="{{ "css/step.css" | relURL }}">
+  <link rel="stylesheet" href="{{ "css/ruffle-player.css" | relURL }}">
+  <script defer src="{{ "js/ruffle-player.js" | relURL }}"></script>
+</head>
+<body>
+<a class="skip-link" href="#content">Aller au contenu</a>
+<div id="wrapper">
+  <aside id="primary" aria-label="Navigation">
+    <div class="flash-animation sidebar-totem" data-kind="navigation" data-swf="{{ "theme/step/menu.swf" | relURL }}" data-fullscreen="false">
+      <div class="flash-player" aria-label="Totem animé et navigation Step">
+        <a class="flash-fallback" href="{{ site.Home.RelPermalink }}"><img src="{{ "theme/step/menu.png" | relURL }}" alt="Step, les semelles de vent" width="303" height="2280"></a>
+      </div>
+      <span class="flash-status visually-hidden" role="status">Chargement du totem…</span>
+    </div>
+    <nav class="blogroll" aria-label="Liens amis">
+      <h2 class="visually-hidden">Liens</h2>
+      <ul>{{ range hugo.Data.blogroll }}<li><a href="{{ .url }}">{{ .name }}</a></li>{{ end }}</ul>
+    </nav>
+    <nav class="sidebar-categories" aria-label="Catégories">
+      <h2>Catégories</h2>
+      <ul>{{ range site.Taxonomies.categories.Alphabetical }}{{ if .Count }}<li><a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle | htmlUnescape }}</a> <span>({{ .Count }})</span></li>{{ end }}{{ end }}</ul>
+    </nav>
+    <details class="sidebar-archives"><summary>Archives</summary>
+      {{ with hugo.Data.date_archives }}
+        {{ range .years }}<details><summary><a href="{{ .url | relURL }}">{{ .label }}</a> <small>({{ .count }})</small></summary><ul>{{ range .months }}<li><a href="{{ .url | relURL }}">{{ .label }}</a> ({{ .count }})</li>{{ end }}</ul></details>{{ end }}
+      {{ end }}
+    </details>
+  </aside>
+  <div id="droit">
+    <header id="header"><a href="{{ site.Home.RelPermalink }}" aria-label="Step — Les semelles de vent"><img src="{{ "theme/step/step_et_semelles.jpg" | relURL }}" alt="Step et les Semelles de Vent" width="980" height="240" fetchpriority="high"></a></header>
+    <main id="content">{{ block "main" . }}{{ end }}</main>
+    <footer class="site-footer"><a href="{{ site.Home.RelPermalink }}">Step</a> · Les semelles de vent · <a href="{{ "feed.xml" | relURL }}">RSS</a></footer>
+  </div>
+</div>
+</body>
+</html>

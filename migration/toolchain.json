@@ -1,0 +1,39 @@
+{
+  "selected_on": "2026-11-15",
+  "wp2hugo": {
+    "version": "1.39.0",
+    "installed": true,
+    "release": "https://github.com/ashishb/wp2hugo/releases/tag/1.39.0",
+    "documentation": "https://github.com/ashishb/wp2hugo/blob/1.39.0/README.md",
+    "documentation_access": "Context7 library lookup returned no match; official tagged README reviewed directly.",
+    "installation_manager": "mise",
+    "binary_path_relative_to_blog": "migration/mise/data/installs/github-ashishb-wp2hugo/1.39.0/wp2hugo",
+    "binary_sha256": "43718404690c001e09a6c9fb8a1056a55018a2151bb63c0627eaf367dbc69aae"
+  },
+  "hugo": {
+    "version": "0.165.0",
+    "installed": true,
+    "release": "https://github.com/gohugoio/hugo/releases/tag/v0.165.0",
+    "documentation": "https://github.com/gohugoio/hugodocs/tree/v0.165.0",
+    "documentation_access": "Context7 /gohugoio/hugodocs/v0.165.0",
+    "selection_reason": "Explicit version matching the available versioned Context7 documentation; exceeds wp2hugo's documented minimum of 0.146. Latest release observed was 0.170.0; this is not a latest-version claim.",
+    "installation_manager": "mise",
+    "binary_path_relative_to_blog": "migration/mise/data/installs/aqua-gohugoio-hugo/0.165.0/Payload/hugo",
+    "binary_sha256": "fa26f90b607a36031f60d65d9532af43e5548e389be36264507fde4b79111a30"
+  },
+  "python": {
+    "tested_version": "3.12.16",
+    "dependencies": "Inventory and transformations use the standard library; first-release preparation requires PyYAML 6.0.3."
+  },
+  "source": {
+    "path_relative_to_blog": "../step.WordPress.2026-11-15.xml",
+    "sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc"
+  },
+  "mise": {
+    "version": "2026.11.8",
+    "configuration": "mise.toml",
+    "local_launcher": "scripts/mise-local.sh",
+    "storage": "migration/mise",
+    "reason": "Default mise state directory is not writable in the agent sandbox. The launcher keeps data, state, cache, and global config local."
+  }
+}

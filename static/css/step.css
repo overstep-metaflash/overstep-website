@@ -1,0 +1,83 @@
+@font-face{font-family:Rabiohead;src:url('../theme/step/rabiohead_remix-webfont.woff') format('woff');font-display:swap}
+*{box-sizing:border-box}html{color-scheme:dark}body{margin:0;background:#333;color:#09f;font-family:'Courier New',Courier,monospace;font-size:12px;line-height:1.7}a{color:#f90;text-decoration:none}a:hover,a:focus-visible{color:#ffd18a;text-decoration:underline}a:focus-visible,summary:focus-visible{outline:2px solid #f90;outline-offset:3px}#wrapper{display:grid;grid-template-columns:303px minmax(0,670px);width:973px;max-width:100%;margin:30px auto 0;align-items:start}#primary{min-width:0;background:#333}.sidebar-art{display:block;line-height:0}.sidebar-art img{display:block;width:303px;max-width:100%;height:auto}.sidebar-archives{margin:0 24px 30px;color:#dbae46}.sidebar-archives details{padding:5px 0}.sidebar-archives ul{list-style:none;padding-left:12px}.sidebar-archives a{font-size:11px}summary{cursor:pointer}#droit{background:#000;min-width:0;min-height:100vh}#header{height:245px;background:url('../theme/step/step_et_semelles.jpg') no-repeat -310px 0}#header>a{display:block;width:100%;height:100%}#content{margin:0 15px;padding-top:10px;overflow-wrap:anywhere}.hentry{margin:0 0 48px}.entry-title{font-size:18px;line-height:1.5;margin:0 0 8px;color:#f90;font-weight:normal}.entry-meta{background:url('../theme/step/daydate.jpg') no-repeat;width:504px;max-width:100%;min-height:46px;color:#036;font-weight:bold;padding:10px 18px;line-height:26px}.entry-content{padding-top:12px;color:#09f}.entry-content p{margin:0 0 24px}.entry-content img{max-width:100%;height:auto}.entry-content iframe{max-width:100%}.entry-content pre{overflow:auto;white-space:pre;padding:12px;background:#151515}.entry-content blockquote{margin:16px;padding-left:16px;border-left:2px solid #369}.entry-content table{max-width:100%;border-collapse:collapse}.entry-content td,.entry-content th{border:1px solid #333;padding:6px}.entry-content h1,.entry-content h2,.entry-content h3{color:#dbae46}.entry-utility{font-size:11px;color:#888;margin-top:12px}.navigation{display:flex;justify-content:space-between;gap:16px;margin:0 0 20px;font-size:11px}.navigation a{max-width:48%}.page-title{font-size:18px;color:#dbae46;margin:0 0 24px}.site-footer{border-top:1px solid #282828;padding:18px 15px;color:#888}.taxonomy-list{padding-left:20px}#comments{list-style:none;padding:0;border-top:1px solid #333;margin-top:24px}#comments li{margin:18px 0;padding:0 0 12px}#comments .comment-meta{color:#aaa;font-size:11px}#comments .comment-meta img{width:32px;height:32px;vertical-align:middle;margin-right:8px}#comments .comment-content{color:#8cacc2}#comments .children-comments{padding-left:20px;border-left:1px solid #333}.flash-player{background:#000!important;border-radius:0!important}.flash-download,.flash-status{color:#a6a6a6!important;font-size:11px!important}.visually-hidden,.skip-link:not(:focus){position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%)}.skip-link:focus{position:fixed;z-index:10;top:0;left:0;background:#000;padding:12px}
+@media(max-width:760px){#wrapper{display:flex;flex-direction:column;width:670px;margin:0 auto}#primary{width:100%}.sidebar-art{display:none}.sidebar-archives{margin:8px 12px}.sidebar-archives>details,.sidebar-archives>ul{max-height:240px;overflow:auto}#droit{width:100%}#header{height:auto;aspect-ratio:670/245;background-size:146.27% auto;background-position:right top}#content{margin:0 12px}.entry-meta{font-size:11px}.entry-title{font-size:18px}.navigation{flex-wrap:wrap}.flash-animation{margin:16px auto!important}}
+
+/* Preserve the original full-width artwork and its WordPress crop. */
+#header { height: auto; min-height: 245px; background: none; aspect-ratio: auto; }
+#header > a { display: block; height: auto; aspect-ratio: 670 / 245; overflow: hidden; }
+#header img { display: block; width: 146.268657%; max-width: none; height: auto; margin-left: -46.268657%; }
+.sidebar-totem.flash-animation { width: 303px; max-width: 100%; margin: 0; }
+.sidebar-totem .flash-player { position: relative; aspect-ratio: 303 / 2280; background: transparent !important; }
+.sidebar-totem .flash-fallback, .sidebar-totem .flash-fallback img { display: block; width: 100%; height: auto; }
+.sidebar-totem ruffle-player { position: absolute; inset: 0; }
+.sidebar-totem:not([data-ready="true"]) ruffle-player { visibility: hidden; }
+.sidebar-totem[data-ready="true"] .flash-fallback { visibility: hidden; }
+.blogroll ul { list-style: none; padding: 0; margin: 10px 0 24px; }
+.blogroll a { display: block; width: 178px; margin: 0 0 10px 24px; padding: 5px 15px; border-radius: 5px; background: #242432; color: #dbae46; font: 17px Rabiohead, serif; letter-spacing: 3px; }
+.blogroll a:hover, .blogroll a:focus-visible { background: linear-gradient(to right, #333, #dbae46); text-decoration: none; }
+.sidebar-categories { margin: 20px 24px; }
+.sidebar-categories h2 { color: #dbae46; font-size: 16px; }
+.sidebar-categories ul { list-style: none; padding: 0; }
+.sidebar-categories li { margin-bottom: 5px; }
+.sidebar-categories span { color: #aaa; }
+
+/* Article typography and metadata follow the archived WordPress theme. */
+.entry-meta {
+  width: 504px;
+  max-width: 100%;
+  min-height: 46px;
+  padding: 0 0 0 18px;
+  line-height: 42px;
+  background-size: 504px 46px;
+  color: #003366;
+  font: bold 12px/42px "Courier New", Courier, monospace;
+}
+.entry-meta a, .entry-meta .author-name { color: #777; text-decoration: underline; }
+.entry-title a { color: #ff9900; }
+.entry-content { line-height: 24px; }
+.entry-content h1, .entry-content h2, .entry-content h3,
+.entry-content h4, .entry-content h5, .entry-content h6 {
+  font-weight: normal;
+  line-height: 1.5;
+  margin: 0 0 24px;
+}
+.entry-content a { color: #0066cc; text-decoration: underline; }
+.entry-content a:hover, .entry-meta a:hover, .entry-utility a:hover { color: #ff4b33; }
+.entry-utility {
+  margin-top: 28px;
+  color: #777;
+  font: 12px/18px "Helvetica Neue", Arial, Helvetica, sans-serif;
+}
+.entry-utility a { color: #777; text-decoration: underline; }
+.article-audio { display: block; width: 300px; max-width: 100%; height: 40px; margin: 12px 0; }
+.article-details { margin-bottom: 24px; }
+.article-navigation { font: 12px/18px "Helvetica Neue", Arial, sans-serif; }
+.article-navigation a { color: #777; }
+.pagination .pagination-older { margin-left: auto; text-align: right; }
+.archive-periods { display: flex; flex-wrap: wrap; gap: 6px 18px; padding: 0; list-style: none; margin: 0 0 24px; }
+.archive-parent { margin-bottom: 16px; }
+#comments { margin: 80px 0 36px; padding: 0; border-top: 0; }
+#comments .commentlist { list-style: none; margin: 0; padding: 0; }
+#comments li.comment { position: relative; border-bottom: 1px solid #e7e7e7; margin: 0 0 24px; padding: 0 0 24px 56px; font: 16px/24px Georgia, "Bitstream Charter", serif; }
+#comments li.comment:last-child { border-bottom: 0; }
+#comments .avatar { position: absolute; top: 4px; left: 0; width: 40px; height: 40px; }
+#comments .comment-author { color: #333; }
+#comments .comment-author cite { color: #ff904d; font-style: normal; font-weight: bold; }
+#comments .comment-author a { color: #2166c2; }
+#comments .says { font-style: italic; }
+#comments .comment-meta { margin: 6px 0 24px; color: #777; font: 12px/18px "Helvetica Neue", Arial, sans-serif; }
+#comments .comment-meta a { color: #777; }
+#comments .comment-body { color: #66b7ff; }
+#comments .comment-body p { margin: 0 0 18px; }
+#comments .children-comments { list-style: none; margin: 24px 0 0; padding-left: 12px; border-left: 0; }
+@media (max-width: 420px) { #comments li.comment { padding-left: 48px; } #comments .children-comments { margin-left: -36px; padding-left: 0; } }
+@media (max-width: 520px) {
+  .entry-meta { width: 100%; min-height: 46px; padding: 10px 14px; line-height: 20px; background-size: 100% 100%; }
+}
+@media (max-width: 760px) {
+  #header { min-height: 0; }
+  .sidebar-totem.flash-animation { display: none; }
+  .blogroll { padding: 0 10px; }
+  .blogroll ul { display: flex; flex-wrap: wrap; gap: 5px 12px; margin: 10px 0; }
+  .blogroll a { width: auto; margin: 0; padding: 2px 6px; font-size: 16px; letter-spacing: 1px; }
+}

@@ -1,0 +1,4 @@
+[tools]
+"aqua:gohugoio/hugo" = "0.165.0"
+"github:ashishb/wp2hugo" = "1.39.0"
+"aqua:gitleaks/gitleaks" = "8.30.1"

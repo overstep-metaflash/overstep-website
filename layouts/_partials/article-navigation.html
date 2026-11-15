@@ -1,0 +1,4 @@
+<nav class="navigation article-navigation" aria-label="Articles voisins">
+  {{ with .PrevInSection }}<a href="{{ .RelPermalink }}">← {{ .Title | htmlUnescape }}</a>{{ end }}
+  {{ with .NextInSection }}<a href="{{ .RelPermalink }}">{{ .Title | htmlUnescape }} →</a>{{ end }}
+</nav>

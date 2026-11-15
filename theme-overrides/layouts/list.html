@@ -1,0 +1,22 @@
+{{ define "main" }}
+{{ if and (not .IsHome) (ne .Section "posts") }}<h1 class="page-title">{{ .Title | htmlUnescape }}</h1>{{ end }}
+{{ $pages := .RegularPages }}
+{{ if .IsHome }}{{ $pages = where site.RegularPages "Section" "posts" }}{{ end }}
+{{ with .Params.archive_post_ids }}{{ $pages = where (where site.RegularPages "Section" "posts") "Params.post_id" "in" . }}{{ end }}
+{{ with .Params.archive_parent }}<p class="archive-parent"><a href="{{ . | relURL }}">← Archives</a></p>{{ end }}
+{{ with .Params.archive_children }}<ul class="archive-periods">{{ range . }}<li><a href="{{ .url | relURL }}">{{ .label }}</a> ({{ .count }})</li>{{ end }}</ul>{{ end }}
+{{ if eq .Kind "taxonomy" }}
+<ul class="taxonomy-list">{{ range .Pages }}<li><a href="{{ .RelPermalink }}">{{ .Title | htmlUnescape }}</a></li>{{ end }}</ul>
+{{ else }}
+{{ $pager := .Paginate $pages.ByDate.Reverse }}
+{{ range $pager.Pages }}
+<article id="post-{{ .Params.post_id }}" class="hentry">
+  <h2 class="entry-title"><a href="{{ .RelPermalink }}">{{ .Title | htmlUnescape }}</a></h2>
+  {{ partial "article-meta.html" . }}
+  <div class="entry-content">{{ .Content }}</div>
+  {{ partial "article-footer.html" . }}
+</article>
+{{ end }}
+<nav class="navigation pagination" aria-label="Pagination">{{ if $pager.HasPrev }}<a class="pagination-newer" href="{{ $pager.Prev.URL }}">← Articles plus récents</a>{{ end }}{{ if $pager.HasNext }}<a class="pagination-older" href="{{ $pager.Next.URL }}">Articles précédents →</a>{{ end }}</nav>
+{{ end }}
+{{ end }}

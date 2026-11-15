@@ -1,0 +1,44 @@
+baseURL: https://blog.overstep.fr
+locale: fr-FR
+title: Step
+theme: PaperMod
+taxonomies:
+  category: categories
+  tag: tags
+params:
+  description: Les semelles de vent
+  defaultTheme: auto
+  disableThemeToggle: true
+  showShareButtons: true
+  showReadingTime: true
+  showToc: false
+  showBreadCrumbs: true
+  showCodeCopyButtons: true
+  comments: true
+  hideFooter: true
+  assets:
+    favicon: /favicon.ico
+    disableHLJS: true
+  author:
+    name: Step
+markup:
+  highlight:
+    codeFences: true
+    guessSyntax: true
+    style: monokai
+  goldmark:
+    renderer:
+      unsafe: true
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+outputFormats:
+  RSS:
+    mediaType: application/rss+xml
+    baseName: feed
+menu:
+  main: []
+
+defaultContentLanguage: fr

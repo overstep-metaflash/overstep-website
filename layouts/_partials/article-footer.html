@@ -1,0 +1,5 @@
+{{- $comments := where hugo.Data.comments "post_id" .Params.post_id -}}
+<footer class="entry-utility">
+  {{ with .GetTerms "categories" }}<span>Publié dans {{ range $index, $term := . }}{{ if $index }}, {{ end }}<a href="{{ .RelPermalink }}">{{ .LinkTitle | htmlUnescape }}</a>{{ end }}</span> | {{ end }}
+  <a class="comment-count" href="{{ .RelPermalink }}#comments">{{ if eq (len $comments) 0 }}Aucun commentaire{{ else if eq (len $comments) 1 }}Un commentaire{{ else }}{{ len $comments }} commentaires{{ end }}</a>
+</footer>

@@ -1,0 +1,8 @@
+{{- $comments := where hugo.Data.comments "post_id" .Params.post_id -}}
+<section id="comments" aria-label="Commentaires">
+{{ if $comments }}
+  <ol class="commentlist">
+    {{ range sort (where $comments "parent_id" "0") "published" "asc" }}{{ partial "comment.html" (dict "comment" . "comments" $comments) }}{{ end }}
+  </ol>
+{{ else }}<p>Aucun commentaire.</p>{{ end }}
+</section>

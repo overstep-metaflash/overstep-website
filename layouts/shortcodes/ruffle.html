@@ -1,0 +1,7 @@
+{{- $width := int (.Get "width") -}}
+{{- $height := int (.Get "height") -}}
+<span class="flash-animation" data-swf="{{ .Get "src" }}" data-fullscreen="{{ .Get "fullscreen" | default "false" }}" style="{{ printf "max-width: %dpx;" $width | safeCSS }}">
+  <span class="flash-player" style="{{ printf "aspect-ratio: %d / %d;" $width $height | safeCSS }}" aria-label="Animation interactive"></span>
+  <span class="flash-status" role="status">Chargement de l’animation…</span>
+  <noscript>Activez JavaScript pour lire cette animation.</noscript>
+</span>

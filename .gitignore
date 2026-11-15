@@ -1,0 +1,20 @@
+# Generated migration data is local and must be reviewed before publication.
+/migration/reports/
+/migration/raw/
+/migration/cache/
+/migration/logs/
+/migration/bin/
+/migration/mise/
+/migration/vendor/
+/migration/reference/
+/public/
+/public-*/
+/migration/release/
+/.venv/
+/backup_ftp/
+*.sql
+*.WordPress*.xml
+/resources/
+/.hugo_build.lock
+__pycache__/
+.DS_Store

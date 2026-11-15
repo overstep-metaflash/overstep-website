@@ -1,0 +1,16 @@
+---
+wordpress_display_date: '2010-09-22'
+author: Step
+categories:
+- illustrations
+date: '2010-09-22T16:08:12+00:00'
+guid: http://wp.overstep.fr/2010/09/22/afrik/
+post_id: '1786'
+title: Afrik
+url: /2010/09/22/afrik/
+---
+  
+
+ The Roots "right on"
+
+![](/wp-content/uploads/2011/dotclear/africa.jpg)

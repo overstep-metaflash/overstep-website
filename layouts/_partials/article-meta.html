@@ -1,0 +1,2 @@
+{{- $date := .Params.wordpress_display_date | default (.Date | time.In "Europe/Paris") -}}
+<div class="entry-meta">Publié le <a href="{{ .RelPermalink }}" rel="bookmark"><time datetime="{{ $date | time.Format "2006-01-02" }}">{{ $date | time.Format ":date_long" }}</time></a> par <span class="author-name">Step</span></div>

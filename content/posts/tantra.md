@@ -1,0 +1,22 @@
+---
+wordpress_display_date: '2008-07-12'
+author: Step
+categories:
+- illustrations
+date: '2008-07-12T13:26:51+00:00'
+guid: http://wp.overstep.fr/2008/07/12/tantra/
+post_id: '1763'
+title: "Ã Â¤Â¤Ã Â¤Â¨Ã Â¥Â\x8DÃ Â¤Â¤Ã Â¥Â\x8DÃ Â¤Â° : Tantra"
+url: /2008/07/12/tantra/
+---
+La dernière image qui clôt cette 3ème saison des 40 jours.  
+
+ J'avais pas tout à fait honoré le contrat de la bande annonce faite en début de saison.  
+
+ Cette illustration se glisse entre le 24ème et le 25ème jour et répond donc à la partie érotique de l'aventure.
+
+voilà... libre ! je suis libre \\o/  
+
+ bonnes vacances à vous... et merci de vos commentaires durant ces longs jours.   
+
+ (Sample --> Chemical Brothers\_ One too many morning )

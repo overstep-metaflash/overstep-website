@@ -1,0 +1,4 @@
+<footer class="entry-utility article-details">
+  Ce contenu a été publié{{ with .GetTerms "categories" }} dans {{ range $i, $term := . }}{{ if $i }}, {{ end }}<a href="{{ .RelPermalink }}">{{ .LinkTitle | htmlUnescape }}</a>{{ end }}{{ end }}{{ with .GetTerms "tags" }}, avec comme mot(s)-clé(s) {{ range $i, $term := . }}{{ if $i }}, {{ end }}<a rel="tag" href="{{ .RelPermalink }}">{{ .LinkTitle | htmlUnescape }}</a>{{ end }}{{ end }}.
+  Vous pouvez le mettre en favoris avec <a href="{{ .RelPermalink }}" rel="bookmark">ce permalien</a>.
+</footer>

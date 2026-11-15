@@ -1,0 +1,11 @@
+{{ define "main" }}
+{{ partial "article-navigation.html" . }}
+<article id="post-{{ .Params.post_id }}" class="hentry">
+  <h1 class="entry-title">{{ .Title | htmlUnescape }}</h1>
+  {{ partial "article-meta.html" . }}
+  <div class="entry-content">{{ .Content }}</div>
+  {{ partial "article-details.html" . }}
+</article>
+{{ partial "article-navigation.html" . }}
+{{ partial "comments.html" . }}
+{{ end }}
