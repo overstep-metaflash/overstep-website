@@ -30,4 +30,6 @@ class ReleaseTests(unittest.TestCase):
         self.assertNotIn('author_email', result[0])
         self.assertNotIn('author_ip', result[0])
         self.assertNotIn('private@example.test', str(result))
-        self.assertTrue(result[0]['avatar_url'].startswith('https://gravatar.com/avatar/'))
+        self.assertNotIn('avatar_url', result[0])
+        self.assertEqual(result[0]['initials'], 'R')
+        self.assertIn('Original comment', result[0]['content_html'])

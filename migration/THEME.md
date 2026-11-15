@@ -32,8 +32,8 @@ The three remaining wrapper URLs are a photo gallery (`charbonnerie.html`), a
 single image (`morning.html`), and an archive (`40jours.html`); no single SWF
 can replace those pages.
 
-Ruffle uses `autoplay: on` and disables the splash screen. Animations load when
-near the viewport. Audio is subject to browser autoplay restrictions; Ruffle's
+Ruffle uses `autoplay: on` and disables the splash screen. Animations now load
+immediately on opening the page, as requested. Audio is subject to browser autoplay restrictions; Ruffle's
 unmute overlay remains available when a user interaction is needed for sound.
 
 ## Reproduce

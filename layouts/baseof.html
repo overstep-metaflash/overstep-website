@@ -3,6 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  {{ if strings.Contains site.BaseURL ".github.io/" }}<meta name="robots" content="noindex, nofollow">{{ end }}
   <title>{{ if not .IsHome }}{{ .Title | htmlUnescape }} | {{ end }}{{ site.Title }} — {{ site.Params.description }}</title>
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary | plainify | truncate 160 }}{{ else }}{{ site.Params.description }}{{ end }}{{ end }}">
   <link rel="canonical" href="{{ .Permalink }}">
@@ -10,6 +11,7 @@
   <link rel="stylesheet" href="{{ "css/step.css" | relURL }}">
   <link rel="stylesheet" href="{{ "css/ruffle-player.css" | relURL }}">
   <script defer src="{{ "js/ruffle-player.js" | relURL }}"></script>
+  <script defer src="{{ "js/legacy-redirects.js" | relURL }}" data-site-root="{{ site.Home.RelPermalink }}" data-post-map="{{ "legacy-posts.json" | relURL }}"></script>
 </head>
 <body>
 <a class="skip-link" href="#content">Aller au contenu</a>

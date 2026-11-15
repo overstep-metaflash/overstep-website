@@ -8,6 +8,13 @@ from embed_flash_pages import parse_wrapper, replace_links, resolve_wrapper, swf
 
 
 class FlashPageTests(unittest.TestCase):
+    def test_thumbnail_link_with_a_title_is_converted(self):
+        text = '[![preview](/image.jpg)](/emprise.html "L’emprise") Music credit'
+        output, count = replace_links(text, {'/emprise.html': ('/emprise.swf', 600, 400)})
+        self.assertEqual(count, 1)
+        self.assertIn('src="/emprise.swf"', output)
+        self.assertIn('Music credit', output)
+
     def test_nested_objects_produce_one_movie_with_dimensions(self):
         source = '<object width="1200" height="675"><param name="movie" value="elevation.swf"><object data="elevation.swf" width="1200" height="675"></object></object>'
         self.assertEqual(parse_wrapper(source), ('elevation.swf', 1200, 675))

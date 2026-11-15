@@ -14,17 +14,30 @@ Production build: `sh scripts/mise-local.sh exec -- hugo build --destination pub
 
 Run Python tests with the dependencies in `requirements-migration.txt` and
 `python -m unittest discover -s tests -v`; run player tests with
-`node --test tests/test_player.cjs`.
+`node --test tests/test_*.cjs`.
 
 Preserve public article URLs, category/tag/date archive paths, comment IDs,
 local publication dates, and threaded chronological comment ordering. Author
 display name is Step. Keep maintained `theme-overrides/` synchronized with root
 `layouts/` and the corresponding assets under `static/`.
+Edit the maintained overrides first, then run `python scripts/sync_theme.py`.
+CI runs its `--check` mode. Re-sanitize comment changes with
+`python scripts/sanitize_comments.py`; only its allowlisted `content_html` may be
+rendered as trusted HTML. Do not restore Gravatar identifiers or contact fields.
+Article filenames follow `YYYY-MM-DD-original-url-slug.md`, using
+`wordpress_display_date`. The public URL remains controlled by front matter;
+never alter `url` or `post_id` merely to rename a file. The naming helper is
+`scripts/rename_posts.py`; apply it after a fresh migration promotion if needed.
 
 Keep raw WordPress XML/SQL/FTP backups immutable and outside Git. Drafts, private
 comment fields, tool installations, reports, logs, and raw converter output must
 never be staged. Only `public/` is generated website output. No production deploy
 or DNS changes are implied by edits or pushes to this repository.
+The Pages target is the project preview URL, without a custom domain. Site-artifact
+upload and deployment must remain gated by both `PAGES_RELEASE_APPROVED=true` and
+`docs/media-rights.json` publication approval. The user has explicitly withheld
+publication approval because audio rights are unconfirmed. Do not enable either
+gate or Pages until that instruction is superseded.
 
 Migration scripts may depend on the private parent workspace, while the tracked
 site must build independently from those inputs. Use representative synthetic

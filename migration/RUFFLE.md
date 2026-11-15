@@ -2,13 +2,20 @@
 
 Implemented on 2026-11-15 in the existing staging site.
 
+Current behavior supersedes the initial loading experiment below: players load
+immediately on page opening with `autoplay: "on"`, no splash screen, and no SWF
+download link. This was explicitly requested during migration review. One shared
+self-hosted runtime serves all players. A gesture may still be required for sound.
+See `../docs/preproduction-review.md` for the current release policy.
+
 ## Changes
 
 - Converted 37 legacy `[swf:...]` markers into Hugo `ruffle` shortcodes, preserving
   source paths and width/height values. Escaped brackets, smart quotes, positional
   dimensions, accented paths, and explicit fullscreen settings are supported.
-- Added responsive player containers with preserved aspect ratios, deferred loading
-  near the viewport, click-to-play behavior, a download fallback, and visible errors.
+- Added responsive player containers with preserved aspect ratios and visible
+  errors. The initial deferred/click-to-play experiment was later replaced with
+  immediate loading and autoplay; the download fallback was removed.
 - Self-hosted Ruffle 0.7.1 JavaScript and WebAssembly, including upstream licenses.
   There is no runtime CDN dependency. Script access from SWFs is disabled.
 - Extended public-media recovery to recognize relative positional SWF syntax.
@@ -71,6 +78,6 @@ fidelity for every animation. Direct standalone Flash HTML wrappers and unrelate
 legacy object embeds are outside this shortcode conversion.
 
 For a manual test, open the existing local preview at
-`/2016/06/29/zero-prelude-a-la-guerre-arme-de-construction/`, click the player to
-start Totem, and check narrow-screen sizing, audio, and interactive behavior.
+`/2016/06/29/zero-prelude-a-la-guerre-arme-de-construction/`, verify visual autoplay,
+and check narrow-screen sizing, audio unlock, and interactive behavior.
 Restart the existing Hugo server if its watcher has not picked up new layouts.

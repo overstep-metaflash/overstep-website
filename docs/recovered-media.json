@@ -1,0 +1,29 @@
+[
+  {
+    "original": "http://ciremya.perenna.free.fr/bible/dick/invisibles.jpg",
+    "retrieved": "http://ciremya.perenna.free.fr/bible/dick/invisibles.jpg",
+    "local": "/recovered/ciremya.perenna.free.fr/invisibles.jpg",
+    "sha256": "6d3e351137bb6be8700de1c2511fe1999bb2d646e47077cd4af762ee491a92c5",
+    "articles": [
+      "2014-01-08-complot-vous-avez-dit-complot.md"
+    ]
+  },
+  {
+    "original": "http://runesoup.com/wp-content/uploads/2012/04/Tarot-Of.jpg",
+    "retrieved": "https://runesoup.com/wp-content/uploads/2012/04/Tarot-Of.jpg",
+    "local": "/recovered/runesoup.com/Tarot-Of.jpg",
+    "sha256": "0ebc1d3c8f5f1697c1820524eb02ebae6deb0e8c70b9cac26031e7c802d74f14",
+    "articles": [
+      "2014-01-08-complot-vous-avez-dit-complot.md"
+    ]
+  },
+  {
+    "original": "http://www.anotherworld.fr/images/fondecran/AnotherWorld_960.jpg",
+    "retrieved": "https://www.anotherworld.fr/images/fondecran/AnotherWorld_960.jpg",
+    "local": "/recovered/www.anotherworld.fr/AnotherWorld_960.jpg",
+    "sha256": "a584914279a8c3ff2bff308868bab4be78d460550bc213d7512a454792da3fdd",
+    "articles": [
+      "2009-04-27-jour-24-no-stress-il-y-a-une-justice.md"
+    ]
+  }
+]

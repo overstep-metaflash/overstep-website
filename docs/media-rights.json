@@ -1,0 +1,386 @@
+{
+  "publication_approved": false,
+  "audio_files": [
+    {
+      "path": "/wp-content/uploads/2011/dotclear/son/shadows.mp3",
+      "bytes": 625185,
+      "sha256": "585247f05088794ef0928141f8585c10be0c524e57ef666bd8c99950dec0a627",
+      "referencing_articles": [
+        "2005-12-16-virtual-tangka.md"
+      ],
+      "redistribution_rights": "unconfirmed"
+    },
+    {
+      "path": "/wp-content/uploads/2012/04/01-Dark-Flute.mp3",
+      "bytes": 2577135,
+      "sha256": "ed938f1152f357a2271d51c92c8ea48662259e6c5e64b576a7be75e6286ef554",
+      "referencing_articles": [],
+      "redistribution_rights": "unconfirmed"
+    },
+    {
+      "path": "/wp-content/uploads/2012/04/02-Piece-of-Paper.mp3",
+      "bytes": 2568358,
+      "sha256": "8c568bce8bdf8a784097304b8cf1eb5ffb583e10a240315cbac5bc714445b5a1",
+      "referencing_articles": [
+        "2012-04-14-jour-4-papier.md"
+      ],
+      "redistribution_rights": "unconfirmed"
+    },
+    {
+      "path": "/wp-content/uploads/2012/04/05-No-Man-Army.mp3",
+      "bytes": 4010347,
+      "sha256": "e86d4e52f9e114c0964dbf4faad355781ae94481353623aa016199243476e356",
+      "referencing_articles": [
+        "2012-04-28-jour-13-les-yeux-de-la-ruche.md"
+      ],
+      "redistribution_rights": "unconfirmed"
+    },
+    {
+      "path": "/wp-content/uploads/2012/04/05-The-Cloud.mp3",
+      "bytes": 3693922,
+      "sha256": "c05863946dea935b0305b33f5de57927c430eb35964311d38a01ee1856d1df72",
+      "referencing_articles": [
+        "2012-04-15-jour-5-presage.md"
+      ],
+      "redistribution_rights": "unconfirmed"
+    },
+    {
+      "path": "/wp-content/uploads/2012/04/06-4th-Dimensional-Transition.mp3",
+      "bytes": 3810532,
+      "sha256": "aba00b5f761beb2a14eb1e6362ea4df5d6e1ac45f2a74bc0b671246926084239",
+      "referencing_articles": [],
+      "redistribution_rights": "unconfirmed"
+    },
+    {
+      "path": "/wp-content/uploads/2012/04/08-Calculate.mp3",
+      "bytes": 1494203,
+      "sha256": "bd10ee27dd38ac28c643485aef492fd6b71a60b97c9798a2d541cff9ed7806ee",
+      "referencing_articles": [],
+      "redistribution_rights": "unconfirmed"
+    },
+    {
+      "path": "/wp-content/uploads/2012/04/08-Imperials.mp3",
+      "bytes": 1903385,
+      "sha256": "cdbde6408ab72727b1acb60f6bf900c5ce9f2daaa5ce9840fb7b753cb97c074f",
+      "referencing_articles": [
+        "2012-04-26-jour-12-dessein-imperial.md"
+      ],
+      "redistribution_rights": "unconfirmed"
+    },
+    {
+      "path": "/wp-content/uploads/2012/04/12-Dropped-from-the-Sky.mp3",
+      "bytes": 6890892,
+      "sha256": "62c9a4b3413c94f591a47ab587969bd6abb6f7acda0a6e4c76d1d16160b43fda",
+      "referencing_articles": [
+        "2012-04-19-jour-7-lattention-detournee.md"
+      ],
+      "redistribution_rights": "unconfirmed"
+    },
+    {
+      "path": "/wp-content/uploads/2012/04/2-04-Let-Down.mp3",
+      "bytes": 4795244,
+      "sha256": "bc4c60e0d8c3ca1512dcf0fbeb511eff3c2a4978286b7ffa53bc4728cd5a0fdc",
+      "referencing_articles": [
+        "2012-04-25-jour-11-le-sombre-attrait.md"
+      ],
+      "redistribution_rights": "unconfirmed"
+    },
+    {
+      "path": "/wp-content/uploads/2012/04/24-Activating-Trigons-Bonus-Track.mp3",
+      "bytes": 1335378,
+      "sha256": "0592a4b5c5c32cdbcf7059ab3a3aca5404713aa45d92a937a4ae873213338bef",
+      "referencing_articles": [
+        "2012-04-16-jour-6-horizon-enfume.md"
+      ],
+      "redistribution_rights": "unconfirmed"
+    },
+    {
+      "path": "/wp-content/uploads/2012/04/In-the-Mood-for-Love-ITMFL-III.mp3",
+      "bytes": 1492146,
+      "sha256": "a777a47bce0dd09cb8187f18f6141c852fa9306b430e688d3cc55f17c6f819d3",
+      "referencing_articles": [
+        "2012-04-21-jour-9.md"
+      ],
+      "redistribution_rights": "unconfirmed"
+    },
+    {
+      "path": "/wp-content/uploads/2012/04/Kenji-Kawai-City-13-Avalon-OST.mp3",
+      "bytes": 9793346,
+      "sha256": "19363b732d6863de1bb9d1f7ccece52248f56065d88ed83724dad1598b125b30",
+      "referencing_articles": [
+        "2012-04-23-jour-10-lancrage.md"
+      ],
+      "redistribution_rights": "unconfirmed"
+    },
+    {
+      "path": "/wp-content/uploads/2012/04/Père-Aldous.mp3",
+      "bytes": 2466827,
+      "sha256": "c339c30df933609d59493d3cab9f3a8e89ddb08f52bac36babf9c4731ced8ca2",
+      "referencing_articles": [],
+      "redistribution_rights": "unconfirmed"
+    },
+    {
+      "path": "/wp-content/uploads/2012/05/07-Windfall.mp3",
+      "bytes": 5068301,
+      "sha256": "1d6a067fc8b537979933490b5a0b6dfcbcbde30147d15f3589ea97df552d2739",
+      "referencing_articles": [
+        "2012-05-31-jour-24-le-vent-tombe.md"
+      ],
+      "redistribution_rights": "unconfirmed"
+    },
+    {
+      "path": "/wp-content/uploads/2012/05/16-Rectifier.mp3",
+      "bytes": 2147055,
+      "sha256": "a5accbe39251cc242c3ecd20da34edab711318a9b7fe01dece5d372957582588",
+      "referencing_articles": [
+        "2012-05-09-jour-18-le-rectifiant.md"
+      ],
+      "redistribution_rights": "unconfirmed"
+    },
+    {
+      "path": "/wp-content/uploads/2012/05/Amon-Tobin-Delpher-Lower-Sixth-Remix.mp3",
+      "bytes": 9606417,
+      "sha256": "1973887b14a2c326f434e8ec0ddabacd1d3bfb368aaddff5b0473e149a9a99bc",
+      "referencing_articles": [
+        "2012-05-04-jour-15-les-pierres-de-jade.md"
+      ],
+      "redistribution_rights": "unconfirmed"
+    },
+    {
+      "path": "/wp-content/uploads/2012/05/Chemical-Brothers-Harpoons.mp3",
+      "bytes": 4773283,
+      "sha256": "33d16418624263bdbd912e78a347a090a33b419c362ea477fb09e258eb79da63",
+      "referencing_articles": [
+        "2012-05-15-jour-20-le-point-de-detachement.md"
+      ],
+      "redistribution_rights": "unconfirmed"
+    },
+    {
+      "path": "/wp-content/uploads/2012/05/InfectedMushroom-_TheShen.mp3",
+      "bytes": 5873161,
+      "sha256": "45bea56194e3921347919e03cb64a21f887d52f34df9c9c727f8f0d486335586",
+      "referencing_articles": [
+        "2012-05-05-jour-16-perturbation.md"
+      ],
+      "redistribution_rights": "unconfirmed"
+    },
+    {
+      "path": "/wp-content/uploads/2012/05/Kavinsky-Roadgame.mp3",
+      "bytes": 7108377,
+      "sha256": "dd0fd90fe77e2e8dbc099e45551e3bf7eb4f535723b3997c47914ead12d633ba",
+      "referencing_articles": [
+        "2012-05-12-jour-19-liaison-verticale.md"
+      ],
+      "redistribution_rights": "unconfirmed"
+    },
+    {
+      "path": "/wp-content/uploads/2012/05/LSD.mp3",
+      "bytes": 4260674,
+      "sha256": "930744ac6ba1ffca690475a0f7dfe1f1bf31be96ce9be096399b1ac3be9572ff",
+      "referencing_articles": [
+        "2012-05-26-jour-23-le-singulier-delie.md"
+      ],
+      "redistribution_rights": "unconfirmed"
+    },
+    {
+      "path": "/wp-content/uploads/2012/05/Noisia-Machine-Gun.mp3",
+      "bytes": 5371192,
+      "sha256": "5cd68a8a74fa6d0966448f00e91fdc84e772680ddbff537d36f5a5094cebc84c",
+      "referencing_articles": [
+        "2012-05-01-jour-14.md"
+      ],
+      "redistribution_rights": "unconfirmed"
+    },
+    {
+      "path": "/wp-content/uploads/2012/05/Shamanix.mp3",
+      "bytes": 2579643,
+      "sha256": "d9628992ca6588f34720024e8fc59b31cb5a2a0768cef19f203acf276c2932a4",
+      "referencing_articles": [
+        "2012-05-22-jour-22-hyperluminal.md"
+      ],
+      "redistribution_rights": "unconfirmed"
+    },
+    {
+      "path": "/wp-content/uploads/2012/05/Stupeflip-Dark-Warriors.mp3",
+      "bytes": 1209154,
+      "sha256": "e35fa0b80f171a3f4b85761d0e8d468f427264ae215046e2ddf6ae8ea21b4672",
+      "referencing_articles": [
+        "2012-05-07-jour-17-noeud-inorganique.md"
+      ],
+      "redistribution_rights": "unconfirmed"
+    },
+    {
+      "path": "/wp-content/uploads/2012/06/01-Sugar-Fairy.mp3",
+      "bytes": 3002617,
+      "sha256": "1803ba9090d0394091f33bac0f4d930952bec60c56b17f11d2e1ae71a7c36671",
+      "referencing_articles": [
+        "2012-06-14-jour-26-formes-medullaires-primitives.md"
+      ],
+      "redistribution_rights": "unconfirmed"
+    },
+    {
+      "path": "/wp-content/uploads/2012/06/13-One-Last-Look-Bonus-Track.mp3",
+      "bytes": 2567522,
+      "sha256": "95d40818577cf2a9c1672b481478151c3b87173d34dade7b951768aa489a2fb4",
+      "referencing_articles": [
+        "2012-06-06-jour-25-le-gardien-planetaire.md"
+      ],
+      "redistribution_rights": "unconfirmed"
+    },
+    {
+      "path": "/wp-content/uploads/2012/07/23-Kenran.mp3",
+      "bytes": 1979931,
+      "sha256": "2fec6fae13ab9eb4a1ba01b20db3919cb1ab5c11b8da57ab95c798c97f2e46cf",
+      "referencing_articles": [
+        "2012-07-03-jour-27-le-depouillement.md"
+      ],
+      "redistribution_rights": "unconfirmed"
+    },
+    {
+      "path": "/wp-content/uploads/2012/07/Ennio-Moricone-_Lestasi-dell-oro_-Bandini-Remix.mp3",
+      "bytes": 3360808,
+      "sha256": "6a0d5292b684d813f77c519892e02a4513396017fcada0b60470cd5f33d3667e",
+      "referencing_articles": [
+        "2012-07-26-jour-28-reflet-lor-et-le-plomb.md"
+      ],
+      "redistribution_rights": "unconfirmed"
+    },
+    {
+      "path": "/wp-content/uploads/2012/08/Bruits-de-train.mp3",
+      "bytes": 2598766,
+      "sha256": "e73be4f780c5a144afa470cb0462e50eadd389cb11da0a3cf32d0ed21d05aa87",
+      "referencing_articles": [
+        "2012-08-28-jour-30-gardien-nebulaire.md"
+      ],
+      "redistribution_rights": "unconfirmed"
+    },
+    {
+      "path": "/wp-content/uploads/2012/08/Whale-Rider-Go-Forward.mp3",
+      "bytes": 5689578,
+      "sha256": "b1ae6cf451a2de221a22780fb8ca7f0ceab2871de5979aba25e35eba86b022ba",
+      "referencing_articles": [
+        "2012-08-24-jour-29-derriere-le-miroir.md"
+      ],
+      "redistribution_rights": "unconfirmed"
+    },
+    {
+      "path": "/wp-content/uploads/2012/09/Before.mp3",
+      "bytes": 2542026,
+      "sha256": "7a316c4ee0a50b51ca9efdd187ac88b6750297cab0cbe840c6ba326b71e10ad3",
+      "referencing_articles": [],
+      "redistribution_rights": "unconfirmed"
+    },
+    {
+      "path": "/wp-content/uploads/2012/09/Juno-Reactor-Hotaka.mp3",
+      "bytes": 1663058,
+      "sha256": "3a89fe5e8a74579cd00fade8d31916f75bbe557d67e279f13846e5d40e5697bc",
+      "referencing_articles": [
+        "2012-09-19-jour-31-lardente-magie.md"
+      ],
+      "redistribution_rights": "unconfirmed"
+    },
+    {
+      "path": "/wp-content/uploads/2012/09/Lamour-et-la-violence-.mp3",
+      "bytes": 1648430,
+      "sha256": "13a79e1a16de51ee3a42b1c24d3cafe22fbe8dcf54f43f2f4f8ddacabef2b664",
+      "referencing_articles": [],
+      "redistribution_rights": "unconfirmed"
+    },
+    {
+      "path": "/wp-content/uploads/2012/10/Discovering.mp3",
+      "bytes": 13076898,
+      "sha256": "c848cb78e447a68b9695eafb5c4f28e98121230fac571f71219071c69aea4921",
+      "referencing_articles": [
+        "2012-10-17-jour-32-la-tour.md"
+      ],
+      "redistribution_rights": "unconfirmed"
+    },
+    {
+      "path": "/wp-content/uploads/2012/11/Dust.mp3",
+      "bytes": 5001404,
+      "sha256": "3b8d06d8e7762170f1e2b0c134e3cc633227a9d245c360dbeb1005476fb77170",
+      "referencing_articles": [
+        "2012-11-02-jour-33-indigo².md"
+      ],
+      "redistribution_rights": "unconfirmed"
+    },
+    {
+      "path": "/wp-content/uploads/2013/01/I-Follow-Rivers-The-Magician-Remix.mp3",
+      "bytes": 5604310,
+      "sha256": "b4b073dbeee8037197a7f3e58aa3c6508e938d714b0a3ec87bd7d904774c1bd2",
+      "referencing_articles": [],
+      "redistribution_rights": "unconfirmed"
+    },
+    {
+      "path": "/wp-content/uploads/2013/01/b.mp3",
+      "bytes": 4185113,
+      "sha256": "d795887bc1d3e9787bee61eea35b3bb5b635a4142ded37ff0d834fdde59b942c",
+      "referencing_articles": [
+        "2013-01-16-jour-34-leau-de-la-riviere-magique.md"
+      ],
+      "redistribution_rights": "unconfirmed"
+    },
+    {
+      "path": "/wp-content/uploads/2013/02/Isfahan.mp3",
+      "bytes": 5496685,
+      "sha256": "e3cf2b1ccb45a51248f7405ec422275057cb7bf86e1125b5fd6a6db2d44187a4",
+      "referencing_articles": [
+        "2013-02-06-2776.md"
+      ],
+      "redistribution_rights": "unconfirmed"
+    },
+    {
+      "path": "/wp-content/uploads/2013/02/LotusEaters.mp3",
+      "bytes": 8050416,
+      "sha256": "6f406fe37d1a85fc4b89dd2c7eaa9ed971efd8a4f5d86ab85d7373a6ef15f25f",
+      "referencing_articles": [
+        "2013-02-27-jour36-tabou.md"
+      ],
+      "redistribution_rights": "unconfirmed"
+    },
+    {
+      "path": "/wp-content/uploads/2013/03/beast.mp3",
+      "bytes": 8684669,
+      "sha256": "70b7bd586e0c506e36778372c7d4e36d621434ac1ffdbcb100051ea3e93c7b9a",
+      "referencing_articles": [],
+      "redistribution_rights": "unconfirmed"
+    },
+    {
+      "path": "/wp-content/uploads/2013/04/coincidence.mp3",
+      "bytes": 2962284,
+      "sha256": "f29520dc1a25e02c415c5e40fbdda2e67a8d9114b4d56edbf87e3c78f7019052",
+      "referencing_articles": [
+        "2013-04-25-jour-38-la-fin-dun-corps.md"
+      ],
+      "redistribution_rights": "unconfirmed"
+    },
+    {
+      "path": "/wp-content/uploads/2015/03/7thsense.mp3",
+      "bytes": 2743483,
+      "sha256": "0390a40d20eb75ebf347223627933cc8a1168d3e0ebd775cbda105589ed7b45a",
+      "referencing_articles": [],
+      "redistribution_rights": "unconfirmed"
+    },
+    {
+      "path": "/wp-content/uploads/2015/03/Pushingonwards.mp3",
+      "bytes": 4764493,
+      "sha256": "337859a18eab6dd34e19b34cd7a6e6f7625a59fb17263338f1ed40af6bee4616",
+      "referencing_articles": [],
+      "redistribution_rights": "unconfirmed"
+    },
+    {
+      "path": "/wp-content/uploads/2015/03/WhiteLight.mp3",
+      "bytes": 5179690,
+      "sha256": "580e36f22667e60ba6a73ca093aa7f3c67e27489decf64330d81b71dd7ccb13d",
+      "referencing_articles": [],
+      "redistribution_rights": "unconfirmed"
+    },
+    {
+      "path": "/wp-content/uploads/2015/03/shotinthebackofthehead.mp3",
+      "bytes": 5545743,
+      "sha256": "fb9f705106d3b529b612767c08311bc6cf9e93a0a30f5fe0505619e3f63b9336",
+      "referencing_articles": [],
+      "redistribution_rights": "unconfirmed"
+    }
+  ]
+}

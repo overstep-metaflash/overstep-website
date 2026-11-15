@@ -1,5 +1,9 @@
 # Initial repository version
 
+This records the initial push. The subsequent hardening and recovery work is
+documented in `../docs/preproduction-review.md`; it replaces Gravatar with initials,
+restores attachment pages/comments, and prepares a gated Pages workflow.
+
 The reviewed staging site has been promoted into the repository root. A clone
 builds directly with Hugo; it does not need the WordPress XML, SQL, FTP backup,
 raw converter output, or the old absolute staging path.

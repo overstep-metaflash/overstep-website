@@ -11,6 +11,6 @@ url: /2009/04/27/jour-24-no-stress-il-y-a-une-justice/
 ---
   
 
- le fond (modifié) vient de l'illustration originale du jeu [another world](http://www.anotherworld.fr/images/fondecran/AnotherWorld_960.jpg)  
+ le fond (modifié) vient de l'illustration originale du jeu [another world](/recovered/www.anotherworld.fr/AnotherWorld_960.jpg)  
 
  (sample : Justice\_Stress ( air original : Modeste Moussorgski \_ Une nuit sur le mont chauve ))

@@ -1,13 +1,11 @@
 {{- $comment := .comment -}}
-{{- $avatar := $comment.avatar_url -}}
-{{- if not $avatar }}{{ $avatar = printf "https://gravatar.com/avatar/%s" (sha256 ($comment.author_email | default "")) }}{{ end -}}
 <li class="comment" id="comment-{{ $comment.id }}" data-reply-to="comment-{{ $comment.parent_id }}">
   <div class="comment-author">
-    <img class="avatar" src="{{ $avatar }}" alt="" width="40" height="40" loading="lazy">
+    <span class="avatar avatar-initials" aria-hidden="true">{{ $comment.initials | default "?" }}</span>
     <cite>{{ with $comment.author_url }}<a href="{{ . }}" rel="nofollow noopener">{{ $comment.author_name }}</a>{{ else }}{{ $comment.author_name }}{{ end }}</cite> <span class="says">dit :</span>
   </div>
   <div class="comment-meta"><a href="#comment-{{ $comment.id }}"><time datetime="{{ $comment.published | time.Format "2006-01-02T15:04:05Z07:00" }}">{{ $comment.published | time.Format ":date_long" }} à {{ $comment.published | time.Format "15 h 04 min" }}</time></a></div>
-  <div class="comment-body">{{ $comment.content | markdownify }}</div>
+  <div class="comment-body">{{ with $comment.content_html }}{{ . | safeHTML }}{{ else }}{{ $comment.content }}{{ end }}</div>
   {{ with sort (where .comments "parent_id" $comment.id) "published" "asc" }}
     <ol class="children-comments">{{ range . }}{{ partial "comment.html" (dict "comment" . "comments" $.comments) }}{{ end }}</ol>
   {{ end }}

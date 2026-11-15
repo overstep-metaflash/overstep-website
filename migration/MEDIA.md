@@ -1,5 +1,9 @@
 # FTP media recovery
 
+This records the initial FTP recovery. Three external images have since been
+recovered; two remain missing. See `../docs/recovered-media.json` for provenance
+and `../docs/preproduction-review.md` for current release blockers.
+
 Completed on 2026-11-15 against the existing staging site.
 
 ## Results

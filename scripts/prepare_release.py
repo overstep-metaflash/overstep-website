@@ -1,7 +1,6 @@
 """Promote reviewed staging content without raw backups or private metadata."""
 
 import argparse
-import hashlib
 import json
 import re
 import shutil
@@ -11,6 +10,7 @@ from pathlib import Path
 BLOG = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(BLOG / 'migration/vendor/python'))
 import yaml
+from sanitize_comments import sanitize_comment
 
 PUBLIC_FIELDS = {'title', 'date', 'lastmod', 'publishDate', 'url', 'slug', 'categories',
                  'tags', 'author', 'wordpress_display_date', 'post_id', 'guid',
@@ -33,9 +33,7 @@ def public_comments(comments, post_ids):
         public = {k: v for k, v in comment.items() if k in COMMENT_FIELDS}
         if hasattr(public.get('published'), 'isoformat'):
             public['published'] = public['published'].isoformat()
-        email = comment.get('author_email') or ''
-        public['avatar_url'] = 'https://gravatar.com/avatar/' + hashlib.sha256(email.encode()).hexdigest()
-        result.append(public)
+        result.append(sanitize_comment(public))
     return result
 
 

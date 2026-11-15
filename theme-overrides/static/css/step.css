@@ -61,6 +61,7 @@
 #comments li.comment { position: relative; border-bottom: 1px solid #e7e7e7; margin: 0 0 24px; padding: 0 0 24px 56px; font: 16px/24px Georgia, "Bitstream Charter", serif; }
 #comments li.comment:last-child { border-bottom: 0; }
 #comments .avatar { position: absolute; top: 4px; left: 0; width: 40px; height: 40px; }
+#comments .avatar-initials { display: grid; place-items: center; border-radius: 4px; background: #242432; color: #dbae46; font: bold 14px/1 Arial, sans-serif; }
 #comments .comment-author { color: #333; }
 #comments .comment-author cite { color: #ff904d; font-style: normal; font-weight: bold; }
 #comments .comment-author a { color: #2166c2; }

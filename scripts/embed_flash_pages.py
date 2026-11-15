@@ -10,7 +10,7 @@ from urllib.parse import unquote, urljoin, urlsplit
 
 from recover_media import copy_media
 
-LINK = re.compile(r'\[(?:!\[[^\]]*\]\([^)]*\)|[^\]]*)\]\(([^\s)]+\.html(?:[?#][^)]*)?)\)', re.I)
+LINK = re.compile(r'\[(?:!\[[^\]]*\]\([^)]*\)|[^\]]*)\]\(([^\s)]+\.html(?:[?#][^\s)]*)?)(?:\s+"[^"]*")?\)', re.I)
 
 
 def parse_wrapper(source):

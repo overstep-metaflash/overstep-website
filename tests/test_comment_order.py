@@ -1,4 +1,5 @@
 import json
+import os
 import re
 import shutil
 import subprocess
@@ -33,9 +34,9 @@ class CommentOrderTests(unittest.TestCase):
                         comment('20', '10', '2024-01-01T10:00:00Z'),
                         comment('99', '0', '2010-01-01T10:00:00Z', '99')]
             (site / 'data/comments.json').write_text(json.dumps(comments))
+            command = [os.environ['HUGO_BIN']] if os.environ.get('HUGO_BIN') else ['rtk', 'proxy', 'sh', str(blog / 'scripts/mise-local.sh'), 'exec', '--', 'hugo']
             result = subprocess.run(
-                ['rtk', 'proxy', 'sh', str(blog / 'scripts/mise-local.sh'), 'exec', '--',
-                 'hugo', 'build', '--source', str(site), '--panicOnWarning'],
+                command + ['build', '--source', str(site), '--panicOnWarning'],
                 capture_output=True, text=True)
             self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
             page = (site / 'public/index.html').read_text()

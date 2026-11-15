@@ -2,6 +2,7 @@
 
 import argparse
 import json
+import re
 import xml.etree.ElementTree as ET
 from html.parser import HTMLParser
 from pathlib import Path
@@ -72,7 +73,11 @@ def main():
     item = next(i for i in ET.parse(blog.parent / 'step.WordPress.2026-11-15.xml').findall('./channel/item')
                 if i.findtext('wp:post_id', '', NS) == '1857')
     source = item.findtext('content:encoded', '', NS)
-    path = site / 'content/posts/virtual-tangka.md'
+    matches = [p for p in (site / 'content/posts').glob('*.md')
+               if re.search(r'^post_id:\s*[\'"]?1857[\'"]?\s*$', p.read_text().split('---', 2)[1], re.M)]
+    if len(matches) != 1:
+        raise ValueError('Expected one article with WordPress post ID 1857')
+    path = matches[0]
     parts = path.read_text().split('---', 2)
     parts[2], count = restore_objects(source, parts[2])
     parts[2] = '\n' + parts[2].lstrip('\n')
