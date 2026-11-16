@@ -27,6 +27,10 @@
 
 ### Added
 
+- Document a full public-content audit with per-article link/media evidence and
+  prioritized follow-up issues. Record the owner's non-radio audio clearance and
+  keep the legacy radio excluded pending a streaming-playlist replacement.
+
 - Initial Hugo site with 470 public articles, preserved URLs, local dates,
   categories, tags, and paginated calendar archives.
 - Archived public comments with original anchors, replies, and chronological order.

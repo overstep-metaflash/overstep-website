@@ -35,9 +35,12 @@ never be staged. Only `public/` is generated website output. No production deplo
 or DNS changes are implied by edits or pushes to this repository.
 The Pages target is the project preview URL, without a custom domain. Site-artifact
 upload and deployment must remain gated by both `PAGES_RELEASE_APPROVED=true` and
-`docs/media-rights.json` publication approval. The user has explicitly withheld
-publication approval because audio rights are unconfirmed. Do not enable either
-gate or Pages until that instruction is superseded.
+`docs/media-rights.json` publication approval. Publication was initially withheld
+pending audio review. Keep both gates and Pages disabled without a subsequent
+release instruction. On 2026-11-16 the owner
+confirmed non-radio MP3 use and requested replacement of the radio with a Spotify
+or Deezer playlist, followed by a content audit and GitHub tickets. The 17 radio
+tracks are excluded from import; this partial clearance does not deploy the site.
 
 Migration scripts may depend on the private parent workspace, while the tracked
 site must build independently from those inputs. Use representative synthetic

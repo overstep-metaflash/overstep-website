@@ -97,9 +97,14 @@ commands, recovery details, remaining blockers, and eventual release steps.
 
 ## Remaining review
 
+The [2026-11-16 content audit](docs/audits/2026-11-16-content.md) identifies 78
+injected article links, 124 missing original Flash integrations, four images
+absent from rendered articles, and the legacy radio replacement. Its inventories
+and prioritized GitHub issues are the current content-review baseline.
+
 This initial version supports continued review; production cutover is pending.
-Known gaps include two externally hosted images, several legacy links, unconfirmed
-audio redistribution rights, and source spam links requiring editorial cleanup.
+Known gaps include two externally hosted images, several legacy links, the pending
+radio replacement, and source spam links requiring editorial cleanup.
 Browser playback and visual fidelity still need manual checks.
 Firefox may warn about WebGL diagnostics and block audio autoplay; Ruffle cannot
 override browser audio policy.

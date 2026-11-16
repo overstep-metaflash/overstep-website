@@ -7,8 +7,10 @@ where their loading policy, privacy choices, or remaining counts differ.
 
 The requested first hosting target is
 `https://overstep-metaflash.github.io/overstep-website/`, without DNS changes.
-The user explicitly withheld publication because audio redistribution rights are
-unconfirmed. Pages remains disabled. No site artifact is uploaded while approval
+The user initially withheld publication pending audio review. On 2026-11-16 the
+owner confirmed use of non-radio MP3 files; the legacy radio must instead become
+a Spotify or Deezer playlist. The subsequent content audit is documented in
+`audits/2026-11-16-content.md`. Pages remains disabled. No site artifact is uploaded while approval
 is withheld. The repository is already public and contains audio committed in the
 initial version; blocking Pages does not remove those files from GitHub.
 
@@ -20,8 +22,10 @@ requests. Site-artifact upload and deployment each require both:
 
 The manifest currently records 45 MP3 files, hashes, sizes, and direct article
 references. An empty reference list does not establish that a file is unused:
-Flash movies may load dependencies internally. Every rights status remains
-`unconfirmed`; no licensing conclusion has been inferred from public availability.
+Flash movies may load dependencies internally. The 45 tracked MP3 files are now
+recorded as `confirmed_by_owner`. None is byte-identical to the 17 radio MP3s,
+which remain outside the public inventory. This records the owner's instruction,
+not an independent licensing assessment. Publication approval remains false.
 
 After explicit release approval, review the manifest, enable Pages with GitHub
 Actions as its source, and enable both gates. Re-run the workflow on the reviewed
