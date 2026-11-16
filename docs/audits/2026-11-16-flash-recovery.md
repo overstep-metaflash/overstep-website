@@ -1,5 +1,10 @@
 # Flash recovery review — issue #2
 
+The later [same-tab menu review](2026-11-16-menu-navigation.md) supersedes this
+report's pending local hotspot matrix and new-tab behavior. Preserve the original
+recovery evidence below. Representative media playback and radio acceptance are
+separate outstanding checks.
+
 ## Result and remaining acceptance gates
 
 Restored **124 audited movie/article associations in 123 articles**, including the

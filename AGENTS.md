@@ -139,7 +139,12 @@ do not silently redirect unrelated buttons to the homepage.
 
 Ruffle 0.7.1 blocks `_parent`, `_self`, `_top` and empty GetURL targets when
 `allowScriptAccess` is false. Keep script access disabled. The reviewed menu uses
-`_blank` targets; changing URLs alone does not repair blocked current-tab targets.
+`_blank` targets internally. The owner now requires same-tab navigation: the
+maintained player adapter translates only exact reviewed legacy/resolved menu
+URLs into `window.location.assign`, delegating other window requests unchanged.
+Do not remove this adapter or enable script access to change tabs. See
+`docs/audits/2026-11-16-menu-navigation.md` for the completed local hotspot matrix.
+Changing URLs alone does not repair blocked current-tab targets.
 Use `scripts/repair_flash_menu.py` for menu target changes, then synchronize the
 theme. It preserves artwork/character records, updates binary lengths and rejects
 unreviewed URLs or other action opcodes. Do not replace the repaired movie with

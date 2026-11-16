@@ -4,19 +4,37 @@
   const runtimeUrl = new URL("../vendor/ruffle/0.7.1/ruffle.js", document.currentScript.src);
   let runtimePromise;
   let navigationPromise;
-  function navigationRules() {
+  function installMenuNavigation(routes) {
+    const destinations = new Map(routes);
+    for (const destination of routes.values()) destinations.set(destination, destination);
+    const open = window.open;
+    window.open = function (...args) {
+      const [url, target] = args;
+      const destination = destinations.get(String(url));
+      if (target === "_blank" && destination) {
+        window.location.assign(destination);
+        return window;
+      }
+      return open.apply(window, args);
+    };
+  }
+  function navigationRoutes() {
     if (!navigationPromise) {
       navigationPromise = fetch(new URL("theme/step/menu-links.json", siteRoot))
         .then(response => {
           if (!response.ok) throw new Error("Unable to load reviewed menu destinations");
           return response.json();
         })
-        .then(links => links.flatMap(link => {
+        .then(links => new Map(links.flatMap(link => {
           const target = link.destination.startsWith("/")
             ? new URL(link.destination.slice(1), siteRoot).href : link.destination;
           return [...new Set([link.legacy, link.legacy.replace(/^http:/, "https:")])]
             .map(source => [source, target]);
-        }));
+        })))
+        .then(routes => {
+          installMenuNavigation(routes);
+          return routes;
+        });
     }
     return navigationPromise;
   }
@@ -40,14 +58,15 @@
       const ruffle = await runtime();
       const player = ruffle.createPlayer();
       container.querySelector(".flash-player").appendChild(player);
-      const urlRewriteRules = container.dataset.kind === "navigation" ? await navigationRules() : [];
-      await player.ruffle().load({
+      const api = player.ruffle();
+      const routes = container.dataset.kind === "navigation" ? await navigationRoutes() : null;
+      await api.load({
         url: container.dataset.swf,
         autoplay: "on",
         splashScreen: false,
         unmuteOverlay: "visible",
         allowScriptAccess: false,
-        urlRewriteRules,
+        urlRewriteRules: routes ? [...routes] : [],
         showSwfDownload: false,
         wmode: container.dataset.kind === "navigation" ? "transparent" : "window",
         allowFullscreen: container.dataset.fullscreen === "true",

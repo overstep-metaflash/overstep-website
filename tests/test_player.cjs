@@ -92,13 +92,15 @@ test('the animated navigation uses transparency and retains its fallback on fail
   assert.equal(containers[1].status.hidden, false);
 });
 
-test('every reviewed menu URL is rewritten for root and project-prefix pages', async () => {
+test('reviewed menu links navigate in the same tab at both prefixes and all page contexts', async () => {
   const links = JSON.parse(fs.readFileSync(path.join(__dirname, '../theme-overrides/static/theme/step/menu-links.json'), 'utf8'));
   assert.equal(links.length, 8);
   assert.equal(new Set(links.map(link => link.legacy)).size, 8);
   for (const prefix of ['/', '/overstep-website/']) {
     for (const route of ['', '2006/02/11/sauvons-la-princesse/', 'category/anim-flash/']) {
       let loaded, fetched;
+      const assigned = [];
+      const delegated = [];
       const navigation = {
         dataset: { kind: 'navigation', swf: prefix + 'theme/step/menu.swf' },
         querySelector: s => s === '.flash-status' ? {} : { appendChild() {} },
@@ -113,7 +115,9 @@ test('every reviewed menu URL is rewritten for root and project-prefix pages', a
           head: { appendChild: script => script.onload() },
           querySelectorAll: () => [navigation],
         },
-        window: { RufflePlayer: { newest: () => ({ createPlayer: () => ({
+        window: { location: { assign: url => assigned.push(url) },
+          open: (...args) => { delegated.push(args); return 'Unrelated window'; },
+          RufflePlayer: { newest: () => ({ createPlayer: () => ({
           ruffle: () => ({ load: async options => { loaded = options; } }),
         }) }) } },
       };
@@ -126,10 +130,26 @@ test('every reviewed menu URL is rewritten for root and project-prefix pages', a
           ? 'https://preview.test' + prefix + link.destination.slice(1) : link.destination;
         for (const legacy of new Set([link.legacy, link.legacy.replace(/^http:/, 'https:')])) {
           assert.equal(loaded.urlRewriteRules.find(rule => rule[0] === legacy)?.[1], target);
+          assert.equal(context.window.open(legacy, '_blank'), context.window);
+          assert.equal(assigned.at(-1), target);
         }
+        context.window.open(target, '_blank');
+        assert.equal(assigned.at(-1), target);
       }
       assert.equal(loaded.urlRewriteRules.find(rule => rule[0] === 'http://www.overstep.fr/radio/')[1],
         'https://preview.test' + prefix + 'radio/');
+      const count = assigned.length;
+      assert.equal(delegated.length, 0, 'Reviewed links must never request a popup');
+      const unrelated = [
+        ['https://unreviewed.test/', '_blank', 'noopener'],
+        ['https://preview.test' + prefix + 'category/blah/', '_blank'],
+        ['https://preview.test' + prefix + 'radio/', 'named-window'],
+      ];
+      for (const args of unrelated) {
+        assert.equal(context.window.open(...args), 'Unrelated window');
+      }
+      assert.equal(assigned.length, count, 'Do not redirect unrelated window requests');
+      assert.deepEqual(delegated, unrelated);
     }
   }
 });

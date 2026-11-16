@@ -118,7 +118,11 @@ Galerie have local collection pages. Six button action tags have current-tab
 targets changed to `_blank`, because Ruffle blocks those targets with script
 access disabled; artwork data is preserved. URL rewrite rules retain the root or
 Pages prefix. Script access remains disabled. The radio mapping opens the new
-`/radio/` playlist page. Every hotspot still needs browser verification.
+`/radio/` playlist page. The subsequent same-tab adapter and Chrome hotspot matrix
+are documented in the [menu navigation review](audits/2026-11-16-menu-navigation.md):
+all seven page destinations passed in all six contexts; Contact's mailto dispatch
+was observed without launching a mail client. Spotify playback and the separate
+Flash/media acceptance remain pending.
 
 The public post-ID map supports numeric `?p=ID` links through a same-origin
 JavaScript redirect, preserving `#comment-ID` and the preview path prefix. It is
