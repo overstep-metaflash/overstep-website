@@ -78,10 +78,17 @@ class RadioTests(unittest.TestCase):
                     self.assertIn('Another World', html)
                     self.assertIn('indisponible', html)
 
-    def test_radio_destination_is_required_and_release_approval_stays_disabled(self):
+    def test_radio_destination_and_publication_authorization_are_recorded(self):
         missing = json.loads((BLOG / 'docs/remaining-local-links.json').read_text())
         self.assertNotIn('/radio/', missing)
         mappings = json.loads((BLOG / 'theme-overrides/static/theme/step/menu-links.json').read_text())
         self.assertEqual(next(m['destination'] for m in mappings if m['label'] == 'Radio'), '/radio/')
         rights = json.loads((BLOG / 'docs/media-rights.json').read_text())
-        self.assertFalse(rights['publication_approved'])
+        self.assertIsInstance(rights['publication_approved'], bool)
+        approval = rights.get('release_approval')
+        self.assertIsInstance(approval, dict)
+        self.assertEqual(approval['target'],
+                         'https://overstep-metaflash.github.io/overstep-website/')
+        self.assertTrue(approval['source'])
+        self.assertRegex(approval['validated_content_commit'], r'^[0-9a-f]{40}$')
+        self.assertTrue((BLOG / approval['review']).is_file())

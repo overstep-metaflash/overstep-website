@@ -1,5 +1,12 @@
 {
-  "publication_approved": false,
+  "publication_approved": true,
+  "release_approval": {
+    "date": "2026-11-16",
+    "target": "https://overstep-metaflash.github.io/overstep-website/",
+    "source": "The owner explicitly requested deployment of the current site to GitHub Pages in the deployment session.",
+    "validated_content_commit": "7a6609dc97b14f0defdc8b1a38ecf0bf1b2eaf8e",
+    "review": "docs/releases/2026-11-16-pages.md"
+  },
   "audio_files": [
     {
       "path": "/wp-content/uploads/2011/dotclear/son/everyoneintheworld.mp3",

@@ -10,8 +10,10 @@ The requested first hosting target is
 The user initially withheld publication pending audio review. On 2026-11-16 the
 owner confirmed use of non-radio MP3 files; the legacy radio must instead become
 a Spotify or Deezer playlist. The subsequent content audit is documented in
-`audits/2026-11-16-content.md`. Pages remains disabled. No site artifact is uploaded while approval
-is withheld. The repository is already public and contains audio committed in the
+`audits/2026-11-16-content.md`. The owner subsequently requested the first Pages
+deployment on 2026-11-16; see the [release authorization](releases/2026-11-16-pages.md).
+That instruction supersedes the earlier publication hold. The repository is
+already public and contains audio committed in the
 initial version; blocking Pages does not remove those files from GitHub.
 
 The workflow in `.github/workflows/pages.yml` runs checks on pushes and pull
@@ -25,11 +27,12 @@ references. An empty reference list does not establish that a file is unused:
 Flash movies may load dependencies internally. The 47 tracked MP3 files are now
 recorded as `confirmed_by_owner`. None is byte-identical to the 17 radio MP3s,
 which remain outside the public inventory. This records the owner's instruction,
-not an independent licensing assessment. Publication approval remains false.
+not an independent licensing assessment. Publication approval now records the
+owner's explicit deployment instruction and links to its release record.
 
-After explicit release approval, review the manifest, enable Pages with GitHub
-Actions as its source, and enable both gates. Re-run the workflow on the reviewed
-main commit. This is a future release procedure, not authorization to execute it.
+The authorized first release uses GitHub Actions as its Pages source and enables
+both gates. Run the existing workflow on the release commit and verify the
+published project URL. Keep subsequent publication conditional on both gates.
 Do not add a CNAME or change the production domain as part of this preview.
 
 ## Comment security and privacy

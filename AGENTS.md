@@ -287,9 +287,10 @@ The selected Pages target is
 `https://overstep-metaflash.github.io/overstep-website/`, without a custom domain
 or DNS cutover. Site-artifact upload and deployment require both the repository
 variable `PAGES_RELEASE_APPROVED=true` and `docs/media-rights.json` publication
-approval. Both stay disabled until a release instruction supersedes the current
-review state. Audio clearance, edits, pushes and ticket maintenance alone do not
-authorize deployment or changes to repository visibility.
+approval. The owner explicitly requested the first Pages deployment on 2026-11-16;
+`docs/releases/2026-11-16-pages.md` and the manifest record that authorization.
+Both controls remain required. Audio clearance, edits, pushes and ticket
+maintenance alone do not authorize deployment or changes to repository visibility.
 
 For a project-prefix preview, build with the preview base URL, then run
 `scripts/prepare_pages.py` and `scripts/validate_site.py` with the matching
