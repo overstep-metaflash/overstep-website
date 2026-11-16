@@ -9,5 +9,5 @@ post_id: '1754'
 title: Sens interdit
 url: /2007/06/06/sens-interdit/
 ---
-![](/wp-content/uploads/2011/dotclear/sens interdit.jpg)  
+![](</wp-content/uploads/2011/dotclear/sens interdit.jpg>)\
  80X60 cm

@@ -11,6 +11,7 @@ from prepare_release import read_markdown
 from sanitize_comments import sanitize_comment
 from reviewed_links import load_reviewed_links, reviewed_payloads_present
 from flash_manifest import reconcile_article, reconcile_audio, validate_coverage
+from article_images import reviewed_image_articles, reconcile_images
 
 BLOG = Path(__file__).resolve().parents[1]
 
@@ -62,7 +63,11 @@ def main():
     comments = json.loads((BLOG / 'data/comments.json').read_text())
     reviewed_links = load_reviewed_links(BLOG / 'docs/audits/2026-11-16-links.csv')
     flash = json.loads((BLOG / 'docs/flash-recovery.json').read_text())['articles']
-    audited_movies = json.loads((BLOG / 'docs/audits/2026-11-16-content.json').read_text())['missing_embedded_flash']
+    audit = json.loads((BLOG / 'docs/audits/2026-11-16-content.json').read_text())
+    audited_movies = audit['missing_embedded_flash']
+    images = reviewed_image_articles(audit['image_differences_requiring_review'])
+    images_by_source = {a['source_file']: a for a in images}
+    images_checked = set()
     errors = validate_coverage(flash, audited_movies)
     if errors:
         raise SystemExit('; '.join(errors))
@@ -87,6 +92,15 @@ def main():
             if not target.is_file():
                 raise SystemExit('Missing public path: ' + metadata['url'])
             page = target.read_text()
+            image_article = images_by_source.get(source.relative_to(BLOG).as_posix())
+            if image_article:
+                if (str(metadata['post_id']) != image_article['post_id']
+                        or metadata['url'] != image_article['article_url']):
+                    raise SystemExit('Image article identity differs: ' + source.name)
+                errors = reconcile_images(page, image_article['images'], output, urlsplit(args.base_url).path)
+                if errors:
+                    raise SystemExit(metadata['url'] + ': ' + '; '.join(errors))
+                images_checked.add(image_article['source_file'])
             flash_article = flash_by_source.get(source.relative_to(BLOG).as_posix())
             if flash_article:
                 if (str(metadata['post_id']) != flash_article['post_id']
@@ -112,6 +126,8 @@ def main():
         raise SystemExit('Some comment records have no rendered public page')
     if flash_checked != {a['post_id'] for a in flash}:
         raise SystemExit('Some reviewed Flash articles have no rendered public page')
+    if images_checked != set(images_by_source):
+        raise SystemExit('Some audited image articles have no rendered public page')
     prefix = urlsplit(args.base_url).path.rstrip('/') + '/'
     if prefix != '/':
         for path in output.rglob('*.html'):
@@ -128,6 +144,7 @@ def main():
     print(f'Known legacy destinations still requiring review: {len(missing)}.')
     print(f'Validated {checked} public content pages and {len(seen)} sanitized comments.')
     print(f'Reconciled {len(audited_movies)} recovered Flash associations in {len(flash_checked)} articles.')
+    print(f'Reconciled {sum(len(a["images"]) for a in images)} audited images in {len(images_checked)} articles.')
 
 
 if __name__ == '__main__':

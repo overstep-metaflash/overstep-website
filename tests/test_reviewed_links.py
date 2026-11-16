@@ -83,7 +83,8 @@ Musique : Massive Attack "Heat miser"
                 (root / 'docs/audits/2026-11-16-links.csv').write_text(
                     'post_id,url,anchor\n42,https://example.test/reviewed,unrelated promotional text\n')
                 (root / 'docs/flash-recovery.json').write_text('{"articles": []}')
-                (root / 'docs/audits/2026-11-16-content.json').write_text('{"missing_embedded_flash": []}')
+                (root / 'docs/audits/2026-11-16-content.json').write_text(
+                    '{"missing_embedded_flash": [], "image_differences_requiring_review": []}')
                 output = root / 'public'
                 (output / 'example').mkdir(parents=True)
                 (output / 'example/index.html').write_text(page)

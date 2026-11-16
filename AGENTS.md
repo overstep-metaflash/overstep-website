@@ -18,6 +18,9 @@ Current references:
   subsequent recovery evidence for 124 Flash associations in 123 articles, eight
   copied SWFs and two companion audio players. The original audit records the
   pre-recovery gaps; do not rewrite it to erase those findings.
+- `docs/audits/2026-11-16-image-recovery.md`: four restored article images from
+  issue #3, source evidence, regression coverage and root/project-prefix HTTP
+  verification. Browser decoding and visual acceptance remain pending.
 - GitHub issues #1–#7: cleanup, original media, radio and URL follow-up tasks.
   Issues #2 and #4 explicitly require every Flash totem menu button to work.
 - `docs/preproduction-review.md`: build, release gates and known limitations.
@@ -49,6 +52,11 @@ Use the virtual environment's Python path if dependencies are not available to
 workspace's mise launcher. Scan staged changes with pinned Gitleaks before commits.
 The build and CI must work without the private parent backups or ignored caches.
 Use TDD for behavior changes; documentation-only edits do not need new tests.
+When adding required audit fields to the validator, update the synthetic audit
+inventories in its integration tests. Do not silently treat missing evidence as
+an empty inventory to make an older fixture pass. Hugo fixtures must provide
+layouts for every enabled page kind so `--panicOnWarning` failures identify the
+intended regression rather than a missing test layout.
 
 Only `public/` or an explicitly selected generated build directory is website
 output. Never serve the repository root. Preview locally with:
@@ -143,6 +151,15 @@ tests for all six page/prefix contexts are not evidence of real hotspot activati
 Issue #2 must not be marked complete until that matrix and its radio dependency
 are satisfied; consult the recovery review for the outstanding checks.
 
+On 2026-11-16 Chrome DevTools could not start because Google Chrome was absent;
+browser inventory access was unavailable and native Zen access was denied. The
+owner authorized installing Chrome with Homebrew, but the attempt failed because
+the environment could not write under `/opt/homebrew`. Recheck current tool
+availability, reuse that installation authorization if needed, and respect the
+environment's write/access limits. Do not apply Homebrew's suggested ownership or
+permission changes as a workaround. Keep browser acceptance pending until an
+authorized browser actually verifies the page.
+
 ## Security and original-media recovery
 
 - Re-sanitize comment edits with `python3 scripts/sanitize_comments.py`. Only the
@@ -161,6 +178,24 @@ are satisfied; consult the recovery review for the outstanding checks.
 - A clean build, preserved article URL and available static file are insufficient
   acceptance checks. Verify each recovered source media/player association in
   rendered article HTML, including empty bodies and multiple-movie articles.
+- The four audited missing article images are restored. Use angle-bracket
+  destinations for Markdown image paths containing spaces without renaming the
+  files; cover spaces and accents with a real Hugo rendering regression.
+  `scripts/article_images.py` derives four associations from the seven confirmed
+  missing-image findings in the original audit, deduplicating XML/snapshot aliases
+  by article and SHA-256. `scripts/validate_site.py` requires one real `img` inside
+  `.entry-content`, the correct prefix and exact output bytes for each association.
+  Sidebar images, download links and broken Markdown text do not satisfy coverage.
+  Keep the 29 intentional thumbnail-to-Ruffle changes and ten valid byte-identical
+  aliases unchanged; do not restore all 46 original image differences.
+- Preserve reviewed image placement, title, alt text, display dimensions,
+  full-size links and surrounding captions. Post 2496's image retains the title
+  `Les yeux de la ruche`, an empty alt, 640 × 360 display dimensions and a link to
+  the full-size original. Its source has no separate caption to restore.
+- Verify article image delivery over HTTP in root-domain and project-prefix
+  output: actual article `img`, HTTP status, image content type, payload signature
+  and expected SHA-256. Check browser decoding/appearance separately; successful
+  HTTP checks do not complete visual acceptance.
 - Use `scripts/recover_article_flash.py --backup-root ..` to preview the reviewed
   recovery in the original workspace; add `--apply` to write it. It verifies exact
   backup paths/hashes, retains current front matter and prose, and inserts players
@@ -212,7 +247,9 @@ authorize deployment or changes to repository visibility.
 For a project-prefix preview, build with the preview base URL, then run
 `scripts/prepare_pages.py` and `scripts/validate_site.py` with the matching
 `--base-url`; see `docs/preproduction-review.md`. Preserve original bytes when
-prefixing non-UTF-8 legacy HTML. Do not enable production DNS while testing paths.
+prefixing non-UTF-8 legacy HTML. Re-run `prepare_pages.py` after every prefix build
+before validation or HTTP/browser review; a rebuild can overwrite prepared paths.
+Do not enable production DNS while testing paths.
 
 `?p=ID` is currently a JavaScript redirect preserving comment hashes. `/feed/` is
 an HTML browser fallback to `feed.xml`. Neither is an HTTP permanent redirect or

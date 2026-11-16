@@ -13,4 +13,4 @@ hahaha...wi bon ok c'est pas un dessin et ça fait pas de musique \\o/
 
 mais c'est marrant d'imaginer à quel point ça veut rien dire pour celui qui ne connait pas   
 
-![](/wp-content/uploads/2011/dotclear/dofus_moustache mufafah.jpg)
+![](</wp-content/uploads/2011/dotclear/dofus_moustache mufafah.jpg>)

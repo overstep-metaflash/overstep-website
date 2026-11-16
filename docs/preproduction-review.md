@@ -81,6 +81,10 @@ game disk image and executable; it is not added to this release without review.
 CI fails for any newly missing local destination outside this recorded list.
 The 78 audited article spam links and their injected anchor text have been
 removed. See [cleanup evidence and reimport protection](audits/2026-11-16-link-cleanup.md).
+The four missing article images are now restored and reconciled against the
+original audit in both root-domain and project-prefix output. See the
+[image recovery review](audits/2026-11-16-image-recovery.md) for source evidence,
+regression coverage, HTTP checks and the pending browser visual acceptance.
 The other content and media audit follow-ups remain open.
 
 The 124 missing Flash associations in 123 articles have now been restored from
@@ -146,11 +150,11 @@ rtk proxy python3 -m http.server 1315 --bind 127.0.0.1 --directory public-previe
 Open `http://localhost:1315/overstep-website/`. Create the symlink only once.
 For ordinary editing, use the Hugo server instructions in the root README.
 
-Local validation passed: 67 Python tests, seven JavaScript tests, clean Hugo root
+Local validation passed: 72 Python tests, seven JavaScript tests, clean Hugo root
 and project-prefix production builds with `--panicOnWarning`, and 491 historical
 content pages with all 2,639 sanitized comment anchors and 124 restored Flash
-associations. Two additional collection pages support menu navigation. Five known
-legacy destinations remain flagged.
+associations and four audited image associations. Two additional collection pages
+support menu navigation. Five known legacy destinations remain flagged.
 The tests use synthetic fixtures and CI requires no private backups. Actual
 Firefox audio/playback and visual inspection remain manual checks.
 
