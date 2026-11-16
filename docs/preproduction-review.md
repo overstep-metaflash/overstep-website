@@ -125,9 +125,21 @@ JavaScript redirect, preserving `#comment-ID` and the preview path prefix. It is
 not an HTTP 301 and requires JavaScript. Unknown IDs do not redirect.
 
 `/feed/` is a browser fallback to `../feed.xml`; it is not a server redirect and
-does not guarantee compatibility with existing RSS clients. A future production
-host must provide actual redirects for query URLs/feeds and review domain
-canonicalization. No production-domain redirect or DNS change has been made.
+does not guarantee compatibility with existing RSS clients. The owner selected
+GitHub Pages only during issue #7's review. Keep the static query/feed fallbacks
+and use `/feed.xml` for direct subscriptions. Query-dependent HTTP permanent
+redirects require capabilities beyond repository files on Pages. The hosting
+choice does not itself accept degraded compatibility: issue #7 stays open for
+explicit acceptance of those limitations or a revised hosting constraint, plus
+actual RSS-reader/released-origin checks. See the
+[legacy URL review](audits/2026-11-16-legacy-urls.md) for local HTTP evidence and
+Chrome tests with scripts enabled and blocked by CSP. No production-domain
+redirect or DNS change has been made.
+
+Calibre 9.18.0's actual RSS ingestion engine accepted both `/feed.xml` and the
+HTML `/feed/` fallback in both local builds, retaining 470 articles in each run.
+This client-specific result does not establish other readers' compatibility,
+saved-subscription refresh, or the future Pages origin's headers.
 
 ## Reproduce the checks
 
@@ -159,7 +171,7 @@ rtk proxy python3 -m http.server 1315 --bind 127.0.0.1 --directory public-previe
 Open `http://localhost:1315/overstep-website/`. Create the symlink only once.
 For ordinary editing, use the Hugo server instructions in the root README.
 
-Local validation passed: 78 Python tests, seven JavaScript tests, clean Hugo root
+Local validation passed: 80 Python tests, 19 JavaScript tests, clean Hugo root
 and project-prefix production builds with `--panicOnWarning`, and 491 historical
 content pages with all 2,639 sanitized comment anchors and 124 restored Flash
 associations and four audited image associations. Two additional collection pages

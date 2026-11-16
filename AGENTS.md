@@ -36,6 +36,9 @@ Current references:
   issue #6, including three distinct Dotclear queries and the unavailable game ZIP.
   The missing-local-link inventory is now empty; hosting redirects remain pending.
 - `docs/preproduction-review.md`: build, release gates and known limitations.
+- `docs/audits/2026-11-16-legacy-urls.md`: issue #7's Pages-only hosting decision,
+  query/feed regressions, local HTTP and Chrome evidence, and unresolved HTTP
+  redirect/RSS-reader acceptance. A hosting choice does not waive release gates.
 - `docs/media-rights.json`: audio inventory and the owner's current instruction.
 - `migration/FIRST-VERSION.md` and other migration notes: historical milestones;
   prefer the current audit when older behavior/counts conflict.
@@ -292,7 +295,12 @@ Do not enable production DNS while testing paths.
 
 `?p=ID` is currently a JavaScript redirect preserving comment hashes. `/feed/` is
 an HTML browser fallback to `feed.xml`. Neither is an HTTP permanent redirect or
-a guarantee of RSS-client compatibility. Do not claim production SEO redirect
-coverage until hosting behavior is implemented and tested. Keep unresolved paths
+a guarantee of RSS-client compatibility. The owner selected GitHub Pages only in
+issue #7's review; retain these static fallbacks and direct `/feed.xml` links.
+Repository files cannot supply query-dependent HTTP redirects on Pages. Keep #7
+open until the static-host limitations are explicitly accepted or the hosting
+constraint is revised, and actual RSS-reader/released-origin checks are recorded.
+The latest local baseline is 80 Python tests and 19 JavaScript tests. Do not claim
+production SEO redirect coverage from local browser navigation. Keep unresolved paths
 explicit in `docs/remaining-local-links.json`; resolve them instead of extending
 the allowlist to hide new failures.
