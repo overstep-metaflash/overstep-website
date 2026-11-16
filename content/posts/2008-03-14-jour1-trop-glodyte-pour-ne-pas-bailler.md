@@ -9,6 +9,6 @@ post_id: '1971'
 title: 'jour1 : trop glodyte pour ne pas bailler'
 url: /2008/03/14/jour1-trop-glodyte-pour-ne-pas-bailler/
 ---
-  
+{{< ruffle src="/wp-content/uploads/2011/dotclear/J1.swf" width="540" height="729" fullscreen="false" >}}
 
- (Sample : MUTLUNATIC\_Reminiscence)
+(Sample : MUTLUNATIC\_Reminiscence)

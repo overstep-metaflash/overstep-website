@@ -9,6 +9,6 @@ post_id: '1981'
 title: 'Jour11 : dessiner c''est gagner !'
 url: /2008/03/29/jour11-dessiner-c-est-gagner/
 ---
-  
+{{< ruffle src="/wp-content/uploads/2011/dotclear/J11.swf" width="540" height="729" fullscreen="false" >}}
 
- (Sample from : linkinpark\_session )
+(Sample from : linkinpark\_session )

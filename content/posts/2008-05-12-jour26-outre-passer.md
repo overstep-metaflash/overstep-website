@@ -9,6 +9,6 @@ post_id: '1997'
 title: 'Jour26 : Outre passer'
 url: /2008/05/12/jour26-outre-passer/
 ---
-  
+{{< ruffle src="/wp-content/uploads/2011/dotclear/J26.swf" width="540" height="729" fullscreen="false" >}}
 
- (Sample : bo\_collapse of laputa)
+(Sample : bo\_collapse of laputa)

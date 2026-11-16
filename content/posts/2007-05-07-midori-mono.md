@@ -9,6 +9,6 @@ post_id: '1856'
 title: Midori mono
 url: /2007/05/07/midori-mono/
 ---
-  
+{{< ruffle src="/wp-content/uploads/2011/dotclear/mushi.swf" width="540" height="729" fullscreen="false" >}}
 
- (Sample : Joe Hisaishi\_ Kodamas" )
+(Sample : Joe Hisaishi\_ Kodamas" )

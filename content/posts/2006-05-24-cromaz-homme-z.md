@@ -9,4 +9,4 @@ post_id: '1863'
 title: Cromaz'homme Z
 url: /2006/05/24/cromaz-homme-z/
 ---
-
+{{< ruffle src="/wp-content/uploads/2011/dotclear/moloko.swf" width="550" height="764" fullscreen="false" >}}

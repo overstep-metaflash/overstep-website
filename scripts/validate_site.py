@@ -10,6 +10,7 @@ from urllib.parse import unquote, urljoin, urlsplit
 from prepare_release import read_markdown
 from sanitize_comments import sanitize_comment
 from reviewed_links import load_reviewed_links, reviewed_payloads_present
+from flash_manifest import reconcile_article, reconcile_audio, validate_coverage
 
 BLOG = Path(__file__).resolve().parents[1]
 
@@ -40,6 +41,15 @@ def missing_local_paths(output, base_url):
         parser = Links()
         parser.page_url = base_url.rstrip('/') + '/' + page.relative_to(output).as_posix()
         parser.feed(page.read_bytes().decode('utf-8', errors='replace'))
+    menu_map = output / 'theme/step/menu-links.json'
+    if menu_map.is_file():
+        for item in json.loads(menu_map.read_text()):
+            destination = item['destination']
+            if destination.startswith('/'):
+                relative = unquote(urlsplit(destination).path).lstrip('/')
+                path = (output / relative).resolve()
+                if not path.is_relative_to(output) or not (path.is_file() or (path / 'index.html').is_file()):
+                    missing.add('/' + relative)
     return missing
 
 
@@ -51,6 +61,13 @@ def main():
     output = args.directory.resolve()
     comments = json.loads((BLOG / 'data/comments.json').read_text())
     reviewed_links = load_reviewed_links(BLOG / 'docs/audits/2026-11-16-links.csv')
+    flash = json.loads((BLOG / 'docs/flash-recovery.json').read_text())['articles']
+    audited_movies = json.loads((BLOG / 'docs/audits/2026-11-16-content.json').read_text())['missing_embedded_flash']
+    errors = validate_coverage(flash, audited_movies)
+    if errors:
+        raise SystemExit('; '.join(errors))
+    flash_by_source = {a['source_file']: a for a in flash}
+    flash_checked = set()
     by_post = {}
     for comment in comments:
         if sanitize_comment(comment) != comment:
@@ -70,6 +87,16 @@ def main():
             if not target.is_file():
                 raise SystemExit('Missing public path: ' + metadata['url'])
             page = target.read_text()
+            flash_article = flash_by_source.get(source.relative_to(BLOG).as_posix())
+            if flash_article:
+                if (str(metadata['post_id']) != flash_article['post_id']
+                        or metadata['url'] != flash_article['article_url']):
+                    raise SystemExit('Flash article identity differs: ' + source.name)
+                errors = reconcile_article(page, flash_article['movies'], output, urlsplit(args.base_url).path)
+                errors += reconcile_audio(page, flash_article.get('audio', []), output, urlsplit(args.base_url).path)
+                if errors:
+                    raise SystemExit(metadata['url'] + ': ' + '; '.join(errors))
+                flash_checked.add(flash_article['post_id'])
             reviews = reviewed_links.get(str(metadata['post_id']), [])
             if any(reviewed_payloads_present(text, reviews) for text in (body, page)):
                 raise SystemExit('Reviewed article injection reintroduced: ' + source.name)
@@ -83,6 +110,8 @@ def main():
             checked += 1
     if seen != {c['id'] for c in comments}:
         raise SystemExit('Some comment records have no rendered public page')
+    if flash_checked != {a['post_id'] for a in flash}:
+        raise SystemExit('Some reviewed Flash articles have no rendered public page')
     prefix = urlsplit(args.base_url).path.rstrip('/') + '/'
     if prefix != '/':
         for path in output.rglob('*.html'):
@@ -98,6 +127,7 @@ def main():
         raise SystemExit('New missing local destinations: ' + ', '.join(sorted(missing - known)))
     print(f'Known legacy destinations still requiring review: {len(missing)}.')
     print(f'Validated {checked} public content pages and {len(seen)} sanitized comments.')
+    print(f'Reconciled {len(audited_movies)} recovered Flash associations in {len(flash_checked)} articles.')
 
 
 if __name__ == '__main__':

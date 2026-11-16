@@ -9,5 +9,6 @@ post_id: '1930'
 title: Les mains froides
 url: /2006/04/14/les-mains-froides/
 ---
-"le coeur chaud, on ramène toujours quelque chose quand on a rêvé dans un rêve" _( La vie du sacrieur bleu )_  
+"le coeur chaud, on ramène toujours quelque chose quand on a rêvé dans un rêve" _( La vie du sacrieur bleu )_
 
+{{< ruffle src="/wp-content/uploads/2011/dotclear/40.swf" width="540" height="729" fullscreen="false" >}}

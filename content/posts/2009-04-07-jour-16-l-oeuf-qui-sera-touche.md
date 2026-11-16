@@ -11,6 +11,6 @@ url: /2009/04/07/jour-16-l-oeuf-qui-sera-touche/
 ---
 **Aldous>** " Tiens attend ! j'ai une autre suggestion si je puis me permettre... REFLEX !! "
 
+{{< ruffle src="/wp-content/uploads/2011/dotclear/jour-16.swf" width="540" height="729" fullscreen="false" >}}
 
-
- (sample : Bomberman\_snes)
+(sample : Bomberman\_snes)

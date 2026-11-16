@@ -9,4 +9,4 @@ post_id: '2027'
 title: 'Jour 15: Le choix tout vu !'
 url: /2009/04/06/jour-15-le-choix-tout-vu/
 ---
-  
+{{< ruffle src="/wp-content/uploads/2011/dotclear/jour-15.swf" width="540" height="729" fullscreen="false" >}}

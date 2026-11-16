@@ -9,4 +9,6 @@ post_id: '2029'
 title: 'Jour 17: Bon voyage Alice !'
 url: /2009/04/09/jour-17-bon-voyage-alice/
 ---
- (sample : Unconscious Collective \_ Fluorostani Transcendance)
+{{< ruffle src="/wp-content/uploads/2011/dotclear/jour-17.swf" width="540" height="729" fullscreen="false" >}}
+
+(sample : Unconscious Collective \_ Fluorostani Transcendance)

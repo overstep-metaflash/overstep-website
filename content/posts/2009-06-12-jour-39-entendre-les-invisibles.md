@@ -9,6 +9,6 @@ post_id: '2051'
 title: 'Jour 39: Entendre les invisibles'
 url: /2009/06/12/jour-39-entendre-les-invisibles/
 ---
-  
+{{< ruffle src="/wp-content/uploads/2011/dotclear/jour-39.swf" width="540" height="729" fullscreen="false" >}}
 
- (sample : Future sound of London\_ My Kingdom )
+(sample : Future sound of London\_ My Kingdom )

@@ -9,9 +9,10 @@ post_id: '1890'
 title: Passer la mesure
 url: /2007/04/21/passer-la-mesure/
 ---
-_"Tout processus de changement est le travail de toute une vie"_  
+_"Tout processus de changement est le travail de toute une vie"_
 
- ( **Aldous** "Le fumeur d'océan" )   
+ ( **Aldous** "Le fumeur d'océan" )
 
+{{< ruffle src="/wp-content/uploads/2011/dotclear/40_40j.swf" width="540" height="729" fullscreen="false" >}}
 
- (Sample : Ayumi Hamasaki\_ Tasking" )
+(Sample : Ayumi Hamasaki\_ Tasking" )

@@ -9,6 +9,6 @@ post_id: '2001'
 title: 'Jour30 : Le spectre'
 url: /2008/05/27/jour30-le-spectre/
 ---
-  
+{{< ruffle src="/wp-content/uploads/2011/dotclear/J30.swf" width="540" height="729" fullscreen="false" >}}
 
- (Sample : Stendeck\_Can you hear my call)
+(Sample : Stendeck\_Can you hear my call)

@@ -1,7 +1,25 @@
 /* Load each animation once on opening the page, sharing the self-hosted runtime. */
 (() => {
+  const siteRoot = new URL("../", document.currentScript.src);
   const runtimeUrl = new URL("../vendor/ruffle/0.7.1/ruffle.js", document.currentScript.src);
   let runtimePromise;
+  let navigationPromise;
+  function navigationRules() {
+    if (!navigationPromise) {
+      navigationPromise = fetch(new URL("theme/step/menu-links.json", siteRoot))
+        .then(response => {
+          if (!response.ok) throw new Error("Unable to load reviewed menu destinations");
+          return response.json();
+        })
+        .then(links => links.flatMap(link => {
+          const target = link.destination.startsWith("/")
+            ? new URL(link.destination.slice(1), siteRoot).href : link.destination;
+          return [...new Set([link.legacy, link.legacy.replace(/^http:/, "https:")])]
+            .map(source => [source, target]);
+        }));
+    }
+    return navigationPromise;
+  }
   function runtime() {
     if (!runtimePromise) {
       runtimePromise = new Promise((resolve, reject) => {
@@ -22,12 +40,14 @@
       const ruffle = await runtime();
       const player = ruffle.createPlayer();
       container.querySelector(".flash-player").appendChild(player);
+      const urlRewriteRules = container.dataset.kind === "navigation" ? await navigationRules() : [];
       await player.ruffle().load({
         url: container.dataset.swf,
         autoplay: "on",
         splashScreen: false,
         unmuteOverlay: "visible",
         allowScriptAccess: false,
+        urlRewriteRules,
         showSwfDownload: false,
         wmode: container.dataset.kind === "navigation" ? "transparent" : "window",
         allowFullscreen: container.dataset.fullscreen === "true",

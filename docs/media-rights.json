@@ -2,6 +2,24 @@
   "publication_approved": false,
   "audio_files": [
     {
+      "path": "/wp-content/uploads/2011/dotclear/son/everyoneintheworld.mp3",
+      "bytes": 923689,
+      "sha256": "c000379c95baf9bd409f0aac3f49388129682dd585c0ad04dee72e3ddd218446",
+      "referencing_articles": [
+        "2011-03-07-jour-19-la-foudre-frappe-le-marabout-rode.md"
+      ],
+      "redistribution_rights": "confirmed_by_owner"
+    },
+    {
+      "path": "/wp-content/uploads/2011/dotclear/son/oneshot.mp3",
+      "bytes": 1236532,
+      "sha256": "bc72f21fa036a6d0a7c580b76295e02b0d249f7399dcc3f76ebed0a0b767e090",
+      "referencing_articles": [
+        "2006-02-14-du-premier-coup.md"
+      ],
+      "redistribution_rights": "confirmed_by_owner"
+    },
+    {
       "path": "/wp-content/uploads/2011/dotclear/son/shadows.mp3",
       "bytes": 625185,
       "sha256": "585247f05088794ef0928141f8585c10be0c524e57ef666bd8c99950dec0a627",

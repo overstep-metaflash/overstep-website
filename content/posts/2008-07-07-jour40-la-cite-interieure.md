@@ -12,10 +12,10 @@ url: /2008/07/07/jour40-la-cite-interieure/
   
 _"Ce qu'il nous faut faire pour permettre à la magie de s'emparer de nous c'est chasser les doutes de notre esprit.  
 _
-_Une fois que les doutes ont disparu, tout est possible"_  
+_Une fois que les doutes ont disparu, tout est possible"_
 
  ( **Aldous, le fumeur d'océan** )
 
+{{< ruffle src="/wp-content/uploads/2011/dotclear/J40.swf" width="540" height="729" fullscreen="false" >}}
 
-
- (Sample --> Dario Marianelli\_ evey reborn )
+(Sample --> Dario Marianelli\_ evey reborn )

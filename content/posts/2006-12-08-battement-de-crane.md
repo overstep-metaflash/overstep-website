@@ -9,4 +9,6 @@ post_id: '1867'
 title: Battements de crÃƒÂ¢ne
 url: /2006/12/08/battement-de-crane/
 ---
+{{< ruffle src="/wp-content/uploads/2011/dotclear/tribu.swf" width="458" height="685" fullscreen="false" >}}
 
+{{< ruffle src="/wp-content/uploads/2011/dotclear/electropanik.swf" width="458" height="685" fullscreen="false" >}}

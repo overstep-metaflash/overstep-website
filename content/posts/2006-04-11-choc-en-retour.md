@@ -9,6 +9,8 @@ post_id: '1927'
 title: Choc en retour
 url: /2006/04/11/choc-en-retour/
 ---
-_(flash roll over )_  
+_(flash roll over )_
 
- (sample : **Prodigy** ("voodoopeople" Pendulum remix))
+{{< ruffle src="/wp-content/uploads/2011/dotclear/37.swf" width="540" height="729" fullscreen="false" >}}
+
+(sample : **Prodigy** ("voodoopeople" Pendulum remix))

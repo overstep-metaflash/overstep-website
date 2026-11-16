@@ -9,9 +9,10 @@ post_id: '2081'
 title: 'Jour 29: Un lieu singulier'
 url: /2011/04/06/jour-29-un-lieu-singulier/
 ---
-Merci à [Mobidic](http://mobidicmobidic.blogspot.com/) pour cette vision colorée du grand ( immense maintenant ) arbre aux fruits bleus.  
+Merci à [Mobidic](http://mobidicmobidic.blogspot.com/) pour cette vision colorée du grand ( immense maintenant ) arbre aux fruits bleus.
 
- (t'as vu comment je case ça facile ? ;) )  
+ (t'as vu comment je case ça facile ? ;) )
 
+{{< ruffle src="/wp-content/uploads/2011/dotclear/day29.swf" width="540" height="749" fullscreen="false" >}}
 
- (sample: Muse\_Bliss (inverse))   
+(sample: Muse\_Bliss (inverse))

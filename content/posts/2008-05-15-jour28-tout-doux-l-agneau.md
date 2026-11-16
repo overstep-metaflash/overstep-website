@@ -9,4 +9,4 @@ post_id: '1999'
 title: 'Jour28 : suivre &agrave; la trace'
 url: /2008/05/15/jour28-tout-doux-l-agneau/
 ---
-  
+{{< ruffle src="/wp-content/uploads/2011/dotclear/J28.swf" width="540" height="729" fullscreen="false" >}}

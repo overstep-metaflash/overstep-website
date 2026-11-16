@@ -11,3 +11,5 @@ url: /2006/02/11/sauvons-la-princesse/
 ---
 _(épisode 1)_  
 Dans le cimetierre.
+
+{{< ruffle src="/wp-content/uploads/2011/dotclear/shield.swf" width="506" height="394" fullscreen="false" >}}

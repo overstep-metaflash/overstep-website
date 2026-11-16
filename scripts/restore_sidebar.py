@@ -7,6 +7,8 @@ from html.parser import HTMLParser
 from pathlib import Path
 from urllib.parse import urlsplit
 
+from repair_flash_menu import repair_menu
+
 
 def extract_blogroll(source):
     class Blogroll(HTMLParser):
@@ -59,7 +61,13 @@ def main():
     (overlay / 'data/blogroll.json').write_text(json.dumps(links, ensure_ascii=False, indent=2) + '\n')
     source = blog.parent / 'backup_ftp/blog/wordpress/wp-content/themes/steptheme/images'
     for name in ('header.jpg', 'menu.swf', 'liens.swf'):
-        shutil.copyfile(source / name, overlay / 'static/theme/step' / name)
+        destination = overlay / 'static/theme/step' / name
+        if name == 'menu.swf':
+            menu_links = json.loads((overlay / 'static/theme/step/menu-links.json').read_text())
+            movie, _ = repair_menu((source / name).read_bytes(), {link['legacy'] for link in menu_links})
+            destination.write_bytes(movie)
+        else:
+            shutil.copyfile(source / name, destination)
     print(f'Restored {len(links)} public blogroll links and three theme assets.')
 
 

@@ -20,9 +20,9 @@ requests. Site-artifact upload and deployment each require both:
 - `docs/media-rights.json` has `publication_approved: true`.
 - The repository variable `PAGES_RELEASE_APPROVED` equals `true`.
 
-The manifest currently records 45 MP3 files, hashes, sizes, and direct article
+The manifest currently records 47 MP3 files, hashes, sizes, and direct article
 references. An empty reference list does not establish that a file is unused:
-Flash movies may load dependencies internally. The 45 tracked MP3 files are now
+Flash movies may load dependencies internally. The 47 tracked MP3 files are now
 recorded as `confirmed_by_owner`. None is byte-identical to the 17 radio MP3s,
 which remain outside the public inventory. This records the owner's instruction,
 not an independent licensing assessment. Publication approval remains false.
@@ -83,6 +83,14 @@ The 78 audited article spam links and their injected anchor text have been
 removed. See [cleanup evidence and reimport protection](audits/2026-11-16-link-cleanup.md).
 The other content and media audit follow-ups remain open.
 
+The 124 missing Flash associations in 123 articles have now been restored from
+reviewed XML/snapshot evidence and exact-path, hash-verified backups. Eight missing
+SWFs were copied. `flash-recovery.json` and the output validator reconcile actual
+article players, source dimensions, order and file bytes. See the
+[Flash recovery review](audits/2026-11-16-flash-recovery.md) for provenance and the
+pending manual acceptance matrix. Issue #2 remains open for browser verification
+and the radio playlist dependency in #4.
+
 ## Ruffle and historical URLs
 
 Ruffle 0.7.1 is self-hosted and loads every animation immediately when the page
@@ -91,6 +99,13 @@ user's explicit preference. The earlier deferred-loading documentation has been
 corrected. Sound remains subject to the browser's user-gesture policy. Firefox's
 AudioContext and WebGL diagnostics are upstream/browser messages; they have not
 been hidden or patched locally. Browser playback still requires manual review.
+
+The menu's eight historical destinations now have explicit mappings. Eros and
+Galerie have local collection pages. Six button action tags have current-tab
+targets changed to `_blank`, because Ruffle blocks those targets with script
+access disabled; artwork data is preserved. URL rewrite rules retain the root or
+Pages prefix. Script access remains disabled. The radio mapping retains `/radio/`,
+pending the owner's playlist URL. Every hotspot still needs browser verification.
 
 The public post-ID map supports numeric `?p=ID` links through a same-origin
 JavaScript redirect, preserving `#comment-ID` and the preview path prefix. It is
@@ -131,9 +146,11 @@ rtk proxy python3 -m http.server 1315 --bind 127.0.0.1 --directory public-previe
 Open `http://localhost:1315/overstep-website/`. Create the symlink only once.
 For ordinary editing, use the Hugo server instructions in the root README.
 
-Local validation passed: 43 Python tests, five JavaScript tests, a clean Hugo
-production build with `--panicOnWarning`, and 491 public content pages with all
-2,639 sanitized comment anchors. Five known legacy destinations remain flagged.
+Local validation passed: 67 Python tests, seven JavaScript tests, clean Hugo root
+and project-prefix production builds with `--panicOnWarning`, and 491 historical
+content pages with all 2,639 sanitized comment anchors and 124 restored Flash
+associations. Two additional collection pages support menu navigation. Five known
+legacy destinations remain flagged.
 The tests use synthetic fixtures and CI requires no private backups. Actual
 Firefox audio/playback and visual inspection remain manual checks.
 

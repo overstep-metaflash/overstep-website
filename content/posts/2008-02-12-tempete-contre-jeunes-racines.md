@@ -9,4 +9,4 @@ post_id: '1876'
 title: Dies irae
 url: /2008/02/12/tempete-contre-jeunes-racines/
 ---
-
+{{< ruffle src="/wp-content/uploads/2011/dotclear/vento.swf" width="560" height="860" fullscreen="false" >}}

@@ -9,6 +9,6 @@ post_id: '1973'
 title: 'jour3 : Un encas pour Sâmaya'
 url: /2008/03/17/jour3-un-encas-pour-samaya/
 ---
-  
+{{< ruffle src="/wp-content/uploads/2011/dotclear/J3.swf" width="540" height="729" fullscreen="false" >}}
 
- (Sample : Mushishi\_opening )
+(Sample : Mushishi\_opening )

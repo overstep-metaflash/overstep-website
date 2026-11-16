@@ -11,8 +11,10 @@ url: /2010/02/22/jour-4-en-proie/
 ---
 C'est à vous de proposer la suite. Lisez le [>réglement<](/40jours/reglement.htm)
 
-**Shetty** dit : " (...) toute cette pluie! Est-ce qu'il ne va pas finir englouti avec le paysage?"  
+**Shetty** dit : " (...) toute cette pluie! Est-ce qu'il ne va pas finir englouti avec le paysage?"
 
-![](/wp-content/uploads/2011/dotclear/screen3.jpg)  
+{{< ruffle src="/wp-content/uploads/2011/dotclear/day4.swf" width="540" height="749" fullscreen="false" >}}
+
+![](/wp-content/uploads/2011/dotclear/screen3.jpg)
 
  (sample: Portishead\_Roads)

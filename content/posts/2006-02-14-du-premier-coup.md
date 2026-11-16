@@ -9,4 +9,6 @@ post_id: '1845'
 title: Du premier coup
 url: /2006/02/14/du-premier-coup/
 ---
+{{< local-audio src="/wp-content/uploads/2011/dotclear/son/oneshot.mp3" >}}
 
+{{< ruffle src="/wp-content/uploads/2011/dotclear/meanmachine.swf" width="305" height="580" fullscreen="false" >}}

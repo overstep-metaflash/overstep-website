@@ -9,6 +9,6 @@ post_id: '1931'
 title: Le masque Tala
 url: /2007/04/17/le-masque-tala/
 ---
-  
+{{< ruffle src="/wp-content/uploads/2011/dotclear/39_40j.swf" width="540" height="729" fullscreen="false" >}}
 
- (sample : Infected Mushroom\_ Dancing with kadafi")
+(sample : Infected Mushroom\_ Dancing with kadafi")

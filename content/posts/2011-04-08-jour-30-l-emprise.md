@@ -9,6 +9,6 @@ post_id: '2082'
 title: 'Jour 30: L''emprise'
 url: /2011/04/08/jour-30-l-emprise/
 ---
-  
+{{< ruffle src="/wp-content/uploads/2011/dotclear/day30.swf" width="540" height="749" fullscreen="false" >}}
 
- (sample: kabal\_Le futur meurt en silence)   
+(sample: kabal\_Le futur meurt en silence)

@@ -9,6 +9,6 @@ post_id: '2019'
 title: 'Jour 7 : Contemplations'
 url: /2009/03/20/jour-7-contemplations/
 ---
-  
+{{< ruffle src="/wp-content/uploads/2011/dotclear/jour-7.swf" width="540" height="729" fullscreen="false" >}}
 
- (Sample --> Aphex Twin\_ girlboysong )
+(Sample --> Aphex Twin\_ girlboysong )

@@ -12,8 +12,10 @@ url: /2010/02/20/jour-3-wanderer/
 C'est à vous de proposer la suite. Lisez le [>réglement<](/40jours/reglement.htm)
 
 **Djory** dit : "Il pense que son merveilleux rêve se transforme en cauchemar et qu'il aimerait bien se réveiller...."  
-**Neomat** dit : "En se retournant il voit l'oeuf luire, sa vision se brouille ..."  
+**Neomat** dit : "En se retournant il voit l'oeuf luire, sa vision se brouille ..."
 
-![](/wp-content/uploads/2011/dotclear/screen3.jpg)  
+{{< ruffle src="/wp-content/uploads/2011/dotclear/day3.swf" width="540" height="749" fullscreen="false" >}}
+
+![](/wp-content/uploads/2011/dotclear/screen3.jpg)
 
  (sample: Portishead\_Wandering Star)

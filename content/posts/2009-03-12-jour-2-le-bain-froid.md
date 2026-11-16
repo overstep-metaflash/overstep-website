@@ -9,6 +9,6 @@ post_id: '2014'
 title: 'Jour 2: Le bain froid'
 url: /2009/03/12/jour-2-le-bain-froid/
 ---
-  
+{{< ruffle src="/wp-content/uploads/2011/dotclear/jour-2.swf" width="540" height="729" fullscreen="false" >}}
 
- (Sample --> ost\_ kpax )
+(Sample --> ost\_ kpax )

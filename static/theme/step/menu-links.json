@@ -1,0 +1,10 @@
+[
+  {"label": "Illustrations", "legacy": "http://metaflash.fr/illustrations.html", "destination": "/category/illustrations/"},
+  {"label": "Animations Flash", "legacy": "http://metaflash.fr/flash.html", "destination": "/category/anim-flash/"},
+  {"label": "Eros", "legacy": "http://metaflash.fr/eros.html", "destination": "/eros/"},
+  {"label": "40 jours", "legacy": "http://metaflash.fr/40jours.html", "destination": "/category/40-jours/"},
+  {"label": "Photos", "legacy": "http://overstep.free.fr/photos.html", "destination": "/category/photos/"},
+  {"label": "Galerie", "legacy": "http://metaflash.fr/menu2.html", "destination": "/gallery/"},
+  {"label": "Radio", "legacy": "http://www.overstep.fr/radio/", "destination": "/radio/"},
+  {"label": "Contact", "legacy": "mailto:lastep.fr@gmail.com", "destination": "mailto:lastep.fr@gmail.com"}
+]

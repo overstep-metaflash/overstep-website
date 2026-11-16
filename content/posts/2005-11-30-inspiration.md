@@ -9,4 +9,6 @@ post_id: '1739'
 title: Comme un aimant...en qu&ecirc;te d'&eacute;l&eacute;ment
 url: /2005/11/30/inspiration/
 ---
- (sample : Chien de paille "comme un aimant")
+{{< ruffle src="/wp-content/uploads/2011/dotclear/work2.swf" width="452" height="310" fullscreen="false" >}}
+
+(sample : Chien de paille "comme un aimant")

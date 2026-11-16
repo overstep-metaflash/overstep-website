@@ -9,6 +9,6 @@ post_id: '2046'
 title: 'Jour 34: Infernal : Voix Crucifi&eacute;e'
 url: /2009/05/22/jour-34-infernal-voix-crucifie/
 ---
-  
+{{< ruffle src="/wp-content/uploads/2011/dotclear/jour-34.swf" width="540" height="729" fullscreen="false" >}}
 
- (sample : John Debney\_Crucifixion)
+(sample : John Debney\_Crucifixion)

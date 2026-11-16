@@ -9,6 +9,6 @@ post_id: '2004'
 title: 'Jour33 : Que vois-je ?'
 url: /2008/06/06/jour33-que-vois-je/
 ---
-  
+{{< ruffle src="/wp-content/uploads/2011/dotclear/J33.swf" width="540" height="729" fullscreen="false" >}}
 
- (Sample : Danny Elfman\_What's this ?)
+(Sample : Danny Elfman\_What's this ?)

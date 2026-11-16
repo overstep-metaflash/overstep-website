@@ -9,6 +9,6 @@ post_id: '1957'
 title: territoire prot&eacute;g&eacute; !!
 url: /2007/03/24/territoire-protege/
 ---
-  
+{{< ruffle src="/wp-content/uploads/2011/dotclear/26_40j.swf" width="540" height="729" fullscreen="false" >}}
 
- (sample : Rimsky Korsakov - Flight Of The Bumblebee (rmx)")
+(sample : Rimsky Korsakov - Flight Of The Bumblebee (rmx)")

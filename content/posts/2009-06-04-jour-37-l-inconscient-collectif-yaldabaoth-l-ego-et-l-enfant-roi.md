@@ -10,6 +10,6 @@ title: 'Jour 37: L''inconscient collectif : Le d&eacute;miurge, l''&eacute;go et
   roi'
 url: /2009/06/04/jour-37-l-inconscient-collectif-yaldabaoth-l-ego-et-l-enfant-roi/
 ---
-  
+{{< ruffle src="/wp-content/uploads/2011/dotclear/jour-37.swf" width="540" height="729" fullscreen="false" >}}
 
- (sample : Coldcut\_ Timber)
+(sample : Coldcut\_ Timber)

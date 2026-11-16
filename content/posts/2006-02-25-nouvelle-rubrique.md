@@ -9,4 +9,4 @@ post_id: '1889'
 title: Le chasseur sachant chasser
 url: /2006/02/25/nouvelle-rubrique/
 ---
-
+{{< ruffle src="/wp-content/uploads/2011/dotclear/blogfighter.swf" width="500" height="500" fullscreen="false" >}}

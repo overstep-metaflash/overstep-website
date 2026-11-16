@@ -13,5 +13,6 @@ url: /2009/04/03/jour-14-7-oeufs-7-dimensions/
 
 lequel choisis-tu ?\*
 
-_(\\* laissez votre choix dans les commentaires_ )  
+_(\\* laissez votre choix dans les commentaires_ )
 
+{{< ruffle src="/wp-content/uploads/2011/dotclear/jour-14.swf" width="540" height="729" fullscreen="false" >}}

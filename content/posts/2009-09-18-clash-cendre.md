@@ -9,6 +9,6 @@ post_id: '1885'
 title: clash de cendres
 url: /2009/09/18/clash-cendre/
 ---
-  
+{{< ruffle src="/wp-content/uploads/2011/dotclear/step.swf" width="535" height="849" fullscreen="false" >}}
 
- (sample : Infected Mushroom\_ 'Poquito mas')
+(sample : Infected Mushroom\_ 'Poquito mas')

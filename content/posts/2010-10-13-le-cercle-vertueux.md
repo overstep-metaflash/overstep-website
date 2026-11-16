@@ -16,4 +16,6 @@ url: /2010/10/13/le-cercle-vertueux/
 ---
 _Au profond de son âme, l'allié guerrisseur..._
 
+{{< ruffle src="/wp-content/uploads/2011/dotclear/receptive.swf" width="560" height="1170" fullscreen="false" >}}
+
 (sample: Younger Brother\_\_the receptive)

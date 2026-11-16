@@ -9,6 +9,6 @@ post_id: '2072'
 title: 'Jour 20: Le trouble... son repas.'
 url: /2011/03/09/jour-20-le-trouble-son-repas/
 ---
-  
+{{< ruffle src="/wp-content/uploads/2011/dotclear/day20.swf" width="540" height="749" fullscreen="false" >}}
 
- (sample: Sauvage\_ Wolves)   
+(sample: Sauvage\_ Wolves)

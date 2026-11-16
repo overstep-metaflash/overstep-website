@@ -9,6 +9,6 @@ post_id: '2034'
 title: 'Jour 22 : Aspire ine'
 url: /2009/04/22/jour-22-plongee-abyssale/
 ---
-  
+{{< ruffle src="/wp-content/uploads/2011/dotclear/jour-22.swf" width="540" height="729" fullscreen="false" >}}
 
- (sample : J.F Freitas\_Another World )
+(sample : J.F Freitas\_Another World )

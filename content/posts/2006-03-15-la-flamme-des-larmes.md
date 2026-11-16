@@ -9,6 +9,6 @@ post_id: '1900'
 title: La flamme des larmes
 url: /2006/03/15/la-flamme-des-larmes/
 ---
-  
+{{< ruffle src="/wp-content/uploads/2011/dotclear/10.swf" width="540" height="729" fullscreen="false" >}}
 
- (sample : **Portishead** (Numb))
+(sample : **Portishead** (Numb))

@@ -9,6 +9,6 @@ post_id: '1951'
 title: retour n&eacute;buleux
 url: /2007/03/16/retour-nebuleux/
 ---
-  
+{{< ruffle src="/wp-content/uploads/2011/dotclear/20_40j.swf" width="540" height="729" fullscreen="false" >}}
 
- (sample : Pixies - Where is my mind (reverse)")
+(sample : Pixies - Where is my mind (reverse)")

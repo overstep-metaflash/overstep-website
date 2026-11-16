@@ -9,6 +9,6 @@ post_id: '1950'
 title: entends tu mon nom ?
 url: /2007/03/14/entends-tu-mon-nom/
 ---
-  
+{{< ruffle src="/wp-content/uploads/2011/dotclear/19_40j.swf" width="540" height="729" fullscreen="false" >}}
 
- (sample : Stendeck - Can you hear my call")
+(sample : Stendeck - Can you hear my call")

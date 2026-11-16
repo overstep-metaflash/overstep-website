@@ -9,6 +9,6 @@ post_id: '2016'
 title: 'Jour 4: la voie express'
 url: /2009/03/16/jour-4-la-voie-express/
 ---
-  
+{{< ruffle src="/wp-content/uploads/2011/dotclear/jour-4.swf" width="540" height="729" fullscreen="false" >}}
 
- (Sample --> Prodigy\_ smack my bitch up )
+(Sample --> Prodigy\_ smack my bitch up )

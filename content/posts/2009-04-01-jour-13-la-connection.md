@@ -9,6 +9,6 @@ post_id: '2025'
 title: 'Jour 13: Les connections'
 url: /2009/04/01/jour-13-la-connection/
 ---
-  
+{{< ruffle src="/wp-content/uploads/2011/dotclear/jour-13.swf" width="540" height="729" fullscreen="false" >}}
 
- (Sample --> ......)
+(Sample --> ......)

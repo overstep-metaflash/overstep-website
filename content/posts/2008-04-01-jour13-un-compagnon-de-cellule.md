@@ -9,4 +9,4 @@ post_id: '1983'
 title: 'Jour13 : un compagnon de cellule'
 url: /2008/04/01/jour13-un-compagnon-de-cellule/
 ---
-  
+{{< ruffle src="/wp-content/uploads/2011/dotclear/J13.swf" width="540" height="729" fullscreen="false" >}}

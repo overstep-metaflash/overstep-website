@@ -1,0 +1,6 @@
+{{ define "main" }}
+<article class="hentry">
+  <h1 class="entry-title">{{ .Title | htmlUnescape }}</h1>
+  <div class="entry-content">{{ .Content }}</div>
+</article>
+{{ end }}

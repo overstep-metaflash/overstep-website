@@ -9,6 +9,6 @@ post_id: '2024'
 title: 'Jour 12: La transe du fumeur d''oc&eacute;an'
 url: /2009/03/31/jour-12-la-transe-du-fumeur-d-ocean/
 ---
-  
+{{< ruffle src="/wp-content/uploads/2011/dotclear/jour-12.swf" width="540" height="729" fullscreen="false" >}}
 
- (Sample --> Astral Projection\_Soundform)
+(Sample --> Astral Projection\_Soundform)

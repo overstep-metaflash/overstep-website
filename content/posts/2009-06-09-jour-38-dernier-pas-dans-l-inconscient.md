@@ -9,6 +9,6 @@ post_id: '2050'
 title: 'Jour 38: Dernier pas dans l''inconscient'
 url: /2009/06/09/jour-38-dernier-pas-dans-l-inconscient/
 ---
-  
+{{< ruffle src="/wp-content/uploads/2011/dotclear/jour-38.swf" width="540" height="729" fullscreen="false" >}}
 
- (sample : Kasabian\_ where did all the love go ?)
+(sample : Kasabian\_ where did all the love go ?)

@@ -9,22 +9,23 @@ post_id: '2062'
 title: 'JOUR 10 : La boucle ( &agrave; suivre...)'
 url: /2010/03/23/jour-10-la-boucle-a-suivre/
 ---
-Bonjour à tous,  
+Bonjour à tous,
 
- j'ai voulu au moins arriver à cette 10ème image pour vous annoncer que cette saison va se cristaliser ici pour reprendre l'année prochaine.  
+ j'ai voulu au moins arriver à cette 10ème image pour vous annoncer que cette saison va se cristaliser ici pour reprendre l'année prochaine.
 
- Les causes sont diverses et variés mais étant donné leur caractère personnel, je n'étalerai évidemment rien ici.  
+ Les causes sont diverses et variés mais étant donné leur caractère personnel, je n'étalerai évidemment rien ici.
 
  Ce n'est que partie remise vous vous en doutez... l'idée de la participation des lecteurs était/est une bonne chose et se renouvellera pour clore cette aventure.
 
-Je vous présente donc mes excuses pour cet imprévu, et également de terminer sur une illustration un peu triste ( j'ai quand même pris soin d'integrer ce contre temps dans l'histoire ).  
+Je vous présente donc mes excuses pour cet imprévu, et également de terminer sur une illustration un peu triste ( j'ai quand même pris soin d'integrer ce contre temps dans l'histoire ).
 
  Alors soyez en forme pour l'année prochaine... les choses rebondiront.
 
 paix dans vos visages étincelants !
 
 \-\-\------------------------------------------------------------  
-**step** propose :"Il se fait boucler 1 an pour intrusion dans une dimension où la dictature trône en maître ) ".  
+**step** propose :"Il se fait boucler 1 an pour intrusion dans une dimension où la dictature trône en maître ) ".
 
+{{< ruffle src="/wp-content/uploads/2011/dotclear/day10.swf" width="540" height="749" fullscreen="false" >}}
 
- (sample: Abd al Malik\_\_Le Marseillais)
+(sample: Abd al Malik\_\_Le Marseillais)

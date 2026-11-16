@@ -9,6 +9,6 @@ post_id: '2041'
 title: 'Jour 29: Les aiguilles du temps et l''homme occident'
 url: /2009/05/12/jour-29-les-aiguilles-du-temps-et-l-homme-occident/
 ---
-  
+{{< ruffle src="/wp-content/uploads/2011/dotclear/jour-29.swf" width="540" height="729" fullscreen="false" >}}
 
- (sample : Moby\_Porcelain)
+(sample : Moby\_Porcelain)

@@ -11,8 +11,10 @@ url: /2010/02/23/jour-5-a-l-oubli/
 ---
 C'est à vous de proposer la suite. Lisez le [>réglement<](/40jours/reglement.htm)
 
-Illustration inspirée par la musique proposée par **[l'apprenti roi des singes](http://ardes-prod.blogspot.com/)**" (décidé à "presque" casser le rythme )  
+Illustration inspirée par la musique proposée par **[l'apprenti roi des singes](http://ardes-prod.blogspot.com/)**" (décidé à "presque" casser le rythme )
 
-![](/wp-content/uploads/2011/dotclear/screen3.jpg)  
+{{< ruffle src="/wp-content/uploads/2011/dotclear/day5.swf" width="540" height="749" fullscreen="false" >}}
+
+![](/wp-content/uploads/2011/dotclear/screen3.jpg)
 
  (sample: Amon Tobin\_Delpher)

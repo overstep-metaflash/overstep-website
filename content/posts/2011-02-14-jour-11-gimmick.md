@@ -9,7 +9,8 @@ post_id: '2063'
 title: 'Jour 11: Gimmick !'
 url: /2011/02/14/jour-11-gimmick/
 ---
-1 an plus tard (donc) ...  
+1 an plus tard (donc) ...
 
+{{< ruffle src="/wp-content/uploads/2011/dotclear/day11.swf" width="540" height="749" fullscreen="false" >}}
 
- (sample: Britney spears (lowtone)\_\_gimme)
+(sample: Britney spears (lowtone)\_\_gimme)

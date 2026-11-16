@@ -1,0 +1,2372 @@
+{
+  "audit": "audits/2026-11-16-content.json",
+  "recovered_associations": 124,
+  "articles": [
+    {
+      "post_id": "1739",
+      "article_url": "/2005/11/30/inspiration/",
+      "source_file": "content/posts/2005-11-30-inspiration.md",
+      "provenance": "snapshot",
+      "source_path": "backup_ftp/blog/wordpress/wp-content/uploads/simply-static/temp-files/simply-static-1-1771679917/2005/11/30/inspiration/index.html",
+      "source_sha256": "58af7d84f135e8a86d954144d67ce21d12ec68edabc298c105b838fc045e6f9e",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/work2.swf",
+          "width": 452,
+          "height": 310,
+          "fullscreen": false,
+          "sha256": "066a6556483f4655e33df49692b1c38bc22f6bfd36ad8042fa8937f5c6d2a8ed",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/work2.swf",
+          "insert_before": " (sample : Chien de paille \"comme un aimant\")\n"
+        }
+      ]
+    },
+    {
+      "post_id": "1725",
+      "article_url": "/2005/12/07/raconter/",
+      "source_file": "content/posts/2005-12-07-raconter.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/end.swf",
+          "width": 550,
+          "height": 260,
+          "fullscreen": false,
+          "sha256": "56ef4e1455fbd977f3deb2a2b2dbbcfacac0ab32d36bd52905350b08cc30f019",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/end.swf",
+          "insert_before": " (sample : Aphex twin \"girlsong\")\n"
+        }
+      ]
+    },
+    {
+      "post_id": "1797",
+      "article_url": "/2006/01/31/i-live-in-amazonie/",
+      "source_file": "content/posts/2006-01-31-i-live-in-amazonie.md",
+      "provenance": "snapshot",
+      "source_path": "backup_ftp/blog/wordpress/wp-content/uploads/simply-static/temp-files/simply-static-1-1771679917/2006/01/31/i-live-in-amazonie/index.html",
+      "source_sha256": "045c25255b105cb6763bb9c46efa5fafb17507ed97624b4e0ca50961526d50e5",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/arbre.swf",
+          "width": 500,
+          "height": 620,
+          "fullscreen": false,
+          "sha256": "4c8b5f0127fdddbeb9689c52e55fea6f2f43e3dd3b30356fb003d7dd42f13216",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/arbre.swf",
+          "insert_before": "_(Sample : Shalamar )_\n"
+        }
+      ]
+    },
+    {
+      "post_id": "1859",
+      "article_url": "/2006/02/11/sauvons-la-princesse/",
+      "source_file": "content/posts/2006-02-11-sauvons-la-princesse.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/shield.swf",
+          "width": 506,
+          "height": 394,
+          "fullscreen": false,
+          "sha256": "9c795019527730200642589fc7279d88fd423173608fa4afa111e396fb2f2ede",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/shield.swf",
+          "insert_before": ""
+        }
+      ]
+    },
+    {
+      "post_id": "1845",
+      "article_url": "/2006/02/14/du-premier-coup/",
+      "source_file": "content/posts/2006-02-14-du-premier-coup.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/meanmachine.swf",
+          "width": 305,
+          "height": 580,
+          "fullscreen": false,
+          "sha256": "90245c46f174865eefddeb0ffca630d187d5cf44033e5ba1422b2db34c4c8249",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/meanmachine.swf",
+          "insert_before": ""
+        }
+      ],
+      "audio": [
+        {
+          "kind": "audio",
+          "src": "/wp-content/uploads/2011/dotclear/son/oneshot.mp3",
+          "sha256": "bc72f21fa036a6d0a7c580b76295e02b0d249f7399dcc3f76ebed0a0b767e090",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/son/oneshot.mp3",
+          "position": "start",
+          "insert_before": ""
+        }
+      ]
+    },
+    {
+      "post_id": "1860",
+      "article_url": "/2006/02/16/involution/",
+      "source_file": "content/posts/2006-02-16-involution.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/toki.swf",
+          "width": 471,
+          "height": 450,
+          "fullscreen": false,
+          "sha256": "e1e53e8d05ce561f93ed5a41c0ae898affb6e3cb8d0bf9e789f9e094e6f3d91f",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/toki.swf",
+          "insert_before": ""
+        }
+      ]
+    },
+    {
+      "post_id": "1889",
+      "article_url": "/2006/02/25/nouvelle-rubrique/",
+      "source_file": "content/posts/2006-02-25-nouvelle-rubrique.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/blogfighter.swf",
+          "width": 500,
+          "height": 500,
+          "fullscreen": false,
+          "sha256": "1932fae1f17dd2218edde4e928a3cc3b53e83817caa7c01b285f1d24f7904c42",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/blogfighter.swf",
+          "insert_before": ""
+        }
+      ]
+    },
+    {
+      "post_id": "1900",
+      "article_url": "/2006/03/15/la-flamme-des-larmes/",
+      "source_file": "content/posts/2006-03-15-la-flamme-des-larmes.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/10.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "3c98d849d1c80c12251ab33c46075dae074358dbabd63e7aeff386885a145b7b",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/10.swf",
+          "insert_before": "  \n\n (sample : **Portishead** (Numb))\n"
+        }
+      ]
+    },
+    {
+      "post_id": "1927",
+      "article_url": "/2006/04/11/choc-en-retour/",
+      "source_file": "content/posts/2006-04-11-choc-en-retour.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/37.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "91a009cbf4a6d78eab79fe7b199ab55d9d150fae487552893f0989ae199c7f1a",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/37.swf",
+          "insert_before": " (sample : **Prodigy** (\"voodoopeople\" Pendulum remix))\n"
+        }
+      ]
+    },
+    {
+      "post_id": "1930",
+      "article_url": "/2006/04/14/les-mains-froides/",
+      "source_file": "content/posts/2006-04-14-les-mains-froides.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/40.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "f98921746a03122be0cb04881cc18b3a13474ec5e8c4ba9ed35ea2a70d44d92c",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/40.swf",
+          "insert_before": ""
+        }
+      ]
+    },
+    {
+      "post_id": "1862",
+      "article_url": "/2006/05/11/avatar-les-allies/",
+      "source_file": "content/posts/2006-05-11-avatar-les-allies.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/angel.swf",
+          "width": 399,
+          "height": 557,
+          "fullscreen": false,
+          "sha256": "b6a23c3662cc18712602d2f165fcaac8560e8bf899cda318a5a6321c40d3eb94",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/angel.swf",
+          "insert_before": "( sample : Asura \"Raindust\" )\n"
+        }
+      ]
+    },
+    {
+      "post_id": "1863",
+      "article_url": "/2006/05/24/cromaz-homme-z/",
+      "source_file": "content/posts/2006-05-24-cromaz-homme-z.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/moloko.swf",
+          "width": 550,
+          "height": 764,
+          "fullscreen": false,
+          "sha256": "710fca791a2abf3c40a83a533046384c1b7f95a5723ae0e6198dc17f20f77a6d",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/moloko.swf",
+          "insert_before": ""
+        }
+      ]
+    },
+    {
+      "post_id": "1867",
+      "article_url": "/2006/12/08/battement-de-crane/",
+      "source_file": "content/posts/2006-12-08-battement-de-crane.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/tribu.swf",
+          "width": 458,
+          "height": 685,
+          "fullscreen": false,
+          "sha256": "0d3ba231e87aeb9048d06db5f05e1f9b0b923995d54d00d032556fcf93ec4973",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/tribu.swf",
+          "insert_before": ""
+        },
+        {
+          "src": "/wp-content/uploads/2011/dotclear/electropanik.swf",
+          "width": 458,
+          "height": 685,
+          "fullscreen": false,
+          "sha256": "99b0d49c3dc302c220463aea6a177e15029f8f744d2fb143c0133ed628f988de",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/electropanik.swf",
+          "insert_before": ""
+        }
+      ]
+    },
+    {
+      "post_id": "1807",
+      "article_url": "/2007/01/11/matiere-a-dragon/",
+      "source_file": "content/posts/2007-01-11-matiere-a-dragon.md",
+      "provenance": "snapshot",
+      "source_path": "backup_ftp/blog/wordpress/wp-content/uploads/simply-static/temp-files/simply-static-1-1771679917/2007/01/11/matiere-a-dragon/index.html",
+      "source_sha256": "5d1bdb6a9663fddfac4ff496542280d1e420fd8b7dbf802b1ec67dbd0f53d30d",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/approche.swf",
+          "width": 550,
+          "height": 390,
+          "fullscreen": false,
+          "sha256": "5291d13547cc717d9783a6dcea304652f8ccb94c1b531260d1e084e7a922a8cd",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/approche.swf",
+          "insert_before": ""
+        }
+      ]
+    },
+    {
+      "post_id": "1942",
+      "article_url": "/2007/03/05/le-trou-de-ver-dans-la-pomme/",
+      "source_file": "content/posts/2007-03-05-le-trou-de-ver-dans-la-pomme.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/11_40j.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "089159fca4faa725e48307020358081c7babfb478dc69b227c1da09658e6926d",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/11_40j.swf",
+          "insert_before": "(sample : RIVE GAUCHE \"a constant state of becoming\")\n"
+        }
+      ]
+    },
+    {
+      "post_id": "1944",
+      "article_url": "/2007/03/07/les-corps-de-poison/",
+      "source_file": "content/posts/2007-03-07-les-corps-de-poison.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/13_40j.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "8b45b28dcd61aaf5b4faa4318da2e31dc671d002c8ee635a268e764a2602fbe1",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/13_40j.swf",
+          "insert_before": "(sample : M Andrews - slipping away)\n"
+        }
+      ]
+    },
+    {
+      "post_id": "1945",
+      "article_url": "/2007/03/08/je-est-un-autre/",
+      "source_file": "content/posts/2007-03-08-je-est-un-autre.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/14_40j.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "19b96f1ab79ebe7300b87aa6e7b186ee5e279a47af567925ae31b5ce7e2264a5",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/14_40j.swf",
+          "insert_before": "(sample : Electrosun Vs Phanatik - possessed mind\")\n"
+        }
+      ]
+    },
+    {
+      "post_id": "1947",
+      "article_url": "/2007/03/10/deja-vu/",
+      "source_file": "content/posts/2007-03-10-deja-vu.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/16_40j.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "83805ed3780ac96120563c83a5e257377efb23305c015fd9041a051de23144fd",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/16_40j.swf",
+          "insert_before": "  \n\n (sample : Infected Mushroom - drop out\")\n"
+        }
+      ]
+    },
+    {
+      "post_id": "1950",
+      "article_url": "/2007/03/14/entends-tu-mon-nom/",
+      "source_file": "content/posts/2007-03-14-entends-tu-mon-nom.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/19_40j.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "a209a291cbf02785bf6bee68bf56809e5e7be63d83e75904c7a23d54b20b903c",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/19_40j.swf",
+          "insert_before": "  \n\n (sample : Stendeck - Can you hear my call\")\n"
+        }
+      ]
+    },
+    {
+      "post_id": "1951",
+      "article_url": "/2007/03/16/retour-nebuleux/",
+      "source_file": "content/posts/2007-03-16-retour-nebuleux.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/20_40j.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "2ee8e460bb851bcf92ef994631c0825ff223420248e1dafb0a3040cd920c5897",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/20_40j.swf",
+          "insert_before": "  \n\n (sample : Pixies - Where is my mind (reverse)\")\n"
+        }
+      ]
+    },
+    {
+      "post_id": "1954",
+      "article_url": "/2007/03/20/l-enveloppee/",
+      "source_file": "content/posts/2007-03-20-l-enveloppee.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/23_40j.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "bba93d2c4f4bc246c728a5122f30a928a2aa771f99b634587503bba000eb017a",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/23_40j.swf",
+          "insert_before": "  \n\n (sample : Emilie Simon - Il pleut\")\n"
+        }
+      ]
+    },
+    {
+      "post_id": "1956",
+      "article_url": "/2007/03/23/les-semelles-gelees/",
+      "source_file": "content/posts/2007-03-23-les-semelles-gelees.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/25_40j.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "49147a8fed7ad14f849cdbfda71c2c16c2e52ec1da5b0af9f07e41bc1d676469",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/25_40j.swf",
+          "insert_before": "  \n\n (sample : Bad Religion - Anesthesia\")\n"
+        }
+      ]
+    },
+    {
+      "post_id": "1957",
+      "article_url": "/2007/03/24/territoire-protege/",
+      "source_file": "content/posts/2007-03-24-territoire-protege.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/26_40j.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "c57bb83785c74466cf5874f1bbbb91607661df4387121025572206393fd119a5",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/26_40j.swf",
+          "insert_before": "  \n\n (sample : Rimsky Korsakov - Flight Of The Bumblebee (rmx)\")\n"
+        }
+      ]
+    },
+    {
+      "post_id": "1958",
+      "article_url": "/2007/03/26/comme-un-aimant/",
+      "source_file": "content/posts/2007-03-26-comme-un-aimant.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/27_40j.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "f48f426a086202f605bf438dc1cdfbdae91e431561969d19a715c44ec49ff47e",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/27_40j.swf",
+          "insert_before": "  \n\n (sample : Debussy - Sonate \")\n"
+        }
+      ]
+    },
+    {
+      "post_id": "1960",
+      "article_url": "/2007/03/29/le-corridor-de-la-psyche/",
+      "source_file": "content/posts/2007-03-29-le-corridor-de-la-psyche.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/29_40j.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "4c9a5b6817cfbe6258fd5eb38900d08e94cf433f199722829d43daa5eb44db06",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/29_40j.swf",
+          "insert_before": "  \n\n (sample : ghost of the marble hall \")\n"
+        }
+      ]
+    },
+    {
+      "post_id": "1963",
+      "article_url": "/2007/04/03/l-energie-du-point-zero/",
+      "source_file": "content/posts/2007-04-03-l-energie-du-point-zero.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/32_40j.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "79198f6390f5212aa0ce08e16b2ed29b78c6a2df0134be48311a623eb0c7b4c2",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/32_40j.swf",
+          "insert_before": "  \n\n (sample : Infected Mushroom\\_ Frog Machine \")\n"
+        }
+      ]
+    },
+    {
+      "post_id": "1966",
+      "article_url": "/2007/04/06/mediation/",
+      "source_file": "content/posts/2007-04-06-mediation.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/35_40j.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "b023cea4382e5c521664d7d0a517e877bc8131f30fa7bd6f02d9164042f4ae28",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/35_40j.swf",
+          "insert_before": "_\"Veille toutefois à mesurer la force de tes futures proies... L'energie que tu sollicites chez elle"
+        }
+      ]
+    },
+    {
+      "post_id": "1931",
+      "article_url": "/2007/04/17/le-masque-tala/",
+      "source_file": "content/posts/2007-04-17-le-masque-tala.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/39_40j.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "100479e2fc8899ff44de3e5c0fdb6d07b1f9fdcc780927500a2472003f3a21eb",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/39_40j.swf",
+          "insert_before": "  \n\n (sample : Infected Mushroom\\_ Dancing with kadafi\")\n"
+        }
+      ]
+    },
+    {
+      "post_id": "1890",
+      "article_url": "/2007/04/21/passer-la-mesure/",
+      "source_file": "content/posts/2007-04-21-passer-la-mesure.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/40_40j.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "6930ece93014acd92cc1396b18974dedb1649032dbdbd005ff104f6c2bff44b0",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/40_40j.swf",
+          "insert_before": " (Sample : Ayumi Hamasaki\\_ Tasking\" )\n"
+        }
+      ]
+    },
+    {
+      "post_id": "1856",
+      "article_url": "/2007/05/07/midori-mono/",
+      "source_file": "content/posts/2007-05-07-midori-mono.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/mushi.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "6b0d682f58a515b8dcd7cd9a7c607aeb57c7885661251ecfcada7c2648daf157",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/mushi.swf",
+          "insert_before": "  \n\n (Sample : Joe Hisaishi\\_ Kodamas\" )\n"
+        }
+      ]
+    },
+    {
+      "post_id": "1752",
+      "article_url": "/2007/05/19/meowmask/",
+      "source_file": "content/posts/2007-05-19-meowmask.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/maskat.swf",
+          "width": 550,
+          "height": 550,
+          "fullscreen": false,
+          "sha256": "d4d9d765e0f14c02f9521202249185bd50e710b62ac19077a7f38f97fa5ffe81",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/maskat.swf",
+          "insert_before": ""
+        }
+      ]
+    },
+    {
+      "post_id": "1869",
+      "article_url": "/2007/05/22/sauvage/",
+      "source_file": "content/posts/2007-05-22-sauvage.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/becomecat.swf",
+          "width": 560,
+          "height": 417,
+          "fullscreen": false,
+          "sha256": "e75233f0b702070f4d275795907d0471e4989899d384478c886fbddb81d7f722",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/becomecat.swf",
+          "insert_before": "  \n\n (Sample : InfectedMushroom\\_Before')   \n"
+        }
+      ]
+    },
+    {
+      "post_id": "1871",
+      "article_url": "/2007/06/18/sabotage/",
+      "source_file": "content/posts/2007-06-18-sabotage.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/saboteur.swf",
+          "width": 550,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "534b011413527bec243d7187880fdc798ff5dfddf0fcde8aa08bc0e099a67844",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/saboteur.swf",
+          "insert_before": "  \n\n (Sample : saboteur ( cpc\\_game))   \n"
+        }
+      ]
+    },
+    {
+      "post_id": "1875",
+      "article_url": "/2007/12/05/spirit-of-primitiv-form/",
+      "source_file": "content/posts/2007-12-05-spirit-of-primitiv-form.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/funnylife.swf",
+          "width": 520,
+          "height": 684,
+          "fullscreen": false,
+          "sha256": "d877c9670ddf64f8686b6746a79e0122201246d61be7f23191023a1d95083cf2",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/funnylife.swf",
+          "insert_before": ""
+        }
+      ]
+    },
+    {
+      "post_id": "1876",
+      "article_url": "/2008/02/12/tempete-contre-jeunes-racines/",
+      "source_file": "content/posts/2008-02-12-tempete-contre-jeunes-racines.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/vento.swf",
+          "width": 560,
+          "height": 860,
+          "fullscreen": false,
+          "sha256": "61f15dcd73d8ce95930e4209b581c3933258a2e81d2f9f8eac7f3775bfd478a5",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/vento.swf",
+          "insert_before": ""
+        }
+      ]
+    },
+    {
+      "post_id": "1877",
+      "article_url": "/2008/02/27/bientot-sur-vos-ecrans/",
+      "source_file": "content/posts/2008-02-27-bientot-sur-vos-ecrans.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/affiche.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "2dbdd7d1c3c3b03f4b473d6b1954fbd575a996f09cf1481c5a44a2875c4f24f7",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/affiche.swf",
+          "insert_before": "![](/wp-content/uploads/2011/dotclear/youffie_fanart.jpg)  \n\n Merci youffie ;)\n"
+        }
+      ]
+    },
+    {
+      "post_id": "1970",
+      "article_url": "/2008/03/13/jour-un-demi-preface-recapitulativ/",
+      "source_file": "content/posts/2008-03-13-jour-un-demi-preface-recapitulativ.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/intro1.swf",
+          "width": 540,
+          "height": 2880,
+          "fullscreen": false,
+          "sha256": "151938a15c724d47dc04b017296e52fd01215d1ee83859c66a9ee21d6bc6cdab",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/intro1.swf",
+          "insert_before": ""
+        }
+      ]
+    },
+    {
+      "post_id": "1971",
+      "article_url": "/2008/03/14/jour1-trop-glodyte-pour-ne-pas-bailler/",
+      "source_file": "content/posts/2008-03-14-jour1-trop-glodyte-pour-ne-pas-bailler.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/J1.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "e00302b7d6c3766244408fd5ca628461946c054be5cd14fd0f7e03ce49b4645c",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/J1.swf",
+          "insert_before": "  \n\n (Sample : MUTLUNATIC\\_Reminiscence)\n"
+        }
+      ]
+    },
+    {
+      "post_id": "1972",
+      "article_url": "/2008/03/15/jour2-le-vagabond-prepare-son-bond/",
+      "source_file": "content/posts/2008-03-15-jour2-le-vagabond-prepare-son-bond.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/J2.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "21f1221bea57fccc1238afd0d6acfe032f23f4d693e4d0f70d099dd0bc04a9bd",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/J2.swf",
+          "insert_before": "  \n\n (Sample : Supertramp\\_goodbye stranger)\n"
+        }
+      ]
+    },
+    {
+      "post_id": "1973",
+      "article_url": "/2008/03/17/jour3-un-encas-pour-samaya/",
+      "source_file": "content/posts/2008-03-17-jour3-un-encas-pour-samaya.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/J3.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "63bf36c158f1ece8b591b168f337c8f8515bb9d1d93223a43cb00b888a0d7617",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/J3.swf",
+          "insert_before": "  \n\n (Sample : Mushishi\\_opening )\n"
+        }
+      ]
+    },
+    {
+      "post_id": "1974",
+      "article_url": "/2008/03/19/jour4-moment-de-confiance/",
+      "source_file": "content/posts/2008-03-19-jour4-moment-de-confiance.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/J4.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "c2d16ef818efa300ae5a9647cd1a1d4c89106d8941ede2d3aaef393a182e4bbb",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/J4.swf",
+          "insert_before": "  \n\n (Sample from : marioworld\\_stage music )\n"
+        }
+      ]
+    },
+    {
+      "post_id": "1975",
+      "article_url": "/2008/03/20/jour5-toujours-plus-haut/",
+      "source_file": "content/posts/2008-03-20-jour5-toujours-plus-haut.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/J5.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "42271c928edde6c98bf7852e48d638dd9764975d80b9642de99b2746a4aea1f7",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/J5.swf",
+          "insert_before": "  \n\n (Sample from : Tetris\\_highscore music )\n"
+        }
+      ]
+    },
+    {
+      "post_id": "1976",
+      "article_url": "/2008/03/21/jour6-maitre-corbeau-sur-un-arbre-perche/",
+      "source_file": "content/posts/2008-03-21-jour6-maitre-corbeau-sur-un-arbre-perche.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/J6.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "1a88e620e41a5c432c73f7970f329495f37b9dbb3c32c36e265df4e911245dce",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/J6.swf",
+          "insert_before": "  \n\n (Sample from : Toki\\_atari'game )\n"
+        }
+      ]
+    },
+    {
+      "post_id": "1980",
+      "article_url": "/2008/03/27/jour10-s-incliner/",
+      "source_file": "content/posts/2008-03-27-jour10-s-incliner.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/J10.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "3d88611ddfb30caeeb0f096abed4147078e6388bff883b7598df34645e2866fa",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/J10.swf",
+          "insert_before": " (Sample from : Wax Tailor\\_positively inclined )\n"
+        }
+      ]
+    },
+    {
+      "post_id": "1981",
+      "article_url": "/2008/03/29/jour11-dessiner-c-est-gagner/",
+      "source_file": "content/posts/2008-03-29-jour11-dessiner-c-est-gagner.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/J11.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "105ea9a3689cc86717281953630c7e1f5e137335a0707254103a5921c24457db",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/J11.swf",
+          "insert_before": "  \n\n (Sample from : linkinpark\\_session )\n"
+        }
+      ]
+    },
+    {
+      "post_id": "1983",
+      "article_url": "/2008/04/01/jour13-un-compagnon-de-cellule/",
+      "source_file": "content/posts/2008-04-01-jour13-un-compagnon-de-cellule.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/J13.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "b819c1fe66a85f0759d8c8a14f2c579174aeef8da1f1387b5d211bba32d623b2",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/J13.swf",
+          "insert_before": ""
+        }
+      ]
+    },
+    {
+      "post_id": "1984",
+      "article_url": "/2008/04/03/jour14-s-endormir-une-craie-dans-la-main/",
+      "source_file": "content/posts/2008-04-03-jour14-s-endormir-une-craie-dans-la-main.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/J14.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "2a55a5e70be1aee85b5b30db2dee543b0eb6418953580f84dd0e8911612f1830",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/J14.swf",
+          "insert_before": "illustration du rêve par : [Monkey](http://ardes-prod.blogspot.com/)  \n\n (Sample : DragonballZ\\_hope"
+        }
+      ]
+    },
+    {
+      "post_id": "1985",
+      "article_url": "/2008/04/04/jour15-le-parfait-conseil-de-l-alchimiste/",
+      "source_file": "content/posts/2008-04-04-jour15-le-parfait-conseil-de-l-alchimiste.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/J15.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "577c9c7f16e37ed8a6d44b87a07448d17db4f5577a2c6f331a33c47e736fa217",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/J15.swf",
+          "insert_before": "(Sample : ElectroSun\\_possessed mind )\n"
+        }
+      ]
+    },
+    {
+      "post_id": "1986",
+      "article_url": "/2008/04/07/jour16-repasser-les-traits-en-rouge-vif/",
+      "source_file": "content/posts/2008-04-07-jour16-repasser-les-traits-en-rouge-vif.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/J16.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "02caefdb1cdc8bc0ff5d2019663ae616454bdec8b085f35e2fa60c7284c29b32",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/J16.swf",
+          "insert_before": "(Sample : AIR\\_surfing on a rocket (reverse))\n"
+        }
+      ]
+    },
+    {
+      "post_id": "1988",
+      "article_url": "/2008/04/15/jour18-l-ouverture-d-esprit/",
+      "source_file": "content/posts/2008-04-15-jour18-l-ouverture-d-esprit.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/J18.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "a265828d38f01a36a4eb1292ad0704f5fe2e41175f3a055694ee89a21438f1d4",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/J18.swf",
+          "insert_before": ""
+        }
+      ]
+    },
+    {
+      "post_id": "1990",
+      "article_url": "/2008/04/21/jour20-perdus-dans-l-immense/",
+      "source_file": "content/posts/2008-04-21-jour20-perdus-dans-l-immense.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/J20.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "a25cf45e8d53076e3519bb7ffe249b512632de44884d371d40508b9b123549da",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/J20.swf",
+          "insert_before": "  \n\n (Sample : Wax Tailor\\_Am i free)   \n"
+        }
+      ]
+    },
+    {
+      "post_id": "1992",
+      "article_url": "/2008/04/24/jour21-tremblez-freles-branches/",
+      "source_file": "content/posts/2008-04-24-jour21-tremblez-freles-branches.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/J21.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "7ec25f08f81ea9373bb6c87b032597abf047699b974cd183ca5063275d2bfcee",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/J21.swf",
+          "insert_before": "  \n\n (Sample : matmakies.mod)   \n"
+        }
+      ]
+    },
+    {
+      "post_id": "1993",
+      "article_url": "/2008/04/28/jour22-glisser-sur-le-vert/",
+      "source_file": "content/posts/2008-04-28-jour22-glisser-sur-le-vert.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/J22.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "bf7fbb0dd02671c8df4874e8c33736275f7790a78dfae16c4acd61bf0c16d582",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/J22.swf",
+          "insert_before": "  \n\n (Sample : Infected Mushroom\\_Before)   \n"
+        }
+      ]
+    },
+    {
+      "post_id": "1995",
+      "article_url": "/2008/05/07/jour24-obscur-est-ce-que-je-ne-sais-pas/",
+      "source_file": "content/posts/2008-05-07-jour24-obscur-est-ce-que-je-ne-sais-pas.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/J24.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "251d4f48b51eeba270e2a97ba9aa1adf25d441b7cf719c2aca6fd4fbeb8f28f8",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/J24.swf",
+          "insert_before": "  \n\n (Sample : Portishead\\_the rip)\n\nWild, white horses  \n\n They will take me away  \n\n And the tende"
+        }
+      ]
+    },
+    {
+      "post_id": "1996",
+      "article_url": "/2008/05/09/jour25-le-regard-ak-47/",
+      "source_file": "content/posts/2008-05-09-jour25-le-regard-ak-47.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/J25.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "2a55d269ccd0c2e4f92159ffd93df96b5b1f4a7b7897f887a7f083f1e0f01319",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/J25.swf",
+          "insert_before": "  \n\n (Sample : Portishead\\_Machine gun)\n"
+        }
+      ]
+    },
+    {
+      "post_id": "1997",
+      "article_url": "/2008/05/12/jour26-outre-passer/",
+      "source_file": "content/posts/2008-05-12-jour26-outre-passer.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/J26.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "c6e7cb3129450b461eabbacee50aaae2af99f8cf32f7b1fe64e820e14f692e9b",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/J26.swf",
+          "insert_before": "  \n\n (Sample : bo\\_collapse of laputa)\n"
+        }
+      ]
+    },
+    {
+      "post_id": "1998",
+      "article_url": "/2008/05/13/jour27-mad-mask/",
+      "source_file": "content/posts/2008-05-13-jour27-mad-mask.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/J27.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "8a25a9ccfeb4eacbfc779198f94390b0b71eb0c67e3e6423e0886974b1f0219f",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/J27.swf",
+          "insert_before": "  \n\n (Sample : Portishead\\_machine gun)\n"
+        }
+      ]
+    },
+    {
+      "post_id": "1999",
+      "article_url": "/2008/05/15/jour28-tout-doux-l-agneau/",
+      "source_file": "content/posts/2008-05-15-jour28-tout-doux-l-agneau.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/J28.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "f4652c53772947d460bad1ed994c2567f41afb20b925de8ce7ea8a25d8ed833d",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/J28.swf",
+          "insert_before": ""
+        }
+      ]
+    },
+    {
+      "post_id": "2000",
+      "article_url": "/2008/05/21/jour29-la-taverne/",
+      "source_file": "content/posts/2008-05-21-jour29-la-taverne.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/J29.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "b2a4660895f54a1a765f83a333ee75b927c7910fea413b32e5ea03eef100ea8b",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/J29.swf",
+          "insert_before": "  \n\n (Sample : John Williams\\_Cantina band)\n"
+        }
+      ]
+    },
+    {
+      "post_id": "2001",
+      "article_url": "/2008/05/27/jour30-le-spectre/",
+      "source_file": "content/posts/2008-05-27-jour30-le-spectre.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/J30.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "5f663f2aaec0384a6a979cfccc7128f4f59f9e81603c066675c7e65af5269c83",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/J30.swf",
+          "insert_before": "  \n\n (Sample : Stendeck\\_Can you hear my call)\n"
+        }
+      ]
+    },
+    {
+      "post_id": "2002",
+      "article_url": "/2008/05/29/jour31-le-fruit-des-causes/",
+      "source_file": "content/posts/2008-05-29-jour31-le-fruit-des-causes.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/J31.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "ca9c173cbe025dc95783bb7ea631965fc0ed3deca2e25c602a54e35ac6086ee4",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/J31.swf",
+          "insert_before": "  \n\n (Sample : Chemical brothers\\_Flashback)\n"
+        }
+      ]
+    },
+    {
+      "post_id": "2003",
+      "article_url": "/2008/06/04/jour32-amazon-kiwi-la-taverniere/",
+      "source_file": "content/posts/2008-06-04-jour32-amazon-kiwi-la-taverniere.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/J32.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "6ae0ab8c24e4e535a58eeddbe593c04f761b92c91c447a2f2bc937a9d2b7c892",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/J32.swf",
+          "insert_before": "  \n\n (Sample : Infected Mushroom\\_Birthday)\n"
+        }
+      ]
+    },
+    {
+      "post_id": "2004",
+      "article_url": "/2008/06/06/jour33-que-vois-je/",
+      "source_file": "content/posts/2008-06-06-jour33-que-vois-je.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/J33.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "85b50fab04c998ad20bba4aea3a23748e9b6ca110fa60aa9665ab4e700083a13",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/J33.swf",
+          "insert_before": "  \n\n (Sample : Danny Elfman\\_What's this ?)\n"
+        }
+      ]
+    },
+    {
+      "post_id": "2008",
+      "article_url": "/2008/06/20/jour36-le-prix-du-miel/",
+      "source_file": "content/posts/2008-06-20-jour36-le-prix-du-miel.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/J36.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "625b8d890803da04b91b85def9be6d13d321652d6fa5896154cfc477a200d713",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/J36.swf",
+          "insert_before": "  \n\n (Sample : Robocod )\n"
+        }
+      ]
+    },
+    {
+      "post_id": "2009",
+      "article_url": "/2008/06/27/jour37-tea-for-three/",
+      "source_file": "content/posts/2008-06-27-jour37-tea-for-three.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/J37.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "4f35bbe67117ecd8a77d1c090ce31e63a8a3998c8521bacdaa391c15e199de4c",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/J37.swf",
+          "insert_before": "  \n\n (Sample : Doris Day\\_ tea for two )\n"
+        }
+      ]
+    },
+    {
+      "post_id": "2010",
+      "article_url": "/2008/07/01/jour38-the-convivialite-dexterite/",
+      "source_file": "content/posts/2008-07-01-jour38-the-convivialite-dexterite.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/J38.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "016500fc6738b43279f88895a20ba7c1c96d8fc30fd2c4df41e786ae3e62c122",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/J38.swf",
+          "insert_before": "  \n\n sur un décor de mobi  \n\n (Sample : latsades krama\\_psilodump\\_8bp )\n"
+        }
+      ]
+    },
+    {
+      "post_id": "2011",
+      "article_url": "/2008/07/02/jour-39-reprendre-la-route/",
+      "source_file": "content/posts/2008-07-02-jour-39-reprendre-la-route.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/J39.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "ce8ae32f7be6b73a98af9f97e325c4969fb8aed4a3e1327ec0a7422097533d5d",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/J39.swf",
+          "insert_before": "  \n**Step** : _Merci de votre aide les amis  \n_\n_Xie xie jeune monkey pour le masque ! et n'oublie p"
+        }
+      ]
+    },
+    {
+      "post_id": "2012",
+      "article_url": "/2008/07/07/jour40-la-cite-interieure/",
+      "source_file": "content/posts/2008-07-07-jour40-la-cite-interieure.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/J40.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "6a49619e3f1bfb2d13ac766a3ca87239ac1ec47f23f06b4358c5ca99c1912df5",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/J40.swf",
+          "insert_before": " (Sample --> Dario Marianelli\\_ evey reborn )\n"
+        }
+      ]
+    },
+    {
+      "post_id": "1763",
+      "article_url": "/2008/07/12/tantra/",
+      "source_file": "content/posts/2008-07-12-tantra.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/vedah3.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "a005c1c81dfb0d714645191cbb6960464a3cf244eea199063d55103187fde3fc",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/vedah3.swf",
+          "insert_before": " (Sample --> Chemical Brothers\\_ One too many morning )\n"
+        }
+      ]
+    },
+    {
+      "post_id": "1878",
+      "article_url": "/2008/07/14/dedicace-de-petite-rose/",
+      "source_file": "content/posts/2008-07-14-dedicace-de-petite-rose.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/feanor.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "270c4b64c45a8f47903eac5ca067392b118899b51a921b16726a9e3daa57524f",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/feanor.swf",
+          "insert_before": " (Sample --> Florian Lavoux\\_Ventosa )\n"
+        }
+      ]
+    },
+    {
+      "post_id": "1764",
+      "article_url": "/2008/07/18/spleen-ideal/",
+      "source_file": "content/posts/2008-07-18-spleen-ideal.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/spleen.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "a5ef9d214015b24f80f2ead2a0f665824e21d48eb0dfb627ed8b95c201f91236",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/spleen.swf",
+          "insert_before": "  \n\n (Sample --> Sebastien Tellier\\_ Ritournelle )\n"
+        }
+      ]
+    },
+    {
+      "post_id": "1881",
+      "article_url": "/2008/08/26/fanart-pour-mobi/",
+      "source_file": "content/posts/2008-08-26-fanart-pour-mobi.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/mobi.swf",
+          "width": 495,
+          "height": 655,
+          "fullscreen": false,
+          "sha256": "810751b0f04f47afcc611a92928879ae1d9867529afbf5f2a85b98aef6447722",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/mobi.swf",
+          "insert_before": ""
+        }
+      ]
+    },
+    {
+      "post_id": "1870",
+      "article_url": "/2008/09/08/les-remous-de-l-equilibre/",
+      "source_file": "content/posts/2008-09-08-les-remous-de-l-equilibre.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/ekilibre.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "733a11e1aa7d90358e5741a3b7c52c2ab95e4ef3e2ac52a50e8846839305dee4",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/ekilibre.swf",
+          "insert_before": "  \n\n (Sample --> Massive Attack\\_ heat miser )\n"
+        }
+      ]
+    },
+    {
+      "post_id": "2013",
+      "article_url": "/2009/03/11/jour-1-reveille-toi/",
+      "source_file": "content/posts/2009-03-11-jour-1-reveille-toi.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/jour-1.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "baaf0f22d379e845fec878af434fddf662f898f47b53ec6f390246e50e79d0fa",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/jour-1.swf",
+          "insert_before": "  \n\n (Sample --> Joe Hisaishi\\_ levitation stone )\n"
+        }
+      ]
+    },
+    {
+      "post_id": "2014",
+      "article_url": "/2009/03/12/jour-2-le-bain-froid/",
+      "source_file": "content/posts/2009-03-12-jour-2-le-bain-froid.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/jour-2.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "1541bc2456577260d7927c330178a15d582a24ed6fdbb5eaf75c44d923515a88",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/jour-2.swf",
+          "insert_before": "  \n\n (Sample --> ost\\_ kpax )\n"
+        }
+      ]
+    },
+    {
+      "post_id": "2015",
+      "article_url": "/2009/03/13/jour-3-binome/",
+      "source_file": "content/posts/2009-03-13-jour-3-binome.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/jour-3.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "5053babb8940d230461eec27b9290a037c20f3ff429c5db00f67f919fb21a7e2",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/jour-3.swf",
+          "insert_before": "  \n\n (Sample --> space harrier )\n"
+        }
+      ]
+    },
+    {
+      "post_id": "2016",
+      "article_url": "/2009/03/16/jour-4-la-voie-express/",
+      "source_file": "content/posts/2009-03-16-jour-4-la-voie-express.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/jour-4.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "26ae71000c83ee259749e4a6ecca33aadec45b9fd3dbf2ad1b7da70992da3d84",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/jour-4.swf",
+          "insert_before": "  \n\n (Sample --> Prodigy\\_ smack my bitch up )\n"
+        }
+      ]
+    },
+    {
+      "post_id": "2018",
+      "article_url": "/2009/03/18/jour-6-atmosphere/",
+      "source_file": "content/posts/2009-03-18-jour-6-atmosphere.md",
+      "provenance": "snapshot",
+      "source_path": "backup_ftp/blog/wordpress/wp-content/uploads/simply-static/temp-files/simply-static-1-1771679917/2009/03/18/jour-6-atmosphere/index.html",
+      "source_sha256": "a6e39090f2292a046f8ab4bfdca134653cb8448e362698d5115ed16885dac620",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/jour-6.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "5201c51493dab30b55bd776f76ced2252748b4bb0ee8b87706cca7d087f3fbbe",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/jour-6.swf",
+          "insert_before": " (Sample --> Prodigy\\_ smack my bitch up )\n"
+        }
+      ]
+    },
+    {
+      "post_id": "2019",
+      "article_url": "/2009/03/20/jour-7-contemplations/",
+      "source_file": "content/posts/2009-03-20-jour-7-contemplations.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/jour-7.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "64ac68276c6a70845638e794a2eb24324ce99d1791728184caa91ed0b206bbd8",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/jour-7.swf",
+          "insert_before": "  \n\n (Sample --> Aphex Twin\\_ girlboysong )\n"
+        }
+      ]
+    },
+    {
+      "post_id": "2021",
+      "article_url": "/2009/03/24/jour-9-l-accueil-du-fumeur-d-ocean/",
+      "source_file": "content/posts/2009-03-24-jour-9-l-accueil-du-fumeur-d-ocean.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/jour-9.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "665d83b7ee2b98607e0bd1be9aa7d4ba24f2a95bebd9871c520e892e749ffb3c",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/jour-9.swf",
+          "insert_before": "  \n\n (Sample --> Zircon\\_Monstrous Turtle)\n"
+        }
+      ]
+    },
+    {
+      "post_id": "2024",
+      "article_url": "/2009/03/31/jour-12-la-transe-du-fumeur-d-ocean/",
+      "source_file": "content/posts/2009-03-31-jour-12-la-transe-du-fumeur-d-ocean.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/jour-12.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "2431abaa2855f091c2e899729309cbe3cf16eb2783e518d98718d62d7a595690",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/jour-12.swf",
+          "insert_before": "  \n\n (Sample --> Astral Projection\\_Soundform)\n"
+        }
+      ]
+    },
+    {
+      "post_id": "2025",
+      "article_url": "/2009/04/01/jour-13-la-connection/",
+      "source_file": "content/posts/2009-04-01-jour-13-la-connection.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/jour-13.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "ec0368d18cc473e13161a9c24a5da2e2efd1e1413a826ba914c87c73852d6b3b",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/jour-13.swf",
+          "insert_before": "  \n\n (Sample --> ......)\n"
+        }
+      ]
+    },
+    {
+      "post_id": "2026",
+      "article_url": "/2009/04/03/jour-14-7-oeufs-7-dimensions/",
+      "source_file": "content/posts/2009-04-03-jour-14-7-oeufs-7-dimensions.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/jour-14.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "b7a98b1c7ce2149449306b72a2b809461b77bdb263e2290651f595ccd11cff13",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/jour-14.swf",
+          "insert_before": ""
+        }
+      ]
+    },
+    {
+      "post_id": "2027",
+      "article_url": "/2009/04/06/jour-15-le-choix-tout-vu/",
+      "source_file": "content/posts/2009-04-06-jour-15-le-choix-tout-vu.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/jour-15.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "504eacf95eab8afa7970034217a2ddf87a4497c05730ac55d2e952ce4caee344",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/jour-15.swf",
+          "insert_before": ""
+        }
+      ]
+    },
+    {
+      "post_id": "2028",
+      "article_url": "/2009/04/07/jour-16-l-oeuf-qui-sera-touche/",
+      "source_file": "content/posts/2009-04-07-jour-16-l-oeuf-qui-sera-touche.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/jour-16.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "94d375cb7bd6ba30812d338f63fa838081a753e40ee07f9c10c393694852524d",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/jour-16.swf",
+          "insert_before": " (sample : Bomberman\\_snes)\n"
+        }
+      ]
+    },
+    {
+      "post_id": "2029",
+      "article_url": "/2009/04/09/jour-17-bon-voyage-alice/",
+      "source_file": "content/posts/2009-04-09-jour-17-bon-voyage-alice.md",
+      "provenance": "snapshot",
+      "source_path": "backup_ftp/blog/wordpress/wp-content/uploads/simply-static/temp-files/simply-static-1-1771679917/2009/04/09/jour-17-bon-voyage-alice/index.html",
+      "source_sha256": "dd84ac7d60ad3f79f4b285510aeff964589b09213de88e66236070b88dad192c",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/jour-17.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "f2731da0fd7c5ff2468fc5ee4e279b629d8056aa2f205772ec60825dd7062554",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/jour-17.swf",
+          "insert_before": " (sample : Unconscious Collective \\_ Fluorostani Transcendance)\n"
+        }
+      ]
+    },
+    {
+      "post_id": "2030",
+      "article_url": "/2009/04/10/jour-18-reprendre-corps/",
+      "source_file": "content/posts/2009-04-10-jour-18-reprendre-corps.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/jour-18.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "55540c1f2777614b2313d96c3fe4877a33b27746bf262ddfd33281cac23a8329",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/jour-18.swf",
+          "insert_before": "  \n\n (sample : Karl Jenkins\\_ 'Palladio')\n"
+        }
+      ]
+    },
+    {
+      "post_id": "2032",
+      "article_url": "/2009/04/18/jour-20-prudence/",
+      "source_file": "content/posts/2009-04-18-jour-20-prudence.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/jour-20.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "b25d7a0764ea09ca35adcd09d6b609ae649f5990ab791f5c000e6bdf2a76530b",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/jour-20.swf",
+          "insert_before": " (sample : Michiru Ohshima\\_Anun )\n"
+        }
+      ]
+    },
+    {
+      "post_id": "2033",
+      "article_url": "/2009/04/21/jour-21-la-morsure-de-l-arrack/",
+      "source_file": "content/posts/2009-04-21-jour-21-la-morsure-de-l-arrack.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/jour-21.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "9f870d9926b86429fbf5db73d8b8776466aa77f8d1e04daca79a1b66708b5de1",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/jour-21.swf",
+          "insert_before": "  \n\n (sample : Djshadow\\_stem longstem )\n"
+        }
+      ]
+    },
+    {
+      "post_id": "2034",
+      "article_url": "/2009/04/22/jour-22-plongee-abyssale/",
+      "source_file": "content/posts/2009-04-22-jour-22-plongee-abyssale.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/jour-22.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "632b4b53a27125e5f7958c81416cb29ab37fd68bc457ba01b4f5bf59d75dba4f",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/jour-22.swf",
+          "insert_before": "  \n\n (sample : J.F Freitas\\_Another World )\n"
+        }
+      ]
+    },
+    {
+      "post_id": "2036",
+      "article_url": "/2009/04/27/jour-24-no-stress-il-y-a-une-justice/",
+      "source_file": "content/posts/2009-04-27-jour-24-no-stress-il-y-a-une-justice.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/jour-24.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "e64410d2a79a756ca812311f4699e0674e7b62a1724e1c258bf93d6f45639f13",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/jour-24.swf",
+          "insert_before": "  \n\n le fond (modifié) vient de l'illustration originale du jeu [another world](/recovered/www.anoth"
+        }
+      ]
+    },
+    {
+      "post_id": "2038",
+      "article_url": "/2009/05/01/jour-26-confidences-nocturnes/",
+      "source_file": "content/posts/2009-05-01-jour-26-confidences-nocturnes.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/jour-26.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "fdb5631e9c08e59ff70bafb957d5a312023d340e163ec0e70392b2adbf7b6d96",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/jour-26.swf",
+          "insert_before": "  \n\n (sample : I Monster\\_Heaven)\n"
+        }
+      ]
+    },
+    {
+      "post_id": "2041",
+      "article_url": "/2009/05/12/jour-29-les-aiguilles-du-temps-et-l-homme-occident/",
+      "source_file": "content/posts/2009-05-12-jour-29-les-aiguilles-du-temps-et-l-homme-occident.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/jour-29.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "684d86dc0ffea3ad912c589df8e0cf071848c103909398d10c3299c38bfe7a79",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/jour-29.swf",
+          "insert_before": "  \n\n (sample : Moby\\_Porcelain)\n"
+        }
+      ]
+    },
+    {
+      "post_id": "2042",
+      "article_url": "/2009/05/15/jour-30-lilith-prend-l-ere/",
+      "source_file": "content/posts/2009-05-15-jour-30-lilith-prend-l-ere.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/jour-30.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "44848a5fb03a5d8c76cbe2f37a888c31d2a0ebb20e77fae760920f5a0efc3954",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/jour-30.swf",
+          "insert_before": "  \n\n (sample : Converter\\_invocation of Lilith)\n"
+        }
+      ]
+    },
+    {
+      "post_id": "2043",
+      "article_url": "/2009/05/19/jour-31-tantra-l-insoumise/",
+      "source_file": "content/posts/2009-05-19-jour-31-tantra-l-insoumise.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/jour-31.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "d1f1d9bf0b0cb366f161dd8ffccbb964839d29d2aad954ebe6d8c4b7b664a873",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/jour-31.swf",
+          "insert_before": "  \n\n (sample : Deepak Ram\\_A night in Lenasia)\n"
+        }
+      ]
+    },
+    {
+      "post_id": "2045",
+      "article_url": "/2009/05/21/jour-33-genesique-le-secret-de-l-etoile-du-matin/",
+      "source_file": "content/posts/2009-05-21-jour-33-genesique-le-secret-de-l-etoile-du-matin.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/jour-33.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "12f78d25d036a4eebd6a8c475c28d58f666d633493f691d70c09c148b491f238",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/jour-33.swf",
+          "insert_before": "  \n\n (sample : Electric Universe\\_Morning Star)\n"
+        }
+      ]
+    },
+    {
+      "post_id": "2046",
+      "article_url": "/2009/05/22/jour-34-infernal-voix-crucifie/",
+      "source_file": "content/posts/2009-05-22-jour-34-infernal-voix-crucifie.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/jour-34.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "c4769463f4340ab7e4a5b60837dd38943f46cc014199c772a512bd3abeea37ce",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/jour-34.swf",
+          "insert_before": "  \n\n (sample : John Debney\\_Crucifixion)\n"
+        }
+      ]
+    },
+    {
+      "post_id": "2047",
+      "article_url": "/2009/05/27/jour-35-vegetal-les-racines-du-renouveau/",
+      "source_file": "content/posts/2009-05-27-jour-35-vegetal-les-racines-du-renouveau.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/jour-35.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "fbebbe8202ff12c204a994f8d7a2872a20b4589c28b5b9718fc34e0cdabd1b7c",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/jour-35.swf",
+          "insert_before": "  \n\n (sample : Massive Attack\\_Heat Miser)\n"
+        }
+      ]
+    },
+    {
+      "post_id": "2049",
+      "article_url": "/2009/06/04/jour-37-l-inconscient-collectif-yaldabaoth-l-ego-et-l-enfant-roi/",
+      "source_file": "content/posts/2009-06-04-jour-37-l-inconscient-collectif-yaldabaoth-l-ego-et-l-enfant-roi.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/jour-37.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "8154ae019014336b743b56e31d77ae40fb46e4bbaab1728e45404737119df75c",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/jour-37.swf",
+          "insert_before": "  \n\n (sample : Coldcut\\_ Timber)\n"
+        }
+      ]
+    },
+    {
+      "post_id": "2050",
+      "article_url": "/2009/06/09/jour-38-dernier-pas-dans-l-inconscient/",
+      "source_file": "content/posts/2009-06-09-jour-38-dernier-pas-dans-l-inconscient.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/jour-38.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "90dcf0e9274898520578dc7a17f80df5b64ddbcdd216e3ffaedd2d39591f2c46",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/jour-38.swf",
+          "insert_before": "  \n\n (sample : Kasabian\\_ where did all the love go ?)\n"
+        }
+      ]
+    },
+    {
+      "post_id": "2051",
+      "article_url": "/2009/06/12/jour-39-entendre-les-invisibles/",
+      "source_file": "content/posts/2009-06-12-jour-39-entendre-les-invisibles.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/jour-39.swf",
+          "width": 540,
+          "height": 729,
+          "fullscreen": false,
+          "sha256": "785b22747f9b7b0328e8fa8f29f19a90bcf275b0a96898cf46366a3ba2cd7780",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/jour-39.swf",
+          "insert_before": "  \n\n (sample : Future sound of London\\_ My Kingdom )\n"
+        }
+      ]
+    },
+    {
+      "post_id": "1883",
+      "article_url": "/2009/07/30/namlu-u/",
+      "source_file": "content/posts/2009-07-30-namlu-u.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/namlu.swf",
+          "width": 550,
+          "height": 788,
+          "fullscreen": false,
+          "sha256": "4c68d3669d7f6ffde35a2090f9c4d7bacd6c67e325376a8ada97de1f2b64bee5",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/namlu.swf",
+          "insert_before": "  \n\n (sample : Hallucinogen\\_ 'Deranger')\n"
+        }
+      ]
+    },
+    {
+      "post_id": "1884",
+      "article_url": "/2009/09/17/unexpected-flying-organism/",
+      "source_file": "content/posts/2009-09-17-unexpected-flying-organism.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/ufo.swf",
+          "width": 550,
+          "height": 1246,
+          "fullscreen": false,
+          "sha256": "205492907bbaa1084298fbdd702b4216874ee435f0cadeb132ad5c11717f53e7",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/ufo.swf",
+          "insert_before": "  \n\n (sample : Infected Mushroom\\_ 'Project 100')\n"
+        }
+      ]
+    },
+    {
+      "post_id": "1885",
+      "article_url": "/2009/09/18/clash-cendre/",
+      "source_file": "content/posts/2009-09-18-clash-cendre.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/step.swf",
+          "width": 535,
+          "height": 849,
+          "fullscreen": false,
+          "sha256": "3bbcd0094a3001b36a88b919c667ad7c0238801e6540244772ab9c8382acb86d",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/step.swf",
+          "insert_before": "  \n\n (sample : Infected Mushroom\\_ 'Poquito mas')\n"
+        }
+      ]
+    },
+    {
+      "post_id": "1851",
+      "article_url": "/2009/11/04/silent-spring/",
+      "source_file": "content/posts/2009-11-04-silent-spring.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/silentspring.swf",
+          "width": 560,
+          "height": 1120,
+          "fullscreen": false,
+          "sha256": "d296a2eb0cfdb2c0209d6939aeffe0e059d48e971da48b65ab11ae8db046d5f4",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/silentspring.swf",
+          "insert_before": "  \n\n (sample : MAssive Attack\\_ Silent Spring)\n"
+        }
+      ]
+    },
+    {
+      "post_id": "1886",
+      "article_url": "/2009/12/23/saison-5-dans-pas-loin/",
+      "source_file": "content/posts/2009-12-23-saison-5-dans-pas-loin.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/cascade.swf",
+          "width": 560,
+          "height": 796,
+          "fullscreen": false,
+          "sha256": "b3abbc002e58e14fa6451bc2ba15f044802ecf95b9fc8f4c6f46242b085b36ec",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/cascade.swf",
+          "insert_before": " (sample : Sigur Ros\\_ Svefn g englar)\n"
+        }
+      ]
+    },
+    {
+      "post_id": "2053",
+      "article_url": "/2010/02/16/l-irresolu/",
+      "source_file": "content/posts/2010-02-16-l-irresolu.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/day1.swf",
+          "width": 540,
+          "height": 749,
+          "fullscreen": false,
+          "sha256": "f72e4770036935ae444caafb7cbd36e7dc8e3dcb5632b1e3d1e73abf39d74267",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/day1.swf",
+          "insert_before": "![](/wp-content/uploads/2011/dotclear/screen1.jpg)  \n\n (sample : Morcheeba\\_ Big Calm)\n"
+        }
+      ]
+    },
+    {
+      "post_id": "2055",
+      "article_url": "/2010/02/20/jour-3-wanderer/",
+      "source_file": "content/posts/2010-02-20-jour-3-wanderer.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/day3.swf",
+          "width": 540,
+          "height": 749,
+          "fullscreen": false,
+          "sha256": "4f5281fa3afd05a9e444d20f8bfa6d2b677314ddc93e4e055f0b5e944efcdbe7",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/day3.swf",
+          "insert_before": "![](/wp-content/uploads/2011/dotclear/screen3.jpg)  \n\n (sample: Portishead\\_Wandering Star)\n"
+        }
+      ]
+    },
+    {
+      "post_id": "2056",
+      "article_url": "/2010/02/22/jour-4-en-proie/",
+      "source_file": "content/posts/2010-02-22-jour-4-en-proie.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/day4.swf",
+          "width": 540,
+          "height": 749,
+          "fullscreen": false,
+          "sha256": "2931d935718e6e443899920197c56f3032a92ef2a5b4218ba04986f555e4110b",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/day4.swf",
+          "insert_before": "![](/wp-content/uploads/2011/dotclear/screen3.jpg)  \n\n (sample: Portishead\\_Roads)\n"
+        }
+      ]
+    },
+    {
+      "post_id": "2057",
+      "article_url": "/2010/02/23/jour-5-a-l-oubli/",
+      "source_file": "content/posts/2010-02-23-jour-5-a-l-oubli.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/day5.swf",
+          "width": 540,
+          "height": 749,
+          "fullscreen": false,
+          "sha256": "a75444877538f626ae9cc119cd76c5484e16a095015f738307fc2e473f7755c8",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/day5.swf",
+          "insert_before": "![](/wp-content/uploads/2011/dotclear/screen3.jpg)  \n\n (sample: Amon Tobin\\_Delpher)\n"
+        }
+      ]
+    },
+    {
+      "post_id": "2058",
+      "article_url": "/2010/03/01/jour-6-apocryphe/",
+      "source_file": "content/posts/2010-03-01-jour-6-apocryphe.md",
+      "provenance": "snapshot",
+      "source_path": "backup_ftp/blog/wordpress/wp-content/uploads/simply-static/temp-files/simply-static-1-1771679917/2010/03/01/jour-6-apocryphe/index.html",
+      "source_sha256": "5292867c993a347c997b9de8a8f71599935eddfffd192b32907d7f7f5a15b381",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/day6.swf",
+          "width": 540,
+          "height": 749,
+          "fullscreen": false,
+          "sha256": "d872b45c8c7559021ba7bdd938221eedd6c647ae391bc00e1d7fc3bd24a8b8f8",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/day6.swf",
+          "insert_before": "![](/wp-content/uploads/2011/dotclear/screen3.jpg)  \n\n (sample: Prodigy\\_Invaders must die)\n"
+        }
+      ]
+    },
+    {
+      "post_id": "2060",
+      "article_url": "/2010/03/12/jour-8-technique-mimetique/",
+      "source_file": "content/posts/2010-03-12-jour-8-technique-mimetique.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/day8.swf",
+          "width": 540,
+          "height": 749,
+          "fullscreen": false,
+          "sha256": "75e49409debfbde96edabba6eb30637747db962b6f8d8ff0c9fe454f89f721e7",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/day8.swf",
+          "insert_before": "![](/wp-content/uploads/2011/dotclear/screen3.jpg)  \n\n (sample: Amon Tobin\\_\\_Technique)\n"
+        }
+      ]
+    },
+    {
+      "post_id": "2061",
+      "article_url": "/2010/03/15/jour-9-l-echec/",
+      "source_file": "content/posts/2010-03-15-jour-9-l-echec.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/day9.swf",
+          "width": 540,
+          "height": 749,
+          "fullscreen": false,
+          "sha256": "f9fe6982b45e0b367479b9e997e5e532deeb1427618d5e73081d64cd357df2fa",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/day9.swf",
+          "insert_before": "![](/wp-content/uploads/2011/dotclear/screen3.jpg)  \n\n (sample: Infected Mushroom\\_\\_Roll us a giant"
+        }
+      ]
+    },
+    {
+      "post_id": "2062",
+      "article_url": "/2010/03/23/jour-10-la-boucle-a-suivre/",
+      "source_file": "content/posts/2010-03-23-jour-10-la-boucle-a-suivre.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/day10.swf",
+          "width": 540,
+          "height": 749,
+          "fullscreen": false,
+          "sha256": "7a22679cf352685de7e9a04b9bd7564f4355fec5fa1c0bbfec4b0dd737c1e60c",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/day10.swf",
+          "insert_before": " (sample: Abd al Malik\\_\\_Le Marseillais)\n"
+        }
+      ]
+    },
+    {
+      "post_id": "1888",
+      "article_url": "/2010/10/13/le-cercle-vertueux/",
+      "source_file": "content/posts/2010-10-13-le-cercle-vertueux.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/receptive.swf",
+          "width": 560,
+          "height": 1170,
+          "fullscreen": false,
+          "sha256": "74e4c4743b0fabe63445752ea320cc58d415924093f64530af0d8e377b2ee8dd",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/receptive.swf",
+          "insert_before": "(sample: Younger Brother\\_\\_the receptive)\n"
+        }
+      ]
+    },
+    {
+      "post_id": "2063",
+      "article_url": "/2011/02/14/jour-11-gimmick/",
+      "source_file": "content/posts/2011-02-14-jour-11-gimmick.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/day11.swf",
+          "width": 540,
+          "height": 749,
+          "fullscreen": false,
+          "sha256": "d2aa2e925eb8777ceb1436cc254c1f24be6b20dd6a380638b8489662460e36e5",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/day11.swf",
+          "insert_before": " (sample: Britney spears (lowtone)\\_\\_gimme)\n"
+        }
+      ]
+    },
+    {
+      "post_id": "2067",
+      "article_url": "/2011/02/25/jour-15-hal/",
+      "source_file": "content/posts/2011-02-25-jour-15-hal.md",
+      "provenance": "snapshot",
+      "source_path": "backup_ftp/blog/wordpress/wp-content/uploads/simply-static/temp-files/simply-static-1-1771679917/2011/02/25/jour-15-hal/index.html",
+      "source_sha256": "257fbd8b83d52109163667f1198d6f09d62a37996ace66ee871d78e6a7a4818b",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/day15.swf",
+          "width": 540,
+          "height": 749,
+          "fullscreen": false,
+          "sha256": "102f9e99a328dbf149a6c72edee766bf931a01d7f92f6533f0dbd832ae4ff66e",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/day15.swf",
+          "insert_before": "\n\n \\*tromperie, stratagème, simulation\n\n(sample: Infected Mushroom\\_ Project100)\n"
+        }
+      ]
+    },
+    {
+      "post_id": "2071",
+      "article_url": "/2011/03/07/jour-19-la-foudre-frappe-le-marabout-rode/",
+      "source_file": "content/posts/2011-03-07-jour-19-la-foudre-frappe-le-marabout-rode.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/day19.swf",
+          "width": 540,
+          "height": 749,
+          "fullscreen": false,
+          "sha256": "418bcfb1afe6daba95316ae5530663b20f866a0dadaa0f323fa2928ac182755c",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/day19.swf",
+          "insert_before": ""
+        }
+      ],
+      "audio": [
+        {
+          "kind": "audio",
+          "src": "/wp-content/uploads/2011/dotclear/son/everyoneintheworld.mp3",
+          "sha256": "c000379c95baf9bd409f0aac3f49388129682dd585c0ad04dee72e3ddd218446",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/son/everyoneintheworld.mp3",
+          "position": "start",
+          "insert_before": ""
+        }
+      ]
+    },
+    {
+      "post_id": "2072",
+      "article_url": "/2011/03/09/jour-20-le-trouble-son-repas/",
+      "source_file": "content/posts/2011-03-09-jour-20-le-trouble-son-repas.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/day20.swf",
+          "width": 540,
+          "height": 749,
+          "fullscreen": false,
+          "sha256": "96f996ee7930a4d5edbaddd02dcb735473fd9b93bf14b05af65cf145a4da8361",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/day20.swf",
+          "insert_before": "  \n\n (sample: Sauvage\\_ Wolves)   \n"
+        }
+      ]
+    },
+    {
+      "post_id": "2074",
+      "article_url": "/2011/03/17/jour-22-le-grand-hop-kachina/",
+      "source_file": "content/posts/2011-03-17-jour-22-le-grand-hop-kachina.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/day22.swf",
+          "width": 540,
+          "height": 749,
+          "fullscreen": false,
+          "sha256": "433df6923ca5dd000134609e7408388c4136ca0265e72af37dcc1e945625e176",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/day22.swf",
+          "insert_before": "  \n\n (sample: Onra\\_ The Anthem)   \n"
+        }
+      ]
+    },
+    {
+      "post_id": "2080",
+      "article_url": "/2011/04/04/jour-28-l-ame-captive/",
+      "source_file": "content/posts/2011-04-04-jour-28-l-ame-captive.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/day28.swf",
+          "width": 540,
+          "height": 749,
+          "fullscreen": false,
+          "sha256": "4f99b351da1fb2a8071e9c0799a5e0c27c3f870b0125b90259da0dcfec7f2099",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/day28.swf",
+          "insert_before": "  \n\n (musique: Step)   \n"
+        }
+      ]
+    },
+    {
+      "post_id": "2081",
+      "article_url": "/2011/04/06/jour-29-un-lieu-singulier/",
+      "source_file": "content/posts/2011-04-06-jour-29-un-lieu-singulier.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/day29.swf",
+          "width": 540,
+          "height": 749,
+          "fullscreen": false,
+          "sha256": "4e407a770c17fd51086f445d545a20a4c42ed38ae4fe08c84cf012e42b527dc8",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/day29.swf",
+          "insert_before": " (sample: Muse\\_Bliss (inverse))   \n"
+        }
+      ]
+    },
+    {
+      "post_id": "2082",
+      "article_url": "/2011/04/08/jour-30-l-emprise/",
+      "source_file": "content/posts/2011-04-08-jour-30-l-emprise.md",
+      "provenance": "xml",
+      "source_path": "step.WordPress.2026-11-15.xml",
+      "source_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+      "movies": [
+        {
+          "src": "/wp-content/uploads/2011/dotclear/day30.swf",
+          "width": 540,
+          "height": 749,
+          "fullscreen": false,
+          "sha256": "32b66f1ac6f8cc6c92746901ecdee01982112c20a0c5e8ef40e6b5aaf7f8129d",
+          "backup_path": "backup_ftp/blog/wordpress/wp-content/uploads/2011/dotclear/day30.swf",
+          "insert_before": "  \n\n (sample: kabal\\_Le futur meurt en silence)   \n"
+        }
+      ]
+    }
+  ]
+}

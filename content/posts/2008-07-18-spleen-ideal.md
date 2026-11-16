@@ -9,6 +9,6 @@ post_id: '1764'
 title: Spleen &amp; id&eacute;al
 url: /2008/07/18/spleen-ideal/
 ---
-  
+{{< ruffle src="/wp-content/uploads/2011/dotclear/spleen.swf" width="540" height="729" fullscreen="false" >}}
 
- (Sample --> Sebastien Tellier\_ Ritournelle )
+(Sample --> Sebastien Tellier\_ Ritournelle )

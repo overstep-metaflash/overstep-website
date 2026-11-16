@@ -9,15 +9,16 @@ post_id: '1980'
 title: 'Jour10 : S''incliner ?'
 url: /2008/03/27/jour10-s-incliner/
 ---
-on dirait bien que notre héros se retrouve bloqué en prison :/  
+on dirait bien que notre héros se retrouve bloqué en prison :/
 
- l'oeuf ne peut bien evidemment pas l'aider dans pareil endroit...  
+ l'oeuf ne peut bien evidemment pas l'aider dans pareil endroit...
 
- l'aide devra venir de l'exterieur.   
+ l'aide devra venir de l'exterieur.
 
- donc vous !  
+ donc vous !
 
- une idée vite une idée :O   
+ une idée vite une idée :O
 
+{{< ruffle src="/wp-content/uploads/2011/dotclear/J10.swf" width="540" height="729" fullscreen="false" >}}
 
- (Sample from : Wax Tailor\_positively inclined )
+(Sample from : Wax Tailor\_positively inclined )

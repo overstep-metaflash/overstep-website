@@ -9,6 +9,6 @@ post_id: '1960'
 title: Le corridor de la psych&eacute;
 url: /2007/03/29/le-corridor-de-la-psyche/
 ---
-  
+{{< ruffle src="/wp-content/uploads/2011/dotclear/29_40j.swf" width="540" height="729" fullscreen="false" >}}
 
- (sample : ghost of the marble hall ")
+(sample : ghost of the marble hall ")

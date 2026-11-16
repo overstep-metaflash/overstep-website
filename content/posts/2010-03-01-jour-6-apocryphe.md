@@ -11,7 +11,10 @@ url: /2010/03/01/jour-6-apocryphe/
 ---
 C'est à vous de proposer la suite. Lisez le [>réglement<](/40jours/reglement.htm)
 
-**Quanta** propose :"pour la suite, il pourrait être repêché et reprendre connaissance dans la partie d'un temple qui servait autrefois pour les bains royaux".   
-![](/wp-content/uploads/2011/dotclear/screen3.jpg)  
+**Quanta** propose :"pour la suite, il pourrait être repêché et reprendre connaissance dans la partie d'un temple qui servait autrefois pour les bains royaux".
+
+{{< ruffle src="/wp-content/uploads/2011/dotclear/day6.swf" width="540" height="749" fullscreen="false" >}}
+
+![](/wp-content/uploads/2011/dotclear/screen3.jpg)
 
  (sample: Prodigy\_Invaders must die)

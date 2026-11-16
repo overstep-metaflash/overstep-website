@@ -9,6 +9,6 @@ post_id: '1975'
 title: 'Jour5 : Toujours plus haut !'
 url: /2008/03/20/jour5-toujours-plus-haut/
 ---
-  
+{{< ruffle src="/wp-content/uploads/2011/dotclear/J5.swf" width="540" height="729" fullscreen="false" >}}
 
- (Sample from : Tetris\_highscore music )
+(Sample from : Tetris\_highscore music )

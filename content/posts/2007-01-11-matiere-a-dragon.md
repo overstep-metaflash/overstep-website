@@ -9,3 +9,4 @@ post_id: '1807'
 title: Mati&egrave;re &agrave; dragon
 url: /2007/01/11/matiere-a-dragon/
 ---
+{{< ruffle src="/wp-content/uploads/2011/dotclear/approche.swf" width="550" height="390" fullscreen="false" >}}

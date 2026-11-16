@@ -13,4 +13,6 @@ _le 100 ème post \\o/
 _
 _et le hasard comme par hasard veut que ce soit aussi mon anniversaire ! ouééééé !_
 
+{{< ruffle src="/wp-content/uploads/2011/dotclear/angel.swf" width="399" height="557" fullscreen="false" >}}
+
 ( sample : Asura "Raindust" )

@@ -9,6 +9,6 @@ post_id: '2008'
 title: 'Jour36 : Le prix du miel'
 url: /2008/06/20/jour36-le-prix-du-miel/
 ---
-  
+{{< ruffle src="/wp-content/uploads/2011/dotclear/J36.swf" width="540" height="729" fullscreen="false" >}}
 
- (Sample : Robocod )
+(Sample : Robocod )

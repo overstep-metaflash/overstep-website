@@ -9,4 +9,6 @@ post_id: '1860'
 title: involution...
 url: /2006/02/16/involution/
 ---
-(sample : **Toki** ( intro atari ))  
+(sample : **Toki** ( intro atari ))
+
+{{< ruffle src="/wp-content/uploads/2011/dotclear/toki.swf" width="471" height="450" fullscreen="false" >}}

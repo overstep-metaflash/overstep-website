@@ -9,6 +9,6 @@ post_id: '1993'
 title: 'Jour22 : Glisser sur le vert'
 url: /2008/04/28/jour22-glisser-sur-le-vert/
 ---
-  
+{{< ruffle src="/wp-content/uploads/2011/dotclear/J22.swf" width="540" height="729" fullscreen="false" >}}
 
- (Sample : Infected Mushroom\_Before)   
+(Sample : Infected Mushroom\_Before)
