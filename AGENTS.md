@@ -21,6 +21,9 @@ Current references:
 - `docs/audits/2026-11-16-image-recovery.md`: four restored article images from
   issue #3, source evidence, regression coverage and root/project-prefix HTTP
   verification. Browser decoding and visual acceptance remain pending.
+- `docs/audits/2026-11-16-radio.md`: Spotify replacement, historical track
+  comparison, accepted unavailable-track omission, embedded player and dark theme.
+  The route is restored; version and browser acceptance remain pending in #4.
 - GitHub issues #1–#7: cleanup, original media, radio and URL follow-up tasks.
   Issues #2 and #4 explicitly require every Flash totem menu button to work.
 - `docs/preproduction-review.md`: build, release gates and known limitations.
@@ -83,7 +86,7 @@ A successful restart is an operational recovery, not proof of an upstream fix.
 - Preserve article `url` and `post_id`, taxonomy paths, date archives, comment IDs
   and parent relationships. The baseline is 470 published articles, 10 excluded
   drafts, 21 restored attachment pages and 2,639 rendered archived comments.
-- Eros (`/eros/`) and Galerie (`/gallery/`) are additional navigation collections,
+- Eros (`/eros/`), Galerie (`/gallery/`) and Radio (`/radio/`) are navigation collections,
   outside the 491 historical article/attachment pages. Use `layout: collection`
   for these pages; do not invent article dates, post IDs or comment associations.
 - Article source filenames use `YYYY-MM-DD-original-url-slug.md`, based on
@@ -151,14 +154,15 @@ tests for all six page/prefix contexts are not evidence of real hotspot activati
 Issue #2 must not be marked complete until that matrix and its radio dependency
 are satisfied; consult the recovery review for the outstanding checks.
 
-On 2026-11-16 Chrome DevTools could not start because Google Chrome was absent;
-browser inventory access was unavailable and native Zen access was denied. The
-owner authorized installing Chrome with Homebrew, but the attempt failed because
-the environment could not write under `/opt/homebrew`. Recheck current tool
-availability, reuse that installation authorization if needed, and respect the
-environment's write/access limits. Do not apply Homebrew's suggested ownership or
-permission changes as a workaround. Keep browser acceptance pending until an
-authorized browser actually verifies the page.
+On 2026-11-16 the initial Chrome installation attempt failed under `/opt/homebrew`.
+Chrome was subsequently found at `/Applications/Google Chrome.app`, and DevTools
+could list a blank page. Opening Spotify was refused with `MCP tool call requires
+approval, but approval policy is never`. Browser installation and browser-control
+permission are separate checks. The owner requested `on-request` for future
+sessions; the local Codex config was updated while retaining `workspace-write`.
+This does not change an active session's effective policy. Recheck active tool
+permissions before retrying, respect denials, and do not bypass them through
+another browser mechanism or change Homebrew ownership/permissions.
 
 ## Security and original-media recovery
 
@@ -216,6 +220,8 @@ authorized browser actually verifies the page.
 - Keep raw backups, drafts, private metadata, tool installations, caches, raw
   reports and logs out of Git. Reviewed public-safe audit evidence under `docs/`
   is allowed; never commit whole backups or private recovery inputs.
+  `migration/` is not ignored as a whole. Store retrieved Spotify HTML/JSON under
+  `migration/cache/radio/` and verify ignored status before writing raw evidence.
 
 ## Audio and publication
 
@@ -232,9 +238,31 @@ these soundtracks. Verify actual audio payloads and compare their hashes with th
 excluded radio inventory when recovering more assets. Update `docs/media-rights.json`
 without changing its publication gate.
 
-The owner has no replacement playlist URL yet. Keep `/radio/` explicitly pending
-under issue #4 and retain its intended menu mapping. Do not substitute an unrelated
-destination, claim radio acceptance, or invent a playlist URL.
+The owner supplied the Spotify playlist on 2026-11-16:
+`https://open.spotify.com/playlist/6AH0ucKZlI1gOCzLEjqDjx`.
+`/radio/` embeds its official Spotify player, retains a fallback link and lists
+its 16 tracks. The owner accepted the missing, unavailable track; see
+`docs/audits/2026-11-16-radio.md` for comparison with the 17 historical identifiers
+and remaining version/browser review. The absent identifier is Another World — End;
+the omission approval does not establish recording equivalence for the other
+tracks. Retain the menu
+mapping to `/radio/`; do not claim browser acceptance without actual hotspot tests.
+
+Keep the player on Spotify's neutral dark theme (`?theme=0`); the owner rejected
+the default artwork-derived green against the site's blue/black design. Preserve
+the accessible iframe title, `width="100%"`, `height="352"`, fullscreen and Spotify
+playback permissions, especially `encrypted-media`. No additional SDK, credentials
+or parent-page script is needed. Keep the fallback playlist link and ordered
+track list, without the sharing URL's tracking query parameter.
+
+`tests/test_radio.py` renders the actual radio Markdown and collection layout at
+root and project-prefix base URLs, requiring the exact dark-theme iframe URL,
+playback permissions and all 16 linked tracks. Its synthetic Hugo configuration
+enables the same reviewed raw HTML rendering as the site. A successful build or
+HTTP response does not prove Spotify playback. The owner's screenshot confirms
+that the initial green player rendered; dark-theme visual acceptance, audio and
+the full totem matrix remain pending. The current verification baseline is 74
+Python tests, seven JavaScript tests and four unresolved non-radio destinations.
 
 The selected Pages target is
 `https://overstep-metaflash.github.io/overstep-website/`, without a custom domain

@@ -10,8 +10,9 @@ remains the record of the pre-recovery findings.
 
 Issue #2 remains open for:
 
-- The radio playlist dependency in #4. The owner has no replacement playlist URL
-  yet; `/radio/` remains unresolved. Its menu mapping retains that intended route.
+- The radio acceptance dependency in #4. The owner subsequently supplied the
+  Spotify playlist; `/radio/` now resolves. See the [radio review](2026-11-16-radio.md)
+  for the track comparison and remaining version/browser acceptance.
 - Representative playback and actual activation of every menu hotspot in the six
   contexts below. Successful builds and configuration tests establish neither
   animated visual fidelity nor audio/ActionScript compatibility.
@@ -64,7 +65,7 @@ destinations. A test compares it with the actual menu bytes.
 | 40 jours | `http://metaflash.fr/40jours.html` | `/category/40-jours/` |
 | Photos | `http://overstep.free.fr/photos.html` | `/category/photos/` |
 | Galerie | `http://metaflash.fr/menu2.html` | `/gallery/` |
-| Radio | `http://www.overstep.fr/radio/` | `/radio/` — pending #4 |
+| Radio | `http://www.overstep.fr/radio/` | `/radio/` — Spotify playlist; browser acceptance pending #4 |
 | Contact | Original public `mailto:` action | Same action; no message sent |
 
 The Eros collection retains 23 migrated article selections in source order.

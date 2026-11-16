@@ -73,9 +73,9 @@ The two unavailable external images remain referenced for review:
   HTML rather than an image, so it was not accepted as a recovered asset.
 - `http://www.towhomitmayconcern.cc/site/assets/files/1099/vista500px.gif`: 404.
 
-Five local destinations remain unresolved and explicitly listed in
+Four local destinations remain unresolved and explicitly listed in
 `remaining-local-links.json`: a historical Semelles attachment route, an old
-Dotclear `index.php` comment link, a malformed `liens.html)` link, `/radio/`, and
+Dotclear `index.php` comment link, a malformed `liens.html)` link, and
 the Fifth Axis game/emulator ZIP. The ZIP exists in the backup but includes a
 game disk image and executable; it is not added to this release without review.
 CI fails for any newly missing local destination outside this recorded list.
@@ -93,7 +93,11 @@ SWFs were copied. `flash-recovery.json` and the output validator reconcile actua
 article players, source dimensions, order and file bytes. See the
 [Flash recovery review](audits/2026-11-16-flash-recovery.md) for provenance and the
 pending manual acceptance matrix. Issue #2 remains open for browser verification
-and the radio playlist dependency in #4.
+and the remaining radio/version acceptance in #4. The owner subsequently supplied
+the Spotify playlist, now embedded on `/radio/` with a fallback link and its
+16-track list. The owner accepted omitting the unavailable track. See the
+[radio review](audits/2026-11-16-radio.md)
+for the historical comparison and outstanding version/browser checks.
 
 ## Ruffle and historical URLs
 
@@ -108,8 +112,8 @@ The menu's eight historical destinations now have explicit mappings. Eros and
 Galerie have local collection pages. Six button action tags have current-tab
 targets changed to `_blank`, because Ruffle blocks those targets with script
 access disabled; artwork data is preserved. URL rewrite rules retain the root or
-Pages prefix. Script access remains disabled. The radio mapping retains `/radio/`,
-pending the owner's playlist URL. Every hotspot still needs browser verification.
+Pages prefix. Script access remains disabled. The radio mapping opens the new
+`/radio/` playlist page. Every hotspot still needs browser verification.
 
 The public post-ID map supports numeric `?p=ID` links through a same-origin
 JavaScript redirect, preserving `#comment-ID` and the preview path prefix. It is
@@ -150,11 +154,12 @@ rtk proxy python3 -m http.server 1315 --bind 127.0.0.1 --directory public-previe
 Open `http://localhost:1315/overstep-website/`. Create the symlink only once.
 For ordinary editing, use the Hugo server instructions in the root README.
 
-Local validation passed: 72 Python tests, seven JavaScript tests, clean Hugo root
+Local validation passed: 74 Python tests, seven JavaScript tests, clean Hugo root
 and project-prefix production builds with `--panicOnWarning`, and 491 historical
 content pages with all 2,639 sanitized comment anchors and 124 restored Flash
 associations and four audited image associations. Two additional collection pages
-support menu navigation. Five known legacy destinations remain flagged.
+and the Radio playlist page support menu navigation. Four known legacy
+destinations remain flagged.
 The tests use synthetic fixtures and CI requires no private backups. Actual
 Firefox audio/playback and visual inspection remain manual checks.
 

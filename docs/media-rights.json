@@ -406,6 +406,16 @@
     "scope": "The owner confirmed MP3 use except for the legacy radio tracks.",
     "radio_policy": "Replace the 17 legacy radio tracks with a Spotify or Deezer playlist; do not import their MP3 files.",
     "radio_matches_in_public_inventory": 0,
-    "publication_note": "Keep deployment disabled until the radio replacement and content review are completed; this audit does not deploy the site."
+    "publication_note": "Keep deployment disabled until the radio replacement and content review are completed; this audit does not deploy the site.",
+    "radio_playlist": {
+      "provider": "Spotify",
+      "url": "https://open.spotify.com/playlist/6AH0ucKZlI1gOCzLEjqDjx",
+      "provided_on": "2026-11-16",
+      "page": "/radio/",
+      "observed_track_count": 16,
+      "unavailable_track_omission_accepted_by_owner": true,
+      "review": "docs/audits/2026-11-16-radio.md",
+      "remaining_acceptance": "Recording/substitution review and manual browser menu/playback checks."
+    }
   }
 }
