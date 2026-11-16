@@ -102,9 +102,13 @@ injected article links, 124 missing original Flash integrations, four images
 absent from rendered articles, and the legacy radio replacement. Its inventories
 and prioritized GitHub issues are the current content-review baseline.
 
+The 78 recorded injected links have been removed; see the
+[cleanup and reconciliation](docs/audits/2026-11-16-link-cleanup.md).
+Tests and release validation reject reintroduction of these reviewed payloads.
+
 This initial version supports continued review; production cutover is pending.
 Known gaps include two externally hosted images, several legacy links, the pending
-radio replacement, and source spam links requiring editorial cleanup.
+radio replacement, and the remaining content/media audit follow-ups.
 Browser playback and visual fidelity still need manual checks.
 Firefox may warn about WebGL diagnostics and block audio autoplay; Ruffle cannot
 override browser audio policy.

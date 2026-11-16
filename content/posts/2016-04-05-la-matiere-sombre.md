@@ -11,4 +11,4 @@ url: /2016/04/05/la-matiere-sombre/
 ---
 {{< ruffle src="/wp-content/uploads/2016/04/matière-sombre.swf" width="640" height="910" >}}
 
-(Musique : Johann Johannsson "The border") [Bhad Bhabie nude video](https://bhadbhabieonlyfans.blog/)
+(Musique : Johann Johannsson "The border")

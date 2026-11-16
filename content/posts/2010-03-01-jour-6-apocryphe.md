@@ -9,8 +9,6 @@ post_id: '2058'
 title: 'JOUR 6 : Apocryphe'
 url: /2010/03/01/jour-6-apocryphe/
 ---
-[macca sexy](https://bestmsg4you.com/model/macca.jp)
-
 C'est à vous de proposer la suite. Lisez le [>réglement<](/40jours/reglement.htm)
 
 **Quanta** propose :"pour la suite, il pourrait être repêché et reprendre connaissance dans la partie d'un temple qui servait autrefois pour les bains royaux".   

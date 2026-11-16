@@ -9,6 +9,4 @@ post_id: '1953'
 title: Champs de po&eacute;sie
 url: /2007/03/19/poesie-libre/
 ---
-[leaked Roo\_Maggoo](https://justicia4migrantworkers.org/profile/roo_maggoo89)  
-
  (sample : Cosma - We are the same")

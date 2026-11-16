@@ -9,6 +9,4 @@ post_id: '1879'
 title: Syndrome Tetsuo
 url: /2008/08/13/syndrome-tetsuo/
 ---
-[valerie vaughn nude](https://saverestaurants.co/)  
-
  (Sample --> DBZ ost\_majinvegeta)

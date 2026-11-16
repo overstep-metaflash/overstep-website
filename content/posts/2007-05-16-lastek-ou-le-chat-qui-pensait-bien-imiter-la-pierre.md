@@ -9,7 +9,7 @@ post_id: '1751'
 title: 'Lastek  ou : &quot;Le chat qui pensait bien imiter la roche'
 url: /2007/05/16/lastek-ou-le-chat-qui-pensait-bien-imiter-la-pierre/
 ---
-clik sur l'image > [zoey deutch nude spazo96](https://ph7cms.com/)  
+clik sur l'image >  
 
 
 {{< ruffle src="/lastek.swf" width="1200" height="724" >}}

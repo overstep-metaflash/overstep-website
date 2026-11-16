@@ -9,8 +9,6 @@ post_id: '3725'
 title: après le feu
 url: /2016/03/27/apres-le-feu/
 ---
-[eva mendes nude DICK GOBBLER TABBY](https://purebeefrecipes.com/)
-
 {{< ruffle src="/wp-content/uploads/2016/03/last-totem.swf" width="640" height="910" >}}
 
 (Musique : ? )

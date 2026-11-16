@@ -9,5 +9,5 @@ post_id: '1843'
 title: Furieux !
 url: /2005/12/14/furieux-brouillon/
 ---
-_Ya des jours comme ça où se canaliser semble impossible... [Allnatural Me eliza dushku nude](https://fredericklawolmsted.com/)_
+_Ya des jours comme ça où se canaliser semble impossible..._
 \[sample : Striped scratch (dj Mrod & Step)\]

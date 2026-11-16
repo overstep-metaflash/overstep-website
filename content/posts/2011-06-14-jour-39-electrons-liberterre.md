@@ -9,8 +9,6 @@ post_id: '2183'
 title: 'Jour 39: Electrons liberterre'
 url: /2011/06/14/jour-39-electrons-liberterre/
 ---
-[amanda cerny onlyfans A Taste Of Piper](https://pancakesday.com/)
-
  _"it's just another way of thinking"_
 {{< ruffle src="/wp-content/uploads/2011/06/day39.swf" width="540" height="749" >}}
 (sample : Stupeflip "Apocalypse 894")

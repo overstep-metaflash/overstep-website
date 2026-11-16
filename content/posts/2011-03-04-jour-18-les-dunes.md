@@ -10,8 +10,6 @@ title: 'Jour 18: Les dunes'
 url: /2011/03/04/jour-18-les-dunes/
 ---
   
-[kirstentoosweet nude Lexi](https://justicia4migrantworkers.org/)  
-
 
  (musique : Toto " Trip to arrakis " )
 

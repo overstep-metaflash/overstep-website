@@ -9,6 +9,7 @@ from urllib.parse import unquote, urljoin, urlsplit
 
 from prepare_release import read_markdown
 from sanitize_comments import sanitize_comment
+from reviewed_links import load_reviewed_links, reviewed_payloads_present
 
 BLOG = Path(__file__).resolve().parents[1]
 
@@ -49,6 +50,7 @@ def main():
     args = parser.parse_args()
     output = args.directory.resolve()
     comments = json.loads((BLOG / 'data/comments.json').read_text())
+    reviewed_links = load_reviewed_links(BLOG / 'docs/audits/2026-11-16-links.csv')
     by_post = {}
     for comment in comments:
         if sanitize_comment(comment) != comment:
@@ -68,6 +70,9 @@ def main():
             if not target.is_file():
                 raise SystemExit('Missing public path: ' + metadata['url'])
             page = target.read_text()
+            reviews = reviewed_links.get(str(metadata['post_id']), [])
+            if any(reviewed_payloads_present(text, reviews) for text in (body, page)):
+                raise SystemExit('Reviewed article injection reintroduced: ' + source.name)
             expected = {c['id'] for c in by_post.get(metadata['post_id'], [])}
             found = set(re.findall(r'id="comment-(\d+)"', page))
             if found != expected:

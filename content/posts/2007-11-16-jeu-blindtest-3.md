@@ -9,6 +9,6 @@ post_id: '1827'
 title: 'jeu : blindtest #3'
 url: /2007/11/16/jeu-blindtest-3/
 ---
-Sample toujours sur le perso sur le totem ( pour ceux k'on manqué le début ). [elizabeth berkley nude](https://fredericklawolmsted.com/)
+Sample toujours sur le perso sur le totem ( pour ceux k'on manqué le début ).
 
 bonne chance

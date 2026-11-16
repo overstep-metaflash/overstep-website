@@ -9,6 +9,6 @@ post_id: '1797'
 title: tout est funky en amazonie \o/
 url: /2006/01/31/i-live-in-amazonie/
 ---
-d'après une oeuvre originale de [camilla.araujo porn](https://camillaaraujoonlyfans.blog/) [Syphie](http://syphie.com/blog/)  
+d'après une oeuvre originale de [Syphie](http://syphie.com/blog/)  
 
 _(Sample : Shalamar )_

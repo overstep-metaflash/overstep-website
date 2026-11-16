@@ -9,8 +9,6 @@ post_id: '3247'
 title: Vie déracinée
 url: /2014/04/29/vie-deracinee/
 ---
-[how old is sophie raine Klover Kay FREE](https://purebeefrecipes.com/)
-
 <span class="source-color" style="color: #3366ff;">En écho à cette</span> [publication.](/2013/03/14/jour-37-le-dieu-jaloux-qui-aimait-deraciner/ "Le dieu jaloux")<span class="source-color" style="color: #3366ff;">Parce qu'il y avait et parce qu'il y a toujours un dieu ordonnant à ses fidèles le déracinement de tout culte rendu à la Terre... à la Vie.</span>
                                     <span class="source-color" style="color: #3366ff;">...néanmoins...</span><span class="source-color" style="color: #339dfe;">plus insondable qu'un dieu déviant, notre Vie nous regarde... nous aime et veut être aimer.</span>{{< ruffle src="/wp-content/uploads/2014/04/telestai.swf" width="600" height="856" >}}
 <span class="source-color" style="color: #666699;">Musique : Iamamiwhoami "Vista"</span> ---> [\[O\]](http://www.towhomitmayconcern.cc/site/assets/files/1099/vista500px.gif "Vista")

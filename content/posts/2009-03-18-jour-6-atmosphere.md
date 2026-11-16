@@ -9,6 +9,4 @@ post_id: '2018'
 title: 'Jour 6: atmosph&egrave;re'
 url: /2009/03/18/jour-6-atmosphere/
 ---
-[sophieraiin](https://sophierain.blog/)  
-
  (Sample --> Prodigy\_ smack my bitch up )

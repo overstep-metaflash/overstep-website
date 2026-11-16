@@ -13,6 +13,6 @@ Le weekend dernier nous avons confectionné un arc pour mon neveu. On est allé 
 
 Au bout de 10 minutes, en plein coeur de cette amazonie locale, quelque chose d'irrémédiable se produit : l'appel de l'estomac ( ou peut être une agression par une feuille d'arbre :/). Le verdict est sans appel ! il veut rentrer illico à la maison. j'en ai alors profité pour glisser une super blague que je retranscris ici (euh lui ça ne l'a pas fait marrer ).  
 
-Je vous rassure qd même (des fois que vous penseriez que je suis cruel), son arc il ne le quitte plus. Et maintenant quand je lui demande s'il préfère les cowboys ou les indiens, c'est presque avec conviction qu'il y répond. (victory ! o/). [corinna kopf pussy](https://corinnakopfonlyfans.blog/)
+Je vous rassure qd même (des fois que vous penseriez que je suis cruel), son arc il ne le quitte plus. Et maintenant quand je lui demande s'il préfère les cowboys ou les indiens, c'est presque avec conviction qu'il y répond. (victory ! o/).
 
 ![](/wp-content/uploads/2011/dotclear/fessblanche_kiflipe.jpg)

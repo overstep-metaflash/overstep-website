@@ -9,6 +9,4 @@ post_id: '2040'
 title: 'Jour 28: &quot;appelle une facette&quot;'
 url: /2009/05/07/jour-28-appelle-une-facette/
 ---
-[sophie rain real name jus-10\_22](https://justicia4migrantworkers.org/)  
-
  (sample : Peaches\_Lose you)

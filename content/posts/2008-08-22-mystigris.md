@@ -9,6 +9,4 @@ post_id: '1880'
 title: MystiGris
 url: /2008/08/22/mystigris/
 ---
-[giorgi-nareklishvili matheson](https://docslide.us/person/giorgi-nareklishvili)  
-
  (Sample --> Naked Funk\_don't touch duane barry)

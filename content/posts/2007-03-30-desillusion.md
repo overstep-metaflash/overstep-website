@@ -9,6 +9,4 @@ post_id: '1961'
 title: D&eacute;sillusion
 url: /2007/03/30/desillusion/
 ---
-[bickett xxx wang-xueer](https://docslide.us/person/wang-xueer)  
-
  (sample : Slayer\_ Ghost of war ")

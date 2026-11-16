@@ -12,7 +12,7 @@ url: /2016/06/21/40-jours-ou-presque-petit-topo-avant-propos/
 Salutations à tous,
 Avant de commencer cette nouvelle saison, j'aimerais évoquer quelques changements concernant le déroulement:
 
-Le [Cory simpcity angie](https://ps3-fan.net/model/beautiful_garbage79) <span class="source-color" style="color: #ccffff;">premier point</span> concerne l'idée même que "les 40 jours" avaient pour habitude de faire 40 images. La durée sera subjective et donc le nombre d'illustrations pourra largement dépasser le nombre de jours. L'idée serait alors de découper l'histoire sous forme de chapitres. Un chapitre faisant entre une dizaine et une vingtaine d'illustrations.
+Le <span class="source-color" style="color: #ccffff;">premier point</span> concerne l'idée même que "les 40 jours" avaient pour habitude de faire 40 images. La durée sera subjective et donc le nombre d'illustrations pourra largement dépasser le nombre de jours. L'idée serait alors de découper l'histoire sous forme de chapitres. Un chapitre faisant entre une dizaine et une vingtaine d'illustrations.
 
 Le <span class="source-color" style="color: #ccffff;">second point</span> concerne votre potentielle participation :  Si à un moment de l'aventure vous êtes inspirés et que vous voulez partager une idée pour faire avancer le personnage, n'hésitez pas à la soumettre dans les commentaires. Je suis assez curieux de voir si tout peux rester cohérent tel quel… ou si je devrais faire de gros efforts pour que ça s'adapte x)
 A titre d’exemple, votre participation peut se résumer au partage d’une musique, dont le titre pourra très bien m’évoquer une scène.

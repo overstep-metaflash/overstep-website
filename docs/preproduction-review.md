@@ -79,7 +79,9 @@ Dotclear `index.php` comment link, a malformed `liens.html)` link, `/radio/`, an
 the Fifth Axis game/emulator ZIP. The ZIP exists in the backup but includes a
 game disk image and executable; it is not added to this release without review.
 CI fails for any newly missing local destination outside this recorded list.
-Existing source spam links still require an editorial cleanup decision.
+The 78 audited article spam links and their injected anchor text have been
+removed. See [cleanup evidence and reimport protection](audits/2026-11-16-link-cleanup.md).
+The other content and media audit follow-ups remain open.
 
 ## Ruffle and historical URLs
 

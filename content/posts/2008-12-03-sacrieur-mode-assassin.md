@@ -9,4 +9,4 @@ post_id: '1768'
 title: Sacrieur mode &quot;assassin&quot;
 url: /2008/12/03/sacrieur-mode-assassin/
 ---
-voilà un autre ptit clin d'oeil à mon personnage sur [@alexandralapp creator profile](https://benchmark-lab-2q4.pages.dev/profiles/alexandralapp/) [dofus](http://fr.wikipedia.org/wiki/Dofus)... j'ai voulu approcher la caricature ankamienne, mais il parait qu'il a trop une tête de primate là.![](/wp-content/uploads/2011/dotclear/sacrieur2.jpg)
+voilà un autre ptit clin d'oeil à mon personnage sur [dofus](http://fr.wikipedia.org/wiki/Dofus)... j'ai voulu approcher la caricature ankamienne, mais il parait qu'il a trop une tête de primate là.![](/wp-content/uploads/2011/dotclear/sacrieur2.jpg)

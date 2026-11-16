@@ -9,6 +9,4 @@ post_id: '1932'
 title: Fruit improbable ...
 url: /2007/02/21/fruit-improbable/
 ---
-[victoria34dblgs sex ed](https://cookthatchicken.com/model/victoria34dblgs)
-
 ![](/wp-content/uploads/2011/dotclear/1.jpg)

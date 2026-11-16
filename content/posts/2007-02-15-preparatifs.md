@@ -27,6 +27,4 @@ rappelons le principe : 1 jour -> 1 illustration couleur ( avec même des fois 
 
 il n'y a pas d'histoire établie d'avance, juste une sorte d'improvisation sur mon humeur, mon quotidien dans la "vraie vie" et un renfort d'imagination ( si peu :p ).
 
-. [instagram Pia](https://docslide.us/person/piaxfree)
-
 ... a biental

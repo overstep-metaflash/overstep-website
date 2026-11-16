@@ -14,4 +14,4 @@ post_id: '2648'
 title: 'Jour 27: Le dépouillement'
 url: /2012/07/03/jour-27-le-depouillement/
 ---
-[leaked Roo\_Maggoo](https://justicia4migrantworkers.org/profile/roo_maggoo89)![](/wp-content/uploads/2012/07/saison6_27-1024x576.jpg)
+![](/wp-content/uploads/2012/07/saison6_27-1024x576.jpg)

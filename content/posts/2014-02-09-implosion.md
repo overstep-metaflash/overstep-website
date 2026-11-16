@@ -9,8 +9,6 @@ post_id: '2988'
 title: Implosion
 url: /2014/02/09/implosion/
 ---
-[Eva mayasinger nude](https://porkplates.com/)
-
 <span class="source-color" style="color: #9a61ef;">Un vieux truc retrouvé dans les méandres de mon disk dur...
 Attention au volume de vos enceintes : ça va envoyer d'entrée de jeu 'o'</span>
 

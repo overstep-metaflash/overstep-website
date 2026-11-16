@@ -13,5 +13,5 @@ url: /2006/01/02/le-boss-point-fort-imposant-point-faible-sans-esprit/
 
 {{< ruffle src="/legacy/metaflash/hiroshima.swf" width="1024" height="768" >}}
 
-[Sexybunnygirl24 net worth](https://ph7cms.com/profile/sexybunnygirl24) _clickez pour voir le flash_
+ _clickez pour voir le flash_
 note : il serait assez judicieux de couper votre musique aussi, pour éviter tout risque de chaos sonore biensÃƒÂ»r :)

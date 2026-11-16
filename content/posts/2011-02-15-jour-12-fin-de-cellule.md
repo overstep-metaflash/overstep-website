@@ -9,6 +9,4 @@ post_id: '2064'
 title: 'Jour 12: Fin de cellule'
 url: /2011/02/15/jour-12-fin-de-cellule/
 ---
-[Kris miley cyrus nude](https://cookthatchicken.com/)
-
 ![](/wp-content/uploads/2011/dotclear/day12.jpg)

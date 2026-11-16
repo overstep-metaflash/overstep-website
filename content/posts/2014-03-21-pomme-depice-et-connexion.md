@@ -15,8 +15,6 @@ tags:
 title: Pomme d'épice et Connexion
 url: /2014/03/21/pomme-depice-et-connexion/
 ---
-[Roxxy leaked nudes](https://cookthatchicken.com/model/roxxy777)
-
 <span class="source-color" style="color: #ffffff;">(parenthèse)</span>
 <span class="source-color" style="color: #0066ff;">Nahmloo aurait, semble t'il, fait une excursion dans de lointaines dunes, quelque part sur une planète de notre voie lactée. C'est pour ça qu'il est aussi kwisatz haderach</span>\* <span class="source-color" style="color: #0066ff;">si il veut... quand il veut.</span> <span class="source-color" style="color: #0066ff;">Parcontre il est bien entendu admis que pour faire des glissades, un Kwisatz Haderach puisse manger un peu du fruit mythique : Le fameux fruit proscrit, au demeurant magique... mais proscrit.</span><span class="source-color" style="color: #0066ff;">mais magique</span>_{{< ruffle src="/wp-content/uploads/2014/03/openyoureye.swf" width="600" height="360" >}}_ <span class="source-color" style="color: #666699;">Musique : Astral Projection "SoundForm"</span>
 _\[Wikipédia source\]_

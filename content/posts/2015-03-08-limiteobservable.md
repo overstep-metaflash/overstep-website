@@ -12,7 +12,7 @@ url: /2015/03/08/limiteobservable/
 ---
 Un récent cliché du fond diffus et lointain instant cosmologique :)
 ( je l'ai volé )
- [on instagram Taiane Albuquerque](https://booksmartstudios.org/taialbuquerque-premium)![planck](/wp-content/uploads/2015/03/planck.jpg)
+ ![planck](/wp-content/uploads/2015/03/planck.jpg)
 
 et un autre quelques instants avant... ou après (si on a la tête en bas)
 ![planck2](/wp-content/uploads/2015/03/planck2.jpg)

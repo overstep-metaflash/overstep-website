@@ -9,7 +9,7 @@ post_id: '1861'
 title: 'choc technologique :'
 url: /2006/05/08/choc-technologique/
 ---
-Vous vous demandiez certainement ce que pouvait ressentir le soldat (qu'on voit jamais) à l'interieur de son anterak ? [sophierain](https://sophierain.blog/)  
+Vous vous demandiez certainement ce que pouvait ressentir le soldat (qu'on voit jamais) à l'interieur de son anterak ?  
 
 eh bien...  
 

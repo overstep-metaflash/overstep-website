@@ -13,4 +13,5 @@ title: psychédélic vision (2)
 url: /2014/04/12/psychedelic-vision-2/
 ---
 <span class="source-color" style="color: #0d9643;">Toujours dans le même registre du détail agrandi + effet miroir
-(excusez la qualité...)</span> [sophia rain naked](https://sophierain.blog/)<span class="source-color" style="color: #0d9643;">Cette fois c'est possible qu'on y voit tous la même chose...</span> [![psychedelic(2)](/wp-content/uploads/2014/04/darkdog2.jpg)](/2014/04/12/psychedelic-vision-2/darkdog2/)
+(excusez la qualité...)</span><br>
+<span class="source-color" style="color: #0d9643;">Cette fois c'est possible qu'on y voit tous la même chose...</span> [![psychedelic(2)](/wp-content/uploads/2014/04/darkdog2.jpg)](/2014/04/12/psychedelic-vision-2/darkdog2/)

@@ -14,4 +14,4 @@ post_id: '2547'
 title: 'Jour 19: Liaison verticale'
 url: /2012/05/12/jour-19-liaison-verticale/
 ---
-[laura san giacomo nude](https://teasex.fun/)![](/wp-content/uploads/2012/05/saison6_191-1024x576.jpg)
+![](/wp-content/uploads/2012/05/saison6_191-1024x576.jpg)
