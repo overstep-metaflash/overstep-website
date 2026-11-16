@@ -21,6 +21,12 @@ Current references:
 - `docs/audits/2026-11-16-image-recovery.md`: four restored article images from
   issue #3, source evidence, regression coverage and root/project-prefix HTTP
   verification. Browser decoding and visual acceptance remain pending.
+- `docs/audits/2026-11-16-external-image-recovery.md` and
+  `docs/external-image-recovery.json`: both original linked artwork files from
+  issue #5, recovered from exact archived URLs with matching archive checksums.
+  Keep their article links, local bytes and attribution; both base paths passed
+  HTTP and Chrome link/decoding checks. This does not complete issue #3's separate
+  inline-image visual acceptance.
 - `docs/audits/2026-11-16-radio.md`: Spotify replacement, historical track
   comparison, accepted unavailable-track omission, embedded player and dark theme.
   The route is restored; version and browser acceptance remain pending in #4.
@@ -261,7 +267,7 @@ playback permissions and all 16 linked tracks. Its synthetic Hugo configuration
 enables the same reviewed raw HTML rendering as the site. A successful build or
 HTTP response does not prove Spotify playback. The owner's screenshot confirms
 that the initial green player rendered; dark-theme visual acceptance, audio and
-the full totem matrix remain pending. The current verification baseline is 74
+the full totem matrix remain pending. The current verification baseline is 76
 Python tests, seven JavaScript tests and four unresolved non-radio destinations.
 
 The selected Pages target is

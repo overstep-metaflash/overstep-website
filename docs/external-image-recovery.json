@@ -1,0 +1,33 @@
+[
+  {
+    "post_id": "1910",
+    "source_file": "content/posts/2006-03-25-jour-20-cadavre-exquis.md",
+    "article_url": "/2006/03/25/jour-20-cadavre-exquis/",
+    "original_url": "http://maliki.com/strips/strip_lapeurduvide.jpg",
+    "retrieval_url": "https://web.archive.org/web/20060411124056id_/http://www.maliki.com:80/strips/strip_lapeurduvide.jpg",
+    "artist_page": "https://maliki.com/strips/la-peur-du-vide/",
+    "retrieved_on": "2026-11-16",
+    "local_url": "/recovered/maliki/strip_lapeurduvide.jpg",
+    "content_type": "image/jpeg",
+    "width": 744,
+    "height": 3452,
+    "bytes": 782305,
+    "archive_sha1_base32": "ZJOZ73R7TADYEL3IZD2OBTKQVRAY2L5U",
+    "sha256": "866cd1e9ef685284f3ed59cfbf465a5e627fe945fbcf8872639499b58e136616"
+  },
+  {
+    "post_id": "3247",
+    "source_file": "content/posts/2014-04-29-vie-deracinee.md",
+    "article_url": "/2014/04/29/vie-deracinee/",
+    "original_url": "http://www.towhomitmayconcern.cc/site/assets/files/1099/vista500px.gif",
+    "retrieval_url": "https://web.archive.org/web/20140627103702id_/http://towhomitmayconcern.cc/site/assets/files/1099/vista500px.gif",
+    "retrieved_on": "2026-11-16",
+    "local_url": "/recovered/iamamiwhoami/vista500px.gif",
+    "content_type": "image/gif",
+    "width": 500,
+    "height": 500,
+    "bytes": 944082,
+    "archive_sha1_base32": "QJK2WPSTPZ7AZB6EWTOGXDT77FQPQWI5",
+    "sha256": "318dee99fafb6084e56f855bf6a32a12ddf39f3daa066458dd058af4577c10dc"
+  }
+]

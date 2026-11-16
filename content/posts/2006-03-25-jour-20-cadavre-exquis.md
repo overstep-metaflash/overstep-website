@@ -9,7 +9,7 @@ post_id: '1910'
 title: Jour 20
 url: /2006/03/25/jour-20-cadavre-exquis/
 ---
-Cadavre exquis d'une [BD-strip](http://maliki.com/strips/strip_lapeurduvide.jpg) de [Maliki](http://maliki.com/index.php)  
+Cadavre exquis d'une [BD-strip](/recovered/maliki/strip_lapeurduvide.jpg) de [Maliki](http://maliki.com/index.php)  
 _un p'tit clic sur l'image pour avoir la vraie taille_
 
 

@@ -67,11 +67,14 @@ endpoint.
   from specifically reviewed backup paths, with their image dependencies.
   Obsolete background references were removed. No archived script is executed.
 
-The two unavailable external images remain referenced for review:
-
-- `http://maliki.com/strips/strip_lapeurduvide.jpg`: HTTPS returns 404; HTTP returns
-  HTML rather than an image, so it was not accepted as a recovered asset.
-- `http://www.towhomitmayconcern.cc/site/assets/files/1099/vista500px.gif`: 404.
+The two previously unavailable external artwork files are now recovered from
+archived captures of their original URLs: Maliki's `strip_lapeurduvide.jpg` and
+iamamiwhoami's animated `vista500px.gif`. Their article links now open local
+copies, preserving the original presentation and attribution. Archive checksums,
+local SHA-256 hashes, regression tests, both base-path HTTP checks and Chrome
+link/decoding verification are recorded in the
+[external artwork recovery review](audits/2026-11-16-external-image-recovery.md)
+and [manifest](external-image-recovery.json).
 
 Four local destinations remain unresolved and explicitly listed in
 `remaining-local-links.json`: a historical Semelles attachment route, an old
