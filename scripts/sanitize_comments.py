@@ -6,6 +6,7 @@ import re
 import sys
 from pathlib import Path
 from urllib.parse import urlsplit
+from historical_links import rewrite_comment_links
 
 BLOG = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(BLOG / 'migration/vendor/python'))
@@ -25,6 +26,7 @@ def sanitize_comment(comment):
         attributes={'a': {'href', 'title'}}, url_schemes={'http', 'https', 'mailto'},
         clean_content_tags={'script', 'style', 'iframe', 'object', 'embed', 'svg', 'math', 'template'},
         strip_comments=True, link_rel='nofollow noopener noreferrer')
+    result['content_html'] = rewrite_comment_links(result['content_html'], result)
     url = result.get('author_url', '').strip()
     try:
         parsed = urlsplit(url)

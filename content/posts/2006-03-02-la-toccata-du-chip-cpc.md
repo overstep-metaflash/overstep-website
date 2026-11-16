@@ -20,4 +20,6 @@ _(Musique : Gilles Soulet)_![](/wp-content/uploads/2011/dotclear/5emeaxe.jpg) **
 (problème d'emulation, le son est bof des fois)
 
 et....
-**le jeu + emulateur** (pour windows): [clic](/wp-content/uploads/2011/dotclear/5emeaxe_and_emulator.zip) <----
+**le jeu + emulateur** (pour windows): [archive indisponible](#archival-download) <----
+
+<p id="archival-download">Le téléchargement historique du jeu Le 5e Axe et de son émulateur Windows n’est pas proposé dans cette archive. Le paquet d’origine contient une image du jeu et un ancien exécutable ; sa redistribution n’a pas été validée.</p>

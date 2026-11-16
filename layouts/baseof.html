@@ -23,7 +23,7 @@
       </div>
       <span class="flash-status visually-hidden" role="status">Chargement du totem…</span>
     </div>
-    <nav class="blogroll" aria-label="Liens amis">
+    <nav id="blogroll" class="blogroll" aria-label="Liens amis">
       <h2 class="visually-hidden">Liens</h2>
       <ul>{{ range hugo.Data.blogroll }}<li><a href="{{ .url }}">{{ .name }}</a></li>{{ end }}</ul>
     </nav>

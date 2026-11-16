@@ -32,6 +32,9 @@ Current references:
   The route is restored; version and browser acceptance remain pending in #4.
 - GitHub issues #1–#7: cleanup, original media, radio and URL follow-up tasks.
   Issues #2 and #4 explicitly require every Flash totem menu button to work.
+- `docs/audits/2026-11-16-historical-links.md`: source-reviewed replacements for
+  issue #6, including three distinct Dotclear queries and the unavailable game ZIP.
+  The missing-local-link inventory is now empty; hosting redirects remain pending.
 - `docs/preproduction-review.md`: build, release gates and known limitations.
 - `docs/media-rights.json`: audio inventory and the owner's current instruction.
 - `migration/FIRST-VERSION.md` and other migration notes: historical milestones;
@@ -268,7 +271,9 @@ enables the same reviewed raw HTML rendering as the site. A successful build or
 HTTP response does not prove Spotify playback. The owner's screenshot confirms
 that the initial green player rendered; dark-theme visual acceptance, audio and
 the full totem matrix remain pending. The current verification baseline is 76
-Python tests, seven JavaScript tests and four unresolved non-radio destinations.
+Python tests and seven JavaScript tests. The subsequent historical-link repair
+raised the Python total to 78 and resolved all four missing local path families;
+see `docs/audits/2026-11-16-historical-links.md` for HTTP evidence and hosting limits.
 
 The selected Pages target is
 `https://overstep-metaflash.github.io/overstep-website/`, without a custom domain

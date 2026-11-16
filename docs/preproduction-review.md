@@ -76,12 +76,14 @@ link/decoding verification are recorded in the
 [external artwork recovery review](audits/2026-11-16-external-image-recovery.md)
 and [manifest](external-image-recovery.json).
 
-Four local destinations remain unresolved and explicitly listed in
-`remaining-local-links.json`: a historical Semelles attachment route, an old
-Dotclear `index.php` comment link, a malformed `liens.html)` link, and
-the Fifth Axis game/emulator ZIP. The ZIP exists in the backup but includes a
-game disk image and executable; it is not added to this release without review.
-CI fails for any newly missing local destination outside this recorded list.
+The four originally unresolved local path families now have reviewed internal
+replacements: Semelles opens its original full-size image; three distinct Dotclear
+comment links open their migrated articles and preserve the comments-section
+intent; the malformed links-page target opens the current friend-links list;
+and the Fifth Axis game/emulator download has an explicit archival-unavailability
+notice. The ZIP remains excluded. See the [historical link review](audits/2026-11-16-historical-links.md)
+for exact source evidence, comment preservation and pending hosting-level redirects.
+`remaining-local-links.json` is empty; CI fails for any missing local destination.
 The 78 audited article spam links and their injected anchor text have been
 removed. See [cleanup evidence and reimport protection](audits/2026-11-16-link-cleanup.md).
 The four missing article images are now restored and reconciled against the
@@ -157,12 +159,13 @@ rtk proxy python3 -m http.server 1315 --bind 127.0.0.1 --directory public-previe
 Open `http://localhost:1315/overstep-website/`. Create the symlink only once.
 For ordinary editing, use the Hugo server instructions in the root README.
 
-Local validation passed: 74 Python tests, seven JavaScript tests, clean Hugo root
+Local validation passed: 78 Python tests, seven JavaScript tests, clean Hugo root
 and project-prefix production builds with `--panicOnWarning`, and 491 historical
 content pages with all 2,639 sanitized comment anchors and 124 restored Flash
 associations and four audited image associations. Two additional collection pages
-and the Radio playlist page support menu navigation. Four known legacy
-destinations remain flagged.
+and the Radio playlist page support menu navigation. No missing local destinations
+remain. Twelve HTTP checks confirmed the six repaired historical navigation flows
+at both base paths, including destination fragments and the Semelles image payload.
 The tests use synthetic fixtures and CI requires no private backups. Actual
 Firefox audio/playback and visual inspection remain manual checks.
 
