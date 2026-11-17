@@ -406,6 +406,51 @@
       "sha256": "fb9f705106d3b529b612767c08311bc6cf9e93a0a30f5fe0505619e3f63b9336",
       "referencing_articles": [],
       "redistribution_rights": "confirmed_by_owner"
+    },
+    {
+      "path": "/wp-content/uploads/2011/dotclear/son/alkadynamic.MP3",
+      "bytes": 5474304,
+      "sha256": "dce263283bf78dc4f57a1011c22e722d8f622c99a089a7c36d137c41f71b58b8",
+      "referencing_articles": [
+        "2005-12-13-fouillage-de-grenier.md"
+      ],
+      "redistribution_rights": "confirmed_by_owner"
+    },
+    {
+      "path": "/wp-content/uploads/2011/dotclear/son/intentions.mp3",
+      "bytes": 1801822,
+      "sha256": "5aa26fe02397f490240f319033d42bbe2152742ce074a497500a2ada8fd1d8fc",
+      "referencing_articles": [
+        "2006-01-16-un-regard-sans-haine.md"
+      ],
+      "redistribution_rights": "confirmed_by_owner"
+    },
+    {
+      "path": "/wp-content/uploads/2011/dotclear/son/5emeaxe.mp3",
+      "bytes": 1798896,
+      "sha256": "6a60edc4c9b1011647abb165c836b8107d377e0f96bc271fe77deb1ae886261e",
+      "referencing_articles": [
+        "2006-03-02-la-toccata-du-chip-cpc.md"
+      ],
+      "redistribution_rights": "confirmed_by_owner"
+    },
+    {
+      "path": "/wp-content/uploads/2011/dotclear/son/5emeaxe_action.mp3",
+      "bytes": 1230994,
+      "sha256": "15ed67fd37e66b48a31d99fb61c624fe7b9332cde4ad4f6b7b043d6491c2f467",
+      "referencing_articles": [
+        "2006-03-02-la-toccata-du-chip-cpc.md"
+      ],
+      "redistribution_rights": "confirmed_by_owner"
+    },
+    {
+      "path": "/wp-content/uploads/2011/dotclear/son/makuiscoming.mp3",
+      "bytes": 551706,
+      "sha256": "e90b5999a63ceac9ab78de0ed9309942861d4fa9246c10ef3120e30b64fff80d",
+      "referencing_articles": [
+        "2007-12-03-qingpipih-revient-en-dedicace.md"
+      ],
+      "redistribution_rights": "confirmed_by_owner"
     }
   ],
   "owner_confirmation": {

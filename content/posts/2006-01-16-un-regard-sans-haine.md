@@ -10,5 +10,7 @@ title: un regard sans haine ?
 url: /2006/01/16/un-regard-sans-haine/
 ---
   
+{{< local-audio src="/wp-content/uploads/2011/dotclear/son/intentions.mp3" >}}
+
 _(un p'tit featuring avec Mrod au scratch \\o/!)  
 _

@@ -11,6 +11,8 @@ url: /2010/11/16/l-aube-des-metamorphoses/
 ---
   
 
+{{< spotify-track id="55nMhqYri6xBeKQANnrzAE" title="Infected Mushroom — Project 100" >}}
+
  Infected Mushroom "Project100"
 
 [![](/wp-content/uploads/2011/dotclear/morning.jpg)](/wp-content/uploads/2011/dotclear/morning.html)

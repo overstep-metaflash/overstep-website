@@ -1,0 +1,685 @@
+{
+  "date": "2026-11-17",
+  "source_paths_checked": 63,
+  "published_articles_checked": 470,
+  "records": [
+    {
+      "path": "/wp-content/uploads/2011/dotclear/20_40days.jpg",
+      "classification": "replacement_thumbnail",
+      "original_article_references": [
+        {
+          "url": "/2006/03/25/jour-20-cadavre-exquis/",
+          "title": "Jour 20",
+          "in_xml": true,
+          "in_snapshot": true,
+          "same_payload_rendered": false
+        }
+      ]
+    },
+    {
+      "path": "/wp-content/uploads/2016/12/colibri3-copie.jpg",
+      "classification": "not_embedded_in_retained_article_sources",
+      "original_article_references": []
+    },
+    {
+      "path": "/wp-content/uploads/2016/12/colibri3.jpg",
+      "classification": "replacement_thumbnail",
+      "original_article_references": [
+        {
+          "url": "/2016/12/25/8-la-legende-de-loiseau-mouche/",
+          "title": "8.Rencontre avec l'oiseau-mouche",
+          "in_xml": true,
+          "in_snapshot": true,
+          "same_payload_rendered": false
+        }
+      ]
+    },
+    {
+      "path": "/wp-content/uploads/2016/08/aldoussmoke.jpg",
+      "classification": "replacement_thumbnail",
+      "original_article_references": [
+        {
+          "url": "/2016/08/10/3-les-ombres-generees/",
+          "title": "3.Les ombres générées",
+          "in_xml": true,
+          "in_snapshot": true,
+          "same_payload_rendered": false
+        }
+      ]
+    },
+    {
+      "path": "/wp-content/uploads/2016/02/alpha-1.swf",
+      "classification": "identical_payload_in_article",
+      "original_article_references": [
+        {
+          "url": "/2016/02/03/dragon-du-centaure/",
+          "title": "Dragon du Centaure",
+          "in_xml": true,
+          "in_snapshot": false,
+          "same_payload_rendered": true
+        }
+      ]
+    },
+    {
+      "path": "/wp-content/uploads/2011/dotclear/another.jpg",
+      "classification": "replacement_thumbnail",
+      "original_article_references": [
+        {
+          "url": "/2006/12/29/dont-vous-etes-le-heros/",
+          "title": "dont vous êtes le heros",
+          "in_xml": true,
+          "in_snapshot": true,
+          "same_payload_rendered": false
+        }
+      ]
+    },
+    {
+      "path": "/wp-content/uploads/2017/02/bibop.jpg",
+      "classification": "replacement_thumbnail",
+      "original_article_references": [
+        {
+          "url": "/2017/02/01/10-lenergie-de-bibop/",
+          "title": "10.Le langage mélodique",
+          "in_xml": true,
+          "in_snapshot": true,
+          "same_payload_rendered": false
+        }
+      ]
+    },
+    {
+      "path": "/wp-content/uploads/2016/10/ce-matin.jpg",
+      "classification": "replacement_thumbnail",
+      "original_article_references": [
+        {
+          "url": "/2016/10/23/6-ce-matin-la/",
+          "title": "5.L'orée",
+          "in_xml": true,
+          "in_snapshot": true,
+          "same_payload_rendered": false
+        }
+      ]
+    },
+    {
+      "path": "/wp-content/uploads/2011/07/citation.jpg",
+      "classification": "not_embedded_in_retained_article_sources",
+      "original_article_references": []
+    },
+    {
+      "path": "/wp-content/uploads/2011/12/wallanticyclone.jpg",
+      "classification": "not_embedded_in_retained_article_sources",
+      "original_article_references": []
+    },
+    {
+      "path": "/wp-content/uploads/2015/03/colorbeau1.jpg",
+      "classification": "not_embedded_in_retained_article_sources",
+      "original_article_references": []
+    },
+    {
+      "path": "/wp-content/uploads/2016/02/farfaraway.swf",
+      "classification": "not_embedded_in_retained_article_sources",
+      "original_article_references": []
+    },
+    {
+      "path": "/wp-content/uploads/2011/09/invocation.swf",
+      "classification": "not_embedded_in_retained_article_sources",
+      "original_article_references": []
+    },
+    {
+      "path": "/wp-content/uploads/2016/07/deux.jpg",
+      "classification": "replacement_thumbnail",
+      "original_article_references": [
+        {
+          "url": "/2016/07/18/2-le-vent-du-reveil/",
+          "title": "2.Le vent du réveil",
+          "in_xml": true,
+          "in_snapshot": true,
+          "same_payload_rendered": false
+        }
+      ]
+    },
+    {
+      "path": "/wp-content/uploads/2014/05/dieuours_inthesky.jpg",
+      "classification": "not_embedded_in_retained_article_sources",
+      "original_article_references": []
+    },
+    {
+      "path": "/wp-content/uploads/2017/04/elevationx.jpg",
+      "classification": "replacement_thumbnail",
+      "original_article_references": [
+        {
+          "url": "/2017/04/07/11-la-fleur-qui-eleve/",
+          "title": "11.La Fleur qui élève",
+          "in_xml": true,
+          "in_snapshot": true,
+          "same_payload_rendered": false
+        }
+      ]
+    },
+    {
+      "path": "/wp-content/uploads/2014/05/enkienlil.jpg",
+      "classification": "not_embedded_in_retained_article_sources",
+      "original_article_references": []
+    },
+    {
+      "path": "/wp-content/uploads/2013/12/fin640.jpg",
+      "classification": "replacement_thumbnail",
+      "original_article_references": [
+        {
+          "url": "/2013/11/28/jour-40-lenfante/",
+          "title": "Jour 40 : L'enfanté",
+          "in_xml": true,
+          "in_snapshot": true,
+          "same_payload_rendered": false
+        }
+      ]
+    },
+    {
+      "path": "/wp-content/uploads/2014/05/golgoth66.jpg",
+      "classification": "replacement_thumbnail",
+      "original_article_references": [
+        {
+          "url": "/2014/05/05/golgotha/",
+          "title": "Golgotha",
+          "in_xml": true,
+          "in_snapshot": true,
+          "same_payload_rendered": false
+        }
+      ]
+    },
+    {
+      "path": "/wp-content/uploads/2011/dotclear/hiro.jpg",
+      "classification": "replacement_thumbnail",
+      "original_article_references": [
+        {
+          "url": "/2006/01/02/le-boss-point-fort-imposant-point-faible-sans-esprit/",
+          "title": "HiRoSHI'MASS",
+          "in_xml": true,
+          "in_snapshot": true,
+          "same_payload_rendered": false
+        }
+      ]
+    },
+    {
+      "path": "/wp-content/uploads/2014/02/implosion.jpg",
+      "classification": "replacement_thumbnail",
+      "original_article_references": [
+        {
+          "url": "/2014/02/09/implosion/",
+          "title": "Implosion",
+          "in_xml": true,
+          "in_snapshot": true,
+          "same_payload_rendered": false
+        }
+      ]
+    },
+    {
+      "path": "/wp-content/uploads/2013/08/saison6_39bx.jpg",
+      "classification": "replacement_thumbnail",
+      "original_article_references": [
+        {
+          "url": "/2013/08/16/jour-39-les-noces-chimiques/",
+          "title": "Jour 39: Les Noces Chimiques",
+          "in_xml": true,
+          "in_snapshot": true,
+          "same_payload_rendered": false
+        }
+      ]
+    },
+    {
+      "path": "/wp-content/uploads/2013/08/saison6_39cx.jpg",
+      "classification": "replacement_thumbnail",
+      "original_article_references": [
+        {
+          "url": "/2013/08/16/jour-39-les-noces-chimiques/",
+          "title": "Jour 39: Les Noces Chimiques",
+          "in_xml": true,
+          "in_snapshot": true,
+          "same_payload_rendered": false
+        }
+      ]
+    },
+    {
+      "path": "/wp-content/uploads/2013/08/saison6_39ex.jpg",
+      "classification": "replacement_thumbnail",
+      "original_article_references": [
+        {
+          "url": "/2013/08/16/jour-39-les-noces-chimiques/",
+          "title": "Jour 39: Les Noces Chimiques",
+          "in_xml": true,
+          "in_snapshot": true,
+          "same_payload_rendered": false
+        }
+      ]
+    },
+    {
+      "path": "/wp-content/uploads/2013/08/saison6_39x.jpg",
+      "classification": "replacement_thumbnail",
+      "original_article_references": [
+        {
+          "url": "/2013/08/16/jour-39-les-noces-chimiques/",
+          "title": "Jour 39: Les Noces Chimiques",
+          "in_xml": true,
+          "in_snapshot": true,
+          "same_payload_rendered": false
+        }
+      ]
+    },
+    {
+      "path": "/wp-content/uploads/2014/05/journey.swf",
+      "classification": "not_embedded_in_retained_article_sources",
+      "original_article_references": []
+    },
+    {
+      "path": "/wp-content/uploads/2016/02/condor.jpg",
+      "classification": "not_embedded_in_retained_article_sources",
+      "original_article_references": []
+    },
+    {
+      "path": "/wp-content/uploads/2016/08/1mini.jpg",
+      "classification": "replacement_thumbnail",
+      "original_article_references": [
+        {
+          "url": "/2016/07/12/1-kenoma-lessence-mentale/",
+          "title": "1.Kenoma, l'essence mentale",
+          "in_xml": true,
+          "in_snapshot": true,
+          "same_payload_rendered": false
+        }
+      ]
+    },
+    {
+      "path": "/wp-content/uploads/2014/01/empire.swf",
+      "classification": "identical_payload_in_article",
+      "original_article_references": [
+        {
+          "url": "/2014/01/08/complot-vous-avez-dit-complot/",
+          "title": "Complot ? vous avez dit complot ?",
+          "in_xml": true,
+          "in_snapshot": false,
+          "same_payload_rendered": true
+        }
+      ]
+    },
+    {
+      "path": "/wp-content/uploads/2012/07/saison6_28.jpg",
+      "classification": "not_embedded_in_retained_article_sources",
+      "original_article_references": []
+    },
+    {
+      "path": "/wp-content/uploads/2012/04/saison6_21.jpg",
+      "classification": "not_embedded_in_retained_article_sources",
+      "original_article_references": []
+    },
+    {
+      "path": "/wp-content/uploads/2012/05/saison6_211.jpg",
+      "classification": "not_embedded_in_retained_article_sources",
+      "original_article_references": []
+    },
+    {
+      "path": "/wp-content/uploads/2014/03/nahmbird.swf",
+      "classification": "not_embedded_in_retained_article_sources",
+      "original_article_references": []
+    },
+    {
+      "path": "/wp-content/uploads/2014/03/nahmbird1.swf",
+      "classification": "identical_payload_in_article",
+      "original_article_references": [
+        {
+          "url": "/2014/03/04/la-forme-pensee/",
+          "title": "La forme pensée",
+          "in_xml": true,
+          "in_snapshot": false,
+          "same_payload_rendered": true
+        }
+      ]
+    },
+    {
+      "path": "/wp-content/uploads/2012/10/saison6_32.jpg",
+      "classification": "not_embedded_in_retained_article_sources",
+      "original_article_references": []
+    },
+    {
+      "path": "/wp-content/uploads/2011/dotclear/lastek_1.jpg",
+      "classification": "replacement_thumbnail",
+      "original_article_references": [
+        {
+          "url": "/2007/05/16/lastek-ou-le-chat-qui-pensait-bien-imiter-la-pierre/",
+          "title": "Lastek  ou : \"Le chat qui pensait bien imiter la roche",
+          "in_xml": true,
+          "in_snapshot": true,
+          "same_payload_rendered": false
+        }
+      ]
+    },
+    {
+      "path": "/wp-content/uploads/2016/11/lebain1.jpg",
+      "classification": "replacement_thumbnail",
+      "original_article_references": [
+        {
+          "url": "/2016/11/05/6-sauvage/",
+          "title": "6.L'éclat sauvage",
+          "in_xml": true,
+          "in_snapshot": true,
+          "same_payload_rendered": false
+        }
+      ]
+    },
+    {
+      "path": "/wp-content/uploads/2012/04/saison6_93.jpg",
+      "classification": "not_embedded_in_retained_article_sources",
+      "original_article_references": []
+    },
+    {
+      "path": "/wp-content/uploads/2012/07/saison6_27.jpg",
+      "classification": "not_embedded_in_retained_article_sources",
+      "original_article_references": []
+    },
+    {
+      "path": "/wp-content/uploads/2015/03/quanta3.jpg",
+      "classification": "not_embedded_in_retained_article_sources",
+      "original_article_references": []
+    },
+    {
+      "path": "/wp-content/uploads/2015/03/quanta4.jpg",
+      "classification": "not_embedded_in_retained_article_sources",
+      "original_article_references": []
+    },
+    {
+      "path": "/wp-content/uploads/2012/05/saison6_191.jpg",
+      "classification": "not_embedded_in_retained_article_sources",
+      "original_article_references": []
+    },
+    {
+      "path": "/wp-content/uploads/2011/dotclear/mr_oiseau.jpg",
+      "classification": "replacement_thumbnail",
+      "original_article_references": [
+        {
+          "url": "/2006/09/24/monsieur-oiseau/",
+          "title": "Monsieur Oiseau",
+          "in_xml": true,
+          "in_snapshot": true,
+          "same_payload_rendered": false
+        }
+      ]
+    },
+    {
+      "path": "/wp-content/uploads/2014/05/pagan_s.jpg",
+      "classification": "replacement_thumbnail",
+      "original_article_references": [
+        {
+          "url": "/2014/05/12/au-dela-des-cathedrales-le-faune-et-la-flore/",
+          "title": "Au delà des cathédrales : Le faune et la flore",
+          "in_xml": true,
+          "in_snapshot": true,
+          "same_payload_rendered": false
+        }
+      ]
+    },
+    {
+      "path": "/wp-content/uploads/2016/11/parade.jpg",
+      "classification": "replacement_thumbnail",
+      "original_article_references": [
+        {
+          "url": "/2016/11/22/7-parade-invisible/",
+          "title": "7.Parade invisible",
+          "in_xml": true,
+          "in_snapshot": true,
+          "same_payload_rendered": false
+        }
+      ]
+    },
+    {
+      "path": "/wp-content/uploads/2017/01/thumb9.jpg",
+      "classification": "replacement_thumbnail",
+      "original_article_references": [
+        {
+          "url": "/2017/01/16/9-les-petits-joueurs-curieux/",
+          "title": "9.Petits joueurs curieux",
+          "in_xml": true,
+          "in_snapshot": true,
+          "same_payload_rendered": false
+        }
+      ]
+    },
+    {
+      "path": "/wp-content/uploads/2015/08/planet.jpg",
+      "classification": "not_embedded_in_retained_article_sources",
+      "original_article_references": []
+    },
+    {
+      "path": "/wp-content/uploads/2012/04/saison6_51.jpg",
+      "classification": "not_embedded_in_retained_article_sources",
+      "original_article_references": []
+    },
+    {
+      "path": "/wp-content/uploads/2016/09/reminiscenceb.jpg",
+      "classification": "replacement_thumbnail",
+      "original_article_references": [
+        {
+          "url": "/2016/09/29/4-reminiscence/",
+          "title": "4.Réminiscence",
+          "in_xml": true,
+          "in_snapshot": true,
+          "same_payload_rendered": false
+        }
+      ]
+    },
+    {
+      "path": "/wp-content/uploads/2011/dotclear/saison4b.jpg",
+      "classification": "replacement_thumbnail",
+      "original_article_references": [
+        {
+          "url": "/2009/02/12/bientot/",
+          "title": "Bientot... La fabuleuse traversée de 40 jours \\o/",
+          "in_xml": true,
+          "in_snapshot": true,
+          "same_payload_rendered": false
+        }
+      ]
+    },
+    {
+      "path": "/wp-content/uploads/2014/04/hieroglyphe_post.jpg",
+      "classification": "replacement_thumbnail",
+      "original_article_references": [
+        {
+          "url": "/2014/04/06/yaldabaoth-ou-loeil-qui-voulait-tout-voir/",
+          "title": "Yaldabaoth, ou l'oeil qui voulait tout voir",
+          "in_xml": true,
+          "in_snapshot": true,
+          "same_payload_rendered": false
+        }
+      ]
+    },
+    {
+      "path": "/wp-content/uploads/2011/dotclear/sf4fanart.jpg",
+      "classification": "replacement_thumbnail",
+      "original_article_references": [
+        {
+          "url": "/2009/09/24/fanart-avec-ou-sans-glacons/",
+          "title": "Fanart : Avec ou sans glaçon ?",
+          "in_xml": true,
+          "in_snapshot": true,
+          "same_payload_rendered": false
+        }
+      ]
+    },
+    {
+      "path": "/wp-content/uploads/2015/01/skull.swf",
+      "classification": "identical_payload_in_article",
+      "original_article_references": [
+        {
+          "url": "/2015/01/05/piedestal/",
+          "title": "Piedestal",
+          "in_xml": true,
+          "in_snapshot": false,
+          "same_payload_rendered": true
+        }
+      ]
+    },
+    {
+      "path": "/wp-content/uploads/2013/12/step_sama.jpg",
+      "classification": "not_embedded_in_retained_article_sources",
+      "original_article_references": []
+    },
+    {
+      "path": "/wp-content/uploads/2011/dotclear/timbre.jpg",
+      "classification": "replacement_thumbnail",
+      "original_article_references": [
+        {
+          "url": "/2006/02/08/flash-el-pitito-theatro-dela-mouerte/",
+          "title": "flash** el pitito theatro déla mouerté !",
+          "in_xml": true,
+          "in_snapshot": true,
+          "same_payload_rendered": false
+        }
+      ]
+    },
+    {
+      "path": "/wp-content/uploads/2011/dotclear/traqueur.jpg",
+      "classification": "replacement_thumbnail",
+      "original_article_references": [
+        {
+          "url": "/2010/05/05/samaya-et-le-point-d-assemblage/",
+          "title": "Sämaya et Le Point d'Assemblage",
+          "in_xml": true,
+          "in_snapshot": true,
+          "same_payload_rendered": false
+        }
+      ]
+    },
+    {
+      "path": "/theme/step/header.jpg",
+      "classification": "not_embedded_in_retained_article_sources",
+      "original_article_references": []
+    },
+    {
+      "path": "/theme/step/liens.swf",
+      "classification": "not_embedded_in_retained_article_sources",
+      "original_article_references": []
+    },
+    {
+      "path": "/wp-content/uploads/2011/dotclear/son/dewplayer.swf",
+      "classification": "obsolete_audio_player",
+      "original_article_references": [
+        {
+          "url": "/2011/04/30/jour-33-sophia/",
+          "title": "Jour 33: Sophia",
+          "in_xml": true,
+          "in_snapshot": true,
+          "same_payload_rendered": false
+        },
+        {
+          "url": "/2010/11/16/l-aube-des-metamorphoses/",
+          "title": "L'aube des Métamorphoses",
+          "in_xml": true,
+          "in_snapshot": true,
+          "same_payload_rendered": false
+        },
+        {
+          "url": "/2010/09/23/spleen-ideal-2/",
+          "title": "Spleen & Idéal (2)",
+          "in_xml": true,
+          "in_snapshot": true,
+          "same_payload_rendered": false
+        },
+        {
+          "url": "/2008/10/15/mon-epoque-la-crise/",
+          "title": "Mon époque la crise...",
+          "in_xml": true,
+          "in_snapshot": true,
+          "same_payload_rendered": false
+        },
+        {
+          "url": "/2006/02/14/du-premier-coup/",
+          "title": "Du premier coup",
+          "in_xml": true,
+          "in_snapshot": true,
+          "same_payload_rendered": false
+        },
+        {
+          "url": "/2006/01/16/un-regard-sans-haine/",
+          "title": "un regard sans haine ?",
+          "in_xml": true,
+          "in_snapshot": true,
+          "same_payload_rendered": false
+        },
+        {
+          "url": "/2006/03/02/la-toccata-du-chip-cpc/",
+          "title": "la toccata du Chip CPC !",
+          "in_xml": true,
+          "in_snapshot": true,
+          "same_payload_rendered": false
+        },
+        {
+          "url": "/2010/09/22/afrik/",
+          "title": "Afrik",
+          "in_xml": true,
+          "in_snapshot": true,
+          "same_payload_rendered": false
+        },
+        {
+          "url": "/2005/12/16/virtual-tangka/",
+          "title": "Virtual Tangka (poison 1.0)",
+          "in_xml": true,
+          "in_snapshot": true,
+          "same_payload_rendered": false
+        },
+        {
+          "url": "/2005/12/13/fouillage-de-grenier/",
+          "title": "Fouillage de grenier : Les relans de Rolande",
+          "in_xml": true,
+          "in_snapshot": true,
+          "same_payload_rendered": false
+        },
+        {
+          "url": "/2009/06/26/moon-reverence/",
+          "title": "moon révérence ...",
+          "in_xml": true,
+          "in_snapshot": true,
+          "same_payload_rendered": false
+        },
+        {
+          "url": "/2007/12/03/qingpipih-revient-en-dedicace/",
+          "title": "qingpipih revient en dedicace",
+          "in_xml": true,
+          "in_snapshot": true,
+          "same_payload_rendered": false
+        },
+        {
+          "url": "/2006/01/03/sur-la-route/",
+          "title": "Sur la route...",
+          "in_xml": true,
+          "in_snapshot": true,
+          "same_payload_rendered": false
+        },
+        {
+          "url": "/2011/03/07/jour-19-la-foudre-frappe-le-marabout-rode/",
+          "title": "Jour 19: La foudre frappe, le marabout rode",
+          "in_xml": true,
+          "in_snapshot": true,
+          "same_payload_rendered": false
+        }
+      ]
+    },
+    {
+      "path": "/metaflash/photoshop/backmc1.jpg",
+      "classification": "not_embedded_in_retained_article_sources",
+      "original_article_references": []
+    },
+    {
+      "path": "/metaflash/photoshop/interieur1.jpg",
+      "classification": "not_embedded_in_retained_article_sources",
+      "original_article_references": []
+    },
+    {
+      "path": "/metaflash/photoshop/back1.jpg",
+      "classification": "not_embedded_in_retained_article_sources",
+      "original_article_references": []
+    },
+    {
+      "path": "/metaflash/photoshop/interior1.jpg",
+      "classification": "not_embedded_in_retained_article_sources",
+      "original_article_references": []
+    }
+  ]
+}

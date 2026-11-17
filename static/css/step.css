@@ -50,6 +50,9 @@
 }
 .entry-utility a { color: #777; text-decoration: underline; }
 .article-audio { display: block; width: 300px; max-width: 100%; height: 40px; margin: 12px 0; }
+.article-spotify { margin: 12px 0 24px; }
+.article-spotify iframe { display: block; border: 0; border-radius: 0; }
+.entry-content .article-spotify p { margin: 6px 0 0; font-size: 11px; }
 .article-details { margin-bottom: 24px; }
 .article-navigation { font: 12px/18px "Helvetica Neue", Arial, sans-serif; }
 .article-navigation a { color: #777; }

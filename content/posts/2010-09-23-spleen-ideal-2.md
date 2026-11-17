@@ -11,6 +11,8 @@ url: /2010/09/23/spleen-ideal-2/
 ---
   
 
+{{< spotify-track id="40at1IRgEDeq0Jun0VNsz2" title="Sébastien Tellier — La ritournelle" >}}
+
  Sebastien Tellier "Ritournelle"
 
 ![](/wp-content/uploads/2011/dotclear/spleen2.jpg)

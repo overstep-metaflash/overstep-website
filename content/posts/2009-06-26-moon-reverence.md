@@ -11,5 +11,7 @@ url: /2009/06/26/moon-reverence/
 ---
 bye bye l'extra-terrestre.
 
+{{< spotify-track id="2roqZE0jH7Il0b2QiRkcBF" title="Michael Jackson — Billie Jean" >}}
+
 
 ![](/wp-content/uploads/2011/dotclear/révérence.jpg)

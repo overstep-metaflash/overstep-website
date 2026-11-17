@@ -1,0 +1,284 @@
+{
+  "date": "2026-11-17",
+  "expected_associations": 15,
+  "source_xml_sha256": "fb64ce2afc903afd52cc1e15999f84b2a1da823a941d6b0cd6b9287c5b9230cc",
+  "policy": "Replace historical Dewplayer with verified Spotify tracks; preserve personal recordings and unavailable-track fallbacks with native audio. Keep the three previously restored native players.",
+  "associations": [
+    {
+      "post_id": "1834",
+      "source_file": "content/posts/2006-01-03-sur-la-route.md",
+      "article_url": "/2006/01/03/sur-la-route/",
+      "original_audio": "/wp-content/uploads/2011/dotclear/son/hulk.mp3",
+      "original_sha256": "e9c7e9590a91d477286dc7be23c7becbf2faee40400111a75ee44dd796521d91",
+      "original_bytes": 637388,
+      "replacement": {
+        "kind": "spotify",
+        "track_id": "7C04tHtXeLL8hVik9M2XZg",
+        "title": "Joe Harnell — The Lonely Man Theme",
+        "provenance": "https://open.spotify.com/track/7C04tHtXeLL8hVik9M2XZg",
+        "verified_metadata": {
+          "title": "The Lonely Man Theme",
+          "artists": [
+            "Joe Harnell"
+          ],
+          "duration_ms": 95373
+        },
+        "match": "Credited composition and performer; identical historical recording is not asserted."
+      }
+    },
+    {
+      "post_id": "1842",
+      "source_file": "content/posts/2005-12-13-fouillage-de-grenier.md",
+      "article_url": "/2005/12/13/fouillage-de-grenier/",
+      "original_audio": "/wp-content/uploads/2011/dotclear/son/alkadynamic.MP3",
+      "original_sha256": "dce263283bf78dc4f57a1011c22e722d8f622c99a089a7c36d137c41f71b58b8",
+      "original_bytes": 5474304,
+      "replacement": {
+        "kind": "local",
+        "src": "/wp-content/uploads/2011/dotclear/son/alkadynamic.MP3",
+        "sha256": "dce263283bf78dc4f57a1011c22e722d8f622c99a089a7c36d137c41f71b58b8",
+        "bytes": 5474304,
+        "reason": "personal_composition_or_remix"
+      }
+    },
+    {
+      "post_id": "1844",
+      "source_file": "content/posts/2006-01-16-un-regard-sans-haine.md",
+      "article_url": "/2006/01/16/un-regard-sans-haine/",
+      "original_audio": "/wp-content/uploads/2011/dotclear/son/intentions.mp3",
+      "original_sha256": "5aa26fe02397f490240f319033d42bbe2152742ce074a497500a2ada8fd1d8fc",
+      "original_bytes": 1801822,
+      "replacement": {
+        "kind": "local",
+        "src": "/wp-content/uploads/2011/dotclear/son/intentions.mp3",
+        "sha256": "5aa26fe02397f490240f319033d42bbe2152742ce074a497500a2ada8fd1d8fc",
+        "bytes": 1801822,
+        "reason": "personal_composition_or_remix"
+      }
+    },
+    {
+      "post_id": "1857",
+      "source_file": "content/posts/2005-12-16-virtual-tangka.md",
+      "article_url": "/2005/12/16/virtual-tangka/",
+      "original_audio": "/wp-content/uploads/2011/dotclear/son/shadows.mp3",
+      "original_sha256": "585247f05088794ef0928141f8585c10be0c524e57ef666bd8c99950dec0a627",
+      "original_bytes": 625185,
+      "replacement": {
+        "kind": "local",
+        "src": "/wp-content/uploads/2011/dotclear/son/shadows.mp3",
+        "sha256": "585247f05088794ef0928141f8585c10be0c524e57ef666bd8c99950dec0a627",
+        "bytes": 625185,
+        "reason": "existing_native_player"
+      }
+    },
+    {
+      "post_id": "1845",
+      "source_file": "content/posts/2006-02-14-du-premier-coup.md",
+      "article_url": "/2006/02/14/du-premier-coup/",
+      "original_audio": "/wp-content/uploads/2011/dotclear/son/oneshot.mp3",
+      "original_sha256": "bc72f21fa036a6d0a7c580b76295e02b0d249f7399dcc3f76ebed0a0b767e090",
+      "original_bytes": 1236532,
+      "replacement": {
+        "kind": "local",
+        "src": "/wp-content/uploads/2011/dotclear/son/oneshot.mp3",
+        "sha256": "bc72f21fa036a6d0a7c580b76295e02b0d249f7399dcc3f76ebed0a0b767e090",
+        "bytes": 1236532,
+        "reason": "existing_native_player"
+      }
+    },
+    {
+      "post_id": "1846",
+      "source_file": "content/posts/2006-03-02-la-toccata-du-chip-cpc.md",
+      "article_url": "/2006/03/02/la-toccata-du-chip-cpc/",
+      "original_audio": "/wp-content/uploads/2011/dotclear/son/5emeaxe.mp3",
+      "original_sha256": "6a60edc4c9b1011647abb165c836b8107d377e0f96bc271fe77deb1ae886261e",
+      "original_bytes": 1798896,
+      "replacement": {
+        "kind": "local",
+        "src": "/wp-content/uploads/2011/dotclear/son/5emeaxe.mp3",
+        "sha256": "6a60edc4c9b1011647abb165c836b8107d377e0f96bc271fe77deb1ae886261e",
+        "bytes": 1798896,
+        "reason": "no_verified_spotify_recording"
+      }
+    },
+    {
+      "post_id": "1846",
+      "source_file": "content/posts/2006-03-02-la-toccata-du-chip-cpc.md",
+      "article_url": "/2006/03/02/la-toccata-du-chip-cpc/",
+      "original_audio": "/wp-content/uploads/2011/dotclear/son/5emeaxe_action.mp3",
+      "original_sha256": "15ed67fd37e66b48a31d99fb61c624fe7b9332cde4ad4f6b7b043d6491c2f467",
+      "original_bytes": 1230994,
+      "replacement": {
+        "kind": "local",
+        "src": "/wp-content/uploads/2011/dotclear/son/5emeaxe_action.mp3",
+        "sha256": "15ed67fd37e66b48a31d99fb61c624fe7b9332cde4ad4f6b7b043d6491c2f467",
+        "bytes": 1230994,
+        "reason": "no_verified_spotify_recording"
+      }
+    },
+    {
+      "post_id": "1759",
+      "source_file": "content/posts/2007-12-03-qingpipih-revient-en-dedicace.md",
+      "article_url": "/2007/12/03/qingpipih-revient-en-dedicace/",
+      "original_audio": "/wp-content/uploads/2011/dotclear/son/makuiscoming.mp3",
+      "original_sha256": "e90b5999a63ceac9ab78de0ed9309942861d4fa9246c10ef3120e30b64fff80d",
+      "original_bytes": 551706,
+      "replacement": {
+        "kind": "local",
+        "src": "/wp-content/uploads/2011/dotclear/son/makuiscoming.mp3",
+        "sha256": "e90b5999a63ceac9ab78de0ed9309942861d4fa9246c10ef3120e30b64fff80d",
+        "bytes": 551706,
+        "reason": "no_verified_spotify_recording"
+      }
+    },
+    {
+      "post_id": "1771",
+      "source_file": "content/posts/2008-10-15-mon-epoque-la-crise.md",
+      "article_url": "/2008/10/15/mon-epoque-la-crise/",
+      "original_audio": "/wp-content/uploads/2011/dotclear/son/deepwater.mp3",
+      "original_sha256": "f30a1a7df2b08fc2a1fa56e96b6a26d5076f49bf73f7ce35848b5fae99189e51",
+      "original_bytes": 1406850,
+      "replacement": {
+        "kind": "spotify",
+        "track_id": "6rkgc2jdnMmH6uixm5Rxlz",
+        "title": "Portishead — Deep Water",
+        "provenance": "https://open.spotify.com/track/6rkgc2jdnMmH6uixm5Rxlz",
+        "verified_metadata": {
+          "title": "Deep Water",
+          "artists": [
+            "Portishead"
+          ],
+          "duration_ms": 93226
+        },
+        "match": "Credited composition and performer; identical historical recording is not asserted."
+      }
+    },
+    {
+      "post_id": "1800",
+      "source_file": "content/posts/2009-06-26-moon-reverence.md",
+      "article_url": "/2009/06/26/moon-reverence/",
+      "original_audio": "/wp-content/uploads/2011/dotclear/son/billiejean.mp3",
+      "original_sha256": "5a68b243c65f979920e4fc2de82ee36e88117e7fd27eecd4782c49b41489f1c9",
+      "original_bytes": 3548473,
+      "replacement": {
+        "kind": "spotify",
+        "track_id": "2roqZE0jH7Il0b2QiRkcBF",
+        "title": "Michael Jackson — Billie Jean",
+        "provenance": "https://open.spotify.com/track/2roqZE0jH7Il0b2QiRkcBF",
+        "verified_metadata": {
+          "title": "Billie Jean - Single Version",
+          "artists": [
+            "Michael Jackson"
+          ],
+          "duration_ms": 294226
+        },
+        "match": "Credited composition and performer; identical historical recording is not asserted."
+      }
+    },
+    {
+      "post_id": "1786",
+      "source_file": "content/posts/2010-09-22-afrik.md",
+      "article_url": "/2010/09/22/afrik/",
+      "original_audio": "/wp-content/uploads/2011/dotclear/son/righton.mp3",
+      "original_sha256": "9dc6b4f013c411ca82d316aabf02b5316bc68642757db58b8b801187a75891bd",
+      "original_bytes": 817110,
+      "replacement": {
+        "kind": "spotify",
+        "track_id": "0QZkqy0yPdZ4KR8mroQ8CN",
+        "title": "The Roots — Right On",
+        "provenance": "https://open.spotify.com/track/0QZkqy0yPdZ4KR8mroQ8CN",
+        "verified_metadata": {
+          "title": "Right On",
+          "artists": [
+            "The Roots",
+            "Joanna Newsom",
+            "STS"
+          ],
+          "duration_ms": 216026
+        },
+        "match": "Credited composition and performer; identical historical recording is not asserted."
+      }
+    },
+    {
+      "post_id": "1787",
+      "source_file": "content/posts/2010-09-23-spleen-ideal-2.md",
+      "article_url": "/2010/09/23/spleen-ideal-2/",
+      "original_audio": "/wp-content/uploads/2011/dotclear/son/ritournelle.mp3",
+      "original_sha256": "f64160eccb7377bfe7d7bf0c72068dad1c047da798ec7c9555aa314be19304b1",
+      "original_bytes": 1308735,
+      "replacement": {
+        "kind": "spotify",
+        "track_id": "40at1IRgEDeq0Jun0VNsz2",
+        "title": "Sébastien Tellier — La ritournelle",
+        "provenance": "https://open.spotify.com/track/40at1IRgEDeq0Jun0VNsz2",
+        "verified_metadata": {
+          "title": "La ritournelle",
+          "artists": [
+            "Sébastien Tellier"
+          ],
+          "duration_ms": 454480
+        },
+        "match": "Credited composition and performer; identical historical recording is not asserted."
+      }
+    },
+    {
+      "post_id": "1791",
+      "source_file": "content/posts/2010-11-16-l-aube-des-metamorphoses.md",
+      "article_url": "/2010/11/16/l-aube-des-metamorphoses/",
+      "original_audio": "/wp-content/uploads/2011/dotclear/son/project100.mp3",
+      "original_sha256": "a8bd5ab2ab3cd81ee4453d92881f341b0800dd234d92771307220297cc8829ab",
+      "original_bytes": 1280522,
+      "replacement": {
+        "kind": "spotify",
+        "track_id": "55nMhqYri6xBeKQANnrzAE",
+        "title": "Infected Mushroom — Project 100",
+        "provenance": "https://open.spotify.com/track/55nMhqYri6xBeKQANnrzAE",
+        "verified_metadata": {
+          "title": "Project 100",
+          "artists": [
+            "Infected Mushroom"
+          ],
+          "duration_ms": 578253
+        },
+        "match": "Credited composition and performer; identical historical recording is not asserted."
+      }
+    },
+    {
+      "post_id": "2071",
+      "source_file": "content/posts/2011-03-07-jour-19-la-foudre-frappe-le-marabout-rode.md",
+      "article_url": "/2011/03/07/jour-19-la-foudre-frappe-le-marabout-rode/",
+      "original_audio": "/wp-content/uploads/2011/dotclear/son/everyoneintheworld.mp3",
+      "original_sha256": "c000379c95baf9bd409f0aac3f49388129682dd585c0ad04dee72e3ddd218446",
+      "original_bytes": 923689,
+      "replacement": {
+        "kind": "local",
+        "src": "/wp-content/uploads/2011/dotclear/son/everyoneintheworld.mp3",
+        "sha256": "c000379c95baf9bd409f0aac3f49388129682dd585c0ad04dee72e3ddd218446",
+        "bytes": 923689,
+        "reason": "existing_native_player"
+      }
+    },
+    {
+      "post_id": "2085",
+      "source_file": "content/posts/2011-04-30-jour-33-sophia.md",
+      "article_url": "/2011/04/30/jour-33-sophia/",
+      "original_audio": "/wp-content/uploads/2011/dotclear/son/dustitoff.mp3",
+      "original_sha256": "4756d6032a68d955164b6969076a1f75e867588ad4c42035e2d066dcd0cfe19e",
+      "original_bytes": 3145560,
+      "replacement": {
+        "kind": "spotify",
+        "track_id": "3BKKB440Xqlb2eDYzOl1bS",
+        "title": "The Dø — Dust It Off",
+        "provenance": "https://open.spotify.com/track/3BKKB440Xqlb2eDYzOl1bS",
+        "verified_metadata": {
+          "title": "Dust It Off",
+          "artists": [
+            "The Dø"
+          ],
+          "duration_ms": 222000
+        },
+        "match": "Credited composition and performer; identical historical recording is not asserted."
+      }
+    }
+  ]
+}

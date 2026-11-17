@@ -19,4 +19,6 @@ Ingredients : une MC 303 + un cerveau en plastic + une poignée de doigts gelés
 Technique : step-by-step.
 Mastering : sans commentaire :)
 
+{{< local-audio src="/wp-content/uploads/2011/dotclear/son/alkadynamic.MP3" >}}
+
 \[music : Step (remix "aerodynamic" daftpunk)\]

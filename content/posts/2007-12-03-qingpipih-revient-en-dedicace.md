@@ -10,6 +10,8 @@ title: qingpipih revient en dedicace
 url: /2007/12/03/qingpipih-revient-en-dedicace/
 ---
   
+{{< local-audio src="/wp-content/uploads/2011/dotclear/son/makuiscoming.mp3" >}}
+
 _( Music : Michiaki Watanabe \_ makuu is coming)>_
 
 _![](/wp-content/uploads/2011/dotclear/qingpipih.jpg)_

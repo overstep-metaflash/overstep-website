@@ -15,7 +15,12 @@ title: la toccata du Chip CPC !
 url: /2006/03/02/la-toccata-du-chip-cpc/
 ---
 _(Musique : Gilles Soulet)_![](/wp-content/uploads/2011/dotclear/5emeaxe.jpg) **l'intro**:
+
+{{< local-audio src="/wp-content/uploads/2011/dotclear/son/5emeaxe.mp3" >}}
+
 **pendant le jeu** :
+
+{{< local-audio src="/wp-content/uploads/2011/dotclear/son/5emeaxe_action.mp3" >}}
 
 (problème d'emulation, le son est bof des fois)
 

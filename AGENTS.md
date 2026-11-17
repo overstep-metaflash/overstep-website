@@ -71,6 +71,13 @@ Current references:
   Preserve the dated usage baseline, original media bytes and historical gallery
   order. Generate with `scripts/generate_media_archive.py --apply`; the full
   private preservation master remains outside Git and static output.
+- `docs/audits/2026-11-17-archive-article-reconciliation.md` and
+  `docs/media-archive-article-review.json`: source/body/hash review of the first
+  catalogue batch. Replacement images stay in archives while articles use Flash.
+  Dewplayer was removed, leaving 54 notices for 62 paths. Its 15 historical audio
+  associations use seven verified Spotify players and eight native players,
+  recorded in `docs/article-audio-recovery.json`. The larger 911-file source
+  catalogue remains unfinished.
 - `docs/audits/2026-11-16-legacy-urls.md`: issue #7's Pages-only hosting decision,
   query/feed regressions, local HTTP and Chrome evidence, and unresolved HTTP
   redirect/RSS-reader acceptance. A hosting choice does not waive release gates.
@@ -97,6 +104,7 @@ rtk proxy sh scripts/mise-local.sh exec -- hugo build --destination public --env
 rtk proxy python3 scripts/validate_site.py --directory public
 rtk proxy python3 scripts/validate_metaflash.py --directory public
 rtk proxy python3 scripts/validate_media_archive.py --directory public
+rtk proxy python3 scripts/validate_article_audio.py --directory public
 ```
 
 Use the virtual environment's Python path if dependencies are not available to
@@ -279,7 +287,7 @@ another browser mechanism or change Homebrew ownership/permissions.
 
 ## Audio and publication
 
-The owner confirmed non-radio MP3 use on 2026-11-16. The 47 tracked MP3 files are
+The owner confirmed non-radio MP3 use on 2026-11-16. The 52 tracked MP3 files are
 recorded as `confirmed_by_owner`, including recovered `oneshot.mp3` (post 1845)
 and `everyoneintheworld.mp3` (post 2071). Both use `local-audio` players with exact
 paths/hashes in the recovery and audio manifests. The 17 old radio tracks have no
