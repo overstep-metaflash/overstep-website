@@ -58,6 +58,13 @@ Current references:
   and keep hidden menu hotspots out of the restored image pages. Two reviewed
   injected spans were removed from legacy movie wrappers; there are now 57 simple
   Flash destinations as well as the image sets.
+- `docs/audits/2026-11-17-media-usage.md` and
+  `docs/media-usage-2026-11-17.json`: post-release source/public media inventory.
+  Against content commit `7e2ad35`, 296 source SWFs and 615 source images have no
+  imported payload; six public SWFs and 53 public images have no detected
+  reference. Four additional unreferenced SWF URLs duplicate used payloads.
+  Treat these as review candidates, not deletion instructions. Full raw source
+  inventories remain ignored; the published report includes only reviewed evidence.
 - `docs/audits/2026-11-16-legacy-urls.md`: issue #7's Pages-only hosting decision,
   query/feed regressions, local HTTP and Chrome evidence, and unresolved HTTP
   redirect/RSS-reader acceptance. A hosting choice does not waive release gates.

@@ -1,0 +1,488 @@
+{
+  "content_commit": "7e2ad35e44ca87aa49dc36112afe05aca6077654",
+  "source_root": "backup_ftp/metaflash",
+  "source_media_files": 1302,
+  "source_unique_payloads": 1282,
+  "source_status_by_kind": {
+    "swf": {
+      "used_exact": 157,
+      "not_imported": 296,
+      "used_adapted": 1
+    },
+    "image": {
+      "used_exact": 228,
+      "not_imported": 615,
+      "present_without_detected_reference": 5
+    }
+  },
+  "public_status_by_kind": {
+    "swf": {
+      "referenced": 256,
+      "no_detected_reference": 6,
+      "unreferenced_alias_of_used_payload": 4
+    },
+    "image": {
+      "referenced": 498,
+      "no_detected_reference": 53
+    }
+  },
+  "source_not_imported_by_directory": {
+    "40jours": 243,
+    "<root>": 245,
+    "_notes": 7,
+    "cadre": 21,
+    "eros": 28,
+    "flash": 109,
+    "gif": 65,
+    "illustrations": 39,
+    "images": 94,
+    "photoshop": 23,
+    "thumb": 31,
+    "transfert": 6
+  },
+  "date": "2026-11-17",
+  "method": "SHA-256 payload comparison and homepage reachability through rendered HTML, CSS, SWF literals and reviewed Flash/image dialog configuration. This does not prove runtime playback or unusedness of dynamic code.",
+  "unreferenced_public_media": [
+    {
+      "path": "metaflash/photoshop/back1.jpg",
+      "kind": "image",
+      "bytes": 2136,
+      "sha256": "37f07b5f7ae443f4f72c3de41e60d2d17d901f12db5342e55f7c3e89e37bd644",
+      "status": "no_detected_reference"
+    },
+    {
+      "path": "metaflash/photoshop/backmc1.jpg",
+      "kind": "image",
+      "bytes": 2938,
+      "sha256": "1f2d4b77aad67f02b823b4a57da60593e1f9b851dc948bd6075b3c4b8c4901af",
+      "status": "no_detected_reference"
+    },
+    {
+      "path": "metaflash/photoshop/interieur1.jpg",
+      "kind": "image",
+      "bytes": 4125,
+      "sha256": "93c421fbed930c2175d383f00beb561ff0ae698132f9f738d03d992b251d6d88",
+      "status": "no_detected_reference"
+    },
+    {
+      "path": "metaflash/photoshop/interior1.jpg",
+      "kind": "image",
+      "bytes": 2727,
+      "sha256": "ded570f20d4a79a986dddf296a3ea9f747d94a264c751c3b552a04e04976186b",
+      "status": "no_detected_reference"
+    },
+    {
+      "path": "theme/step/header.jpg",
+      "kind": "image",
+      "bytes": 59116,
+      "sha256": "9a4f7b9f34843b57450f76b63f34d111a7337619f566ff506efb99dbd84ddd05",
+      "status": "no_detected_reference"
+    },
+    {
+      "path": "theme/step/liens.swf",
+      "kind": "swf",
+      "bytes": 8920,
+      "sha256": "b99f4e2a92822bd15fc61fa9e66cf0ce2966569a4a72552467a9d0962dc59fed",
+      "status": "no_detected_reference"
+    },
+    {
+      "path": "wp-content/uploads/2011/07/citation.jpg",
+      "kind": "image",
+      "bytes": 114238,
+      "sha256": "8a4cd305237851e90e86d55b07738265f8fcd6c24728b5fe5179d469b63a2322",
+      "status": "no_detected_reference"
+    },
+    {
+      "path": "wp-content/uploads/2011/09/invocation.swf",
+      "kind": "swf",
+      "bytes": 422038,
+      "sha256": "7585c2d3f7cb7ac2347e07550d4bfeefbdb163827c80753159ead3ff967539d7",
+      "status": "no_detected_reference"
+    },
+    {
+      "path": "wp-content/uploads/2011/12/wallanticyclone.jpg",
+      "kind": "image",
+      "bytes": 801161,
+      "sha256": "9691c12f67deac2a29c05130feeebaeb971d6f3c516da549d8c171bf79c13804",
+      "status": "no_detected_reference"
+    },
+    {
+      "path": "wp-content/uploads/2011/dotclear/20_40days.jpg",
+      "kind": "image",
+      "bytes": 237334,
+      "sha256": "7550c5426d483e957b395f322f23175958495871dd9f5510194333e01556bcf3",
+      "status": "no_detected_reference"
+    },
+    {
+      "path": "wp-content/uploads/2011/dotclear/another.jpg",
+      "kind": "image",
+      "bytes": 26769,
+      "sha256": "07d1afe8c4c952c60da567833e6a302979edcaccd1f3fa12d60a0051fa4d8bb6",
+      "status": "no_detected_reference"
+    },
+    {
+      "path": "wp-content/uploads/2011/dotclear/hiro.jpg",
+      "kind": "image",
+      "bytes": 34387,
+      "sha256": "ab084fa9372ed569bd60f6b60ef1c921a1c0c55f144359f6a60b358e5123426e",
+      "status": "no_detected_reference"
+    },
+    {
+      "path": "wp-content/uploads/2011/dotclear/lastek_1.jpg",
+      "kind": "image",
+      "bytes": 81549,
+      "sha256": "4489c459da8777c1fa5607bb9ae5bfb0f555eab21e7c5ec9a7182aa06c978783",
+      "status": "no_detected_reference"
+    },
+    {
+      "path": "wp-content/uploads/2011/dotclear/mr_oiseau.jpg",
+      "kind": "image",
+      "bytes": 22727,
+      "sha256": "2e9c4273056031e84f2b6f29f8852693802d567302b42aaaf04eeedd1f2aef52",
+      "status": "no_detected_reference"
+    },
+    {
+      "path": "wp-content/uploads/2011/dotclear/saison4b.jpg",
+      "kind": "image",
+      "bytes": 91601,
+      "sha256": "7eace33278d94a2be6b7a32bf5baf341e6db56e638ea8ea45f268a3d316fed2d",
+      "status": "no_detected_reference"
+    },
+    {
+      "path": "wp-content/uploads/2011/dotclear/sf4fanart.jpg",
+      "kind": "image",
+      "bytes": 89434,
+      "sha256": "2d458e27e3d42abc0857bc663dfaf4c5b57b378149856504c793c23f3bfb444b",
+      "status": "no_detected_reference"
+    },
+    {
+      "path": "wp-content/uploads/2011/dotclear/son/dewplayer.swf",
+      "kind": "swf",
+      "bytes": 4031,
+      "sha256": "bc9885a1f1259ad2d8b5145e2e893a762f27ed193296bc654786ffd81f3dae52",
+      "status": "no_detected_reference"
+    },
+    {
+      "path": "wp-content/uploads/2011/dotclear/timbre.jpg",
+      "kind": "image",
+      "bytes": 70608,
+      "sha256": "26c5e5f447b19bd37f951289614a1a4aa3cd1cb56f4f8f107a818dc1cc4bf52f",
+      "status": "no_detected_reference"
+    },
+    {
+      "path": "wp-content/uploads/2011/dotclear/traqueur.jpg",
+      "kind": "image",
+      "bytes": 122766,
+      "sha256": "f6af13a2761a2da1ccd6c3ae2038fb736bf28c549dbf4aa4d03c788cf1a10386",
+      "status": "no_detected_reference"
+    },
+    {
+      "path": "wp-content/uploads/2012/04/saison6_21.jpg",
+      "kind": "image",
+      "bytes": 466450,
+      "sha256": "424fe224eb2628b4a0dc56f943ac15f2aefbbbb8ff27dd285020e879fa371a6a",
+      "status": "no_detected_reference"
+    },
+    {
+      "path": "wp-content/uploads/2012/04/saison6_51.jpg",
+      "kind": "image",
+      "bytes": 439949,
+      "sha256": "e0f4835febb2d6d6105272789f58d04894d70a94ce2ae1e21c3b66a9b1e3260c",
+      "status": "no_detected_reference"
+    },
+    {
+      "path": "wp-content/uploads/2012/04/saison6_93.jpg",
+      "kind": "image",
+      "bytes": 439889,
+      "sha256": "4a69ac97a6b964d90501e98d1965787a6e917a5b5c0143571ae5917eeff418b4",
+      "status": "no_detected_reference"
+    },
+    {
+      "path": "wp-content/uploads/2012/05/saison6_191.jpg",
+      "kind": "image",
+      "bytes": 739370,
+      "sha256": "0ffeb6934890ca5e6ca20a988da84a71490a618c751bed22d01966b47dc63ba0",
+      "status": "no_detected_reference"
+    },
+    {
+      "path": "wp-content/uploads/2012/05/saison6_211.jpg",
+      "kind": "image",
+      "bytes": 530905,
+      "sha256": "fdf25911398c57b3cf513b2a6ba4750f61f8d86a76e2c4b4c7cc336a384b63b7",
+      "status": "no_detected_reference"
+    },
+    {
+      "path": "wp-content/uploads/2012/07/saison6_27.jpg",
+      "kind": "image",
+      "bytes": 1040005,
+      "sha256": "ad8b4b538d24446d11cb926f48efd2d26f24241f76c32eb078ccc0f5deafe7ac",
+      "status": "no_detected_reference"
+    },
+    {
+      "path": "wp-content/uploads/2012/07/saison6_28.jpg",
+      "kind": "image",
+      "bytes": 2279755,
+      "sha256": "b60a90df0261a33f2431aaa6d318d167911eb853b32a3c0f2426a3a3a336f1b4",
+      "status": "no_detected_reference"
+    },
+    {
+      "path": "wp-content/uploads/2012/10/saison6_32.jpg",
+      "kind": "image",
+      "bytes": 962156,
+      "sha256": "dd3351f551cd2f4cb0b62966ed51f17a2286b9d2f2587260c61ee04e75311b77",
+      "status": "no_detected_reference"
+    },
+    {
+      "path": "wp-content/uploads/2013/08/saison6_39bx.jpg",
+      "kind": "image",
+      "bytes": 111180,
+      "sha256": "49c745c844fe79ee9c2261f766d4985f1c2d035e5702ef9b6831342533a16330",
+      "status": "no_detected_reference"
+    },
+    {
+      "path": "wp-content/uploads/2013/08/saison6_39cx.jpg",
+      "kind": "image",
+      "bytes": 160491,
+      "sha256": "b549bf6061d39661f9e7129d64c89fd2572e1fd7a1fd561fd6835fc6600982ba",
+      "status": "no_detected_reference"
+    },
+    {
+      "path": "wp-content/uploads/2013/08/saison6_39ex.jpg",
+      "kind": "image",
+      "bytes": 205737,
+      "sha256": "c2364a91acd2d666717472c38865c71bc064562179f908945d171a93547705f2",
+      "status": "no_detected_reference"
+    },
+    {
+      "path": "wp-content/uploads/2013/08/saison6_39x.jpg",
+      "kind": "image",
+      "bytes": 235717,
+      "sha256": "074dea7d1b589117683fdbfa34d572cfdf098d6b195abda21c59bf7632ec485c",
+      "status": "no_detected_reference"
+    },
+    {
+      "path": "wp-content/uploads/2013/12/fin640.jpg",
+      "kind": "image",
+      "bytes": 526850,
+      "sha256": "a26a53d1144cef2a14275899a29c57bd6b2f43b4ac64939b1d7d5e01fbd7c3f8",
+      "status": "no_detected_reference"
+    },
+    {
+      "path": "wp-content/uploads/2013/12/step_sama.jpg",
+      "kind": "image",
+      "bytes": 172697,
+      "sha256": "2f3d3bc882f5b2be9666a5da6f5222bf810a2d3f3e8696d88e7287971eff7725",
+      "status": "no_detected_reference"
+    },
+    {
+      "path": "wp-content/uploads/2014/01/empire.swf",
+      "kind": "swf",
+      "bytes": 570853,
+      "sha256": "9cd3ef89410251a81d3599f25c91026769a39f491f5939426e3354eee6b89e56",
+      "status": "unreferenced_alias_of_used_payload"
+    },
+    {
+      "path": "wp-content/uploads/2014/02/implosion.jpg",
+      "kind": "image",
+      "bytes": 166820,
+      "sha256": "4185f1ab62c567ff6bb7173b27bf70318bbf145d0a80d028f2d39b475064b770",
+      "status": "no_detected_reference"
+    },
+    {
+      "path": "wp-content/uploads/2014/03/nahmbird.swf",
+      "kind": "swf",
+      "bytes": 396150,
+      "sha256": "d651aba9e73c560323630d84711f137663724d4858ac0c5d19972b401fe57866",
+      "status": "no_detected_reference"
+    },
+    {
+      "path": "wp-content/uploads/2014/03/nahmbird1.swf",
+      "kind": "swf",
+      "bytes": 396137,
+      "sha256": "7308506581b31b131096c14f5fa2472f939c6d3243bf43b5f7a36a82128b5c6e",
+      "status": "unreferenced_alias_of_used_payload"
+    },
+    {
+      "path": "wp-content/uploads/2014/04/hieroglyphe_post.jpg",
+      "kind": "image",
+      "bytes": 283153,
+      "sha256": "a4bc4eba37931c12160431f0507350e2b760cb214c0249ed18fc798b0bc48e7a",
+      "status": "no_detected_reference"
+    },
+    {
+      "path": "wp-content/uploads/2014/05/dieuours_inthesky.jpg",
+      "kind": "image",
+      "bytes": 181757,
+      "sha256": "69e6c58bca249fb713b388db6a7902c7b14136b12980ac48614483f6da7562da",
+      "status": "no_detected_reference"
+    },
+    {
+      "path": "wp-content/uploads/2014/05/enkienlil.jpg",
+      "kind": "image",
+      "bytes": 295898,
+      "sha256": "cdbc7175a1568158c40e14371e4918f7c7119bb118d8f2ba44240ed30175bb72",
+      "status": "no_detected_reference"
+    },
+    {
+      "path": "wp-content/uploads/2014/05/golgoth66.jpg",
+      "kind": "image",
+      "bytes": 279263,
+      "sha256": "183425d9c0054fdda25370d203e448564f89186cf0f583f71b7a8775ef7c95db",
+      "status": "no_detected_reference"
+    },
+    {
+      "path": "wp-content/uploads/2014/05/journey.swf",
+      "kind": "swf",
+      "bytes": 377911,
+      "sha256": "ece39893e0a7f15a2a3ab8ed88dc360ad1f7bd6842d9ec1476901cf96669f0ab",
+      "status": "no_detected_reference"
+    },
+    {
+      "path": "wp-content/uploads/2014/05/pagan_s.jpg",
+      "kind": "image",
+      "bytes": 170665,
+      "sha256": "268295d627af29413f834fb9e66ad1e1b55097db92ebff8ee94d2b88ad2907fe",
+      "status": "no_detected_reference"
+    },
+    {
+      "path": "wp-content/uploads/2015/01/skull.swf",
+      "kind": "swf",
+      "bytes": 597150,
+      "sha256": "e2eb081cb7316fbff503b139e32ece65cb930ac719f88e6428d2a1ab090aa720",
+      "status": "unreferenced_alias_of_used_payload"
+    },
+    {
+      "path": "wp-content/uploads/2015/03/colorbeau1.jpg",
+      "kind": "image",
+      "bytes": 422078,
+      "sha256": "4395244dafd3f4bb667ad73b7e33cab3a3998a5ab7bec5087db5ac9fa08b3db0",
+      "status": "no_detected_reference"
+    },
+    {
+      "path": "wp-content/uploads/2015/03/quanta3.jpg",
+      "kind": "image",
+      "bytes": 406255,
+      "sha256": "b8455aaaa115fb39732465f94faef36ddf7f659be55882b4a4d791448c631eb9",
+      "status": "no_detected_reference"
+    },
+    {
+      "path": "wp-content/uploads/2015/03/quanta4.jpg",
+      "kind": "image",
+      "bytes": 396866,
+      "sha256": "962da43ce48c1964ae119b2400d9f60718b95874066d5e824105803ba2282ff5",
+      "status": "no_detected_reference"
+    },
+    {
+      "path": "wp-content/uploads/2015/08/planet.jpg",
+      "kind": "image",
+      "bytes": 317083,
+      "sha256": "def3ecadf5b8fa8d5d9a7431b09f77a3772917509215eb4ec64b76834fab9770",
+      "status": "no_detected_reference"
+    },
+    {
+      "path": "wp-content/uploads/2016/02/alpha-1.swf",
+      "kind": "swf",
+      "bytes": 438270,
+      "sha256": "f11dc472ffc8fa7b7a916dbcd212d9c52884a223a3d96639a1af3caa5815a645",
+      "status": "unreferenced_alias_of_used_payload"
+    },
+    {
+      "path": "wp-content/uploads/2016/02/condor.jpg",
+      "kind": "image",
+      "bytes": 71669,
+      "sha256": "a67c103a12b2115ebb5851f909553bd3dd36e073b4227d86db893883d8ab20b9",
+      "status": "no_detected_reference"
+    },
+    {
+      "path": "wp-content/uploads/2016/02/farfaraway.swf",
+      "kind": "swf",
+      "bytes": 447663,
+      "sha256": "9b1410d9568e232b51a36b076867120807d9ecd5e881e3a978268b4d1c7809d7",
+      "status": "no_detected_reference"
+    },
+    {
+      "path": "wp-content/uploads/2016/07/deux.jpg",
+      "kind": "image",
+      "bytes": 124209,
+      "sha256": "3dac87411253696bce20e3d4ac20876e23a705e80683433fd3f33d7124edb2c0",
+      "status": "no_detected_reference"
+    },
+    {
+      "path": "wp-content/uploads/2016/08/1mini.jpg",
+      "kind": "image",
+      "bytes": 150329,
+      "sha256": "a3641b0740c7c3727fe0e930d082f4d3cf756e03acf2f35b3460ed013c940748",
+      "status": "no_detected_reference"
+    },
+    {
+      "path": "wp-content/uploads/2016/08/aldoussmoke.jpg",
+      "kind": "image",
+      "bytes": 105182,
+      "sha256": "a187fec2352f579a5acad3f306dfb0b70393473217ec8c94d0feabe1472ab72b",
+      "status": "no_detected_reference"
+    },
+    {
+      "path": "wp-content/uploads/2016/09/reminiscenceb.jpg",
+      "kind": "image",
+      "bytes": 112962,
+      "sha256": "c983b5379ce320574e67aab0b811604748976d22e75769ce082ea837f08f2213",
+      "status": "no_detected_reference"
+    },
+    {
+      "path": "wp-content/uploads/2016/10/ce-matin.jpg",
+      "kind": "image",
+      "bytes": 98831,
+      "sha256": "d73fc6409b13f8d125708471c05ce04529134ec0aa3c6ef8d3d447d377295d62",
+      "status": "no_detected_reference"
+    },
+    {
+      "path": "wp-content/uploads/2016/11/lebain1.jpg",
+      "kind": "image",
+      "bytes": 118925,
+      "sha256": "1b20bd896f0059802750564ecfd85c8c4191edaf84ba9f4c1ca954ad84637970",
+      "status": "no_detected_reference"
+    },
+    {
+      "path": "wp-content/uploads/2016/11/parade.jpg",
+      "kind": "image",
+      "bytes": 151029,
+      "sha256": "3079320cbcdc59acac9c4552301de6f4ad09dbafe142a475780f8e862e51fc26",
+      "status": "no_detected_reference"
+    },
+    {
+      "path": "wp-content/uploads/2016/12/colibri3-copie.jpg",
+      "kind": "image",
+      "bytes": 119526,
+      "sha256": "fe7a55585691c1b4993300ec380f404b9dcc3a1e0bbcb7b01d1da67a9304c4a3",
+      "status": "no_detected_reference"
+    },
+    {
+      "path": "wp-content/uploads/2016/12/colibri3.jpg",
+      "kind": "image",
+      "bytes": 126556,
+      "sha256": "13b08468988b80bb22173d859e01e7060ee62c1f26a4187692c35b8dce867b8a",
+      "status": "no_detected_reference"
+    },
+    {
+      "path": "wp-content/uploads/2017/01/thumb9.jpg",
+      "kind": "image",
+      "bytes": 125740,
+      "sha256": "6e6b2deb1b22e87bff51464580d1750f6c6fedc40f9e8710bbb587585080fbc5",
+      "status": "no_detected_reference"
+    },
+    {
+      "path": "wp-content/uploads/2017/02/bibop.jpg",
+      "kind": "image",
+      "bytes": 113320,
+      "sha256": "e165bd90c35462c7a13ca596b14c56f3726af31dbcad03fa162a2afd31363ba6",
+      "status": "no_detected_reference"
+    },
+    {
+      "path": "wp-content/uploads/2017/04/elevationx.jpg",
+      "kind": "image",
+      "bytes": 152439,
+      "sha256": "73fe3125c96e1e19b52662c51f1e7d597e28e62216793505ddfdbfb1fe543976",
+      "status": "no_detected_reference"
+    }
+  ]
+}
