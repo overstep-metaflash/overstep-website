@@ -65,6 +65,12 @@ Current references:
   reference. Four additional unreferenced SWF URLs duplicate used payloads.
   Treat these as review candidates, not deletion instructions. Full raw source
   inventories remain ignored; the published report includes only reviewed evidence.
+- `docs/audits/2026-11-17-media-archive.md`, `data/media_archive.json` and
+  `docs/media-archive.json`: independent catalogue of the 63 already-public
+  candidate paths, grouped into 55 notices with verified original downloads.
+  Preserve the dated usage baseline, original media bytes and historical gallery
+  order. Generate with `scripts/generate_media_archive.py --apply`; the full
+  private preservation master remains outside Git and static output.
 - `docs/audits/2026-11-16-legacy-urls.md`: issue #7's Pages-only hosting decision,
   query/feed regressions, local HTTP and Chrome evidence, and unresolved HTTP
   redirect/RSS-reader acceptance. A hosting choice does not waive release gates.
@@ -90,6 +96,7 @@ rtk proxy python3 scripts/sanitize_comments.py --check
 rtk proxy sh scripts/mise-local.sh exec -- hugo build --destination public --environment production --buildDrafts=false --buildFuture=false --buildExpired=false --panicOnWarning
 rtk proxy python3 scripts/validate_site.py --directory public
 rtk proxy python3 scripts/validate_metaflash.py --directory public
+rtk proxy python3 scripts/validate_media_archive.py --directory public
 ```
 
 Use the virtual environment's Python path if dependencies are not available to

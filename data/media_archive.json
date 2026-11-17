@@ -1,0 +1,1527 @@
+{
+  "version": 1,
+  "batch": "published-media-2026-11-17",
+  "source_audit": {
+    "path": "docs/media-usage-2026-11-17.json",
+    "sha256": "2e77fc813488f5be12914d933d9b56c3df2894734982a91bad0f3980af221ed8"
+  },
+  "reviewed_paths": [
+    "/metaflash/photoshop/back1.jpg",
+    "/metaflash/photoshop/backmc1.jpg",
+    "/metaflash/photoshop/interieur1.jpg",
+    "/metaflash/photoshop/interior1.jpg",
+    "/theme/step/header.jpg",
+    "/theme/step/liens.swf",
+    "/wp-content/uploads/2011/07/citation.jpg",
+    "/wp-content/uploads/2011/09/invocation.swf",
+    "/wp-content/uploads/2011/12/wallanticyclone.jpg",
+    "/wp-content/uploads/2011/dotclear/20_40days.jpg",
+    "/wp-content/uploads/2011/dotclear/another.jpg",
+    "/wp-content/uploads/2011/dotclear/hiro.jpg",
+    "/wp-content/uploads/2011/dotclear/lastek_1.jpg",
+    "/wp-content/uploads/2011/dotclear/mr_oiseau.jpg",
+    "/wp-content/uploads/2011/dotclear/saison4b.jpg",
+    "/wp-content/uploads/2011/dotclear/sf4fanart.jpg",
+    "/wp-content/uploads/2011/dotclear/son/dewplayer.swf",
+    "/wp-content/uploads/2011/dotclear/timbre.jpg",
+    "/wp-content/uploads/2011/dotclear/traqueur.jpg",
+    "/wp-content/uploads/2012/04/saison6_21.jpg",
+    "/wp-content/uploads/2012/04/saison6_51.jpg",
+    "/wp-content/uploads/2012/04/saison6_93.jpg",
+    "/wp-content/uploads/2012/05/saison6_191.jpg",
+    "/wp-content/uploads/2012/05/saison6_211.jpg",
+    "/wp-content/uploads/2012/07/saison6_27.jpg",
+    "/wp-content/uploads/2012/07/saison6_28.jpg",
+    "/wp-content/uploads/2012/10/saison6_32.jpg",
+    "/wp-content/uploads/2013/08/saison6_39bx.jpg",
+    "/wp-content/uploads/2013/08/saison6_39cx.jpg",
+    "/wp-content/uploads/2013/08/saison6_39ex.jpg",
+    "/wp-content/uploads/2013/08/saison6_39x.jpg",
+    "/wp-content/uploads/2013/12/fin640.jpg",
+    "/wp-content/uploads/2013/12/step_sama.jpg",
+    "/wp-content/uploads/2014/01/empire.swf",
+    "/wp-content/uploads/2014/02/implosion.jpg",
+    "/wp-content/uploads/2014/03/nahmbird.swf",
+    "/wp-content/uploads/2014/03/nahmbird1.swf",
+    "/wp-content/uploads/2014/04/hieroglyphe_post.jpg",
+    "/wp-content/uploads/2014/05/dieuours_inthesky.jpg",
+    "/wp-content/uploads/2014/05/enkienlil.jpg",
+    "/wp-content/uploads/2014/05/golgoth66.jpg",
+    "/wp-content/uploads/2014/05/journey.swf",
+    "/wp-content/uploads/2014/05/pagan_s.jpg",
+    "/wp-content/uploads/2015/01/skull.swf",
+    "/wp-content/uploads/2015/03/colorbeau1.jpg",
+    "/wp-content/uploads/2015/03/quanta3.jpg",
+    "/wp-content/uploads/2015/03/quanta4.jpg",
+    "/wp-content/uploads/2015/08/planet.jpg",
+    "/wp-content/uploads/2016/02/alpha-1.swf",
+    "/wp-content/uploads/2016/02/condor.jpg",
+    "/wp-content/uploads/2016/02/farfaraway.swf",
+    "/wp-content/uploads/2016/07/deux.jpg",
+    "/wp-content/uploads/2016/08/1mini.jpg",
+    "/wp-content/uploads/2016/08/aldoussmoke.jpg",
+    "/wp-content/uploads/2016/09/reminiscenceb.jpg",
+    "/wp-content/uploads/2016/10/ce-matin.jpg",
+    "/wp-content/uploads/2016/11/lebain1.jpg",
+    "/wp-content/uploads/2016/11/parade.jpg",
+    "/wp-content/uploads/2016/12/colibri3-copie.jpg",
+    "/wp-content/uploads/2016/12/colibri3.jpg",
+    "/wp-content/uploads/2017/01/thumb9.jpg",
+    "/wp-content/uploads/2017/02/bibop.jpg",
+    "/wp-content/uploads/2017/04/elevationx.jpg"
+  ],
+  "entries": [
+    {
+      "id": "44551243ca94c06c",
+      "title": "20 40days",
+      "kind": "image",
+      "collection": "blog",
+      "assets": [
+        {
+          "path": "/wp-content/uploads/2011/dotclear/20_40days.jpg",
+          "sha256": "7550c5426d483e957b395f322f23175958495871dd9f5510194333e01556bcf3",
+          "bytes": 237334,
+          "label": "20 40days",
+          "aliases": [
+            "/wp-content/uploads/2011/dotclear/20_40days.jpg"
+          ]
+        }
+      ],
+      "related_articles": [
+        {
+          "url": "/2006/03/25/jour-20-cadavre-exquis/",
+          "title": "Jour 20",
+          "display_date": "2006-03-25"
+        }
+      ],
+      "note": "Image conservée avec l’animation présentée dans l’article associé."
+    },
+    {
+      "id": "3a31474c5ab39518",
+      "title": "8.Rencontre avec l'oiseau-mouche",
+      "kind": "image",
+      "collection": "blog",
+      "assets": [
+        {
+          "path": "/wp-content/uploads/2016/12/colibri3-copie.jpg",
+          "sha256": "fe7a55585691c1b4993300ec380f404b9dcc3a1e0bbcb7b01d1da67a9304c4a3",
+          "bytes": 119526,
+          "label": "colibri3",
+          "aliases": [
+            "/wp-content/uploads/2016/12/colibri3-copie.jpg"
+          ]
+        },
+        {
+          "path": "/wp-content/uploads/2016/12/colibri3.jpg",
+          "sha256": "13b08468988b80bb22173d859e01e7060ee62c1f26a4187692c35b8dce867b8a",
+          "bytes": 126556,
+          "label": "colibri3",
+          "aliases": [
+            "/wp-content/uploads/2016/12/colibri3.jpg"
+          ]
+        }
+      ],
+      "related_articles": [
+        {
+          "url": "/2016/12/25/8-la-legende-de-loiseau-mouche/",
+          "title": "8.Rencontre avec l'oiseau-mouche",
+          "display_date": "2016-12-25"
+        }
+      ],
+      "note": "Plusieurs fichiers ou versions sont conservés ensemble."
+    },
+    {
+      "id": "2be8d89dab2e03d2",
+      "title": "aldoussmoke",
+      "kind": "image",
+      "collection": "blog",
+      "assets": [
+        {
+          "path": "/wp-content/uploads/2016/08/aldoussmoke.jpg",
+          "sha256": "a187fec2352f579a5acad3f306dfb0b70393473217ec8c94d0feabe1472ab72b",
+          "bytes": 105182,
+          "label": "aldoussmoke",
+          "aliases": [
+            "/wp-content/uploads/2016/08/aldoussmoke.jpg"
+          ]
+        }
+      ],
+      "related_articles": [
+        {
+          "url": "/2016/08/10/3-les-ombres-generees/",
+          "title": "3.Les ombres générées",
+          "display_date": "2016-08-10"
+        }
+      ],
+      "note": "Image conservée avec l’animation présentée dans l’article associé."
+    },
+    {
+      "id": "69e640139f95629a",
+      "title": "alpha",
+      "kind": "swf",
+      "collection": "blog",
+      "assets": [
+        {
+          "path": "/wp-content/uploads/2016/02/alpha-1.swf",
+          "sha256": "f11dc472ffc8fa7b7a916dbcd212d9c52884a223a3d96639a1af3caa5815a645",
+          "bytes": 438270,
+          "label": "alpha",
+          "aliases": [
+            "/wp-content/uploads/2016/02/alpha-1.swf",
+            "/wp-content/uploads/2016/02/alpha.swf"
+          ],
+          "width": 640,
+          "height": 910
+        }
+      ],
+      "related_articles": [
+        {
+          "url": "/2016/02/06/mythologie/",
+          "title": "Mythologie",
+          "display_date": "2016-02-06"
+        }
+      ],
+      "note": "Copie identique à un fichier conservé sous une autre adresse."
+    },
+    {
+      "id": "029be9b2edb97f54",
+      "title": "another",
+      "kind": "image",
+      "collection": "blog",
+      "assets": [
+        {
+          "path": "/wp-content/uploads/2011/dotclear/another.jpg",
+          "sha256": "07d1afe8c4c952c60da567833e6a302979edcaccd1f3fa12d60a0051fa4d8bb6",
+          "bytes": 26769,
+          "label": "another",
+          "aliases": [
+            "/wp-content/uploads/2011/dotclear/another.jpg"
+          ]
+        }
+      ],
+      "related_articles": [
+        {
+          "url": "/2006/12/29/dont-vous-etes-le-heros/",
+          "title": "dont vous &ecirc;tes le heros",
+          "display_date": "2006-12-29"
+        }
+      ],
+      "note": "Image conservée avec l’animation présentée dans l’article associé."
+    },
+    {
+      "id": "ca25885f1836e60a",
+      "title": "bibop",
+      "kind": "image",
+      "collection": "blog",
+      "assets": [
+        {
+          "path": "/wp-content/uploads/2017/02/bibop.jpg",
+          "sha256": "e165bd90c35462c7a13ca596b14c56f3726af31dbcad03fa162a2afd31363ba6",
+          "bytes": 113320,
+          "label": "bibop",
+          "aliases": [
+            "/wp-content/uploads/2017/02/bibop.jpg"
+          ]
+        }
+      ],
+      "related_articles": [
+        {
+          "url": "/2017/02/01/10-lenergie-de-bibop/",
+          "title": "10.Le langage mélodique",
+          "display_date": "2017-02-01"
+        }
+      ],
+      "note": "Image conservée avec l’animation présentée dans l’article associé."
+    },
+    {
+      "id": "3d905d7291c81e7a",
+      "title": "ce-matin",
+      "kind": "image",
+      "collection": "blog",
+      "assets": [
+        {
+          "path": "/wp-content/uploads/2016/10/ce-matin.jpg",
+          "sha256": "d73fc6409b13f8d125708471c05ce04529134ec0aa3c6ef8d3d447d377295d62",
+          "bytes": 98831,
+          "label": "ce-matin",
+          "aliases": [
+            "/wp-content/uploads/2016/10/ce-matin.jpg"
+          ]
+        }
+      ],
+      "related_articles": [
+        {
+          "url": "/2016/10/23/6-ce-matin-la/",
+          "title": "5.L'orée",
+          "display_date": "2016-10-23"
+        }
+      ],
+      "note": "Image conservée avec l’animation présentée dans l’article associé."
+    },
+    {
+      "id": "a06be5914fbdd868",
+      "title": "citation",
+      "kind": "image",
+      "collection": "blog",
+      "assets": [
+        {
+          "path": "/wp-content/uploads/2011/07/citation.jpg",
+          "sha256": "8a4cd305237851e90e86d55b07738265f8fcd6c24728b5fe5179d469b63a2322",
+          "bytes": 114238,
+          "label": "citation",
+          "aliases": [
+            "/wp-content/uploads/2011/07/citation.jpg"
+          ]
+        }
+      ],
+      "related_articles": [
+        {
+          "url": "/2011/07/06/jour-40-la-force-collective/",
+          "title": "Jour 40: La force collective",
+          "display_date": "2011-07-06"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "095d3f72cc805450",
+      "title": "climat.",
+      "kind": "image",
+      "collection": "blog",
+      "assets": [
+        {
+          "path": "/wp-content/uploads/2011/12/wallanticyclone.jpg",
+          "sha256": "9691c12f67deac2a29c05130feeebaeb971d6f3c516da549d8c171bf79c13804",
+          "bytes": 801161,
+          "label": "climat.",
+          "aliases": [
+            "/wp-content/uploads/2011/12/wallanticyclone.jpg"
+          ]
+        }
+      ],
+      "related_articles": [
+        {
+          "url": "/2011/12/20/moral-climatique/",
+          "title": "Moral climatique",
+          "display_date": "2011-12-20"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "3ae64a5701b01229",
+      "title": "colorbeau",
+      "kind": "image",
+      "collection": "blog",
+      "assets": [
+        {
+          "path": "/wp-content/uploads/2015/03/colorbeau1.jpg",
+          "sha256": "4395244dafd3f4bb667ad73b7e33cab3a3998a5ab7bec5087db5ac9fa08b3db0",
+          "bytes": 422078,
+          "label": "colorbeau",
+          "aliases": [
+            "/wp-content/uploads/2015/03/colorbeau1.jpg"
+          ]
+        }
+      ],
+      "related_articles": [
+        {
+          "url": "/2015/03/21/dans-lathanor/",
+          "title": "Dans l'athanor",
+          "display_date": "2015-03-21"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "2927e7c76ae370b7",
+      "title": "complexite",
+      "kind": "swf",
+      "collection": "blog",
+      "assets": [
+        {
+          "path": "/wp-content/uploads/2016/02/farfaraway.swf",
+          "sha256": "9b1410d9568e232b51a36b076867120807d9ecd5e881e3a978268b4d1c7809d7",
+          "bytes": 447663,
+          "label": "complexite",
+          "aliases": [
+            "/wp-content/uploads/2016/02/farfaraway.swf"
+          ],
+          "width": 640,
+          "height": 910
+        }
+      ],
+      "related_articles": [
+        {
+          "url": "/2016/02/26/les-motifs-de-la-legerete/",
+          "title": "Les motifs de la légèreté",
+          "display_date": "2016-02-26"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "201b7e678fc4d334",
+      "title": "Contre Violence",
+      "kind": "swf",
+      "collection": "blog",
+      "assets": [
+        {
+          "path": "/wp-content/uploads/2011/09/invocation.swf",
+          "sha256": "7585c2d3f7cb7ac2347e07550d4bfeefbdb163827c80753159ead3ff967539d7",
+          "bytes": 422038,
+          "label": "Contre Violence",
+          "aliases": [
+            "/wp-content/uploads/2011/09/invocation.swf"
+          ],
+          "width": 550,
+          "height": 820
+        }
+      ],
+      "related_articles": [
+        {
+          "url": "/2011/09/06/contre-violence/",
+          "title": "Contre Violence",
+          "display_date": "2011-09-06"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "9e30fb053e7949d1",
+      "title": "deux",
+      "kind": "image",
+      "collection": "blog",
+      "assets": [
+        {
+          "path": "/wp-content/uploads/2016/07/deux.jpg",
+          "sha256": "3dac87411253696bce20e3d4ac20876e23a705e80683433fd3f33d7124edb2c0",
+          "bytes": 124209,
+          "label": "deux",
+          "aliases": [
+            "/wp-content/uploads/2016/07/deux.jpg"
+          ]
+        }
+      ],
+      "related_articles": [
+        {
+          "url": "/2016/07/18/2-le-vent-du-reveil/",
+          "title": "2.Le vent du réveil",
+          "display_date": "2016-07-18"
+        }
+      ],
+      "note": "Image conservée avec l’animation présentée dans l’article associé."
+    },
+    {
+      "id": "0c1bf65ba0af0d28",
+      "title": "dieuours_inthesky",
+      "kind": "image",
+      "collection": "blog",
+      "assets": [
+        {
+          "path": "/wp-content/uploads/2014/05/dieuours_inthesky.jpg",
+          "sha256": "69e6c58bca249fb713b388db6a7902c7b14136b12980ac48614483f6da7562da",
+          "bytes": 181757,
+          "label": "dieuours_inthesky",
+          "aliases": [
+            "/wp-content/uploads/2014/05/dieuours_inthesky.jpg"
+          ]
+        }
+      ],
+      "related_articles": [
+        {
+          "url": "/2014/05/14/mais-aussi-dans-les-nuages/",
+          "title": "Mais aussi dans les nuages",
+          "display_date": "2014-05-14"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "4a8154beb2820399",
+      "title": "elevation",
+      "kind": "image",
+      "collection": "blog",
+      "assets": [
+        {
+          "path": "/wp-content/uploads/2017/04/elevationx.jpg",
+          "sha256": "73fe3125c96e1e19b52662c51f1e7d597e28e62216793505ddfdbfb1fe543976",
+          "bytes": 152439,
+          "label": "elevation",
+          "aliases": [
+            "/wp-content/uploads/2017/04/elevationx.jpg"
+          ]
+        }
+      ],
+      "related_articles": [
+        {
+          "url": "/2017/04/07/11-la-fleur-qui-eleve/",
+          "title": "11.La Fleur qui élève",
+          "display_date": "2017-04-07"
+        }
+      ],
+      "note": "Image conservée avec l’animation présentée dans l’article associé."
+    },
+    {
+      "id": "55a2775b3feb77e5",
+      "title": "enki&enlil",
+      "kind": "image",
+      "collection": "blog",
+      "assets": [
+        {
+          "path": "/wp-content/uploads/2014/05/enkienlil.jpg",
+          "sha256": "cdbc7175a1568158c40e14371e4918f7c7119bb118d8f2ba44240ed30175bb72",
+          "bytes": 295898,
+          "label": "enki&enlil",
+          "aliases": [
+            "/wp-content/uploads/2014/05/enkienlil.jpg"
+          ]
+        }
+      ],
+      "related_articles": [
+        {
+          "url": "/2014/05/22/enki-enlil/",
+          "title": "Enki  Vs  Enlil",
+          "display_date": "2014-05-22"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "85e845265315ed6e",
+      "title": "fin640",
+      "kind": "image",
+      "collection": "blog",
+      "assets": [
+        {
+          "path": "/wp-content/uploads/2013/12/fin640.jpg",
+          "sha256": "a26a53d1144cef2a14275899a29c57bd6b2f43b4ac64939b1d7d5e01fbd7c3f8",
+          "bytes": 526850,
+          "label": "fin640",
+          "aliases": [
+            "/wp-content/uploads/2013/12/fin640.jpg"
+          ]
+        }
+      ],
+      "related_articles": [
+        {
+          "url": "/2013/11/28/jour-40-lenfante/",
+          "title": "Jour 40 : L'enfanté",
+          "display_date": "2013-11-28"
+        }
+      ],
+      "note": "Image conservée avec l’animation présentée dans l’article associé."
+    },
+    {
+      "id": "e131e8151022ce0a",
+      "title": "golgoth",
+      "kind": "image",
+      "collection": "blog",
+      "assets": [
+        {
+          "path": "/wp-content/uploads/2014/05/golgoth66.jpg",
+          "sha256": "183425d9c0054fdda25370d203e448564f89186cf0f583f71b7a8775ef7c95db",
+          "bytes": 279263,
+          "label": "golgoth",
+          "aliases": [
+            "/wp-content/uploads/2014/05/golgoth66.jpg"
+          ]
+        }
+      ],
+      "related_articles": [
+        {
+          "url": "/2014/05/05/golgotha/",
+          "title": "Golgotha",
+          "display_date": "2014-05-05"
+        }
+      ],
+      "note": "Image conservée avec l’animation présentée dans l’article associé."
+    },
+    {
+      "id": "98e5318e8218a30f",
+      "title": "hiro",
+      "kind": "image",
+      "collection": "blog",
+      "assets": [
+        {
+          "path": "/wp-content/uploads/2011/dotclear/hiro.jpg",
+          "sha256": "ab084fa9372ed569bd60f6b60ef1c921a1c0c55f144359f6a60b358e5123426e",
+          "bytes": 34387,
+          "label": "hiro",
+          "aliases": [
+            "/wp-content/uploads/2011/dotclear/hiro.jpg"
+          ]
+        }
+      ],
+      "related_articles": [
+        {
+          "url": "/2006/01/02/le-boss-point-fort-imposant-point-faible-sans-esprit/",
+          "title": "HiRoSHI'MASS",
+          "display_date": "2006-01-02"
+        }
+      ],
+      "note": "Image conservée avec l’animation présentée dans l’article associé."
+    },
+    {
+      "id": "e64b37754a8ad085",
+      "title": "implosion",
+      "kind": "image",
+      "collection": "blog",
+      "assets": [
+        {
+          "path": "/wp-content/uploads/2014/02/implosion.jpg",
+          "sha256": "4185f1ab62c567ff6bb7173b27bf70318bbf145d0a80d028f2d39b475064b770",
+          "bytes": 166820,
+          "label": "implosion",
+          "aliases": [
+            "/wp-content/uploads/2014/02/implosion.jpg"
+          ]
+        }
+      ],
+      "related_articles": [
+        {
+          "url": "/2014/02/09/implosion/",
+          "title": "Implosion",
+          "display_date": "2014-02-09"
+        }
+      ],
+      "note": "Image conservée avec l’animation présentée dans l’article associé."
+    },
+    {
+      "id": "761031088d96a1c1",
+      "title": "Jour 39: Les Noces Chimiques",
+      "kind": "image",
+      "collection": "blog",
+      "assets": [
+        {
+          "path": "/wp-content/uploads/2013/08/saison6_39bx.jpg",
+          "sha256": "49c745c844fe79ee9c2261f766d4985f1c2d035e5702ef9b6831342533a16330",
+          "bytes": 111180,
+          "label": "Les noces chimiques — images",
+          "aliases": [
+            "/wp-content/uploads/2013/08/saison6_39bx.jpg"
+          ]
+        },
+        {
+          "path": "/wp-content/uploads/2013/08/saison6_39cx.jpg",
+          "sha256": "b549bf6061d39661f9e7129d64c89fd2572e1fd7a1fd561fd6835fc6600982ba",
+          "bytes": 160491,
+          "label": "Les noces chimiques — images",
+          "aliases": [
+            "/wp-content/uploads/2013/08/saison6_39cx.jpg"
+          ]
+        },
+        {
+          "path": "/wp-content/uploads/2013/08/saison6_39ex.jpg",
+          "sha256": "c2364a91acd2d666717472c38865c71bc064562179f908945d171a93547705f2",
+          "bytes": 205737,
+          "label": "Les noces chimiques — images",
+          "aliases": [
+            "/wp-content/uploads/2013/08/saison6_39ex.jpg"
+          ]
+        },
+        {
+          "path": "/wp-content/uploads/2013/08/saison6_39x.jpg",
+          "sha256": "074dea7d1b589117683fdbfa34d572cfdf098d6b195abda21c59bf7632ec485c",
+          "bytes": 235717,
+          "label": "Les noces chimiques — images",
+          "aliases": [
+            "/wp-content/uploads/2013/08/saison6_39x.jpg"
+          ]
+        }
+      ],
+      "related_articles": [
+        {
+          "url": "/2013/08/16/jour-39-les-noces-chimiques/",
+          "title": "Jour 39: Les Noces Chimiques",
+          "display_date": "2013-08-16"
+        }
+      ],
+      "note": "Plusieurs fichiers ou versions sont conservés ensemble."
+    },
+    {
+      "id": "0c3710b6fecf30c0",
+      "title": "journey",
+      "kind": "swf",
+      "collection": "blog",
+      "assets": [
+        {
+          "path": "/wp-content/uploads/2014/05/journey.swf",
+          "sha256": "ece39893e0a7f15a2a3ab8ed88dc360ad1f7bd6842d9ec1476901cf96669f0ab",
+          "bytes": 377911,
+          "label": "journey",
+          "aliases": [
+            "/wp-content/uploads/2014/05/journey.swf"
+          ],
+          "width": 600,
+          "height": 402
+        }
+      ],
+      "related_articles": [
+        {
+          "url": "/2014/05/14/mais-aussi-dans-les-nuages/",
+          "title": "Mais aussi dans les nuages",
+          "display_date": "2014-05-14"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "2dbd5b19bcf091f2",
+      "title": "keeper",
+      "kind": "image",
+      "collection": "blog",
+      "assets": [
+        {
+          "path": "/wp-content/uploads/2016/02/condor.jpg",
+          "sha256": "a67c103a12b2115ebb5851f909553bd3dd36e073b4227d86db893883d8ab20b9",
+          "bytes": 71669,
+          "label": "keeper",
+          "aliases": [
+            "/wp-content/uploads/2016/02/condor.jpg"
+          ]
+        }
+      ],
+      "related_articles": [
+        {
+          "url": "/2016/02/23/la-chute-des-corps/",
+          "title": "La chute des corps...",
+          "display_date": "2016-02-23"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "fe09b608a9bbd84e",
+      "title": "kenoma-1",
+      "kind": "image",
+      "collection": "blog",
+      "assets": [
+        {
+          "path": "/wp-content/uploads/2016/08/1mini.jpg",
+          "sha256": "a3641b0740c7c3727fe0e930d082f4d3cf756e03acf2f35b3460ed013c940748",
+          "bytes": 150329,
+          "label": "kenoma-1",
+          "aliases": [
+            "/wp-content/uploads/2016/08/1mini.jpg"
+          ]
+        }
+      ],
+      "related_articles": [
+        {
+          "url": "/2016/07/12/1-kenoma-lessence-mentale/",
+          "title": "1.Kenoma, l'essence mentale",
+          "display_date": "2016-07-12"
+        }
+      ],
+      "note": "Image conservée avec l’animation présentée dans l’article associé."
+    },
+    {
+      "id": "7581e71f07cf65eb",
+      "title": "l'empire",
+      "kind": "swf",
+      "collection": "blog",
+      "assets": [
+        {
+          "path": "/wp-content/uploads/2014/01/empire.swf",
+          "sha256": "9cd3ef89410251a81d3599f25c91026769a39f491f5939426e3354eee6b89e56",
+          "bytes": 570853,
+          "label": "l'empire",
+          "aliases": [
+            "/wp-content/uploads/2014/01/empire.swf",
+            "/wp-content/uploads/2014/01/empire1.swf"
+          ],
+          "width": 550,
+          "height": 1100
+        }
+      ],
+      "related_articles": [
+        {
+          "url": "/2014/01/08/complot-vous-avez-dit-complot/",
+          "title": "Complot ? vous avez dit complot ?",
+          "display_date": "2014-01-08"
+        }
+      ],
+      "note": "Copie identique à un fichier conservé sous une autre adresse."
+    },
+    {
+      "id": "b8d0a37039325ca4",
+      "title": "L'or et le pion",
+      "kind": "image",
+      "collection": "blog",
+      "assets": [
+        {
+          "path": "/wp-content/uploads/2012/07/saison6_28.jpg",
+          "sha256": "b60a90df0261a33f2431aaa6d318d167911eb853b32a3c0f2426a3a3a336f1b4",
+          "bytes": 2279755,
+          "label": "L'or et le pion",
+          "aliases": [
+            "/wp-content/uploads/2012/07/saison6_28.jpg"
+          ]
+        }
+      ],
+      "related_articles": [
+        {
+          "url": "/2012/07/26/jour-28-reflet-lor-et-le-plomb/",
+          "title": "Jour 28: Reflet (L'or et le plomb)",
+          "display_date": "2012-07-26"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "73f91119eb69a5db",
+      "title": "La cascade",
+      "kind": "image",
+      "collection": "blog",
+      "assets": [
+        {
+          "path": "/wp-content/uploads/2012/04/saison6_21.jpg",
+          "sha256": "424fe224eb2628b4a0dc56f943ac15f2aefbbbb8ff27dd285020e879fa371a6a",
+          "bytes": 466450,
+          "label": "La cascade",
+          "aliases": [
+            "/wp-content/uploads/2012/04/saison6_21.jpg"
+          ]
+        }
+      ],
+      "related_articles": [
+        {
+          "url": "/2012/04/11/jour-2-peau-neuve/",
+          "title": "Jour 2: Peau neuve",
+          "display_date": "2012-04-11"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "16fc9fb4d5887d82",
+      "title": "La Danse Sidérale",
+      "kind": "image",
+      "collection": "blog",
+      "assets": [
+        {
+          "path": "/wp-content/uploads/2012/05/saison6_211.jpg",
+          "sha256": "fdf25911398c57b3cf513b2a6ba4750f61f8d86a76e2c4b4c7cc336a384b63b7",
+          "bytes": 530905,
+          "label": "La Danse Sidérale",
+          "aliases": [
+            "/wp-content/uploads/2012/05/saison6_211.jpg"
+          ]
+        }
+      ],
+      "related_articles": [
+        {
+          "url": "/2012/05/19/jour-21-la-danse-siderale/",
+          "title": "Jour 21: La Danse Sidérale",
+          "display_date": "2012-05-19"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "a53a87672d2a887b",
+      "title": "La forme pensée",
+      "kind": "swf",
+      "collection": "blog",
+      "assets": [
+        {
+          "path": "/wp-content/uploads/2014/03/nahmbird.swf",
+          "sha256": "d651aba9e73c560323630d84711f137663724d4858ac0c5d19972b401fe57866",
+          "bytes": 396150,
+          "label": "nahmbird",
+          "aliases": [
+            "/wp-content/uploads/2014/03/nahmbird.swf"
+          ],
+          "width": 600,
+          "height": 900
+        },
+        {
+          "path": "/wp-content/uploads/2014/03/nahmbird1.swf",
+          "sha256": "7308506581b31b131096c14f5fa2472f939c6d3243bf43b5f7a36a82128b5c6e",
+          "bytes": 396137,
+          "label": "nahmbird",
+          "aliases": [
+            "/wp-content/uploads/2014/03/nahmbird1.swf",
+            "/wp-content/uploads/2014/03/nahmbird2.swf"
+          ],
+          "width": 600,
+          "height": 900
+        }
+      ],
+      "related_articles": [
+        {
+          "url": "/2014/03/04/la-forme-pensee/",
+          "title": "La forme pensée",
+          "display_date": "2014-03-04"
+        }
+      ],
+      "note": "Plusieurs fichiers ou versions sont conservés ensemble."
+    },
+    {
+      "id": "37c4d29e7222d719",
+      "title": "La tour",
+      "kind": "image",
+      "collection": "blog",
+      "assets": [
+        {
+          "path": "/wp-content/uploads/2012/10/saison6_32.jpg",
+          "sha256": "dd3351f551cd2f4cb0b62966ed51f17a2286b9d2f2587260c61ee04e75311b77",
+          "bytes": 962156,
+          "label": "La tour",
+          "aliases": [
+            "/wp-content/uploads/2012/10/saison6_32.jpg"
+          ]
+        }
+      ],
+      "related_articles": [
+        {
+          "url": "/2012/10/17/jour-32-la-tour/",
+          "title": "Jour 32: La tour",
+          "display_date": "2012-10-17"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "fa1657fd2ae9ec62",
+      "title": "lastek 1",
+      "kind": "image",
+      "collection": "blog",
+      "assets": [
+        {
+          "path": "/wp-content/uploads/2011/dotclear/lastek_1.jpg",
+          "sha256": "4489c459da8777c1fa5607bb9ae5bfb0f555eab21e7c5ec9a7182aa06c978783",
+          "bytes": 81549,
+          "label": "lastek 1",
+          "aliases": [
+            "/wp-content/uploads/2011/dotclear/lastek_1.jpg"
+          ]
+        }
+      ],
+      "related_articles": [
+        {
+          "url": "/2007/05/16/lastek-ou-le-chat-qui-pensait-bien-imiter-la-pierre/",
+          "title": "Lastek  ou : &quot;Le chat qui pensait bien imiter la roche",
+          "display_date": "2007-05-16"
+        }
+      ],
+      "note": "Image conservée avec l’animation présentée dans l’article associé."
+    },
+    {
+      "id": "4d196e99521a33fc",
+      "title": "le bain",
+      "kind": "image",
+      "collection": "blog",
+      "assets": [
+        {
+          "path": "/wp-content/uploads/2016/11/lebain1.jpg",
+          "sha256": "1b20bd896f0059802750564ecfd85c8c4191edaf84ba9f4c1ca954ad84637970",
+          "bytes": 118925,
+          "label": "le bain",
+          "aliases": [
+            "/wp-content/uploads/2016/11/lebain1.jpg"
+          ]
+        }
+      ],
+      "related_articles": [
+        {
+          "url": "/2016/11/05/6-sauvage/",
+          "title": "6.L'éclat sauvage",
+          "display_date": "2016-11-05"
+        }
+      ],
+      "note": "Image conservée avec l’animation présentée dans l’article associé."
+    },
+    {
+      "id": "d88eb89ffaaf8720",
+      "title": "Le corbeau s'oppose",
+      "kind": "image",
+      "collection": "blog",
+      "assets": [
+        {
+          "path": "/wp-content/uploads/2012/04/saison6_93.jpg",
+          "sha256": "4a69ac97a6b964d90501e98d1965787a6e917a5b5c0143571ae5917eeff418b4",
+          "bytes": 439889,
+          "label": "Le corbeau s'oppose",
+          "aliases": [
+            "/wp-content/uploads/2012/04/saison6_93.jpg"
+          ]
+        }
+      ],
+      "related_articles": [
+        {
+          "url": "/2012/04/21/jour-9/",
+          "title": "Jour 9: Le corbeau s'oppose",
+          "display_date": "2012-04-21"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "846098d15f7fbd4c",
+      "title": "Le dépouillement",
+      "kind": "image",
+      "collection": "blog",
+      "assets": [
+        {
+          "path": "/wp-content/uploads/2012/07/saison6_27.jpg",
+          "sha256": "ad8b4b538d24446d11cb926f48efd2d26f24241f76c32eb078ccc0f5deafe7ac",
+          "bytes": 1040005,
+          "label": "Le dépouillement",
+          "aliases": [
+            "/wp-content/uploads/2012/07/saison6_27.jpg"
+          ]
+        }
+      ],
+      "related_articles": [
+        {
+          "url": "/2012/07/03/jour-27-le-depouillement/",
+          "title": "Jour 27: Le dépouillement",
+          "display_date": "2012-07-03"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "ebdef9c0aedad125",
+      "title": "Le Filtre",
+      "kind": "image",
+      "collection": "blog",
+      "assets": [
+        {
+          "path": "/wp-content/uploads/2015/03/quanta3.jpg",
+          "sha256": "b8455aaaa115fb39732465f94faef36ddf7f659be55882b4a4d791448c631eb9",
+          "bytes": 406255,
+          "label": "quanta3",
+          "aliases": [
+            "/wp-content/uploads/2015/03/quanta3.jpg"
+          ]
+        },
+        {
+          "path": "/wp-content/uploads/2015/03/quanta4.jpg",
+          "sha256": "962da43ce48c1964ae119b2400d9f60718b95874066d5e824105803ba2282ff5",
+          "bytes": 396866,
+          "label": "quanta4",
+          "aliases": [
+            "/wp-content/uploads/2015/03/quanta4.jpg"
+          ]
+        }
+      ],
+      "related_articles": [
+        {
+          "url": "/2015/03/20/le-filtre/",
+          "title": "Le Filtre",
+          "display_date": "2015-03-20"
+        }
+      ],
+      "note": "Plusieurs fichiers ou versions sont conservés ensemble."
+    },
+    {
+      "id": "51f4189ff12d2cd7",
+      "title": "Liaison verticale",
+      "kind": "image",
+      "collection": "blog",
+      "assets": [
+        {
+          "path": "/wp-content/uploads/2012/05/saison6_191.jpg",
+          "sha256": "0ffeb6934890ca5e6ca20a988da84a71490a618c751bed22d01966b47dc63ba0",
+          "bytes": 739370,
+          "label": "Liaison verticale",
+          "aliases": [
+            "/wp-content/uploads/2012/05/saison6_191.jpg"
+          ]
+        }
+      ],
+      "related_articles": [
+        {
+          "url": "/2012/05/12/jour-19-liaison-verticale/",
+          "title": "Jour 19: Liaison verticale",
+          "display_date": "2012-05-12"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "1240056ce932664c",
+      "title": "mr oiseau",
+      "kind": "image",
+      "collection": "blog",
+      "assets": [
+        {
+          "path": "/wp-content/uploads/2011/dotclear/mr_oiseau.jpg",
+          "sha256": "2e9c4273056031e84f2b6f29f8852693802d567302b42aaaf04eeedd1f2aef52",
+          "bytes": 22727,
+          "label": "mr oiseau",
+          "aliases": [
+            "/wp-content/uploads/2011/dotclear/mr_oiseau.jpg"
+          ]
+        }
+      ],
+      "related_articles": [
+        {
+          "url": "/2006/09/24/monsieur-oiseau/",
+          "title": "Monsieur Oiseau",
+          "display_date": "2006-09-24"
+        }
+      ],
+      "note": "Image conservée avec l’animation présentée dans l’article associé."
+    },
+    {
+      "id": "c649bc5c02519864",
+      "title": "pagan_s",
+      "kind": "image",
+      "collection": "blog",
+      "assets": [
+        {
+          "path": "/wp-content/uploads/2014/05/pagan_s.jpg",
+          "sha256": "268295d627af29413f834fb9e66ad1e1b55097db92ebff8ee94d2b88ad2907fe",
+          "bytes": 170665,
+          "label": "pagan_s",
+          "aliases": [
+            "/wp-content/uploads/2014/05/pagan_s.jpg"
+          ]
+        }
+      ],
+      "related_articles": [
+        {
+          "url": "/2014/05/12/au-dela-des-cathedrales-le-faune-et-la-flore/",
+          "title": "Au delà des cathédrales : Le faune et la flore",
+          "display_date": "2014-05-12"
+        }
+      ],
+      "note": "Image conservée avec l’animation présentée dans l’article associé."
+    },
+    {
+      "id": "34beadd2be504cc8",
+      "title": "parade",
+      "kind": "image",
+      "collection": "blog",
+      "assets": [
+        {
+          "path": "/wp-content/uploads/2016/11/parade.jpg",
+          "sha256": "3079320cbcdc59acac9c4552301de6f4ad09dbafe142a475780f8e862e51fc26",
+          "bytes": 151029,
+          "label": "parade",
+          "aliases": [
+            "/wp-content/uploads/2016/11/parade.jpg"
+          ]
+        }
+      ],
+      "related_articles": [
+        {
+          "url": "/2016/11/22/7-parade-invisible/",
+          "title": "7.Parade invisible",
+          "display_date": "2016-11-22"
+        }
+      ],
+      "note": "Image conservée avec l’animation présentée dans l’article associé."
+    },
+    {
+      "id": "c3142e4966ff73e3",
+      "title": "petit joueur",
+      "kind": "image",
+      "collection": "blog",
+      "assets": [
+        {
+          "path": "/wp-content/uploads/2017/01/thumb9.jpg",
+          "sha256": "6e6b2deb1b22e87bff51464580d1750f6c6fedc40f9e8710bbb587585080fbc5",
+          "bytes": 125740,
+          "label": "petit joueur",
+          "aliases": [
+            "/wp-content/uploads/2017/01/thumb9.jpg"
+          ]
+        }
+      ],
+      "related_articles": [
+        {
+          "url": "/2017/01/16/9-les-petits-joueurs-curieux/",
+          "title": "9.Petits joueurs curieux",
+          "display_date": "2017-01-16"
+        }
+      ],
+      "note": "Image conservée avec l’animation présentée dans l’article associé."
+    },
+    {
+      "id": "8db09a5029a05b8c",
+      "title": "planet",
+      "kind": "image",
+      "collection": "blog",
+      "assets": [
+        {
+          "path": "/wp-content/uploads/2015/08/planet.jpg",
+          "sha256": "def3ecadf5b8fa8d5d9a7431b09f77a3772917509215eb4ec64b76834fab9770",
+          "bytes": 317083,
+          "label": "planet",
+          "aliases": [
+            "/wp-content/uploads/2015/08/planet.jpg"
+          ]
+        }
+      ],
+      "related_articles": [
+        {
+          "url": "/2015/06/13/chartres/",
+          "title": "Le sable des enchanteurs",
+          "display_date": "2015-06-13"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "013a16f94436730e",
+      "title": "présage",
+      "kind": "image",
+      "collection": "blog",
+      "assets": [
+        {
+          "path": "/wp-content/uploads/2012/04/saison6_51.jpg",
+          "sha256": "e0f4835febb2d6d6105272789f58d04894d70a94ce2ae1e21c3b66a9b1e3260c",
+          "bytes": 439949,
+          "label": "présage",
+          "aliases": [
+            "/wp-content/uploads/2012/04/saison6_51.jpg"
+          ]
+        }
+      ],
+      "related_articles": [
+        {
+          "url": "/2012/04/15/jour-5-presage/",
+          "title": "Jour 5: Présage",
+          "display_date": "2012-04-15"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "d9cf62d9352dbc3d",
+      "title": "reminiscence",
+      "kind": "image",
+      "collection": "blog",
+      "assets": [
+        {
+          "path": "/wp-content/uploads/2016/09/reminiscenceb.jpg",
+          "sha256": "c983b5379ce320574e67aab0b811604748976d22e75769ce082ea837f08f2213",
+          "bytes": 112962,
+          "label": "reminiscence",
+          "aliases": [
+            "/wp-content/uploads/2016/09/reminiscenceb.jpg"
+          ]
+        }
+      ],
+      "related_articles": [
+        {
+          "url": "/2016/09/29/4-reminiscence/",
+          "title": "4.Réminiscence",
+          "display_date": "2016-09-29"
+        }
+      ],
+      "note": "Image conservée avec l’animation présentée dans l’article associé."
+    },
+    {
+      "id": "082bc2fd58496f53",
+      "title": "saison4b",
+      "kind": "image",
+      "collection": "blog",
+      "assets": [
+        {
+          "path": "/wp-content/uploads/2011/dotclear/saison4b.jpg",
+          "sha256": "7eace33278d94a2be6b7a32bf5baf341e6db56e638ea8ea45f268a3d316fed2d",
+          "bytes": 91601,
+          "label": "saison4b",
+          "aliases": [
+            "/wp-content/uploads/2011/dotclear/saison4b.jpg"
+          ]
+        }
+      ],
+      "related_articles": [
+        {
+          "url": "/2009/02/12/bientot/",
+          "title": "Bientot... La fabuleuse traversée de 40 jours \\o/",
+          "display_date": "2009-02-12"
+        }
+      ],
+      "note": "Image conservée avec l’animation présentée dans l’article associé."
+    },
+    {
+      "id": "28767dcdb1cabc55",
+      "title": "serpent théorie",
+      "kind": "image",
+      "collection": "blog",
+      "assets": [
+        {
+          "path": "/wp-content/uploads/2014/04/hieroglyphe_post.jpg",
+          "sha256": "a4bc4eba37931c12160431f0507350e2b760cb214c0249ed18fc798b0bc48e7a",
+          "bytes": 283153,
+          "label": "serpent théorie",
+          "aliases": [
+            "/wp-content/uploads/2014/04/hieroglyphe_post.jpg"
+          ]
+        }
+      ],
+      "related_articles": [
+        {
+          "url": "/2014/04/06/yaldabaoth-ou-loeil-qui-voulait-tout-voir/",
+          "title": "Yaldabaoth, ou l'oeil qui voulait tout voir",
+          "display_date": "2014-04-06"
+        }
+      ],
+      "note": "Image conservée avec l’animation présentée dans l’article associé."
+    },
+    {
+      "id": "bc45df48da0061c4",
+      "title": "sf4fanart",
+      "kind": "image",
+      "collection": "blog",
+      "assets": [
+        {
+          "path": "/wp-content/uploads/2011/dotclear/sf4fanart.jpg",
+          "sha256": "2d458e27e3d42abc0857bc663dfaf4c5b57b378149856504c793c23f3bfb444b",
+          "bytes": 89434,
+          "label": "sf4fanart",
+          "aliases": [
+            "/wp-content/uploads/2011/dotclear/sf4fanart.jpg"
+          ]
+        }
+      ],
+      "related_articles": [
+        {
+          "url": "/2009/09/24/fanart-avec-ou-sans-glacons/",
+          "title": "Fanart : Avec ou sans gla&ccedil;on ?",
+          "display_date": "2009-09-24"
+        }
+      ],
+      "note": "Image conservée avec l’animation présentée dans l’article associé."
+    },
+    {
+      "id": "e01713d61b324eb6",
+      "title": "skull",
+      "kind": "swf",
+      "collection": "blog",
+      "assets": [
+        {
+          "path": "/wp-content/uploads/2015/01/skull.swf",
+          "sha256": "e2eb081cb7316fbff503b139e32ece65cb930ac719f88e6428d2a1ab090aa720",
+          "bytes": 597150,
+          "label": "skull",
+          "aliases": [
+            "/wp-content/uploads/2015/01/skull.swf",
+            "/wp-content/uploads/2015/01/skull1.swf"
+          ],
+          "width": 600,
+          "height": 847
+        }
+      ],
+      "related_articles": [
+        {
+          "url": "/2015/01/05/piedestal/",
+          "title": "Piedestal",
+          "display_date": "2015-01-05"
+        }
+      ],
+      "note": "Copie identique à un fichier conservé sous une autre adresse."
+    },
+    {
+      "id": "b32db0361ced0dbd",
+      "title": "step_sama",
+      "kind": "image",
+      "collection": "blog",
+      "assets": [
+        {
+          "path": "/wp-content/uploads/2013/12/step_sama.jpg",
+          "sha256": "2f3d3bc882f5b2be9666a5da6f5222bf810a2d3f3e8696d88e7287971eff7725",
+          "bytes": 172697,
+          "label": "step_sama",
+          "aliases": [
+            "/wp-content/uploads/2013/12/step_sama.jpg"
+          ]
+        }
+      ],
+      "related_articles": [
+        {
+          "url": "/2013/12/18/lenfant-nomme/",
+          "title": "L'enfant nommé...",
+          "display_date": "2013-12-18"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "8af831d983d0432d",
+      "title": "timbre",
+      "kind": "image",
+      "collection": "blog",
+      "assets": [
+        {
+          "path": "/wp-content/uploads/2011/dotclear/timbre.jpg",
+          "sha256": "26c5e5f447b19bd37f951289614a1a4aa3cd1cb56f4f8f107a818dc1cc4bf52f",
+          "bytes": 70608,
+          "label": "timbre",
+          "aliases": [
+            "/wp-content/uploads/2011/dotclear/timbre.jpg"
+          ]
+        }
+      ],
+      "related_articles": [
+        {
+          "url": "/2006/02/08/flash-el-pitito-theatro-dela-mouerte/",
+          "title": "flash** el pitito theatro d&eacute;la mouert&eacute; !",
+          "display_date": "2006-02-08"
+        }
+      ],
+      "note": "Image conservée avec l’animation présentée dans l’article associé."
+    },
+    {
+      "id": "3747e420af761aef",
+      "title": "traqueur",
+      "kind": "image",
+      "collection": "blog",
+      "assets": [
+        {
+          "path": "/wp-content/uploads/2011/dotclear/traqueur.jpg",
+          "sha256": "f6af13a2761a2da1ccd6c3ae2038fb736bf28c549dbf4aa4d03c788cf1a10386",
+          "bytes": 122766,
+          "label": "traqueur",
+          "aliases": [
+            "/wp-content/uploads/2011/dotclear/traqueur.jpg"
+          ]
+        }
+      ],
+      "related_articles": [
+        {
+          "url": "/2010/05/05/samaya-et-le-point-d-assemblage/",
+          "title": "Sämaya et Le Point d'Assemblage",
+          "display_date": "2010-05-05"
+        }
+      ],
+      "note": "Image conservée avec l’animation présentée dans l’article associé."
+    },
+    {
+      "id": "1ee968157867c1ad",
+      "title": "Ancien en-tête du blog",
+      "kind": "image",
+      "collection": "habillage",
+      "assets": [
+        {
+          "path": "/theme/step/header.jpg",
+          "sha256": "9a4f7b9f34843b57450f76b63f34d111a7337619f566ff506efb99dbd84ddd05",
+          "bytes": 59116,
+          "label": "header",
+          "aliases": [
+            "/theme/step/header.jpg"
+          ]
+        }
+      ],
+      "related_articles": [],
+      "note": ""
+    },
+    {
+      "id": "14f864ff398e35a9",
+      "title": "Ancienne animation des liens",
+      "kind": "swf",
+      "collection": "habillage",
+      "assets": [
+        {
+          "path": "/theme/step/liens.swf",
+          "sha256": "b99f4e2a92822bd15fc61fa9e66cf0ce2966569a4a72552467a9d0962dc59fed",
+          "bytes": 8920,
+          "label": "liens",
+          "aliases": [
+            "/theme/step/liens.swf"
+          ],
+          "width": 290,
+          "height": 1000
+        }
+      ],
+      "related_articles": [],
+      "note": ""
+    },
+    {
+      "id": "739af0d6c45cdc0d",
+      "title": "Dewplayer — ancien lecteur audio",
+      "kind": "swf",
+      "collection": "habillage",
+      "assets": [
+        {
+          "path": "/wp-content/uploads/2011/dotclear/son/dewplayer.swf",
+          "sha256": "bc9885a1f1259ad2d8b5145e2e893a762f27ed193296bc654786ffd81f3dae52",
+          "bytes": 4031,
+          "label": "dewplayer",
+          "aliases": [
+            "/wp-content/uploads/2011/dotclear/son/dewplayer.swf"
+          ],
+          "width": 200,
+          "height": 20
+        }
+      ],
+      "related_articles": [],
+      "note": "Élément technique du site historique, conservé avec son fichier original.",
+      "playable": false
+    },
+    {
+      "id": "31692613b7601bf4",
+      "title": "Mindcontroller — miniatures",
+      "kind": "image",
+      "collection": "pochettes",
+      "assets": [
+        {
+          "path": "/metaflash/photoshop/backmc1.jpg",
+          "sha256": "1f2d4b77aad67f02b823b4a57da60593e1f9b851dc948bd6075b3c4b8c4901af",
+          "bytes": 2938,
+          "label": "Mindcontroller — miniatures",
+          "aliases": [
+            "/metaflash/photoshop/backmc1.jpg"
+          ]
+        },
+        {
+          "path": "/metaflash/photoshop/interieur1.jpg",
+          "sha256": "93c421fbed930c2175d383f00beb561ff0ae698132f9f738d03d992b251d6d88",
+          "bytes": 4125,
+          "label": "Mindcontroller — miniatures",
+          "aliases": [
+            "/metaflash/photoshop/interieur1.jpg"
+          ]
+        }
+      ],
+      "related_articles": [
+        {
+          "url": "/metaflash/photoshop/mc1.html",
+          "title": "Mindcontroller — vues complètes"
+        }
+      ],
+      "note": "Anciennes miniatures de navigation. La galerie historique conserve les trois vues complètes de cette pochette."
+    },
+    {
+      "id": "b427e2f165aad591",
+      "title": "Sirius — miniatures",
+      "kind": "image",
+      "collection": "pochettes",
+      "assets": [
+        {
+          "path": "/metaflash/photoshop/back1.jpg",
+          "sha256": "37f07b5f7ae443f4f72c3de41e60d2d17d901f12db5342e55f7c3e89e37bd644",
+          "bytes": 2136,
+          "label": "Sirius — miniatures",
+          "aliases": [
+            "/metaflash/photoshop/back1.jpg"
+          ]
+        },
+        {
+          "path": "/metaflash/photoshop/interior1.jpg",
+          "sha256": "ded570f20d4a79a986dddf296a3ea9f747d94a264c751c3b552a04e04976186b",
+          "bytes": 2727,
+          "label": "Sirius — miniatures",
+          "aliases": [
+            "/metaflash/photoshop/interior1.jpg"
+          ]
+        }
+      ],
+      "related_articles": [
+        {
+          "url": "/metaflash/photoshop/sirius.html",
+          "title": "Sirius — vues complètes"
+        }
+      ],
+      "note": "Anciennes miniatures de navigation. La galerie historique conserve les trois vues complètes de cette pochette."
+    }
+  ]
+}

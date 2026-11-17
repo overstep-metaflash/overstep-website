@@ -351,6 +351,20 @@ def render_legacy_body(source, source_path, pages, assets, inline_movies, image_
     return result
 
 
+def render_media_dialog():
+    """Share the accessible internal viewer with the independent archive."""
+    return '''<dialog id="metaflash-dialog" aria-labelledby="metaflash-dialog-title">
+<header class="metaflash-dialog-header"><h2 id="metaflash-dialog-title">Animation</h2>
+<button type="button" data-metaflash-close autofocus>Fermer</button></header>
+<div class="metaflash-viewer"></div>
+<nav class="metaflash-image-controls" aria-label="Images" hidden>
+<button type="button" data-metaflash-previous>← Précédente</button>
+<span data-metaflash-position aria-live="polite"></span>
+<button type="button" data-metaflash-next>Suivante →</button>
+</nav>
+</dialog>'''
+
+
 def render_shell(source_path, title, body, background=None):
     """Generate a static, prefix-independent portfolio page with a native dialog."""
     body = '\n'.join(line.rstrip(' \t') for line in body.split('\n'))
@@ -373,16 +387,7 @@ def render_shell(source_path, title, body, background=None):
 </head><body class="metaflash-page{home_class}">
 <a class="metaflash-skip" href="#metaflash-content">Aller au contenu</a>
 <main id="metaflash-content" class="metaflash-original"{backdrop}>{back}{body}</main>
-<dialog id="metaflash-dialog" aria-labelledby="metaflash-dialog-title">
-<header class="metaflash-dialog-header"><h2 id="metaflash-dialog-title">Animation</h2>
-<button type="button" data-metaflash-close autofocus>Fermer</button></header>
-<div class="metaflash-viewer"></div>
-<nav class="metaflash-image-controls" aria-label="Images" hidden>
-<button type="button" data-metaflash-previous>← Précédente</button>
-<span data-metaflash-position aria-live="polite"></span>
-<button type="button" data-metaflash-next>Suivante →</button>
-</nav>
-</dialog>
+{render_media_dialog()}
 <noscript>Activez JavaScript pour lire les animations. Les liens de la galerie restent accessibles.</noscript>
 </body></html>
 '''

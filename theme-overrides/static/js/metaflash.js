@@ -1,7 +1,8 @@
 /* Restore the portfolio navigation without changing the archived artwork. */
 (() => {
-  const root = new URL('../metaflash/', document.currentScript.src);
   const siteRoot = new URL('../', document.currentScript.src);
+  const root = new URL(document.currentScript.dataset?.mediaRoot || 'metaflash/', siteRoot);
+  const rewriteMap = document.currentScript.dataset?.rewriteMap || 'metaflash/navigation.json';
   const dialog = document.querySelector('#metaflash-dialog');
   const viewer = document.querySelector('.metaflash-viewer');
   const title = document.querySelector('#metaflash-dialog-title');
@@ -23,7 +24,7 @@
     container.className = 'flash-animation';
     container.dataset.swf = new URL(movie.src, root).href;
     container.dataset.base = new URL('./', container.dataset.swf).href;
-    container.dataset.rewriteMap = 'metaflash/navigation.json';
+    container.dataset.rewriteMap = rewriteMap;
     container.dataset.fullscreen = 'true';
     container.style.maxWidth = movie.width + 'px';
     const frame = document.createElement('div');

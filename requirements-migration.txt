@@ -2,3 +2,4 @@ PyYAML==6.0.3
 nh3==0.3.7
 markdown-it-py==4.2.0
 mdurl==0.1.2
+Pillow==13.0.0

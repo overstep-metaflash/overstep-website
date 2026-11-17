@@ -3,7 +3,7 @@ const assert = require('node:assert/strict');
 const fs = require('node:fs');
 const vm = require('node:vm');
 
-function fixture(prefix) {
+function fixture(prefix, dataset = {}) {
   const listeners = {}, dialogEvents = {}, loaded = [], unloaded = [], assigned = [], delegated = [];
   const viewer = { children: [], appendChild(node) { this.children.push(node); }, replaceChildren() { this.children = []; } };
   const dialog = { open: false, addEventListener: (event, fn) => { dialogEvents[event] = fn; },
@@ -25,7 +25,7 @@ function fixture(prefix) {
   ] } }, pages: {
     'art.html': { url: '/metaflash/art.html', kind: 'movie', movie_id: 'art.html' },
     'menu2.html': { url: '/metaflash/menu2.html', kind: 'page' } } };
-  const document = { currentScript: { src: `https://preview.test${prefix}js/metaflash.js` },
+  const document = { currentScript: { src: `https://preview.test${prefix}js/metaflash.js`, dataset },
     activeElement: null, createElement: make, querySelectorAll: () => [],
     querySelector: selector => ({ '#metaflash-dialog': dialog, '#metaflash-dialog-title': title,
       '.metaflash-viewer': viewer, '[data-metaflash-close]': { addEventListener() {} },
@@ -68,6 +68,20 @@ test('gallery opens a movie internally at either prefix and closing destroys its
     assert.equal(f.viewer.children.length, 0);
     assert.equal(f.click('art.html', { ctrlKey: true }), false, 'Modified clicks retain the fallback page');
     assert.equal(f.click('unreviewed.html'), false);
+  }
+});
+
+test('archive viewers use their own manifest and rewrite map at either prefix', async () => {
+  for (const prefix of ['/', '/overstep-website/']) {
+    const f = fixture(prefix, { mediaRoot: 'archives/metaflash/', rewriteMap: 'archives/metaflash/navigation.json' });
+    await new Promise(setImmediate);
+    assert.equal(f.loaded.length, 0, 'Browsing notices must not start animations');
+    f.click('art.html');
+    assert.equal(f.loaded[0].dataset.swf, `https://preview.test${prefix}archives/metaflash/art.swf`);
+    assert.equal(f.loaded[0].dataset.rewriteMap, 'archives/metaflash/navigation.json');
+    f.click('covers', {}, 1);
+    const image = f.viewer.children[0].children.find(node => node.tagName === 'img');
+    assert.equal(image.src, `https://preview.test${prefix}archives/metaflash/photoshop/inside.jpg`);
   }
 });
 

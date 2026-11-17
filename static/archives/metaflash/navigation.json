@@ -1,0 +1,1394 @@
+[
+  {
+    "legacy": "http://metaflash.fr/index.html",
+    "destination": "/metaflash/"
+  },
+  {
+    "legacy": "https://metaflash.fr/index.html",
+    "destination": "/metaflash/"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/index.html",
+    "destination": "/metaflash/"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/index.html",
+    "destination": "/metaflash/"
+  },
+  {
+    "legacy": "http://metaflash.fr/menu2.html",
+    "destination": "/metaflash/menu2.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/menu2.html",
+    "destination": "/metaflash/menu2.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/menu2.html",
+    "destination": "/metaflash/menu2.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/menu2.html",
+    "destination": "/metaflash/menu2.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/anterak.html",
+    "destination": "/metaflash/anterak.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/anterak.html",
+    "destination": "/metaflash/anterak.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/anterak.html",
+    "destination": "/metaflash/anterak.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/anterak.html",
+    "destination": "/metaflash/anterak.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/7crows.html",
+    "destination": "/metaflash/7crows.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/7crows.html",
+    "destination": "/metaflash/7crows.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/7crows.html",
+    "destination": "/metaflash/7crows.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/7crows.html",
+    "destination": "/metaflash/7crows.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/anaesthesia.html",
+    "destination": "/metaflash/anaesthesia.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/anaesthesia.html",
+    "destination": "/metaflash/anaesthesia.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/anaesthesia.html",
+    "destination": "/metaflash/anaesthesia.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/anaesthesia.html",
+    "destination": "/metaflash/anaesthesia.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/anotherworld.html",
+    "destination": "/metaflash/anotherworld.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/anotherworld.html",
+    "destination": "/metaflash/anotherworld.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/anotherworld.html",
+    "destination": "/metaflash/anotherworld.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/anotherworld.html",
+    "destination": "/metaflash/anotherworld.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/astriah2.html",
+    "destination": "/metaflash/astriah2.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/astriah2.html",
+    "destination": "/metaflash/astriah2.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/astriah2.html",
+    "destination": "/metaflash/astriah2.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/astriah2.html",
+    "destination": "/metaflash/astriah2.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/athanor.html",
+    "destination": "/metaflash/athanor.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/athanor.html",
+    "destination": "/metaflash/athanor.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/athanor.html",
+    "destination": "/metaflash/athanor.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/athanor.html",
+    "destination": "/metaflash/athanor.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/baobab.html",
+    "destination": "/metaflash/baobab.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/baobab.html",
+    "destination": "/metaflash/baobab.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/baobab.html",
+    "destination": "/metaflash/baobab.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/baobab.html",
+    "destination": "/metaflash/baobab.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/baronsamedi.html",
+    "destination": "/metaflash/baronsamedi.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/baronsamedi.html",
+    "destination": "/metaflash/baronsamedi.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/baronsamedi.html",
+    "destination": "/metaflash/baronsamedi.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/baronsamedi.html",
+    "destination": "/metaflash/baronsamedi.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/beginning.html",
+    "destination": "/metaflash/beginning.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/beginning.html",
+    "destination": "/metaflash/beginning.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/beginning.html",
+    "destination": "/metaflash/beginning.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/beginning.html",
+    "destination": "/metaflash/beginning.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/bigbang.html",
+    "destination": "/metaflash/bigbang.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/bigbang.html",
+    "destination": "/metaflash/bigbang.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/bigbang.html",
+    "destination": "/metaflash/bigbang.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/bigbang.html",
+    "destination": "/metaflash/bigbang.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/bliss.html",
+    "destination": "/metaflash/bliss.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/bliss.html",
+    "destination": "/metaflash/bliss.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/bliss.html",
+    "destination": "/metaflash/bliss.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/bliss.html",
+    "destination": "/metaflash/bliss.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/bubble2.html",
+    "destination": "/metaflash/bubble2.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/bubble2.html",
+    "destination": "/metaflash/bubble2.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/bubble2.html",
+    "destination": "/metaflash/bubble2.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/bubble2.html",
+    "destination": "/metaflash/bubble2.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/chartres.html",
+    "destination": "/metaflash/chartres.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/chartres.html",
+    "destination": "/metaflash/chartres.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/chartres.html",
+    "destination": "/metaflash/chartres.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/chartres.html",
+    "destination": "/metaflash/chartres.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/checkspire.html",
+    "destination": "/metaflash/checkspire.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/checkspire.html",
+    "destination": "/metaflash/checkspire.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/checkspire.html",
+    "destination": "/metaflash/checkspire.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/checkspire.html",
+    "destination": "/metaflash/checkspire.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/colosseus.html",
+    "destination": "/metaflash/colosseus.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/colosseus.html",
+    "destination": "/metaflash/colosseus.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/colosseus.html",
+    "destination": "/metaflash/colosseus.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/colosseus.html",
+    "destination": "/metaflash/colosseus.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/conjunction2.html",
+    "destination": "/metaflash/conjunction2.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/conjunction2.html",
+    "destination": "/metaflash/conjunction2.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/conjunction2.html",
+    "destination": "/metaflash/conjunction2.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/conjunction2.html",
+    "destination": "/metaflash/conjunction2.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/cybershadow.html",
+    "destination": "/metaflash/cybershadow.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/cybershadow.html",
+    "destination": "/metaflash/cybershadow.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/cybershadow.html",
+    "destination": "/metaflash/cybershadow.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/cybershadow.html",
+    "destination": "/metaflash/cybershadow.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/darkmatter.html",
+    "destination": "/metaflash/darkmatter.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/darkmatter.html",
+    "destination": "/metaflash/darkmatter.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/darkmatter.html",
+    "destination": "/metaflash/darkmatter.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/darkmatter.html",
+    "destination": "/metaflash/darkmatter.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/dragonhunter.html",
+    "destination": "/metaflash/dragonhunter.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/dragonhunter.html",
+    "destination": "/metaflash/dragonhunter.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/dragonhunter.html",
+    "destination": "/metaflash/dragonhunter.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/dragonhunter.html",
+    "destination": "/metaflash/dragonhunter.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/drop.html",
+    "destination": "/metaflash/drop.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/drop.html",
+    "destination": "/metaflash/drop.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/drop.html",
+    "destination": "/metaflash/drop.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/drop.html",
+    "destination": "/metaflash/drop.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/electrikmoon.html",
+    "destination": "/metaflash/electrikmoon.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/electrikmoon.html",
+    "destination": "/metaflash/electrikmoon.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/electrikmoon.html",
+    "destination": "/metaflash/electrikmoon.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/electrikmoon.html",
+    "destination": "/metaflash/electrikmoon.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/electronirik.html",
+    "destination": "/metaflash/electronirik.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/electronirik.html",
+    "destination": "/metaflash/electronirik.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/electronirik.html",
+    "destination": "/metaflash/electronirik.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/electronirik.html",
+    "destination": "/metaflash/electronirik.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/escape.html",
+    "destination": "/metaflash/escape.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/escape.html",
+    "destination": "/metaflash/escape.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/escape.html",
+    "destination": "/metaflash/escape.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/escape.html",
+    "destination": "/metaflash/escape.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/esoterik.html",
+    "destination": "/metaflash/esoterik.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/esoterik.html",
+    "destination": "/metaflash/esoterik.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/esoterik.html",
+    "destination": "/metaflash/esoterik.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/esoterik.html",
+    "destination": "/metaflash/esoterik.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/fogpeople.html",
+    "destination": "/metaflash/fogpeople.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/fogpeople.html",
+    "destination": "/metaflash/fogpeople.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/fogpeople.html",
+    "destination": "/metaflash/fogpeople.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/fogpeople.html",
+    "destination": "/metaflash/fogpeople.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/forrest.html",
+    "destination": "/metaflash/forrest.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/forrest.html",
+    "destination": "/metaflash/forrest.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/forrest.html",
+    "destination": "/metaflash/forrest.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/forrest.html",
+    "destination": "/metaflash/forrest.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/freetibet.html",
+    "destination": "/metaflash/freetibet.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/freetibet.html",
+    "destination": "/metaflash/freetibet.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/freetibet.html",
+    "destination": "/metaflash/freetibet.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/freetibet.html",
+    "destination": "/metaflash/freetibet.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/fullmoon.html",
+    "destination": "/metaflash/fullmoon.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/fullmoon.html",
+    "destination": "/metaflash/fullmoon.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/fullmoon.html",
+    "destination": "/metaflash/fullmoon.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/fullmoon.html",
+    "destination": "/metaflash/fullmoon.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/goldknight.html",
+    "destination": "/metaflash/goldknight.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/goldknight.html",
+    "destination": "/metaflash/goldknight.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/goldknight.html",
+    "destination": "/metaflash/goldknight.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/goldknight.html",
+    "destination": "/metaflash/goldknight.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/hacker.html",
+    "destination": "/metaflash/hacker.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/hacker.html",
+    "destination": "/metaflash/hacker.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/hacker.html",
+    "destination": "/metaflash/hacker.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/hacker.html",
+    "destination": "/metaflash/hacker.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/hell2.html",
+    "destination": "/metaflash/hell2.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/hell2.html",
+    "destination": "/metaflash/hell2.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/hell2.html",
+    "destination": "/metaflash/hell2.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/hell2.html",
+    "destination": "/metaflash/hell2.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/hiroshima.html",
+    "destination": "/metaflash/hiroshima.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/hiroshima.html",
+    "destination": "/metaflash/hiroshima.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/hiroshima.html",
+    "destination": "/metaflash/hiroshima.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/hiroshima.html",
+    "destination": "/metaflash/hiroshima.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/imagine.html",
+    "destination": "/metaflash/imagine.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/imagine.html",
+    "destination": "/metaflash/imagine.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/imagine.html",
+    "destination": "/metaflash/imagine.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/imagine.html",
+    "destination": "/metaflash/imagine.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/impression.html",
+    "destination": "/metaflash/impression.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/impression.html",
+    "destination": "/metaflash/impression.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/impression.html",
+    "destination": "/metaflash/impression.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/impression.html",
+    "destination": "/metaflash/impression.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/jumpinto.html",
+    "destination": "/metaflash/jumpinto.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/jumpinto.html",
+    "destination": "/metaflash/jumpinto.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/jumpinto.html",
+    "destination": "/metaflash/jumpinto.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/jumpinto.html",
+    "destination": "/metaflash/jumpinto.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/looney3.html",
+    "destination": "/metaflash/looney3.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/looney3.html",
+    "destination": "/metaflash/looney3.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/looney3.html",
+    "destination": "/metaflash/looney3.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/looney3.html",
+    "destination": "/metaflash/looney3.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/mega2.html",
+    "destination": "/metaflash/mega2.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/mega2.html",
+    "destination": "/metaflash/mega2.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/mega2.html",
+    "destination": "/metaflash/mega2.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/mega2.html",
+    "destination": "/metaflash/mega2.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/mononoke.html",
+    "destination": "/metaflash/mononoke.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/mononoke.html",
+    "destination": "/metaflash/mononoke.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/mononoke.html",
+    "destination": "/metaflash/mononoke.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/mononoke.html",
+    "destination": "/metaflash/mononoke.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/monster.html",
+    "destination": "/metaflash/monster.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/monster.html",
+    "destination": "/metaflash/monster.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/monster.html",
+    "destination": "/metaflash/monster.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/monster.html",
+    "destination": "/metaflash/monster.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/multisnake.html",
+    "destination": "/metaflash/multisnake.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/multisnake.html",
+    "destination": "/metaflash/multisnake.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/multisnake.html",
+    "destination": "/metaflash/multisnake.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/multisnake.html",
+    "destination": "/metaflash/multisnake.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/murmures.html",
+    "destination": "/metaflash/murmures.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/murmures.html",
+    "destination": "/metaflash/murmures.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/murmures.html",
+    "destination": "/metaflash/murmures.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/murmures.html",
+    "destination": "/metaflash/murmures.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/mustik.html",
+    "destination": "/metaflash/mustik.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/mustik.html",
+    "destination": "/metaflash/mustik.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/mustik.html",
+    "destination": "/metaflash/mustik.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/mustik.html",
+    "destination": "/metaflash/mustik.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/nemesis.html",
+    "destination": "/metaflash/nemesis.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/nemesis.html",
+    "destination": "/metaflash/nemesis.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/nemesis.html",
+    "destination": "/metaflash/nemesis.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/nemesis.html",
+    "destination": "/metaflash/nemesis.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/nightrunner.html",
+    "destination": "/metaflash/nightrunner.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/nightrunner.html",
+    "destination": "/metaflash/nightrunner.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/nightrunner.html",
+    "destination": "/metaflash/nightrunner.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/nightrunner.html",
+    "destination": "/metaflash/nightrunner.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/oiseau.html",
+    "destination": "/metaflash/oiseau.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/oiseau.html",
+    "destination": "/metaflash/oiseau.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/oiseau.html",
+    "destination": "/metaflash/oiseau.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/oiseau.html",
+    "destination": "/metaflash/oiseau.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/paese.html",
+    "destination": "/metaflash/paese.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/paese.html",
+    "destination": "/metaflash/paese.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/paese.html",
+    "destination": "/metaflash/paese.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/paese.html",
+    "destination": "/metaflash/paese.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/peace.html",
+    "destination": "/metaflash/peace.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/peace.html",
+    "destination": "/metaflash/peace.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/peace.html",
+    "destination": "/metaflash/peace.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/peace.html",
+    "destination": "/metaflash/peace.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/peterpan.html",
+    "destination": "/metaflash/peterpan.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/peterpan.html",
+    "destination": "/metaflash/peterpan.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/peterpan.html",
+    "destination": "/metaflash/peterpan.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/peterpan.html",
+    "destination": "/metaflash/peterpan.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/photoshop/blueway.html",
+    "destination": "/metaflash/photoshop/blueway.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/photoshop/blueway.html",
+    "destination": "/metaflash/photoshop/blueway.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/photoshop/blueway.html",
+    "destination": "/metaflash/photoshop/blueway.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/photoshop/blueway.html",
+    "destination": "/metaflash/photoshop/blueway.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/photoshop/mc1.html",
+    "destination": "/metaflash/photoshop/mc1.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/photoshop/mc1.html",
+    "destination": "/metaflash/photoshop/mc1.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/photoshop/mc1.html",
+    "destination": "/metaflash/photoshop/mc1.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/photoshop/mc1.html",
+    "destination": "/metaflash/photoshop/mc1.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/photoshop/outofspace.html",
+    "destination": "/metaflash/photoshop/outofspace.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/photoshop/outofspace.html",
+    "destination": "/metaflash/photoshop/outofspace.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/photoshop/outofspace.html",
+    "destination": "/metaflash/photoshop/outofspace.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/photoshop/outofspace.html",
+    "destination": "/metaflash/photoshop/outofspace.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/photoshop/sirius.html",
+    "destination": "/metaflash/photoshop/sirius.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/photoshop/sirius.html",
+    "destination": "/metaflash/photoshop/sirius.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/photoshop/sirius.html",
+    "destination": "/metaflash/photoshop/sirius.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/photoshop/sirius.html",
+    "destination": "/metaflash/photoshop/sirius.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/pinocchia.html",
+    "destination": "/metaflash/pinocchia.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/pinocchia.html",
+    "destination": "/metaflash/pinocchia.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/pinocchia.html",
+    "destination": "/metaflash/pinocchia.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/pinocchia.html",
+    "destination": "/metaflash/pinocchia.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/progression.html",
+    "destination": "/metaflash/progression.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/progression.html",
+    "destination": "/metaflash/progression.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/progression.html",
+    "destination": "/metaflash/progression.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/progression.html",
+    "destination": "/metaflash/progression.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/prometheus.html",
+    "destination": "/metaflash/prometheus.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/prometheus.html",
+    "destination": "/metaflash/prometheus.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/prometheus.html",
+    "destination": "/metaflash/prometheus.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/prometheus.html",
+    "destination": "/metaflash/prometheus.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/rainbow.html",
+    "destination": "/metaflash/rainbow.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/rainbow.html",
+    "destination": "/metaflash/rainbow.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/rainbow.html",
+    "destination": "/metaflash/rainbow.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/rainbow.html",
+    "destination": "/metaflash/rainbow.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/salagou.html",
+    "destination": "/metaflash/salagou.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/salagou.html",
+    "destination": "/metaflash/salagou.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/salagou.html",
+    "destination": "/metaflash/salagou.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/salagou.html",
+    "destination": "/metaflash/salagou.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/school.html",
+    "destination": "/metaflash/school.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/school.html",
+    "destination": "/metaflash/school.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/school.html",
+    "destination": "/metaflash/school.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/school.html",
+    "destination": "/metaflash/school.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/shamanix.html",
+    "destination": "/metaflash/shamanix.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/shamanix.html",
+    "destination": "/metaflash/shamanix.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/shamanix.html",
+    "destination": "/metaflash/shamanix.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/shamanix.html",
+    "destination": "/metaflash/shamanix.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/shamanix2.html",
+    "destination": "/metaflash/shamanix2.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/shamanix2.html",
+    "destination": "/metaflash/shamanix2.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/shamanix2.html",
+    "destination": "/metaflash/shamanix2.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/shamanix2.html",
+    "destination": "/metaflash/shamanix2.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/silversurfer.html",
+    "destination": "/metaflash/silversurfer.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/silversurfer.html",
+    "destination": "/metaflash/silversurfer.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/silversurfer.html",
+    "destination": "/metaflash/silversurfer.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/silversurfer.html",
+    "destination": "/metaflash/silversurfer.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/snowlysmok.html",
+    "destination": "/metaflash/snowlysmok.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/snowlysmok.html",
+    "destination": "/metaflash/snowlysmok.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/snowlysmok.html",
+    "destination": "/metaflash/snowlysmok.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/snowlysmok.html",
+    "destination": "/metaflash/snowlysmok.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/soundheart.html",
+    "destination": "/metaflash/soundheart.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/soundheart.html",
+    "destination": "/metaflash/soundheart.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/soundheart.html",
+    "destination": "/metaflash/soundheart.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/soundheart.html",
+    "destination": "/metaflash/soundheart.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/spheres.html",
+    "destination": "/metaflash/spheres.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/spheres.html",
+    "destination": "/metaflash/spheres.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/spheres.html",
+    "destination": "/metaflash/spheres.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/spheres.html",
+    "destination": "/metaflash/spheres.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/stretched.html",
+    "destination": "/metaflash/stretched.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/stretched.html",
+    "destination": "/metaflash/stretched.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/stretched.html",
+    "destination": "/metaflash/stretched.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/stretched.html",
+    "destination": "/metaflash/stretched.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/tantra.html",
+    "destination": "/metaflash/tantra.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/tantra.html",
+    "destination": "/metaflash/tantra.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/tantra.html",
+    "destination": "/metaflash/tantra.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/tantra.html",
+    "destination": "/metaflash/tantra.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/thedance.html",
+    "destination": "/metaflash/thedance.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/thedance.html",
+    "destination": "/metaflash/thedance.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/thedance.html",
+    "destination": "/metaflash/thedance.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/thedance.html",
+    "destination": "/metaflash/thedance.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/theversus.html",
+    "destination": "/metaflash/theversus.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/theversus.html",
+    "destination": "/metaflash/theversus.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/theversus.html",
+    "destination": "/metaflash/theversus.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/theversus.html",
+    "destination": "/metaflash/theversus.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/tibet.html",
+    "destination": "/metaflash/tibet.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/tibet.html",
+    "destination": "/metaflash/tibet.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/tibet.html",
+    "destination": "/metaflash/tibet.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/tibet.html",
+    "destination": "/metaflash/tibet.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/tranb2.html",
+    "destination": "/metaflash/tranb2.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/tranb2.html",
+    "destination": "/metaflash/tranb2.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/tranb2.html",
+    "destination": "/metaflash/tranb2.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/tranb2.html",
+    "destination": "/metaflash/tranb2.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/virus.html",
+    "destination": "/metaflash/virus.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/virus.html",
+    "destination": "/metaflash/virus.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/virus.html",
+    "destination": "/metaflash/virus.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/virus.html",
+    "destination": "/metaflash/virus.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/wings.html",
+    "destination": "/metaflash/wings.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/wings.html",
+    "destination": "/metaflash/wings.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/wings.html",
+    "destination": "/metaflash/wings.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/wings.html",
+    "destination": "/metaflash/wings.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/wolverine.html",
+    "destination": "/metaflash/wolverine.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/wolverine.html",
+    "destination": "/metaflash/wolverine.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/wolverine.html",
+    "destination": "/metaflash/wolverine.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/wolverine.html",
+    "destination": "/metaflash/wolverine.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/photoshop/mc1b.html",
+    "destination": "/metaflash/photoshop/mc1b.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/photoshop/mc1b.html",
+    "destination": "/metaflash/photoshop/mc1b.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/photoshop/mc1b.html",
+    "destination": "/metaflash/photoshop/mc1b.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/photoshop/mc1b.html",
+    "destination": "/metaflash/photoshop/mc1b.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/photoshop/mc1c.html",
+    "destination": "/metaflash/photoshop/mc1c.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/photoshop/mc1c.html",
+    "destination": "/metaflash/photoshop/mc1c.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/photoshop/mc1c.html",
+    "destination": "/metaflash/photoshop/mc1c.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/photoshop/mc1c.html",
+    "destination": "/metaflash/photoshop/mc1c.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/photoshop/sirius2.html",
+    "destination": "/metaflash/photoshop/sirius2.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/photoshop/sirius2.html",
+    "destination": "/metaflash/photoshop/sirius2.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/photoshop/sirius2.html",
+    "destination": "/metaflash/photoshop/sirius2.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/photoshop/sirius2.html",
+    "destination": "/metaflash/photoshop/sirius2.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/photoshop/sirius3.html",
+    "destination": "/metaflash/photoshop/sirius3.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/photoshop/sirius3.html",
+    "destination": "/metaflash/photoshop/sirius3.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/photoshop/sirius3.html",
+    "destination": "/metaflash/photoshop/sirius3.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/photoshop/sirius3.html",
+    "destination": "/metaflash/photoshop/sirius3.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/liens.html",
+    "destination": "/metaflash/liens.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/liens.html",
+    "destination": "/metaflash/liens.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/liens.html",
+    "destination": "/metaflash/liens.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/liens.html",
+    "destination": "/metaflash/liens.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/guestbook.html",
+    "destination": "/metaflash/guestbook.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/guestbook.html",
+    "destination": "/metaflash/guestbook.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/guestbook.html",
+    "destination": "/metaflash/guestbook.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/guestbook.html",
+    "destination": "/metaflash/guestbook.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/sphere.html",
+    "destination": "/metaflash/spheres.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/sphere.html",
+    "destination": "/metaflash/spheres.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/sphere.html",
+    "destination": "/metaflash/spheres.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/sphere.html",
+    "destination": "/metaflash/spheres.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/menu.htm",
+    "destination": "/metaflash/menu2.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/menu.htm",
+    "destination": "/metaflash/menu2.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/menu.htm",
+    "destination": "/metaflash/menu2.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/menu.htm",
+    "destination": "/metaflash/menu2.html"
+  },
+  {
+    "legacy": "http://metaflash.fr/menu.html",
+    "destination": "/metaflash/menu2.html"
+  },
+  {
+    "legacy": "https://metaflash.fr/menu.html",
+    "destination": "/metaflash/menu2.html"
+  },
+  {
+    "legacy": "http://www.metaflash.fr/menu.html",
+    "destination": "/metaflash/menu2.html"
+  },
+  {
+    "legacy": "https://www.metaflash.fr/menu.html",
+    "destination": "/metaflash/menu2.html"
+  },
+  {
+    "legacy": "http://perso0.free.fr/cgi-bin/guestbook.pl?login=overstep",
+    "destination": "/metaflash/guestbook.html"
+  },
+  {
+    "legacy": "mailto:overstep@ifrance.com",
+    "destination": "mailto:lastep.fr@gmail.com"
+  },
+  {
+    "label": "Illustrations",
+    "legacy": "http://metaflash.fr/illustrations.html",
+    "destination": "/category/illustrations/"
+  },
+  {
+    "label": "Animations Flash",
+    "legacy": "http://metaflash.fr/flash.html",
+    "destination": "/category/anim-flash/"
+  },
+  {
+    "label": "Eros",
+    "legacy": "http://metaflash.fr/eros.html",
+    "destination": "/eros/"
+  },
+  {
+    "label": "40 jours",
+    "legacy": "http://metaflash.fr/40jours.html",
+    "destination": "/category/40-jours/"
+  },
+  {
+    "label": "Photos",
+    "legacy": "http://overstep.free.fr/photos.html",
+    "destination": "/category/photos/"
+  },
+  {
+    "label": "Galerie",
+    "legacy": "http://metaflash.fr/menu2.html",
+    "destination": "/gallery/"
+  },
+  {
+    "label": "Radio",
+    "legacy": "http://www.overstep.fr/radio/",
+    "destination": "/radio/"
+  },
+  {
+    "label": "Contact",
+    "legacy": "mailto:lastep.fr@gmail.com",
+    "destination": "mailto:lastep.fr@gmail.com"
+  }
+]
