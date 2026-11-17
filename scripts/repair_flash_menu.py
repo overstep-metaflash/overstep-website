@@ -32,8 +32,8 @@ def swf_tags(movie):
     return frame_header, tags
 
 
-def repair_actions(actions, reviewed_urls):
-    """Accept only the menu's simple GetURL/End action lists, without branches."""
+def repair_actions(actions, reviewed_urls, allow_non_navigation=False, url_replacements=None):
+    """Repair GetURL/End lists; optionally retain reviewed frame/play/stop actions."""
     result = bytearray()
     links = []
     offset = 0
@@ -45,6 +45,15 @@ def repair_actions(actions, reviewed_urls):
                 raise ValueError('Unexpected bytes after ActionEnd')
             result.append(0)
             break
+        if allow_non_navigation and opcode in {0x06, 0x07}:
+            result.append(opcode)
+            continue
+        if allow_non_navigation and opcode == 0x81:
+            if actions[offset:offset + 2] != b'\x02\0' or offset + 4 > len(actions):
+                raise ValueError('Malformed ActionGotoFrame')
+            result.extend(bytes([opcode]) + actions[offset:offset + 4])
+            offset += 4
+            continue
         if opcode != 0x83:
             raise ValueError('Unexpected menu action; review before changing action offsets')
         size = struct.unpack_from('<H', actions, offset)[0]
@@ -55,18 +64,25 @@ def repair_actions(actions, reviewed_urls):
         if len(fields) != 3 or fields[-1] or len(data) != size:
             raise ValueError('Malformed ActionGetURL')
         url, target = (field.decode('ascii') for field in fields[:2])
-        if url not in reviewed_urls:
+        replacements = url_replacements or {}
+        original = next((source for source, destination in replacements.items() if destination == url), url)
+        if original not in reviewed_urls:
             raise ValueError('Unreviewed menu URL: ' + url)
         if target not in {'_parent', '_self', '_top', '', '_blank'}:
             raise ValueError('Unreviewed menu target: ' + target)
         # Ruffle rejects current-tab targets when script access is disabled.
-        data = fields[0] + b'\0_blank\0'
+        destination = replacements.get(original, original)
+        if '\0' in destination:
+            raise ValueError('Invalid replacement menu URL')
+        data = destination.encode('ascii') + b'\0_blank\0'
         result.extend(b'\x83' + struct.pack('<H', len(data)) + data)
-        links.append((url, '_blank'))
+        links.append((original, '_blank'))
     return bytes(result), links
 
 
-def repair_menu(movie, reviewed_urls):
+def repair_menu(movie, reviewed_urls, allow_non_navigation=False, url_replacements=None):
+    if not set(url_replacements or {}) <= set(reviewed_urls):
+        raise ValueError('Unreviewed replacement menu URL')
     frame_header, tags = swf_tags(movie)
     result = bytearray(frame_header)
     links = []
@@ -82,7 +98,7 @@ def repair_menu(movie, reviewed_urls):
                     end = offset + size if size else len(data)
                     if (size and size < 4) or end > len(data):
                         raise ValueError('Malformed ButtonCondAction')
-                    actions, found = repair_actions(data[offset + 4:end], reviewed_urls)
+                    actions, found = repair_actions(data[offset + 4:end], reviewed_urls, allow_non_navigation, url_replacements)
                     links.extend(found)
                     updated.extend(struct.pack('<H', len(actions) + 4 if size else 0))
                     updated.extend(data[offset + 2:offset + 4])  # Original event flags.

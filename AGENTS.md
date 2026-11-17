@@ -36,6 +36,28 @@ Current references:
   issue #6, including three distinct Dotclear queries and the unavailable game ZIP.
   The missing-local-link inventory is now empty; hosting redirects remain pending.
 - `docs/preproduction-review.md`: build, release gates and known limitations.
+- `docs/audits/2026-11-16-metaflash-coverage.md`: read-only audit of all 1,868
+  Metaflash FTP files, exact Git/public coverage, reviewed page adaptations and
+  Wayback evidence. The full portfolio has not been imported; 198 source paths
+  have exact public copies, plus one additional adapted page. Raw per-file
+  evidence remains ignored under `migration/cache/metaflash-audit/`.
+- `docs/audits/2026-11-17-metaflash-restoration.md` and
+  `docs/metaflash-recovery.json`: selected homepage/gallery restoration, 277 output
+  files, 55 internal-viewer destinations, reviewed substitutions and root/prefix
+  verification. Consult this follow-up before treating selected files from the
+  original coverage baseline as still missing.
+- `docs/audits/2026-11-17-metaflash-follow-up.md`: subsequent viewport-filling
+  homepage, gallery header return link, ordinary Anterak gallery entry and recovered
+  guestbook. The section now has 278 reviewed files. Keep the 19 safe guestbook
+  messages in `data/metaflash_guestbook.json`, pinned review/cleanup evidence in
+  `docs/metaflash-guestbook-*.json`, and the raw owner-supplied capture outside Git.
+  Never restore IP headers or copy the unsanitized capture into static output.
+  The follow-up also covers image dialogs: 16 sets and 36 complete images,
+  including all three Sirius and MC1 cover views. Preserve ordered image
+  associations in the recovery manifest, avoid navigation thumbnails as substitutes,
+  and keep hidden menu hotspots out of the restored image pages. Two reviewed
+  injected spans were removed from legacy movie wrappers; there are now 57 simple
+  Flash destinations as well as the image sets.
 - `docs/audits/2026-11-16-legacy-urls.md`: issue #7's Pages-only hosting decision,
   query/feed regressions, local HTTP and Chrome evidence, and unresolved HTTP
   redirect/RSS-reader acceptance. A hosting choice does not waive release gates.
@@ -60,6 +82,7 @@ rtk proxy python3 scripts/sync_theme.py --check
 rtk proxy python3 scripts/sanitize_comments.py --check
 rtk proxy sh scripts/mise-local.sh exec -- hugo build --destination public --environment production --buildDrafts=false --buildFuture=false --buildExpired=false --panicOnWarning
 rtk proxy python3 scripts/validate_site.py --directory public
+rtk proxy python3 scripts/validate_metaflash.py --directory public
 ```
 
 Use the virtual environment's Python path if dependencies are not available to

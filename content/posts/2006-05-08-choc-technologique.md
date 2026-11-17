@@ -22,4 +22,4 @@ peur.
 parce que bon... goldorak quoi !
 
 [![](/wp-content/uploads/2011/dotclear/anterak.jpg)  
-](http://metaflash.fr/anterak.html)
+](/metaflash/anterak.html)

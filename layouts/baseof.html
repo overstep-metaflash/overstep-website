@@ -10,7 +10,7 @@
   {{ with .OutputFormats.Get "RSS" }}<link rel="alternate" type="application/rss+xml" title="{{ site.Title }}" href="{{ .RelPermalink }}">{{ end }}
   <link rel="stylesheet" href="{{ "css/step.css" | relURL }}">
   <link rel="stylesheet" href="{{ "css/ruffle-player.css" | relURL }}">
-  <script defer src="{{ "js/ruffle-player.js" | relURL }}?v=2"></script>
+  <script defer src="{{ "js/ruffle-player.js" | relURL }}?v=3"></script>
   <script defer src="{{ "js/legacy-redirects.js" | relURL }}" data-site-root="{{ site.Home.RelPermalink }}" data-post-map="{{ "legacy-posts.json" | relURL }}"></script>
 </head>
 <body>
@@ -40,7 +40,7 @@
   <div id="droit">
     <header id="header"><a href="{{ site.Home.RelPermalink }}" aria-label="Step — Les semelles de vent"><img src="{{ "theme/step/step_et_semelles.jpg" | relURL }}" alt="Step et les Semelles de Vent" width="980" height="240" fetchpriority="high"></a></header>
     <main id="content">{{ block "main" . }}{{ end }}</main>
-    <footer class="site-footer"><a href="{{ site.Home.RelPermalink }}">Step</a> · Les semelles de vent · <a href="{{ "feed.xml" | relURL }}">RSS</a></footer>
+    <footer class="site-footer"><a href="{{ site.Home.RelPermalink }}">Step</a> · Les semelles de vent · <a href="{{ "metaflash/" | relURL }}">Metaflash</a> · <a href="{{ "feed.xml" | relURL }}">RSS</a></footer>
   </div>
 </div>
 </body>

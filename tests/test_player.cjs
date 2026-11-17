@@ -4,6 +4,36 @@ const fs = require('node:fs');
 const vm = require('node:vm');
 const path = require('node:path');
 
+test('dynamic players use scoped maps and closing cancels pending creation', async () => {
+  let release, removed = 0;
+  const configs = [];
+  const container = () => ({ dataset: { swf: '/preview/metaflash/art.swf',
+    rewriteMap: 'metaflash/navigation.json', base: 'https://host.test/preview/metaflash/' },
+    querySelector: s => s === '.flash-status' ? {} : { appendChild() {} } });
+  const context = { URL, console,
+    fetch: async () => ({ ok: true, json: async () => [{ legacy: 'https://metaflash.fr/art.html', destination: '/metaflash/art.html' }] }),
+    document: { currentScript: { src: 'https://host.test/preview/js/ruffle-player.js' },
+      createElement: () => ({}), head: { appendChild: script => { release = script.onload; } }, querySelectorAll: () => [] },
+    window: { RufflePlayer: { newest: () => ({ createPlayer: () => ({
+      remove: () => { removed++; }, ruffle: () => ({ load: async config => configs.push(config) }),
+    }) }) } } };
+  vm.runInNewContext(fs.readFileSync(path.join(__dirname, '../theme-overrides/static/js/ruffle-player.js'), 'utf8'), context);
+  const first = container();
+  const pending = context.window.StepFlash.load(first);
+  context.window.StepFlash.unload(first);
+  release();
+  await pending;
+  assert.equal(configs.length, 0, 'Closing while loading must not create a playing orphan');
+  const second = container();
+  await context.window.StepFlash.load(second);
+  assert.equal(configs[0].base, 'https://host.test/preview/metaflash/');
+  assert.equal(configs[0].urlRewriteRules[0][1], 'https://host.test/preview/metaflash/art.html');
+  assert.equal(configs[0].allowScriptAccess, false);
+  context.window.StepFlash.unload(second);
+  assert.equal(removed, 1, 'Removing the Ruffle element destroys its runtime and sound');
+  assert.equal(second.dataset.ready, undefined);
+});
+
 test('visible animation starts automatically and retains its SWF path', async () => {
   let loaded;
   const status = { hidden: false };
