@@ -13,6 +13,13 @@ working in the original migration workspace.
 
 Current references:
 
+- `docs/audits/2026-11-17-native-totem.md` and `docs/native-totem.json`: subsequent
+  owner-approved native sidebar replacement. Canvas/SVG/Web Audio preserves nine
+  interactions; the original menu SWF stays unchanged in Git and static output.
+  Twelve extracted effects bring the approved public MP3 inventory to 64. Article
+  and Metaflash movies still use Ruffle. Older Flash-menu navigation notes below
+  document the preserved implementation, not the active native sidebar.
+
 - `docs/audits/2026-11-16-content.md`, JSON and CSV files: verified content findings.
 - `docs/audits/2026-11-16-flash-recovery.md` and `docs/flash-recovery.json`:
   subsequent recovery evidence for 124 Flash associations in 123 articles, eight
@@ -114,6 +121,7 @@ rtk proxy python3 scripts/validate_site.py --directory public
 rtk proxy python3 scripts/validate_metaflash.py --directory public
 rtk proxy python3 scripts/validate_media_archive.py --directory public
 rtk proxy python3 scripts/validate_article_audio.py --directory public
+rtk proxy python3 scripts/validate_native_totem.py --directory public
 ```
 
 Use the virtual environment's Python path if dependencies are not available to
@@ -296,7 +304,7 @@ another browser mechanism or change Homebrew ownership/permissions.
 
 ## Audio and publication
 
-The owner confirmed non-radio MP3 use on 2026-11-16. The 52 tracked MP3 files are
+The owner confirmed non-radio MP3 use on 2026-11-16. The 64 public MP3 files are
 recorded as `confirmed_by_owner`, including recovered `oneshot.mp3` (post 1845)
 and `everyoneintheworld.mp3` (post 2071). Both use `local-audio` players with exact
 paths/hashes in the recovery and audio manifests. The 17 old radio tracks have no

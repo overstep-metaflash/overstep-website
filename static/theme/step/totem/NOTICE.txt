@@ -1,0 +1,10 @@
+Native Step totem
+
+Original artwork and sound: Step / Overstep.
+Source movie retained at ../menu.swf.
+
+Canvas drawing helper derived from JPEXS Free Flash Decompiler 26.5.0.
+Upstream: https://github.com/jindrapetrik/jpexs-decompiler
+The helper is distributed with its GNU GPL version 3 license in COPYING.
+Modifications: scoped dispatch without eval, reviewed timeline controls and lifecycle.
+This directory and the public repository contain the unminified corresponding code.

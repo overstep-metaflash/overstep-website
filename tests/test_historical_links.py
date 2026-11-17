@@ -69,7 +69,7 @@ class HistoricalLinkTests(unittest.TestCase):
             (site / 'layouts/partials').mkdir(parents=True)
             (site / 'layouts/shortcodes').mkdir()
             for relative in ('layouts/baseof.html', 'layouts/partials/comments.html',
-                             'layouts/_partials/comment.html'):
+                             'layouts/_partials/comment.html', 'layouts/partials/native-totem.html'):
                 target = site / relative
                 target.parent.mkdir(parents=True, exist_ok=True)
                 shutil.copyfile(BLOG / 'theme-overrides' / relative, target)

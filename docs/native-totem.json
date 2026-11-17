@@ -1,0 +1,37 @@
+{
+  "source": "/theme/step/menu.swf",
+  "source_sha256": "eb3fb39dbec9e956f2a0e6b294c1d2a0aeacbfb594da07c9e41e11607c0f3735",
+  "generator": "JPEXS 26.5.0 and scripts/generate_native_totem.py",
+  "buttons": [
+    19,
+    46,
+    52,
+    68,
+    79,
+    93,
+    103,
+    150,
+    213
+  ],
+  "files": {
+    "layouts/partials/native-totem.html": "e481fd6ac80ab0c88eeffdea69f8d45d45e4b1ba96782548206a68d42693aad5",
+    "static/js/totem-renderer.js": "1e766ac99bff083527185ddebaa2da0fb40c56f2ee465e3da4f79fa42d1a0d14",
+    "static/js/totem-audio.js": "471467888dea72ff01b24556cebbf306bca97f13d0c83411076d7434e50f80a1",
+    "static/js/native-totem.js": "d52bdfa3b1c9c96b76a91e7cf7ebb6e283a9ad263e1602b5f62a1b96af39949f",
+    "static/theme/step/totem/COPYING": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+    "static/theme/step/totem/NOTICE.txt": "e19fff48c386014e78c55f510795c0f04930ed92880d31b3d1e77b402e28e3f0",
+    "static/theme/step/totem/audio/102.mp3": "9c74505a2002628b91e0d9e469b8f0171c2b69435d2499316e3b23ebfcc45d1e",
+    "static/theme/step/totem/audio/149.mp3": "4c115bdbd94507d7a32943b1a66916300938ce3814e33e8b9a0d2a4342882886",
+    "static/theme/step/totem/audio/18.mp3": "42899de2b05852d7a747a0936a407b82f12bdea07c0cdb2602b48e811817fec2",
+    "static/theme/step/totem/audio/212.mp3": "dbd469c9818af9597b4d23010e1f1d7b8a43ffca38934ceb18c97beee98ebbab",
+    "static/theme/step/totem/audio/45.mp3": "5efca71d1c1f689d8ede5755b96110aac440ab860f80136b0f2a88b9f98e3875",
+    "static/theme/step/totem/audio/51.mp3": "628c852bec3fee050d70c8742bbf11ef9bab88a26273a670126636e686d20808",
+    "static/theme/step/totem/audio/54.mp3": "1674e031ad8a7e6e56a3f76ab9ffc0d939d8ad630cd57de8994d5822bb4da880",
+    "static/theme/step/totem/audio/67.mp3": "f0f4aea2720e740896474f7f26f43e431acb166427598b8254e0828a8a610044",
+    "static/theme/step/totem/audio/70.mp3": "9acfe9ae8d5e6bf756f313e0eb0917b8ee6d46bdf0f33cb7051fe60a7d32fae6",
+    "static/theme/step/totem/audio/78.mp3": "005c6129effcc6d53ed17acaed1cfea011a2d31b9e83f322974f652e3594a2ee",
+    "static/theme/step/totem/audio/92.mp3": "0ca58706cbe5d91f2d1a8b5c0e29279aa6e1c0f0f2be8aeac90f2da7afcac444",
+    "static/theme/step/totem/audio/96.mp3": "8091c2c47f8ecbf5734bbac932a7c94d507b63e253150e2951e80dd8a1db6a1a",
+    "static/theme/step/totem/audio.json": "ddd2ec8b251bdb1cd25ecd591927be542f1cf7f169608f07521ebb296c897f03"
+  }
+}

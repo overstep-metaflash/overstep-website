@@ -451,6 +451,102 @@
         "2007-12-03-qingpipih-revient-en-dedicace.md"
       ],
       "redistribution_rights": "confirmed_by_owner"
+    },
+    {
+      "path": "/theme/step/totem/audio/18.mp3",
+      "bytes": 4472,
+      "sha256": "42899de2b05852d7a747a0936a407b82f12bdea07c0cdb2602b48e811817fec2",
+      "referencing_articles": [],
+      "redistribution_rights": "confirmed_by_owner",
+      "source": "Original embedded sidebar menu effect; native replacement explicitly approved on 2026-11-17."
+    },
+    {
+      "path": "/theme/step/totem/audio/45.mp3",
+      "bytes": 6240,
+      "sha256": "5efca71d1c1f689d8ede5755b96110aac440ab860f80136b0f2a88b9f98e3875",
+      "referencing_articles": [],
+      "redistribution_rights": "confirmed_by_owner",
+      "source": "Original embedded sidebar menu effect; native replacement explicitly approved on 2026-11-17."
+    },
+    {
+      "path": "/theme/step/totem/audio/51.mp3",
+      "bytes": 14248,
+      "sha256": "628c852bec3fee050d70c8742bbf11ef9bab88a26273a670126636e686d20808",
+      "referencing_articles": [],
+      "redistribution_rights": "confirmed_by_owner",
+      "source": "Original embedded sidebar menu effect; native replacement explicitly approved on 2026-11-17."
+    },
+    {
+      "path": "/theme/step/totem/audio/54.mp3",
+      "bytes": 7540,
+      "sha256": "1674e031ad8a7e6e56a3f76ab9ffc0d939d8ad630cd57de8994d5822bb4da880",
+      "referencing_articles": [],
+      "redistribution_rights": "confirmed_by_owner",
+      "source": "Original embedded sidebar menu effect; native replacement explicitly approved on 2026-11-17."
+    },
+    {
+      "path": "/theme/step/totem/audio/67.mp3",
+      "bytes": 4472,
+      "sha256": "f0f4aea2720e740896474f7f26f43e431acb166427598b8254e0828a8a610044",
+      "referencing_articles": [],
+      "redistribution_rights": "confirmed_by_owner",
+      "source": "Original embedded sidebar menu effect; native replacement explicitly approved on 2026-11-17."
+    },
+    {
+      "path": "/theme/step/totem/audio/70.mp3",
+      "bytes": 2808,
+      "sha256": "9acfe9ae8d5e6bf756f313e0eb0917b8ee6d46bdf0f33cb7051fe60a7d32fae6",
+      "referencing_articles": [],
+      "redistribution_rights": "confirmed_by_owner",
+      "source": "Original embedded sidebar menu effect; native replacement explicitly approved on 2026-11-17."
+    },
+    {
+      "path": "/theme/step/totem/audio/78.mp3",
+      "bytes": 11856,
+      "sha256": "005c6129effcc6d53ed17acaed1cfea011a2d31b9e83f322974f652e3594a2ee",
+      "referencing_articles": [],
+      "redistribution_rights": "confirmed_by_owner",
+      "source": "Original embedded sidebar menu effect; native replacement explicitly approved on 2026-11-17."
+    },
+    {
+      "path": "/theme/step/totem/audio/92.mp3",
+      "bytes": 21840,
+      "sha256": "0ca58706cbe5d91f2d1a8b5c0e29279aa6e1c0f0f2be8aeac90f2da7afcac444",
+      "referencing_articles": [],
+      "redistribution_rights": "confirmed_by_owner",
+      "source": "Original embedded sidebar menu effect; native replacement explicitly approved on 2026-11-17."
+    },
+    {
+      "path": "/theme/step/totem/audio/96.mp3",
+      "bytes": 22880,
+      "sha256": "8091c2c47f8ecbf5734bbac932a7c94d507b63e253150e2951e80dd8a1db6a1a",
+      "referencing_articles": [],
+      "redistribution_rights": "confirmed_by_owner",
+      "source": "Original embedded sidebar menu effect; native replacement explicitly approved on 2026-11-17."
+    },
+    {
+      "path": "/theme/step/totem/audio/102.mp3",
+      "bytes": 8424,
+      "sha256": "9c74505a2002628b91e0d9e469b8f0171c2b69435d2499316e3b23ebfcc45d1e",
+      "referencing_articles": [],
+      "redistribution_rights": "confirmed_by_owner",
+      "source": "Original embedded sidebar menu effect; native replacement explicitly approved on 2026-11-17."
+    },
+    {
+      "path": "/theme/step/totem/audio/149.mp3",
+      "bytes": 122720,
+      "sha256": "4c115bdbd94507d7a32943b1a66916300938ce3814e33e8b9a0d2a4342882886",
+      "referencing_articles": [],
+      "redistribution_rights": "confirmed_by_owner",
+      "source": "Original embedded sidebar menu effect; native replacement explicitly approved on 2026-11-17."
+    },
+    {
+      "path": "/theme/step/totem/audio/212.mp3",
+      "bytes": 60736,
+      "sha256": "dbd469c9818af9597b4d23010e1f1d7b8a43ffca38934ceb18c97beee98ebbab",
+      "referencing_articles": [],
+      "redistribution_rights": "confirmed_by_owner",
+      "source": "Original embedded sidebar menu effect; native replacement explicitly approved on 2026-11-17."
     }
   ],
   "owner_confirmation": {

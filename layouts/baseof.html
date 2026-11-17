@@ -11,18 +11,16 @@
   <link rel="stylesheet" href="{{ "css/step.css" | relURL }}">
   <link rel="stylesheet" href="{{ "css/ruffle-player.css" | relURL }}">
   <script defer src="{{ "js/ruffle-player.js" | relURL }}?v=3"></script>
+  <script defer src="{{ "js/totem-renderer.js" | relURL }}?v=1"></script>
+  <script defer src="{{ "js/totem-audio.js" | relURL }}?v=1"></script>
+  <script defer src="{{ "js/native-totem.js" | relURL }}?v=1"></script>
   <script defer src="{{ "js/legacy-redirects.js" | relURL }}" data-site-root="{{ site.Home.RelPermalink }}" data-post-map="{{ "legacy-posts.json" | relURL }}"></script>
 </head>
 <body>
 <a class="skip-link" href="#content">Aller au contenu</a>
 <div id="wrapper">
   <aside id="primary" aria-label="Navigation">
-    <div class="flash-animation sidebar-totem" data-kind="navigation" data-swf="{{ "theme/step/menu.swf" | relURL }}?v=2" data-fullscreen="false">
-      <div class="flash-player" aria-label="Totem animé et navigation Step">
-        <a class="flash-fallback" href="{{ site.Home.RelPermalink }}"><img src="{{ "theme/step/menu.png" | relURL }}" alt="Step, les semelles de vent" width="303" height="2280"></a>
-      </div>
-      <span class="flash-status visually-hidden" role="status">Chargement du totem…</span>
-    </div>
+    {{ partialCached "native-totem.html" . }}
     <nav id="blogroll" class="blogroll" aria-label="Liens amis">
       <h2 class="visually-hidden">Liens</h2>
       <ul>{{ range hugo.Data.blogroll }}<li><a href="{{ .url }}">{{ .name }}</a></li>{{ end }}</ul>
