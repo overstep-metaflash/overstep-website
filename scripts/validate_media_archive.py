@@ -7,13 +7,25 @@ import posixpath
 from urllib.parse import unquote, urljoin, urlsplit
 
 from media_archive import ROOT, safe_path, sha256
+from ftp_catalogue import verify_coverage
+from PIL import Image
 
 
-def validate(directory, data, evidence, base_url='https://preview.test/'):
+def validate(directory, data, evidence, base_url='https://preview.test/', ftp=None, review=None):
     directory = Path(directory).resolve()
     errors = []
+    if data.get('ftp_batch'):
+        if ftp is None or review is None:
+            errors.append('Missing complete FTP batch evidence')
+        else:
+            errors.extend(verify_coverage(data['entries'],ftp,review['decisions']))
+            review_hash = sha256((json.dumps(review,ensure_ascii=False,indent=2)+'\n').encode())
+            if review_hash != ftp['review_sha256']:
+                errors.append('FTP review decisions differ from pinned evidence')
     archive = directory / ROOT.lstrip('/')
+    sources = [asset for entry in data['entries'] for asset in entry['assets']]
     expected = {item['path'].lstrip('/') for item in evidence['files']}
+    expected.update(item['path'].lstrip('/') for item in sources if item['path'].startswith(ROOT))
     actual = {file.relative_to(directory).as_posix() for file in archive.rglob('*') if file.is_file()}
     errors.extend('Unreviewed archive file: ' + path for path in sorted(actual - expected))
     if evidence['data_sha256'] != sha256(json.dumps(data, ensure_ascii=False, sort_keys=True).encode()):
@@ -22,7 +34,6 @@ def validate(directory, data, evidence, base_url='https://preview.test/'):
     if sorted(paths) != evidence['source_paths'] or sorted(paths) != sorted(data['reviewed_paths']) or \
             len(paths) != len(set(paths)) or evidence['notices'] != len(data['entries']):
         errors.append('Catalogue coverage differs from the reviewed batch')
-    sources = [asset for entry in data['entries'] for asset in entry['assets']]
     for item in evidence['files'] + sources:
         try:
             path = directory / safe_path(item['path']).lstrip('/')
@@ -32,6 +43,10 @@ def validate(directory, data, evidence, base_url='https://preview.test/'):
             valid = False
         if not valid:
             errors.append(('Source payload' if item in sources else 'Archive file') + ' mismatch: ' + item['path'])
+        elif item.get('source_files') and item['path'].endswith('.jpg'):
+            with Image.open(path) as image:
+                if image.getexif() or 'comment' in image.info or 'photoshop' in image.info:
+                    errors.append('Unreviewed JPEG metadata remains in FTP consultation copy')
     manifest_path = archive / 'manifest.json'
     if not manifest_path.is_file():
         return errors + ['Missing archive viewer manifest']
@@ -127,7 +142,9 @@ def main():
     root = Path(__file__).resolve().parents[1]
     data = json.loads((root / 'data/media_archive.json').read_text())
     evidence = json.loads((root / 'docs/media-archive.json').read_text())
-    errors = validate(args.directory, data, evidence, args.base_url)
+    ftp = json.loads((root/'docs/metaflash-ftp-catalogue.json').read_text()) if data.get('ftp_batch') else None
+    review = json.loads((root/'data/metaflash_ftp_review.json').read_text()) if data.get('ftp_batch') else None
+    errors = validate(args.directory, data, evidence, args.base_url, ftp, review)
     if errors:
         raise SystemExit('\n'.join(errors))
     print(f"Validated {evidence['notices']} archive notices and {len(evidence['source_paths'])} preserved media paths.")

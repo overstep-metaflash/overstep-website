@@ -78,6 +78,15 @@ Current references:
   associations use seven verified Spotify players and eight native players,
   recorded in `docs/article-audio-recovery.json`. The larger 911-file source
   catalogue remains unfinished.
+- `docs/audits/2026-11-17-ftp-catalogue.md`, `data/metaflash_ftp_review.json` and
+  `docs/metaflash-ftp-catalogue.json`: subsequent complete accounting of that
+  911-file batch. Local preparation includes 886 reviewed paths in 751 new
+  notices, with 25 personal items held outside public Git/output. The complete
+  local catalogue has 805 notices. Preserve private exclusions, all source-to-
+  notice associations and metadata-safe consultation copies. The owner's full
+  private review index and original downloads stay outside the repository.
+- `docs/releases/2026-11-17-archive-audio.md`: successful publication of commit
+  `660afd3`; the subsequent FTP catalogue preparation has not been deployed.
 - `docs/audits/2026-11-16-legacy-urls.md`: issue #7's Pages-only hosting decision,
   query/feed regressions, local HTTP and Chrome evidence, and unresolved HTTP
   redirect/RSS-reader acceptance. A hosting choice does not waive release gates.

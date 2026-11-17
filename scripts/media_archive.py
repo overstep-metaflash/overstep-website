@@ -12,7 +12,8 @@ from PIL import Image, ImageOps
 from metaflash import render_media_dialog
 
 ROOT = '/archives/metaflash/'
-COLLECTIONS = {'blog': 'Blog Step', 'dotclear': 'Ancien blog', 'pochettes': 'Pochettes', 'habillage': 'Éléments du site'}
+COLLECTIONS = {'blog':'Blog Step','quarante_jours':'40 jours','illustrations':'Illustrations',
+               'animations':'Animations','eros':'Eros','dotclear':'Ancien blog','pochettes':'Pochettes','habillage':'Éléments du site'}
 
 
 def sha256(raw):
@@ -59,10 +60,10 @@ def shell(page, title, body):
 <meta name="robots" content="noindex, nofollow"><title>{text(title)} | Archives Metaflash</title>
 <link rel="stylesheet" href="{link('/css/ruffle-player.css')}">
 <link rel="stylesheet" href="{link('/css/metaflash.css')}?v=3">
-<link rel="stylesheet" href="{link('/css/media-archive.css')}?v=1">
+<link rel="stylesheet" href="{link('/css/media-archive.css')}?v=2">
 <script defer src="{link('/js/ruffle-player.js')}?v=3"></script>
 <script defer src="{link('/js/metaflash.js')}?v=4" data-media-root="archives/metaflash/" data-rewrite-map="archives/metaflash/navigation.json"></script>
-<script defer src="{link('/js/media-archive.js')}?v=1"></script>
+<script defer src="{link('/js/media-archive.js')}?v=2"></script>
 </head><body class="metaflash-page media-archive">
 <a class="metaflash-skip" href="#metaflash-content">Aller au contenu</a>
 <header class="archive-header"><nav aria-label="Navigation"><a href="{link(ROOT)}">Catalogue</a>
@@ -84,7 +85,7 @@ def build_archive(data, read_bytes, navigation=None):
             raise ValueError('Invalid archive type, collection or empty notice')
         for asset in entry['assets']:
             path = safe_path(asset['path'])
-            if not path.startswith(('/wp-content/uploads/', '/metaflash/', '/theme/step/')):
+            if not path.startswith(('/wp-content/uploads/', '/metaflash/', '/theme/step/', '/archives/metaflash/media/')):
                 raise ValueError('Asset is outside the reviewed public media roots')
             raw = read_bytes(path)
             if sha256(raw) != asset['sha256'] or len(raw) != asset['bytes']:
@@ -152,9 +153,15 @@ def build_archive(data, read_bytes, navigation=None):
                 body += f'<a href="{url(asset["path"], page)}" data-metaflash-gallery="{identifier}" data-metaflash-index="{index}"><img src="{url(ROOT + "previews/" + asset["sha256"][:16] + ".jpg", page)}" alt="{text(asset["label"])}" loading="lazy"></a>'
             elif entry.get('playable', True) and index:
                 body += f'<a href="{url(asset["path"], page)}" data-metaflash-movie="{identifier}-{index}">Ouvrir cette version</a>'
-            body += f'<p><a href="{url(asset["path"], page)}" download>Télécharger l’original</a></p>'
+            body += f'<p><a href="{url(asset["path"], page)}" download>{text(asset.get("download_label", "Télécharger l’original"))}</a></p>'
+            if asset.get('metadata_removed'):
+                body += '<p>Version de consultation sans métadonnées. L’original est conservé dans l’archive privée.</p>'
             body += '<details><summary>Informations du fichier</summary><dl><dt>Nom conservé</dt><dd>' + text(posixpath.basename(asset['path'])) + '</dd>'
             body += f'<dt>Taille</dt><dd>{asset["bytes"]:,} octets</dd><dt>SHA-256</dt><dd class="archive-hash">{asset["sha256"]}</dd></dl>'
+            if asset.get('source_files'):
+                body += '<p>Provenance dans la sauvegarde Metaflash :</p><ul>'
+                body += ''.join('<li>' + text(source['path']) + ' <span class="archive-hash">(' + text(source['sha256']) + ')</span></li>' for source in asset['source_files'])
+                body += '</ul>'
             if len(asset.get('aliases', [])) > 1:
                 body += '<p>Copies identiques conservées :</p><ul>' + ''.join(
                     f'<li><a href="{url(alias, page)}">{text(alias)}</a></li>' for alias in asset['aliases']) + '</ul>'
@@ -163,12 +170,20 @@ def build_archive(data, read_bytes, navigation=None):
         output[identifier + '/index.html'] = shell(page, entry['title'], body)
     used_collections = {entry['collection'] for entry in data['entries']}
     options = ''.join(f'<option value="{key}">{value}</option>' for key, value in COLLECTIONS.items() if key in used_collections)
+    intro = 'Une première sélection d’images, d’animations et de variantes conservées autour de Metaflash et du blog Step.'
+    if data.get('ftp_batch'):
+        batch = data['ftp_batch']
+        intro = f'Le fonds Metaflash : images, animations, variantes et éléments du site historique. Lot FTP : {batch["source_paths"]} fichiers inventoriés, {batch["included_paths"]} proposés ici et {batch["private_paths"]} conservés dans l’archive privée.'
+    pager = '''<nav class="archive-pagination" aria-label="Pages du catalogue" hidden>
+<button type="button" data-archive-previous>← Précédente</button><span data-archive-page aria-live="polite"></span>
+<button type="button" data-archive-next>Suivante →</button></nav>''' if len(cards)>48 else ''
     body = f'''<h1>Archives Metaflash</h1>
-<p class="archive-intro">Une première sélection d’images, d’animations et de variantes conservées autour de Metaflash et du blog Step.</p>
+<p class="archive-intro">{intro}</p>
 <form class="archive-filters" role="search"><label>Rechercher<input type="search" name="query" autocomplete="off"></label>
 <label>Type<select name="kind"><option value="">Tous</option><option value="image">Images</option><option value="swf">Flash</option></select></label>
 <label>Collection<select name="collection"><option value="">Toutes</option>{options}</select></label><button type="reset">Tout afficher</button></form>
 <p class="archive-count" role="status" data-archive-count>{len(cards)} notices</p>
+{pager}
 <div class="archive-grid">{''.join(cards)}</div><p data-archive-empty hidden>Aucun média ne correspond. Essayez un autre mot ou affichez toutes les collections.</p>'''
     output['index.html'] = shell(root_page, 'Catalogue', body)
     output['manifest.json'] = (json.dumps(manifest, ensure_ascii=False, indent=2) + '\n').encode()

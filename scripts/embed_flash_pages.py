@@ -45,7 +45,11 @@ def parse_wrapper(source):
 
 
 def swf_dimensions(source):
-    raw = source.read_bytes()
+    return movie_dimensions(source.read_bytes())
+
+
+def movie_dimensions(raw):
+    """Read original movie stage dimensions from verified bytes."""
     body = zlib.decompress(raw[8:]) if raw[:3] == b'CWS' else raw[8:]
     if raw[:3] not in {b'CWS', b'FWS'}:
         raise ValueError('Cannot read dimensions from this SWF compression format')

@@ -76,3 +76,21 @@ class ArchiveCatalogueTests(unittest.TestCase):
         page = build_archive(data, files.__getitem__)[0]['index.html'].decode()
         self.assertNotIn('<script>not executable', page)
         self.assertIn('&lt;script&gt;not executable&lt;/script&gt;', page)
+
+    def test_ftp_notice_retains_source_provenance_and_labels_metadata_safe_download(self):
+        data, files = self.fixture()
+        old = data['reviewed_paths'][0]
+        new = '/archives/metaflash/media/fixture.jpg'
+        files[new] = files.pop(old)
+        data['reviewed_paths'] = [new]
+        entry = data['entries'][0]
+        entry['collection'] = 'illustrations'
+        asset = entry['assets'][0]
+        asset.update(path=new, aliases=[new], metadata_removed=True,
+                     download_label='Télécharger la version sans métadonnées',
+                     source_files=[{'path':'images/original.jpg','sha256':asset['sha256'],'bytes':asset['bytes']}])
+        output, _ = build_archive(data, files.__getitem__)
+        notice = output['0123456789abcdef/index.html'].decode()
+        self.assertIn('images/original.jpg', notice)
+        self.assertIn('Télécharger la version sans métadonnées', notice)
+        self.assertIn('archive privée', notice)

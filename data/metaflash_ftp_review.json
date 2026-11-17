@@ -1,0 +1,6310 @@
+{
+  "version": 1,
+  "source_paths": 911,
+  "source_inventory_sha256": "04da887d55e7ddefbe084d4a629437bf1b81cfba934f39e366f5be8ef00e29dd",
+  "review": "All 604 distinct source image payloads were visually reviewed in private contact sheets; personal material is held. Movie stage dimensions and declared dependencies are checked separately.",
+  "decisions": {
+    "566a4cb4feb12dd9": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/10",
+      "title": "40 jours — 10"
+    },
+    "f048ac2bcb6b72b2": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/10",
+      "title": "40 jours — 10"
+    },
+    "531d52d60ed88d15": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/10",
+      "title": "40 jours — 10"
+    },
+    "1851f33794ba4041": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/11",
+      "title": "40 jours — 11"
+    },
+    "18fee1d6510a9160": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/11",
+      "title": "40 jours — 11"
+    },
+    "66f8b4fcd68bb0bf": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/11",
+      "title": "40 jours — 11"
+    },
+    "bc95d7759c95a9c6": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/12",
+      "title": "40 jours — 12"
+    },
+    "8126d8d56cf9bdce": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/12",
+      "title": "40 jours — 12"
+    },
+    "00ac0a05b96a3e66": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/12",
+      "title": "40 jours — 12"
+    },
+    "c4f6c5ae5c9890f0": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/13",
+      "title": "40 jours — 13"
+    },
+    "71ae88de4074da45": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/13",
+      "title": "40 jours — 13"
+    },
+    "d49d4acd22ac5954": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/13",
+      "title": "40 jours — 13"
+    },
+    "f329caad2cbbba80": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/14",
+      "title": "40 jours — 14"
+    },
+    "8f45baec956d32f5": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/14",
+      "title": "40 jours — 14"
+    },
+    "0f7d52d69f2fbd92": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/14",
+      "title": "40 jours — 14"
+    },
+    "030120e7fd6f2ef6": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/15",
+      "title": "40 jours — 15"
+    },
+    "f5c7dddd9c6a6c26": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/15",
+      "title": "40 jours — 15"
+    },
+    "c4ee933a41a9d0ee": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/15",
+      "title": "40 jours — 15"
+    },
+    "ce0d6e7d5b413107": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/16",
+      "title": "40 jours — 16"
+    },
+    "97306757b83174d8": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/16",
+      "title": "40 jours — 16"
+    },
+    "bead42eed6b1c87e": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/16",
+      "title": "40 jours — 16"
+    },
+    "f89ce55155d8da12": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/17",
+      "title": "40 jours — 17"
+    },
+    "733579ab754e98b4": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/17",
+      "title": "40 jours — 17"
+    },
+    "d9521eeb6b000711": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/17",
+      "title": "40 jours — 17"
+    },
+    "41ad94a973699e24": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/18",
+      "title": "40 jours — 18"
+    },
+    "8408942a23b438f4": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/18",
+      "title": "40 jours — 18"
+    },
+    "d14d9ee10fd0eb73": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/18",
+      "title": "40 jours — 18"
+    },
+    "c23fba25f2cceb05": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/19",
+      "title": "40 jours — 19"
+    },
+    "6a17007b7fc65f2f": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/19",
+      "title": "40 jours — 19"
+    },
+    "ebf8cf17a6787897": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/19",
+      "title": "40 jours — 19"
+    },
+    "ece70c61022a20ae": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/1",
+      "title": "40 jours — 1"
+    },
+    "06cd6764fd311c0f": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/1",
+      "title": "40 jours — 1"
+    },
+    "410bc07e25d8f43d": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/1",
+      "title": "40 jours — 1"
+    },
+    "475b6c9855aa5abf": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/2",
+      "title": "40 jours — 2"
+    },
+    "426d2a93e3bd61e2": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/20",
+      "title": "40 jours — 20"
+    },
+    "d288663efd2d65e5": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/20",
+      "title": "40 jours — 20"
+    },
+    "7d8f4402c0e9a6cc": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/20",
+      "title": "40 jours — 20"
+    },
+    "5a181ec427295dda": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/21",
+      "title": "40 jours — 21"
+    },
+    "996c09b310c44efa": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/21",
+      "title": "40 jours — 21"
+    },
+    "564bc61f9817cffa": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/21",
+      "title": "40 jours — 21"
+    },
+    "712ea25aa8f77f81": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/22",
+      "title": "40 jours — 22"
+    },
+    "cb52d300b5702baa": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/22",
+      "title": "40 jours — 22"
+    },
+    "a02b90732aa2a523": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "quarante_jours",
+      "group": "40jours/22_40j",
+      "title": "40 jours — 22 40j"
+    },
+    "bc7cfe2c47216f17": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/22",
+      "title": "40 jours — 22"
+    },
+    "bd6bec20de33a1d0": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/22",
+      "title": "40 jours — 22"
+    },
+    "a8e257d26f265105": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/23",
+      "title": "40 jours — 23"
+    },
+    "4a6821f232236c82": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/23",
+      "title": "40 jours — 23"
+    },
+    "5bc047a08ea17e14": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/23",
+      "title": "40 jours — 23"
+    },
+    "fe0811224f9f31d8": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/23",
+      "title": "40 jours — 23"
+    },
+    "625e723b85a489fd": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/24",
+      "title": "40 jours — 24"
+    },
+    "b9204ad3cf275891": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/24",
+      "title": "40 jours — 24"
+    },
+    "57e0e4f1d86a86f4": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/24",
+      "title": "40 jours — 24"
+    },
+    "864e85e196897a8c": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/25",
+      "title": "40 jours — 25"
+    },
+    "686b7199a26f14a1": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/25",
+      "title": "40 jours — 25"
+    },
+    "1e1feb890cf0bbcb": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/25",
+      "title": "40 jours — 25"
+    },
+    "2e7a73373e8de768": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/26",
+      "title": "40 jours — 26"
+    },
+    "49d106a2b021cbd0": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/26",
+      "title": "40 jours — 26"
+    },
+    "0fa6e507d524a18f": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/26",
+      "title": "40 jours — 26"
+    },
+    "f812fc7bb4f2783c": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/27",
+      "title": "40 jours — 27"
+    },
+    "02734c5533c07650": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/27",
+      "title": "40 jours — 27"
+    },
+    "6480b320fe0bebeb": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/27",
+      "title": "40 jours — 27"
+    },
+    "c2f3f530af2f927a": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/28",
+      "title": "40 jours — 28"
+    },
+    "77c56efbace3fe62": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "quarante_jours",
+      "group": "40jours/28_40j",
+      "title": "40 jours — 28 40j"
+    },
+    "18ce868703659a12": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/28",
+      "title": "40 jours — 28"
+    },
+    "4cbf6dc0de7177c5": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/28",
+      "title": "40 jours — 28"
+    },
+    "6336933b768d9a13": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/29",
+      "title": "40 jours — 29"
+    },
+    "58a61595a02316f2": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/29",
+      "title": "40 jours — 29"
+    },
+    "8e827471486763d9": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/29",
+      "title": "40 jours — 29"
+    },
+    "fd7875b3e8393f43": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/2",
+      "title": "40 jours — 2"
+    },
+    "31643bd6a14a0815": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/2",
+      "title": "40 jours — 2"
+    },
+    "64f39d901fea8f89": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/3",
+      "title": "40 jours — 3"
+    },
+    "2c029fe64157e769": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/30",
+      "title": "40 jours — 30"
+    },
+    "28fc442bf81b7245": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "quarante_jours",
+      "group": "40jours/30_40j",
+      "title": "40 jours — 30 40j"
+    },
+    "ab0d0800c87805be": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/30",
+      "title": "40 jours — 30"
+    },
+    "cae7db3b5457f18f": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/30",
+      "title": "40 jours — 30"
+    },
+    "61c77c2de502e46b": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/31",
+      "title": "40 jours — 31"
+    },
+    "f622540f3d777f2a": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/31",
+      "title": "40 jours — 31"
+    },
+    "e91c2ece913b55bb": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/31",
+      "title": "40 jours — 31"
+    },
+    "72ed9e3b9c0ef82e": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/31",
+      "title": "40 jours — 31"
+    },
+    "231503c75deec318": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/32",
+      "title": "40 jours — 32"
+    },
+    "e45886cf0b9f80e4": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/32",
+      "title": "40 jours — 32"
+    },
+    "0e52fb80f313c998": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/32",
+      "title": "40 jours — 32"
+    },
+    "4c005510d41f2383": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/32",
+      "title": "40 jours — 32"
+    },
+    "fa03e5458560f8b1": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/33",
+      "title": "40 jours — 33"
+    },
+    "cd03fdcc54178fd7": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/33",
+      "title": "40 jours — 33"
+    },
+    "4fff04c4b5d93021": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/33",
+      "title": "40 jours — 33"
+    },
+    "61310542fec982ad": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/33",
+      "title": "40 jours — 33"
+    },
+    "28ca0ab5d3949af8": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/34",
+      "title": "40 jours — 34"
+    },
+    "794f93648a582036": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/34",
+      "title": "40 jours — 34"
+    },
+    "51454f04c48a0306": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/34",
+      "title": "40 jours — 34"
+    },
+    "dde8b5a6f12051a1": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/35",
+      "title": "40 jours — 35"
+    },
+    "4565fb6227ffcbbe": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/35",
+      "title": "40 jours — 35"
+    },
+    "463cbc66854ef467": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/35",
+      "title": "40 jours — 35"
+    },
+    "ca2c414b5c50ff81": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/36",
+      "title": "40 jours — 36"
+    },
+    "d45dfa91103284b2": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/36",
+      "title": "40 jours — 36"
+    },
+    "41cd243e7d8f23a9": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/36",
+      "title": "40 jours — 36"
+    },
+    "32fc6a8b7ff4beb5": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/36",
+      "title": "40 jours — 36"
+    },
+    "5a475c0df2d23b0d": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/37",
+      "title": "40 jours — 37"
+    },
+    "fd1a44b18e7f7d86": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/37",
+      "title": "40 jours — 37"
+    },
+    "1258af80eb2d69e7": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/37",
+      "title": "40 jours — 37"
+    },
+    "531e6597de9bea91": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/38",
+      "title": "40 jours — 38"
+    },
+    "2b94afe955dec1f5": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/38",
+      "title": "40 jours — 38"
+    },
+    "6da759e54ab437ec": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/38",
+      "title": "40 jours — 38"
+    },
+    "be7585abccdc4dfe": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/39",
+      "title": "40 jours — 39"
+    },
+    "7f48f5e4a09c991f": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/39_40j",
+      "title": "40 jours — 39 40j"
+    },
+    "bd4d12ab75d83b91": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/39",
+      "title": "40 jours — 39"
+    },
+    "4d08be607f7cd858": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/39",
+      "title": "40 jours — 39"
+    },
+    "5d7ee27414b69699": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/3",
+      "title": "40 jours — 3"
+    },
+    "6f04be3cb25a6b2b": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/3",
+      "title": "40 jours — 3"
+    },
+    "182fa1fcbf10a086": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/4",
+      "title": "40 jours — 4"
+    },
+    "24e19ad3e40335f0": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/40",
+      "title": "40 jours — 40"
+    },
+    "632f1c9a6835099a": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/40",
+      "title": "40 jours — 40"
+    },
+    "0c1436ec26767f1f": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/40",
+      "title": "40 jours — 40"
+    },
+    "a6124d440e109a8a": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/4",
+      "title": "40 jours — 4"
+    },
+    "c622e0787737556e": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/4",
+      "title": "40 jours — 4"
+    },
+    "b1d6ab88be5a4fb9": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/5",
+      "title": "40 jours — 5"
+    },
+    "eee04e3d43c162e3": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/5",
+      "title": "40 jours — 5"
+    },
+    "24fc887a5ef19fb9": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/5",
+      "title": "40 jours — 5"
+    },
+    "0f6a07f437caf0ea": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/6",
+      "title": "40 jours — 6"
+    },
+    "00709d209309fea0": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/6",
+      "title": "40 jours — 6"
+    },
+    "49d1544d7a000ac2": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/6",
+      "title": "40 jours — 6"
+    },
+    "c1a675fa537c3786": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/7",
+      "title": "40 jours — 7"
+    },
+    "223f9bb4153a9c51": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/7",
+      "title": "40 jours — 7"
+    },
+    "e4e5b0bae3a35280": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/7",
+      "title": "40 jours — 7"
+    },
+    "610946f89026fbef": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/8",
+      "title": "40 jours — 8"
+    },
+    "e7dbcf3e62076187": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/8",
+      "title": "40 jours — 8"
+    },
+    "addad8eb5547b298": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/8",
+      "title": "40 jours — 8"
+    },
+    "f2672e6d5c9dc892": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/9",
+      "title": "40 jours — 9"
+    },
+    "33db816692173238": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/9",
+      "title": "40 jours — 9"
+    },
+    "092e5c80e6a7dd93": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/numeric/9",
+      "title": "40 jours — 9"
+    },
+    "b492901686e15aef": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "quarante_jours",
+      "group": "40jours/j17",
+      "title": "40 jours — J17"
+    },
+    "0c3700b1bf5f993c": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "quarante_jours",
+      "group": "40jours/j24",
+      "title": "40 jours — J24"
+    },
+    "bd5b59ebf66f715f": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "quarante_jours",
+      "group": "40jours/j25",
+      "title": "40 jours — J25"
+    },
+    "23df29098f26edf4": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "quarante_jours",
+      "group": "40jours/j27",
+      "title": "40 jours — J27"
+    },
+    "996212663b577f73": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "quarante_jours",
+      "group": "40jours/j28",
+      "title": "40 jours — J28"
+    },
+    "8f27e92246f05023": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/j38",
+      "title": "40 jours — J38"
+    },
+    "27d18f66efca706c": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/a",
+      "title": "40 jours — a"
+    },
+    "7f09876e7526a743": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/b",
+      "title": "40 jours — b"
+    },
+    "daa06798b71e844b": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "habillage",
+      "group": "40jours/back",
+      "title": "40 jours — back"
+    },
+    "45a20979cdc1a0c9": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/baniere",
+      "title": "40 jours — baniere"
+    },
+    "7a9ca559e50a5390": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/banniere",
+      "title": "40 jours — banniere"
+    },
+    "ebc2eb32fb4791b0": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/c",
+      "title": "40 jours — c"
+    },
+    "d34f6649063cc6af": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/concours",
+      "title": "40 jours — concours"
+    },
+    "a296fc7053d61b6b": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/d",
+      "title": "40 jours — d"
+    },
+    "2d4430f071879d34": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "quarante_jours",
+      "group": "40jours/day2",
+      "title": "40 jours — day2"
+    },
+    "eb91a6015d0c79c0": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "quarante_jours",
+      "group": "40jours/day6",
+      "title": "40 jours — day6"
+    },
+    "e4115141b7170b28": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "quarante_jours",
+      "group": "40jours/day7",
+      "title": "40 jours — day7"
+    },
+    "28a45721499a3bc5": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "quarante_jours",
+      "group": "40jours/day9",
+      "title": "40 jours — day9"
+    },
+    "7d940fedfc23e7f1": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "quarante_jours",
+      "group": "40jours/derniere",
+      "title": "40 jours — derniere"
+    },
+    "bceaac495c6f680d": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/e",
+      "title": "40 jours — e"
+    },
+    "35682bbf3eb4d638": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/f",
+      "title": "40 jours — f"
+    },
+    "b12754e6410003f4": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/g",
+      "title": "40 jours — g"
+    },
+    "b0d5b7617c84a487": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/gifblanc",
+      "title": "40 jours — gifblanc"
+    },
+    "86a5472a920dfaea": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/gifbleu",
+      "title": "40 jours — gifbleu"
+    },
+    "6ae19c9dedfc2c3a": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/h",
+      "title": "40 jours — h"
+    },
+    "e1c8ca7203283f47": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/i",
+      "title": "40 jours — i"
+    },
+    "166d7d84c5ddf985": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/j",
+      "title": "40 jours — j"
+    },
+    "6e108805c4183a98": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/jour-15",
+      "title": "40 jours — jour-15"
+    },
+    "61796e382c19c1c6": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/jour-16",
+      "title": "40 jours — jour-16"
+    },
+    "523c2d5311b485e6": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/jour-17",
+      "title": "40 jours — jour-17"
+    },
+    "ea7d6c78e6e4fa98": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/jour-18",
+      "title": "40 jours — jour-18"
+    },
+    "77e9cea145e1b73b": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/jour-19",
+      "title": "40 jours — jour-19"
+    },
+    "1dd23dfe093c9f46": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "quarante_jours",
+      "group": "40jours/jour-2",
+      "title": "40 jours — jour-2"
+    },
+    "da04b9f65a14a62a": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/jour-20",
+      "title": "40 jours — jour-20"
+    },
+    "adfade7ade1fd00a": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/jour-21",
+      "title": "40 jours — jour-21"
+    },
+    "1c12c6ed51c5d307": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/jour-22",
+      "title": "40 jours — jour-22"
+    },
+    "c309ca94366f00ff": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/jour-23",
+      "title": "40 jours — jour-23"
+    },
+    "634b511faa7eee66": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "quarante_jours",
+      "group": "40jours/jour-23",
+      "title": "40 jours — jour-23"
+    },
+    "89c5796c0b3bb99e": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/jour-24",
+      "title": "40 jours — jour-24"
+    },
+    "b1ee35e3cb4adbc7": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/jour-25",
+      "title": "40 jours — jour-25"
+    },
+    "7c1119204076df32": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/jour-26",
+      "title": "40 jours — jour-26"
+    },
+    "8b2288c3559c4134": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "quarante_jours",
+      "group": "40jours/jour-26",
+      "title": "40 jours — jour-26"
+    },
+    "2802fae9512582b1": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/jour-27",
+      "title": "40 jours — jour-27"
+    },
+    "2971becad42fa47c": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/jour-28",
+      "title": "40 jours — jour-28"
+    },
+    "39d2877dad4d7630": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "quarante_jours",
+      "group": "40jours/jour-28",
+      "title": "40 jours — jour-28"
+    },
+    "52880ee095fe9c87": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/jour-29",
+      "title": "40 jours — jour-29"
+    },
+    "acbf39bfcc80abee": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/jour-30",
+      "title": "40 jours — jour-30"
+    },
+    "ff3d2f464c23b2a7": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/jour-31",
+      "title": "40 jours — jour-31"
+    },
+    "5190e8cc93e63b23": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/jour-32",
+      "title": "40 jours — jour-32"
+    },
+    "74fb3715d872ffc3": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "quarante_jours",
+      "group": "40jours/jour-32",
+      "title": "40 jours — jour-32"
+    },
+    "08bf78a7d39ecf64": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/jour-33",
+      "title": "40 jours — jour-33"
+    },
+    "93c737bbcb08ec8b": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/jour-34",
+      "title": "40 jours — jour-34"
+    },
+    "d98a96ec71f720a5": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/jour-35",
+      "title": "40 jours — jour-35"
+    },
+    "c046976176e03744": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/jour-36",
+      "title": "40 jours — jour-36"
+    },
+    "115b44a3ec388fe6": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/jour-37",
+      "title": "40 jours — jour-37"
+    },
+    "a787dda44e23e1f8": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "quarante_jours",
+      "group": "40jours/jour-37",
+      "title": "40 jours — jour-37"
+    },
+    "35193584f807b420": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/jour-38",
+      "title": "40 jours — jour-38"
+    },
+    "ec75123c550ff339": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "quarante_jours",
+      "group": "40jours/jour-38",
+      "title": "40 jours — jour-38"
+    },
+    "d76048ae85f62d1b": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/jour-39",
+      "title": "40 jours — jour-39"
+    },
+    "5cd80ac3ea26dfd3": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/jour-40",
+      "title": "40 jours — jour-40"
+    },
+    "d67ac231ea86225d": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "quarante_jours",
+      "group": "40jours/jour-40",
+      "title": "40 jours — jour-40"
+    },
+    "23e9e8817bebb51a": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "quarante_jours",
+      "group": "40jours/jour-5",
+      "title": "40 jours — jour-5"
+    },
+    "6631c1ecd6abe70b": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/jour_1",
+      "title": "40 jours — jour 1"
+    },
+    "88a46538beb1dfee": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/jour_10",
+      "title": "40 jours — jour 10"
+    },
+    "b35118b9e1f5a204": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/jour_11",
+      "title": "40 jours — jour 11"
+    },
+    "0c25720e4dbf76e0": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/jour_12",
+      "title": "40 jours — jour 12"
+    },
+    "744247499d3a4f90": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/jour_13",
+      "title": "40 jours — jour 13"
+    },
+    "6fa27bef53ba16fc": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/jour_14",
+      "title": "40 jours — jour 14"
+    },
+    "4fc43307a1548d64": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/jour_2",
+      "title": "40 jours — jour 2"
+    },
+    "ba816fca9575be2f": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/jour_26",
+      "title": "40 jours — jour 26"
+    },
+    "b5d374b5fe79cfd8": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/jour_29",
+      "title": "40 jours — jour 29"
+    },
+    "7b2c5f46cf6fc071": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/jour_3",
+      "title": "40 jours — jour 3"
+    },
+    "3e143a51061e4855": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/jour_30",
+      "title": "40 jours — jour 30"
+    },
+    "fc847b49fb01fe44": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/jour_4",
+      "title": "40 jours — jour 4"
+    },
+    "c631ad62c545c36f": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/jour_5",
+      "title": "40 jours — jour 5"
+    },
+    "09eec743fe46b1d2": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/jour_6",
+      "title": "40 jours — jour 6"
+    },
+    "dd36f099c05fc41c": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/jour_7",
+      "title": "40 jours — jour 7"
+    },
+    "7294dc7aab3e2aa3": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/jour_8",
+      "title": "40 jours — jour 8"
+    },
+    "93e07968d599aa55": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/jour_9",
+      "title": "40 jours — jour 9"
+    },
+    "a6d41d00662ac0a8": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/k",
+      "title": "40 jours — k"
+    },
+    "228ecfb2c8a6d7a0": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/l",
+      "title": "40 jours — l"
+    },
+    "6ed46d54f65e04a4": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/m",
+      "title": "40 jours — m"
+    },
+    "941cbe0462a6c56e": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/n",
+      "title": "40 jours — n"
+    },
+    "5f0e21b5f8a07b75": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/next",
+      "title": "40 jours — next"
+    },
+    "098d29619eab363e": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/o",
+      "title": "40 jours — o"
+    },
+    "3698e9d7c2456b5d": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/p",
+      "title": "40 jours — p"
+    },
+    "fd83d002dbf1e1c0": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/q",
+      "title": "40 jours — q"
+    },
+    "9024733aaf756860": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/r",
+      "title": "40 jours — r"
+    },
+    "efd734489fc0646a": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/s",
+      "title": "40 jours — s"
+    },
+    "baf3a1df90adcadf": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/snap1385",
+      "title": "40 jours — snap1385"
+    },
+    "4fa5639dc89afd9b": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/t",
+      "title": "40 jours — t"
+    },
+    "1cbc0fc99ab8dfc9": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/titre",
+      "title": "40 jours — titre"
+    },
+    "fcb1bc5f36188f60": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/trame",
+      "title": "40 jours — trame"
+    },
+    "209daed29ddb6335": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/u",
+      "title": "40 jours — u"
+    },
+    "f9415f5150642926": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/v",
+      "title": "40 jours — v"
+    },
+    "ddcc059540c3013a": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/w",
+      "title": "40 jours — w"
+    },
+    "d529743497b62d0a": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/x",
+      "title": "40 jours — x"
+    },
+    "d9ae7ccc1ec958dd": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/y",
+      "title": "40 jours — y"
+    },
+    "d0278f16813a6a19": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/z",
+      "title": "40 jours — z"
+    },
+    "b5040a9bd15a704b": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/za",
+      "title": "40 jours — za"
+    },
+    "ae17cacce7ff5cc5": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/zb",
+      "title": "40 jours — zb"
+    },
+    "5694e9356f33a3c6": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/zc",
+      "title": "40 jours — zc"
+    },
+    "f1e3ecacfb884d10": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/zd",
+      "title": "40 jours — zd"
+    },
+    "02475a51448331f7": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/ze",
+      "title": "40 jours — ze"
+    },
+    "fe00784b15934929": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/zf",
+      "title": "40 jours — zf"
+    },
+    "62dd816939519a10": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/zg",
+      "title": "40 jours — zg"
+    },
+    "035b30ef9666e469": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/zh",
+      "title": "40 jours — zh"
+    },
+    "7553470cc5bfafc1": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/zi",
+      "title": "40 jours — zi"
+    },
+    "edb8a28bbf832d3c": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/zj",
+      "title": "40 jours — zj"
+    },
+    "fdb9a1f0469842e0": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/zk",
+      "title": "40 jours — zk"
+    },
+    "586b1c52d1e506dc": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/zl",
+      "title": "40 jours — zl"
+    },
+    "b4987e5f74b1d4c9": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/zm",
+      "title": "40 jours — zm"
+    },
+    "d67a9fa1bdeb883c": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "quarante_jours",
+      "group": "40jours/zo",
+      "title": "40 jours — zo"
+    },
+    "bd7511f1495dfb6d": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "cv",
+      "title": "CV"
+    },
+    "0cebc72561f5fc8f": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "freebaze",
+      "title": "Freebaze"
+    },
+    "b8ca18baf60eebd9": {
+      "decision": "private",
+      "kind": "image"
+    },
+    "6b10f209cd53869d": {
+      "decision": "private",
+      "kind": "image"
+    },
+    "55a1283057505f37": {
+      "decision": "private",
+      "kind": "image"
+    },
+    "1d0f41149da2d7b3": {
+      "decision": "private",
+      "kind": "image"
+    },
+    "c96df84fcdc4f79e": {
+      "decision": "private",
+      "kind": "image"
+    },
+    "b8b994788236d359": {
+      "decision": "private",
+      "kind": "image"
+    },
+    "6b7434f50bb564c7": {
+      "decision": "private",
+      "kind": "image"
+    },
+    "d72a835a940b6def": {
+      "decision": "private",
+      "kind": "image"
+    },
+    "41ee87b8a3e7a2ba": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "absynth",
+      "title": "absynth"
+    },
+    "383a7d815aba3769": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "abyss",
+      "title": "abyss"
+    },
+    "ebdd00b452d0daf8": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "habillage",
+      "group": "accueil",
+      "title": "accueil"
+    },
+    "745504b90d1f0d6d": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "alien_intense",
+      "title": "alien intense"
+    },
+    "8c48ec194f054ad9": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "alkemia",
+      "title": "alkemia"
+    },
+    "d6b77c467a9e0404": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "anotherworldbleu",
+      "title": "anotherworldbleu"
+    },
+    "083dbe05e76f5d7e": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "astriah",
+      "title": "astriah"
+    },
+    "4ea02315cfc8f7da": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "astriah",
+      "title": "astriah"
+    },
+    "e81ac8c270638626": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "avalon",
+      "title": "avalon"
+    },
+    "1c93a2c59c8fcf82": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "habillage",
+      "group": "avatar",
+      "title": "avatar"
+    },
+    "2ec0183591c3b9e0": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "habillage",
+      "group": "avatar",
+      "title": "avatar"
+    },
+    "8624dec8e8a53742": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "away",
+      "title": "away"
+    },
+    "02a1d55b32edfd22": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "azuki",
+      "title": "azuki"
+    },
+    "d902ae8f9c0df2e4": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "habillage",
+      "group": "back",
+      "title": "back"
+    },
+    "cc84c7fc6517f92a": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "balerie",
+      "title": "balerie"
+    },
+    "3a37fd61c5f498b4": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "ball",
+      "title": "ball"
+    },
+    "e5b3ae70794df9c3": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "barbesnow",
+      "title": "barbesnow"
+    },
+    "9c8e388b11b5cf5f": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "blue",
+      "title": "blue"
+    },
+    "7fc6722a4457e85a": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "bluerocklee",
+      "title": "bluerocklee"
+    },
+    "fb5aa881388df7ea": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "bubble",
+      "title": "bubble"
+    },
+    "8d5da39d1305d773": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "bumblebee",
+      "title": "bumblebee"
+    },
+    "089a2352ea2cff3f": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "habillage",
+      "group": "cadre/1",
+      "title": "1"
+    },
+    "2d8bc759a6bb2c2d": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "habillage",
+      "group": "cadre/2",
+      "title": "2"
+    },
+    "de4efc488ca8e582": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "habillage",
+      "group": "cadre/3",
+      "title": "3"
+    },
+    "67fcb364424b4bb4": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "habillage",
+      "group": "cadre/4",
+      "title": "4"
+    },
+    "b057a7117049edaf": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "habillage",
+      "group": "cadre/5",
+      "title": "5"
+    },
+    "f0de9a9d030abdee": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "habillage",
+      "group": "cadre/6",
+      "title": "6"
+    },
+    "8b51919770480c9d": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "habillage",
+      "group": "cadre/7",
+      "title": "7"
+    },
+    "867e711c9aa760e0": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "habillage",
+      "group": "cadre/8",
+      "title": "8"
+    },
+    "7cff2edc2386f4ca": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "habillage",
+      "group": "cadre/cbd",
+      "title": "CBD"
+    },
+    "ac87ed17381b5294": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "habillage",
+      "group": "cadre/cbg",
+      "title": "CBG"
+    },
+    "6f8373581036d32b": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "habillage",
+      "group": "cadre/chd",
+      "title": "CHD"
+    },
+    "552bab1c4cdee6b4": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "habillage",
+      "group": "cadre/chg",
+      "title": "CHG"
+    },
+    "d1948dbefbd73b79": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "habillage",
+      "group": "cadre/bas",
+      "title": "bas"
+    },
+    "5cfae66778765015": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "habillage",
+      "group": "cadre/droite",
+      "title": "droite"
+    },
+    "86c2807391f80a80": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "habillage",
+      "group": "cadre/gauche",
+      "title": "gauche"
+    },
+    "ca4ddcaffbf21dd7": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "habillage",
+      "group": "cadre/guest",
+      "title": "guest"
+    },
+    "d2d3ce6d9680e3e6": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "habillage",
+      "group": "cadre/guest2",
+      "title": "guest2"
+    },
+    "0b83da6e1685d9f6": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "habillage",
+      "group": "cadre/haut",
+      "title": "haut"
+    },
+    "6352da2e34acfb4c": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "habillage",
+      "group": "cadre/links1",
+      "title": "links1"
+    },
+    "747244d04f714dbe": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "habillage",
+      "group": "cadre/links2",
+      "title": "links2"
+    },
+    "e03faf95409b39ce": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "habillage",
+      "group": "cadre/mailme2",
+      "title": "mailme2"
+    },
+    "858142e617cdb75a": {
+      "decision": "private",
+      "kind": "image"
+    },
+    "12bbe32f8c96164d": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "caricnadia",
+      "title": "caricnadia"
+    },
+    "37f3b6977e44464b": {
+      "decision": "private",
+      "kind": "image"
+    },
+    "7752ddde0a81f4b5": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "chas3r",
+      "title": "chas3r"
+    },
+    "ceb99378d4309528": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "chasseur",
+      "title": "chasseur"
+    },
+    "76b870d3b95e46aa": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "children",
+      "title": "children"
+    },
+    "261c1d97ccae1eb3": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "citation",
+      "title": "citation"
+    },
+    "a0092712b4e33ed1": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "cold",
+      "title": "cold"
+    },
+    "3b21bcf4283c31f2": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "cold",
+      "title": "cold"
+    },
+    "64bdfe60fbbbe729": {
+      "decision": "private",
+      "kind": "image"
+    },
+    "7e3d47eeb9546e0f": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "concours",
+      "title": "concours"
+    },
+    "e371ead2f24ca928": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "conjunction",
+      "title": "conjunction"
+    },
+    "c563b5495f0941f0": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "cosmocontrol",
+      "title": "cosmocontrol"
+    },
+    "85e2d226517feacc": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "couloir",
+      "title": "couloir"
+    },
+    "670e270cd73f92a0": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "croquis",
+      "title": "croquis"
+    },
+    "32c88a6d23e8b480": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "cyberiaa",
+      "title": "cyberiaa"
+    },
+    "7a7a76cee7524469": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "darkside",
+      "title": "darkside"
+    },
+    "e47abe5f0ed00146": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "davina",
+      "title": "davina"
+    },
+    "9b5358e3e26a81bf": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "ddaykilla",
+      "title": "ddaykilla"
+    },
+    "777a997afba5551a": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "ddaykilla3",
+      "title": "ddaykilla3"
+    },
+    "89cdcfe535b84aab": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "decker",
+      "title": "decker"
+    },
+    "eb6a439b68fdcba8": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "decker2",
+      "title": "decker2"
+    },
+    "a4d73df582f11150": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "decker3",
+      "title": "decker3"
+    },
+    "080464b146d0ad3f": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "decker4",
+      "title": "decker4"
+    },
+    "4c8d5f5d462665a1": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "decker5",
+      "title": "decker5"
+    },
+    "d9654a16f3985a71": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "decker6",
+      "title": "decker6"
+    },
+    "7f5a9fe969671229": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "depot3don",
+      "title": "depot3don"
+    },
+    "9b8a5a4fcc0fa5a4": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "depotedon",
+      "title": "depotedon"
+    },
+    "da5333e5614ae3a4": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "djankah",
+      "title": "djankah"
+    },
+    "05bd35bec7451f19": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "dlinkante",
+      "title": "dlinkante"
+    },
+    "15de77b8071b9140": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "dlinkante2",
+      "title": "dlinkante2"
+    },
+    "133fb0b99c5e2e79": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "dragon",
+      "title": "dragon"
+    },
+    "379ec9e375f92b8f": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "duhkha",
+      "title": "duhkha"
+    },
+    "cdeae936235e2a90": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "duhkha2",
+      "title": "duhkha2"
+    },
+    "df2d0d51e4ce3957": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "duhkha3",
+      "title": "duhkha3"
+    },
+    "9b786a75bb2b90c3": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "eden",
+      "title": "eden"
+    },
+    "a5f481db73cf36bb": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "ekinox",
+      "title": "ekinox"
+    },
+    "42d0c0a1707bdce1": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "element",
+      "title": "element"
+    },
+    "4c3763ede99c0c5b": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "element2",
+      "title": "element2"
+    },
+    "aec8b729761c9580": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "element3",
+      "title": "element3"
+    },
+    "8debc3375e581b29": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "embarquement",
+      "title": "embarquement"
+    },
+    "70b6aab837f95624": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "encapsuled",
+      "title": "encapsuled"
+    },
+    "42c13b7ab99001cc": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "eros",
+      "group": "eros/1",
+      "title": "1"
+    },
+    "78ce9d2154f27249": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "eros",
+      "group": "eros/10",
+      "title": "10"
+    },
+    "5779b67558fcaf50": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "eros",
+      "group": "eros/11",
+      "title": "11"
+    },
+    "04a8f825351ec187": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "eros",
+      "group": "eros/12",
+      "title": "12"
+    },
+    "f26e4e45d8090a0b": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "eros",
+      "group": "eros/13",
+      "title": "13"
+    },
+    "c72628ab93ad1de4": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "eros",
+      "group": "eros/14",
+      "title": "14"
+    },
+    "4e1436a9f69b3879": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "eros",
+      "group": "eros/15",
+      "title": "15"
+    },
+    "5c2cb227b4f04fe1": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "eros",
+      "group": "eros/16",
+      "title": "16"
+    },
+    "1f3da9904797921e": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "eros",
+      "group": "eros/17",
+      "title": "17"
+    },
+    "e683c76e6c748748": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "eros",
+      "group": "eros/18",
+      "title": "18"
+    },
+    "9b0d15699d510483": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "eros",
+      "group": "eros/19",
+      "title": "19"
+    },
+    "08c20e24db91fc03": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "eros",
+      "group": "eros/2",
+      "title": "2"
+    },
+    "bc9f3e88ee0e1c35": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "eros",
+      "group": "eros/20",
+      "title": "20"
+    },
+    "f6f181d1e190723c": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "eros",
+      "group": "eros/21",
+      "title": "21"
+    },
+    "bc8a0c673b909d2c": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "eros",
+      "group": "eros/22",
+      "title": "22"
+    },
+    "dacbe2f586784e3a": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "eros",
+      "group": "eros/23",
+      "title": "23"
+    },
+    "132d05f2bc7ac4c9": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "eros",
+      "group": "eros/24",
+      "title": "24"
+    },
+    "ac4034ad208ee84d": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "eros",
+      "group": "eros/25",
+      "title": "25"
+    },
+    "8e556084bad5ac01": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "eros",
+      "group": "eros/26",
+      "title": "26"
+    },
+    "523dac2e50d144fc": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "eros",
+      "group": "eros/27",
+      "title": "27"
+    },
+    "ac40222b8229500f": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "eros",
+      "group": "eros/3",
+      "title": "3"
+    },
+    "5b5cc7980c1076de": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "eros",
+      "group": "eros/4",
+      "title": "4"
+    },
+    "eaf5212bbf16de5e": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "eros",
+      "group": "eros/5",
+      "title": "5"
+    },
+    "74cb8e7c0413cd29": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "eros",
+      "group": "eros/6",
+      "title": "6"
+    },
+    "7826a0e51444e958": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "eros",
+      "group": "eros/7",
+      "title": "7"
+    },
+    "b78437bb8e4ce61d": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "eros",
+      "group": "eros/8",
+      "title": "8"
+    },
+    "13004ea2fbfe14a5": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "eros",
+      "group": "eros/9",
+      "title": "9"
+    },
+    "b61ebab72f1576e1": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "eros",
+      "group": "eros/eros",
+      "title": "eros"
+    },
+    "fac25dc86d358026": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "essai",
+      "title": "essai"
+    },
+    "a770ed505bb13e6b": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "etheric2",
+      "title": "etheric2"
+    },
+    "7a6a014289105196": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "explosion",
+      "title": "explosion"
+    },
+    "976298221417dbef": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "fallen",
+      "title": "fallen"
+    },
+    "f029509549d8a8e2": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "fantastic",
+      "title": "fantastic"
+    },
+    "d8d93b9ac8945694": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "find",
+      "title": "find"
+    },
+    "402f63b8ac6972d8": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "fire",
+      "title": "fire"
+    },
+    "fc5dd067991b4469": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "flash/1",
+      "title": "1"
+    },
+    "cb1544f8ef7f78f5": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "flash/10",
+      "title": "10"
+    },
+    "cd01f583a754831d": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "flash/11",
+      "title": "11"
+    },
+    "1be414cf1dac64d7": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "flash/12",
+      "title": "12"
+    },
+    "d254390c402d9e5b": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "flash/13",
+      "title": "13"
+    },
+    "c0c8460c75532f8b": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "flash/14",
+      "title": "14"
+    },
+    "b48864df59f3b2d5": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "flash/15",
+      "title": "15"
+    },
+    "eb35f77918f13a3e": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "flash/16",
+      "title": "16"
+    },
+    "842cf73be4afb5da": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "flash/17",
+      "title": "17"
+    },
+    "53ccb10c8f7a536b": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "flash/18",
+      "title": "18"
+    },
+    "ee228caa68c0db4b": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "flash/19",
+      "title": "19"
+    },
+    "445a8fe3a21cc021": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "flash/2",
+      "title": "2"
+    },
+    "dd2dd760750197d8": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "flash/20",
+      "title": "20"
+    },
+    "83a5ac381bd4ad2d": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "flash/21",
+      "title": "21"
+    },
+    "3f957d8933ba3dd1": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "flash/22",
+      "title": "22"
+    },
+    "5f6737f0c258efe0": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "flash/23",
+      "title": "23"
+    },
+    "06d29381e7a8db70": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "flash/24",
+      "title": "24"
+    },
+    "51ccf4c0cbb8dab8": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "flash/25",
+      "title": "25"
+    },
+    "47a96f80eed923da": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "flash/26",
+      "title": "26"
+    },
+    "b24f1b0368d24159": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "flash/27",
+      "title": "27"
+    },
+    "d8e8e999b362d791": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "flash/3",
+      "title": "3"
+    },
+    "39d57f6a5fb21bb1": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/39bis",
+      "title": "39bis"
+    },
+    "70c62d6a13a71bcc": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "flash/4",
+      "title": "4"
+    },
+    "63f2215f97e12ed0": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "flash/5",
+      "title": "5"
+    },
+    "45b8000bb2f2b59e": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "flash/6",
+      "title": "6"
+    },
+    "0a1ecb04eccf387e": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "flash/7",
+      "title": "7"
+    },
+    "e556fad0dd880cfa": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "flash/8",
+      "title": "8"
+    },
+    "bf0a17cec030c97d": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "flash/9",
+      "title": "9"
+    },
+    "cdccd962b955346d": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "flash/agartha",
+      "title": "agartha"
+    },
+    "7e906bf321fc3a39": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/astriah",
+      "title": "astriah"
+    },
+    "8add946757060731": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/athanor",
+      "title": "athanor"
+    },
+    "e287c6983a66335c": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/ball",
+      "title": "ball"
+    },
+    "d41ad427f3a8fd44": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/banniereflash",
+      "title": "banniereflash"
+    },
+    "5fc729d916c23a22": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/baobab",
+      "title": "baobab"
+    },
+    "ee0c10bbf7032832": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/beginning",
+      "title": "beginning"
+    },
+    "8c611fa35b2d8318": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/bubble",
+      "title": "bubble"
+    },
+    "f6d3dc2fb67fb803": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/bumblebee",
+      "title": "bumblebee"
+    },
+    "f336ec4743817917": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/chasseur",
+      "title": "chasseur"
+    },
+    "c37ae64c027114ea": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/ddkilla",
+      "title": "ddkilla"
+    },
+    "2222911f7e56796a": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "flash/diesirae",
+      "title": "diesirae"
+    },
+    "640c053b088e1b47": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/dlinkante",
+      "title": "dlinkante"
+    },
+    "76dc28356eccb9f9": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/electroniriq",
+      "title": "electroniriq"
+    },
+    "158a04e25f889165": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/etheric",
+      "title": "etheric"
+    },
+    "5af913060db881c5": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/fallen",
+      "title": "fallen"
+    },
+    "1a9f424c862a98c4": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/freebaze",
+      "title": "freebaze"
+    },
+    "5bae0e5b9f56432e": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/gregster",
+      "title": "gregster"
+    },
+    "1d465ae9ce27ad43": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "habillage",
+      "group": "flash/guestbook",
+      "title": "guestbook"
+    },
+    "793b7607a186cdc3": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/hades",
+      "title": "hades"
+    },
+    "956a98ff50e8fe71": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/halloween",
+      "title": "halloween"
+    },
+    "63337ae22176d7a4": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/hell",
+      "title": "hell"
+    },
+    "1ad694d51a8db7ea": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/houston",
+      "title": "houston"
+    },
+    "5951ab4d3d77bfb4": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/illusions",
+      "title": "illusions"
+    },
+    "986c44fd49f6fba3": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/impression",
+      "title": "impression"
+    },
+    "ede495062d8b9100": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/infected2",
+      "title": "infected2"
+    },
+    "cafc9aaefb88156c": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/intense",
+      "title": "intense"
+    },
+    "3c30b427f9ca61da": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/intensecurry",
+      "title": "intensecurry"
+    },
+    "308551ef6ed0bfde": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/kabal",
+      "title": "kabal"
+    },
+    "8e7cb9bcf1f3efaf": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/lahack",
+      "title": "lahack"
+    },
+    "1d96861f5dec0c1f": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "habillage",
+      "group": "flash/lien_overstep",
+      "title": "lien overstep"
+    },
+    "917095b32a107bcc": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "habillage",
+      "group": "flash/lienblog",
+      "title": "lienblog"
+    },
+    "3e3cb79a30797561": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/lireguest",
+      "title": "lireguest"
+    },
+    "0d8b2078fe6ccd74": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/luna",
+      "title": "luna"
+    },
+    "26c30a92d2e806d0": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/magikfullmoon",
+      "title": "magikfullmoon"
+    },
+    "de20adc5c1896b06": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/melange",
+      "title": "melange"
+    },
+    "7a685fbf33950202": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/metaflash",
+      "title": "metaflash"
+    },
+    "cc6cd9103ea0c1ae": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/meteors",
+      "title": "meteors"
+    },
+    "088074d02c10bcf8": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "flash/midori",
+      "title": "midori"
+    },
+    "2e1df9c9fc595ce1": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/mustik",
+      "title": "mustik"
+    },
+    "4d03ad128fc2ec05": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/nemesis",
+      "title": "nemesis"
+    },
+    "c4b39507775ed8b3": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/noonaute",
+      "title": "noonaute"
+    },
+    "29fb3570d5453f89": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/orangemechanik",
+      "title": "orangemechanik"
+    },
+    "780ecf370d91cab3": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/overstep",
+      "title": "overstep"
+    },
+    "319428ccc70c39f2": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/oxygen",
+      "title": "oxygen"
+    },
+    "d0e85899a09ca685": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/paese",
+      "title": "paese"
+    },
+    "155991e7e8580157": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/peterpan",
+      "title": "peterpan"
+    },
+    "9e095853073027bc": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/petitvent",
+      "title": "petitvent"
+    },
+    "bbe0a2671e96d121": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/pinocchia",
+      "title": "pinocchia"
+    },
+    "cfc91f935104556a": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "flash/primitiv",
+      "title": "primitiv"
+    },
+    "0568ac16f679809c": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/psychik",
+      "title": "psychik"
+    },
+    "26aa1519a9ef74b5": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/radioactivity",
+      "title": "radioactivity"
+    },
+    "8d8d5a695bfc7189": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/rainbow",
+      "title": "rainbow"
+    },
+    "2a5cecd3936a6345": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/reply",
+      "title": "reply"
+    },
+    "36970531d150f035": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/reply2",
+      "title": "reply2"
+    },
+    "cdc3120e8bffa9e6": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/reply3",
+      "title": "reply3"
+    },
+    "c26a094b1ccd1193": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/reply4",
+      "title": "reply4"
+    },
+    "cb0d19e9ae8505fa": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "habillage",
+      "group": "flash/retour",
+      "title": "retour"
+    },
+    "4eb7bede244ddde3": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "flash/roads",
+      "title": "roads"
+    },
+    "7a8978c1c74aea70": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/running2",
+      "title": "running2"
+    },
+    "8e9db8dd6e23801b": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "flash/sabotage",
+      "title": "sabotage"
+    },
+    "00354c7de7d841ac": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "flash/sauvage",
+      "title": "sauvage"
+    },
+    "177b06da72bc395e": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "habillage",
+      "group": "flash/signer",
+      "title": "signer"
+    },
+    "f10c89bbc0c30360": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "habillage",
+      "group": "flash/signerguest",
+      "title": "signerguest"
+    },
+    "813374bbb89b287f": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/snowlysmok",
+      "title": "snowlysmok"
+    },
+    "9e8ded2d3ff4eb03": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/speederman",
+      "title": "speederman"
+    },
+    "a4d171d2861c7cc7": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/spiderx",
+      "title": "spiderx"
+    },
+    "11d5c5f9fb47479f": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/stg",
+      "title": "stg"
+    },
+    "bcb4baf935897a39": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/swan",
+      "title": "swan"
+    },
+    "009946901515dd08": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/thering",
+      "title": "thering"
+    },
+    "e59e0028054bd63a": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/tranb",
+      "title": "tranb"
+    },
+    "ff044880eb64b492": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/tranceculture",
+      "title": "tranceculture"
+    },
+    "943f448a06be08c6": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/tranceculture2",
+      "title": "tranceculture2"
+    },
+    "bbc0deb37463b9de": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/tree",
+      "title": "tree"
+    },
+    "67aec39b97f1d0d4": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/triangle",
+      "title": "triangle"
+    },
+    "b94e133c52a19516": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/vazdor",
+      "title": "vazdor"
+    },
+    "8b4330f46f38f80c": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/vazdor2",
+      "title": "vazdor2"
+    },
+    "e4c3b247c9e1a053": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/wings",
+      "title": "wings"
+    },
+    "592ac176ce62e560": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/wolverine",
+      "title": "wolverine"
+    },
+    "e31279fe8b940124": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/zelda",
+      "title": "zelda"
+    },
+    "dc78a6f5683035a9": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "flash/zicchip",
+      "title": "zicchip"
+    },
+    "8eea86e3a645e27f": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "foetus",
+      "title": "foetus"
+    },
+    "8638bd183c301c22": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "free",
+      "title": "free"
+    },
+    "b64cea6d6ca75b3a": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "freebaze2",
+      "title": "freebaze2"
+    },
+    "66e8b769a3103a42": {
+      "decision": "private",
+      "kind": "image"
+    },
+    "50c3d0e2641c61bd": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "freesimps",
+      "title": "freesimps"
+    },
+    "c468da1bc875e55c": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "fulcanelli",
+      "title": "fulcanelli"
+    },
+    "31905f4452067595": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "gif/absynth",
+      "title": "absynth"
+    },
+    "62bfc003e0d29b47": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "gif/alkemia",
+      "title": "alkemia"
+    },
+    "1a4fbfbbf5d1a1b4": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "gif/avalon",
+      "title": "avalon"
+    },
+    "9449f88036579628": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "gif/awakening",
+      "title": "awakening"
+    },
+    "f11851222a655164": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "gif/away",
+      "title": "away"
+    },
+    "965d32eff2269283": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "gif/azuki",
+      "title": "azuki"
+    },
+    "71de1f51d88d8bcb": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "habillage",
+      "group": "gif/background",
+      "title": "background"
+    },
+    "eaef1e41c4524dde": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "habillage",
+      "group": "gif/background2",
+      "title": "background2"
+    },
+    "36d7b11a444719ea": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "habillage",
+      "group": "gif/background3",
+      "title": "background3"
+    },
+    "4107b8d4e9bd437c": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "habillage",
+      "group": "gif/background4",
+      "title": "background4"
+    },
+    "6d9a868997865dfc": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "habillage",
+      "group": "gif/background5",
+      "title": "background5"
+    },
+    "e1e74f24261ec4e2": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "habillage",
+      "group": "gif/background6",
+      "title": "background6"
+    },
+    "3000b5ee6f2e0d46": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "habillage",
+      "group": "gif/background7",
+      "title": "background7"
+    },
+    "a04a22356946ecca": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "habillage",
+      "group": "gif/background8",
+      "title": "background8"
+    },
+    "a67162b9ed2186b0": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "habillage",
+      "group": "gif/background9",
+      "title": "background9"
+    },
+    "25f34146583b95ac": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "habillage",
+      "group": "gif/blog",
+      "title": "blog"
+    },
+    "52eb7cfb25c70efd": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "gif/chaser",
+      "title": "chaser"
+    },
+    "3562be2a78f3d057": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "gif/children",
+      "title": "children"
+    },
+    "51ee70d75bd3636b": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "gif/controller",
+      "title": "controller"
+    },
+    "63fd46cfb32ec9b0": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "gif/darkside",
+      "title": "darkside"
+    },
+    "6b97c86154f80645": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "gif/daykilla",
+      "title": "daykilla"
+    },
+    "fdd74fd3248b741e": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "gif/dlinkante",
+      "title": "dlinkante"
+    },
+    "1797ea79b92777be": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "gif/eden",
+      "title": "eden"
+    },
+    "a2c1971130ecbd65": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "gif/explosion",
+      "title": "explosion"
+    },
+    "3cbc43ae3d873a9f": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "gif/fire",
+      "title": "fire"
+    },
+    "83caaf93211a73cf": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "gif/freebaze",
+      "title": "freebaze"
+    },
+    "460375720441d237": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "gif/fuckingfire",
+      "title": "fuckingfire"
+    },
+    "91638a8ae2f62aa2": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "gif/hades",
+      "title": "hades"
+    },
+    "9b13311a179f9661": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "gif/halloween",
+      "title": "halloween"
+    },
+    "d7d1cf654943c676": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "gif/hollow",
+      "title": "hollow"
+    },
+    "1d30152e4fb4530c": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "gif/iceage",
+      "title": "iceage"
+    },
+    "aa952df20e505a96": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "gif/illusions",
+      "title": "illusions"
+    },
+    "45ab7af6861e8073": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "gif/implosion",
+      "title": "implosion"
+    },
+    "fd7f383ababe9344": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "gif/inorganik",
+      "title": "inorganik"
+    },
+    "b5911e0081e77540": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "gif/intense",
+      "title": "intense"
+    },
+    "f298a58dd3964974": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "gif/intensecurry",
+      "title": "intensecurry"
+    },
+    "13a1d2cfc1ac8528": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "gif/invisible",
+      "title": "invisible"
+    },
+    "5a41c8a125e466aa": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "gif/jardins",
+      "title": "jardins"
+    },
+    "a23bdbe5aa0c491b": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "gif/jump",
+      "title": "jump"
+    },
+    "b8206093eacea0d3": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "gif/jump4",
+      "title": "jump4"
+    },
+    "dc78be46d7b41e1d": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "gif/konoha",
+      "title": "konoha"
+    },
+    "e82f68f2d2848e42": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "gif/landcraft",
+      "title": "landcraft"
+    },
+    "612a990786e91306": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "gif/luna",
+      "title": "luna"
+    },
+    "98cd7d9ab48c3b5b": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "gif/meteors",
+      "title": "meteors"
+    },
+    "52e2dcfd5eb1a3ce": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "gif/montmartre",
+      "title": "montmartre"
+    },
+    "b458c0bcf74a4266": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "gif/noonaute",
+      "title": "noonaute"
+    },
+    "bf8ac61fc7fe37d0": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "gif/oxygen",
+      "title": "oxygen"
+    },
+    "c08055b90f1b273f": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "gif/pixelboss",
+      "title": "pixelboss"
+    },
+    "3f6196f076371851": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "gif/psychik",
+      "title": "psychik"
+    },
+    "2b2039994b08cb4e": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "gif/psychosmash",
+      "title": "psychosmash"
+    },
+    "f8dfd8a54576ae2b": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "gif/radioactivity",
+      "title": "radioactivity"
+    },
+    "aa2dfd0b8adf11b2": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "gif/reborn1",
+      "title": "reborn1"
+    },
+    "788cb1e83b94fc11": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "gif/runningmen",
+      "title": "runningmen"
+    },
+    "602c1fc4666b712c": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "gif/scratches",
+      "title": "scratches"
+    },
+    "2407757c72d41c23": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "gif/setback",
+      "title": "setback"
+    },
+    "fa82d1ec70ac3834": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "gif/shaman",
+      "title": "shaman"
+    },
+    "da64dbe8769d3efc": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "gif/spaceinvaders",
+      "title": "spaceinvaders"
+    },
+    "1d090f2a97f3aa37": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "gif/strip",
+      "title": "strip"
+    },
+    "7c0b2049c9da346c": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "gif/sweetheart",
+      "title": "sweetheart"
+    },
+    "0fde17b035d7628f": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "gif/telepathik",
+      "title": "telepathik"
+    },
+    "6dda0d326dc33425": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "gif/tinyteck",
+      "title": "tinyteck"
+    },
+    "5478116b1a2ecde6": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "gif/tivent",
+      "title": "tivent"
+    },
+    "9c7d32cdd36931b5": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "gif/triangle",
+      "title": "triangle"
+    },
+    "ad7c2a866119ae9d": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "gif/war",
+      "title": "war"
+    },
+    "4a29408a7d0d78e0": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "animations",
+      "group": "gif/wild",
+      "title": "wild"
+    },
+    "81cc29a91ebeb0c8": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "ginaabul",
+      "title": "ginaabul"
+    },
+    "9cd55945fe8af840": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "goldknight2",
+      "title": "goldknight2"
+    },
+    "d3b8fab5ff3a970b": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "goldodo",
+      "title": "goldodo"
+    },
+    "8c384e4dec27a650": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "grifondor",
+      "title": "grifondor"
+    },
+    "b2b76d02902bf5d0": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "hades",
+      "title": "hades"
+    },
+    "0a6a4cd3d3c77ee3": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "halloween",
+      "title": "halloween"
+    },
+    "1cba7f8c3f502cd4": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "hollow",
+      "title": "hollow"
+    },
+    "921cbe61eb31bcf5": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "homer",
+      "title": "homer"
+    },
+    "d031a0e5457d349c": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "hope",
+      "title": "hope"
+    },
+    "e4fd25f2c4874c0b": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "horizon",
+      "title": "horizon"
+    },
+    "fd9cb7549f69e91e": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "iceage",
+      "title": "iceage"
+    },
+    "90bc9383365b1887": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "illusion2",
+      "title": "illusion2"
+    },
+    "a90fe4062c675c70": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "illusions",
+      "title": "illusions"
+    },
+    "33b979e096bd4145": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "illustrations/1",
+      "title": "1"
+    },
+    "c971cad89787e536": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "illustrations/10",
+      "title": "10"
+    },
+    "542bb82331fb42cf": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "illustrations/11",
+      "title": "11"
+    },
+    "11dd75b3f0495976": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "illustrations/12",
+      "title": "12"
+    },
+    "0f8520fa1f66c715": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "illustrations/13",
+      "title": "13"
+    },
+    "e8e1356403251c1c": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "illustrations/14",
+      "title": "14"
+    },
+    "3bf832c0ca5d46eb": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "illustrations/15",
+      "title": "15"
+    },
+    "f5547b98e76bacb6": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "illustrations/16",
+      "title": "16"
+    },
+    "802d54eeacca142e": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "illustrations/17",
+      "title": "17"
+    },
+    "06c18d2d567164d7": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "illustrations/18",
+      "title": "18"
+    },
+    "5037b688f58e1f0c": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "illustrations/19",
+      "title": "19"
+    },
+    "cf40fc3a39f5bc60": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "illustrations/2",
+      "title": "2"
+    },
+    "814d8f17b79fba55": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "illustrations/20",
+      "title": "20"
+    },
+    "b754b0834a8509c4": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "illustrations/21",
+      "title": "21"
+    },
+    "720017d49a44ea8b": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "illustrations/22",
+      "title": "22"
+    },
+    "e71a7c4602519340": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "illustrations/23",
+      "title": "23"
+    },
+    "ce980c70e80dc8da": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "illustrations/24",
+      "title": "24"
+    },
+    "162eedc96be2d8a9": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "illustrations/25",
+      "title": "25"
+    },
+    "78789446d8c53197": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "illustrations/26",
+      "title": "26"
+    },
+    "88dab7e1dd5271c5": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "illustrations/27",
+      "title": "27"
+    },
+    "dac91039c9437d4c": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "illustrations/28",
+      "title": "28"
+    },
+    "8cf444ab54402930": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "illustrations/29",
+      "title": "29"
+    },
+    "17fe55baf65636fb": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "illustrations/3",
+      "title": "3"
+    },
+    "d292c8705c97d466": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "illustrations/30",
+      "title": "30"
+    },
+    "8af6eab997f098d7": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "illustrations/31",
+      "title": "31"
+    },
+    "eded7326e1535e85": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "illustrations/32",
+      "title": "32"
+    },
+    "12c45e552c68de44": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "illustrations/4",
+      "title": "4"
+    },
+    "e9e7b15f6b30b204": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "illustrations/5",
+      "title": "5"
+    },
+    "a89bce11a4af5340": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "illustrations/6",
+      "title": "6"
+    },
+    "0386985be46308e0": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "illustrations/7",
+      "title": "7"
+    },
+    "a52b68f30e523f95": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "illustrations/8",
+      "title": "8"
+    },
+    "6e0b7cbb53c32802": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "illustrations/9",
+      "title": "9"
+    },
+    "5dfcb68a88083800": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "illustrations/abra",
+      "title": "abra"
+    },
+    "e56a21350f316ab6": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "illustrations/alchimiste",
+      "title": "alchimiste"
+    },
+    "371a4493c67a58dc": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "illustrations/banniere",
+      "title": "banniere"
+    },
+    "fb26ac64254dc7db": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "illustrations/old_sadi",
+      "title": "old sadi"
+    },
+    "871ae1b840a71317": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "illustrations/presse",
+      "title": "presse"
+    },
+    "cd83dc7bda4a3b02": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "illustrations/qingpipih",
+      "title": "qingpipih"
+    },
+    "6f4e887f6cecd50c": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "illustrations/sensinterdit",
+      "title": "sensinterdit"
+    },
+    "68b2ceb8279ad969": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/39",
+      "title": "39"
+    },
+    "a3aad44374353b60": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/snakeban",
+      "title": "SNakeBan"
+    },
+    "93df21b9f3304046": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "habillage",
+      "group": "images/accueil",
+      "title": "accueil"
+    },
+    "a435bd3f8dd340eb": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/alkemia",
+      "title": "alkemia"
+    },
+    "6e9709aa798b82a7": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/athanor",
+      "title": "athanor"
+    },
+    "77e0cb3ed3cdc8ba": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/away",
+      "title": "away"
+    },
+    "81c4ed43978f4797": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/ball",
+      "title": "ball"
+    },
+    "8cc2f84d1d11462e": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/baobab",
+      "title": "baobab"
+    },
+    "dd53c1dda48e6f8a": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/bigbang_cold",
+      "title": "bigbang cold"
+    },
+    "2073a708eba156ad": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/bubble",
+      "title": "bubble"
+    },
+    "14bcf37fcf452519": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/bubble2",
+      "title": "bubble2"
+    },
+    "97204a18de920e56": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/bumblebee",
+      "title": "bumblebee"
+    },
+    "6b30d959a1226ec0": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/dancing",
+      "title": "dancing"
+    },
+    "2a1e2c0b7c6cf715": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/darkside",
+      "title": "darkside"
+    },
+    "78b01150dd17e4c5": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/decker",
+      "title": "decker"
+    },
+    "d68183e7f4dbd463": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/decker",
+      "title": "decker"
+    },
+    "9f3797050b11da32": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/decker",
+      "title": "decker"
+    },
+    "3bb4d6d7a8e7abb3": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/dje ident",
+      "title": "dje ident"
+    },
+    "b73e69527741b58f": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/dje",
+      "title": "dje"
+    },
+    "db88659b370e54dd": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/dlinkante",
+      "title": "dlinkante"
+    },
+    "b99731f1ca88a3ec": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/ekinox",
+      "title": "ekinox"
+    },
+    "07e04202d456c502": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/electronirik",
+      "title": "electronirik"
+    },
+    "65700eae95a65942": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/etheric",
+      "title": "etheric"
+    },
+    "68705cbdf5501597": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/etheric",
+      "title": "etheric"
+    },
+    "0f2f17ba43c0dd8d": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/exterior",
+      "title": "exterior"
+    },
+    "a2d2fd342ff2e98c": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/forrest",
+      "title": "forrest"
+    },
+    "0978ccd0e8fc0403": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/freebaze",
+      "title": "freebaze"
+    },
+    "5049717c6aa49def": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/freebaze",
+      "title": "freebaze"
+    },
+    "8db3d81ff40aa451": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/fullmoon",
+      "title": "fullmoon"
+    },
+    "0f84fe9ab284968f": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/gorillaz",
+      "title": "gorillaz"
+    },
+    "0b4dfb75347af4ee": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/hades",
+      "title": "hades"
+    },
+    "762cd4f73b86305c": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/haine2",
+      "title": "haine2"
+    },
+    "ed8663f40763cf3a": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/halloween",
+      "title": "halloween"
+    },
+    "1496fb9647df3b7a": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/hell",
+      "title": "hell"
+    },
+    "6f1972e626b06cb7": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/hell",
+      "title": "hell"
+    },
+    "0b7472f45a60a899": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/illusions",
+      "title": "illusions"
+    },
+    "9f69cb58a9747dbd": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/illusions",
+      "title": "illusions"
+    },
+    "7862371d5953ed86": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/impression",
+      "title": "impression"
+    },
+    "3dcb0cc4dc990d35": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/int_alien",
+      "title": "int alien"
+    },
+    "1602c1283dcec96e": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/intense",
+      "title": "intense"
+    },
+    "afce9a8d14e8ff5e": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/intense1024",
+      "title": "intense1024"
+    },
+    "c84a5933b0d2aa57": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/intensecurry",
+      "title": "intensecurry"
+    },
+    "65d2d38f5faf1026": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/jump",
+      "title": "jump"
+    },
+    "d68185d6e7bfb2e6": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/jump",
+      "title": "jump"
+    },
+    "0d11c96aaefd8310": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/kernel",
+      "title": "kernel"
+    },
+    "46d6052fd679cd5d": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/kernel",
+      "title": "kernel"
+    },
+    "c685f5eae357bded": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/killa",
+      "title": "killa"
+    },
+    "36acb54673965ecd": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/killa",
+      "title": "killa"
+    },
+    "400b8c65cd5507a7": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/l'alchimiste",
+      "title": "l'alchimiste"
+    },
+    "089be4a5c37e4346": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/linux",
+      "title": "linux"
+    },
+    "8323cf5faf2e56e7": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/livre ouvert",
+      "title": "livre ouvert"
+    },
+    "ab779841503461a6": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/luna",
+      "title": "luna"
+    },
+    "04b69bf7c1022845": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/luna",
+      "title": "luna"
+    },
+    "2e6cdbe42d3f606b": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/mahakala",
+      "title": "mahakala"
+    },
+    "42d1a77e42e7b6c2": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/mandala",
+      "title": "mandala"
+    },
+    "caf078b089ee445e": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/meteors",
+      "title": "meteors"
+    },
+    "ebb47153718845e2": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/model",
+      "title": "model"
+    },
+    "98a5022621b26701": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/monistea",
+      "title": "monistea"
+    },
+    "17cb870d254cadcb": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/mushroom",
+      "title": "mushroom"
+    },
+    "ff350e9e987782a3": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/mustik",
+      "title": "mustik"
+    },
+    "59e852a601828960": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/nemesis",
+      "title": "nemesis"
+    },
+    "4083b19f00894130": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/noonaute",
+      "title": "noonaute"
+    },
+    "113d34e9c1215f5a": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/out_of_space",
+      "title": "out of space"
+    },
+    "d42f770e810c32a3": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/paese",
+      "title": "paese"
+    },
+    "13928919b483f939": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/peterpan",
+      "title": "peterpan"
+    },
+    "031b8c2a0d88b659": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "illustrations",
+      "group": "images/peterpan",
+      "title": "peterpan"
+    },
+    "57999dc1768f0644": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/pinocchia",
+      "title": "pinocchia"
+    },
+    "4f567628b7e630fe": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/proserpine",
+      "title": "proserpine"
+    },
+    "02abc99e66859efa": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/radioactivity",
+      "title": "radioactivity"
+    },
+    "f3f617697f3dfb23": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/rainbow",
+      "title": "rainbow"
+    },
+    "cb26c90dc5bcb0ac": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/reborn",
+      "title": "reborn"
+    },
+    "35e5dab4e21529d1": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/reborn",
+      "title": "reborn"
+    },
+    "011d59eb0342681f": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "illustrations",
+      "group": "images/reborn",
+      "title": "reborn"
+    },
+    "29d7101c98d3db2e": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/saut_supreme",
+      "title": "saut supreme"
+    },
+    "93842603e38438c1": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/shaman",
+      "title": "shaman"
+    },
+    "c20d43ef3c2839e5": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/snake",
+      "title": "snake"
+    },
+    "8f06e9b36ec1e02a": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/snow",
+      "title": "snow"
+    },
+    "dbfd78cc8e1805e3": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/speederman",
+      "title": "speederman"
+    },
+    "7ecdd2905df9c2fc": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/spiderx",
+      "title": "spiderx"
+    },
+    "b8c204c4e291fe71": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/starting",
+      "title": "starting"
+    },
+    "b8fa84be8331fc93": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/stream",
+      "title": "stream"
+    },
+    "ecb300d9d52b40a0": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/teleport",
+      "title": "teleport"
+    },
+    "fc1369087d05a252": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/tivent",
+      "title": "tivent"
+    },
+    "f0a260967ef9822b": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/tranb",
+      "title": "tranb"
+    },
+    "3f4ccc1dff1b2434": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/tranb",
+      "title": "tranb"
+    },
+    "412eaf00ec14e405": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/tree",
+      "title": "tree"
+    },
+    "e65b167cb6147876": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/tree",
+      "title": "tree"
+    },
+    "719fb46c8ef0011e": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/tree",
+      "title": "tree"
+    },
+    "0ff17c5987da97de": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/tree",
+      "title": "tree"
+    },
+    "165f0e6c6042712e": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/tree",
+      "title": "tree"
+    },
+    "6f3cfa9c67acc882": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/un_pied_sur_terre",
+      "title": "un pied sur terre"
+    },
+    "6c30d1f12095d9e5": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/upload",
+      "title": "upload"
+    },
+    "d1510e082fd2369e": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/wings",
+      "title": "wings"
+    },
+    "323ec9187f58eb05": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "images/wolverine",
+      "title": "wolverine"
+    },
+    "5b3ac873a4a6a226": {
+      "decision": "private",
+      "kind": "image"
+    },
+    "a34003a652dc1f94": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "implosion",
+      "title": "implosion"
+    },
+    "bb3c558f77061fc0": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "implosion3",
+      "title": "implosion3"
+    },
+    "409f1aabe987f071": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "habillage",
+      "group": "index3",
+      "title": "index3"
+    },
+    "d432615a7e758da1": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "inorganik",
+      "title": "inorganik"
+    },
+    "fc4260b3268fedc1": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "intense",
+      "title": "intense"
+    },
+    "95e50d8f7d7a5610": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "intense2",
+      "title": "intense2"
+    },
+    "ae0a9ef98678b950": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "intensecurry",
+      "title": "intensecurry"
+    },
+    "8037dab02d3a1cdf": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "invisible",
+      "title": "invisible"
+    },
+    "c636c0b81fe4a5fc": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "jabba",
+      "title": "jabba"
+    },
+    "c2a3b2b4d5ead971": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "japan",
+      "title": "japan"
+    },
+    "1168c7c107d17f11": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "jardinsuspendu",
+      "title": "jardinsuspendu"
+    },
+    "81258dcc5162759a": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "jump",
+      "title": "jump"
+    },
+    "23b06864df3b04d6": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "jump2",
+      "title": "jump2"
+    },
+    "da5ce4ea7752c85a": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "jump3",
+      "title": "jump3"
+    },
+    "80eea9ff6514e974": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "jump4",
+      "title": "jump4"
+    },
+    "e7907ab35c45c3bb": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "konoha",
+      "title": "konoha"
+    },
+    "1cb5b49a90131bf1": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "labyrinthe",
+      "title": "labyrinthe"
+    },
+    "335487682feb53ba": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "landcraft",
+      "title": "landcraft"
+    },
+    "dceddc97052b0082": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "landcraft",
+      "title": "landcraft"
+    },
+    "aec3d858b3e74dc3": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "landcraft2",
+      "title": "landcraft2"
+    },
+    "1fb329c5c6ffa00d": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "le sourire",
+      "title": "le sourire"
+    },
+    "8b1736ad53aa4fb8": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "lengthened",
+      "title": "lengthened"
+    },
+    "961d0c87d14927c7": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "habillage",
+      "group": "lien_overstep",
+      "title": "lien overstep"
+    },
+    "83d396b07eb0748c": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "habillage",
+      "group": "limited",
+      "title": "limited"
+    },
+    "d7273090aabde107": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "lireguest",
+      "title": "lireguest"
+    },
+    "70a218427c21c50e": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "logo",
+      "title": "logo"
+    },
+    "b74dccb9f60b49f1": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "luna",
+      "title": "luna"
+    },
+    "550a0edbefd5aa3b": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "luna2",
+      "title": "luna2"
+    },
+    "64782180a7fd2016": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "lvd",
+      "title": "lvd"
+    },
+    "ed92dfbaf210d9da": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "mario",
+      "title": "mario"
+    },
+    "af6dcbc30e817a54": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "marvin2",
+      "title": "marvin2"
+    },
+    "aba1a6709027b12f": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "mascotte",
+      "title": "mascotte"
+    },
+    "bcd6945bcbaf763f": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "mega",
+      "title": "mega"
+    },
+    "a710d817bc501afa": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "meteors",
+      "title": "meteors"
+    },
+    "863696ae5050b065": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "mind2",
+      "title": "mind2"
+    },
+    "b3623869fbf0224f": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "mind4",
+      "title": "mind4"
+    },
+    "62d161c9c24154d1": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "mindcontrol",
+      "title": "mindcontrol"
+    },
+    "342618334f50b6fe": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "mindcontroller",
+      "title": "mindcontroller"
+    },
+    "4d33aa0aff33838e": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "moby",
+      "title": "moby"
+    },
+    "1902508ee3cdabfc": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "model",
+      "title": "model"
+    },
+    "1bff520591e459a6": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "moh6",
+      "title": "moh6"
+    },
+    "d159171c49066591": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "mononoke2",
+      "title": "mononoke2"
+    },
+    "1c08e39125d7e458": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "montmartre",
+      "title": "montmartre"
+    },
+    "c9b071529a3604ef": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "namek",
+      "title": "namek"
+    },
+    "3f5fad232b71b61f": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "nasty",
+      "title": "nasty"
+    },
+    "261a864a681f2716": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "nathalie",
+      "title": "nathalie"
+    },
+    "47e20d0879ff5a4f": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "neosnake",
+      "title": "neosnake"
+    },
+    "77404bc6bb812f49": {
+      "decision": "private",
+      "kind": "image"
+    },
+    "0634d5ef80d1edd4": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "nobody",
+      "title": "nobody"
+    },
+    "f7a90c79cbaa345c": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "noonaute",
+      "title": "noonaute"
+    },
+    "a365911ffa8f10af": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "oldschool",
+      "title": "oldschool"
+    },
+    "1e2e16261dda415e": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "oldschool2",
+      "title": "oldschool2"
+    },
+    "4a706825359c0cd9": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "oldschool3",
+      "title": "oldschool3"
+    },
+    "d91c8973f4a886a8": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "other2",
+      "title": "other2"
+    },
+    "b7c80bbd67d84abc": {
+      "decision": "private",
+      "kind": "image"
+    },
+    "2c6a023a4a8e9afc": {
+      "decision": "private",
+      "kind": "image"
+    },
+    "a7876d4ef94dd8ce": {
+      "decision": "private",
+      "kind": "image"
+    },
+    "8f37f6671509117d": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "oxygen",
+      "title": "oxygen"
+    },
+    "6c8e2f99c5b807d2": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "pandastudio",
+      "title": "pandastudio"
+    },
+    "e32d25c09e626548": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "particle",
+      "title": "particle"
+    },
+    "d9ff70456d522e44": {
+      "decision": "private",
+      "kind": "swf"
+    },
+    "b36015165aeb7375": {
+      "decision": "private",
+      "kind": "swf"
+    },
+    "bb4d852249f0573b": {
+      "decision": "private",
+      "kind": "swf"
+    },
+    "d2ba6f5a0bebbfc6": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "pochettes",
+      "group": "photoshop/affichemc",
+      "title": "afficheMC"
+    },
+    "fda4da3135ec0015": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "pochettes",
+      "group": "photoshop/affichemc",
+      "title": "afficheMC"
+    },
+    "7a28e43181b72e4c": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "photoshop/background/background3",
+      "title": "background3"
+    },
+    "7d4ee5b800183d3b": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "pochettes",
+      "group": "photoshop/blackabsynth",
+      "title": "blackabsynth"
+    },
+    "969e48d8c3ce83aa": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "pochettes",
+      "group": "photoshop/blackabsynth",
+      "title": "blackabsynth"
+    },
+    "4838a82b79f5130e": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "pochettes",
+      "group": "photoshop/cov_essai",
+      "title": "cov essai"
+    },
+    "b640a9235eb1ace2": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "pochettes",
+      "group": "photoshop/cov_essai",
+      "title": "cov essai"
+    },
+    "d2a1ca4ffbf3ecc1": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "pochettes",
+      "group": "photoshop/disturbed",
+      "title": "disturbed"
+    },
+    "d50e18f01a20d8d0": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "pochettes",
+      "group": "photoshop/disturbed",
+      "title": "disturbed"
+    },
+    "0bda26d1390a0af6": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "pochettes",
+      "group": "photoshop/entity",
+      "title": "entity"
+    },
+    "e6d55aa3dccb4f1f": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "pochettes",
+      "group": "photoshop/entity",
+      "title": "entity"
+    },
+    "04b3595b13ab9f43": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "pochettes",
+      "group": "photoshop/entity",
+      "title": "entity"
+    },
+    "247cd7ad16071ab6": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "pochettes",
+      "group": "photoshop/entity",
+      "title": "entity"
+    },
+    "c6a9ae362a159db5": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "pochettes",
+      "group": "photoshop/fly",
+      "title": "fly"
+    },
+    "a51cdb8594884cb0": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "pochettes",
+      "group": "photoshop/fly",
+      "title": "fly"
+    },
+    "7b0826b699d9d6a7": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "pochettes",
+      "group": "photoshop/overload",
+      "title": "overload"
+    },
+    "c7afefd9d028e3aa": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "pochettes",
+      "group": "photoshop/overload",
+      "title": "overload"
+    },
+    "2e01dddce18ca2d8": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "pochettes",
+      "group": "photoshop/rocklee",
+      "title": "rocklee"
+    },
+    "be1056eadf629a7d": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "pochettes",
+      "group": "photoshop/rocklee",
+      "title": "rocklee"
+    },
+    "c27b7785638158e8": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "pochettes",
+      "group": "photoshop/silversurfer",
+      "title": "silversurfer"
+    },
+    "f3720299b5e38c8a": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "pochettes",
+      "group": "photoshop/silversurfer",
+      "title": "silversurfer"
+    },
+    "0b1a4c71e01d8452": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "pochettes",
+      "group": "photoshop/smash",
+      "title": "smash"
+    },
+    "bf05dba5d71c84c1": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "pochettes",
+      "group": "photoshop/smash",
+      "title": "smash"
+    },
+    "20b78d59bae93d0d": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "playinbath",
+      "title": "playinbath"
+    },
+    "188accba865fcb60": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "popcorn",
+      "title": "popcorn"
+    },
+    "8b9646f214445977": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "prayer",
+      "title": "prayer"
+    },
+    "338d7701069ea892": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "product",
+      "title": "product"
+    },
+    "bda47904f7fd979f": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "psychik",
+      "title": "psychik"
+    },
+    "e152be2a235daaea": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "psychosmash",
+      "title": "psychosmash"
+    },
+    "33d7510f483087a1": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "ptitpoucet",
+      "title": "ptitpoucet"
+    },
+    "61b50eec373acb6c": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "quebecstar",
+      "title": "quebecstar"
+    },
+    "910432a7c139c81f": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "queen",
+      "title": "queen"
+    },
+    "cdf939e64a406538": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "radioactivity",
+      "title": "radioactivity"
+    },
+    "c76adcbe58cfa3c4": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "rainbow2",
+      "title": "rainbow2"
+    },
+    "580eb47d2e74ac45": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "rebirth",
+      "title": "rebirth"
+    },
+    "31b2e94255210cc8": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "reborn",
+      "title": "reborn"
+    },
+    "0550a99be70761a3": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "reborn1",
+      "title": "reborn1"
+    },
+    "130d4c7ab8f47334": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "red sonja nb 002",
+      "title": "red sonja nb 002"
+    },
+    "874129e26a99e34c": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "red",
+      "title": "red"
+    },
+    "c10b619212e6352a": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "redsonja",
+      "title": "redsonja"
+    },
+    "4a00cecdf72c8e9c": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "reply",
+      "title": "reply"
+    },
+    "cc0d872788d8c15c": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "habillage",
+      "group": "retour",
+      "title": "retour"
+    },
+    "7579519c5727beeb": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "rhinofree",
+      "title": "rhinofree"
+    },
+    "2707fb52d9a82511": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "road",
+      "title": "road"
+    },
+    "c57863a53ee2781c": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "rocklee",
+      "title": "rocklee"
+    },
+    "f6708698d21a1836": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "running2",
+      "title": "running2"
+    },
+    "32c723ef98c0356f": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "running3",
+      "title": "running3"
+    },
+    "938676f0add963e9": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "runningmen",
+      "title": "runningmen"
+    },
+    "70ed2bcf2f27c86b": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "rylee",
+      "title": "rylee"
+    },
+    "36c32c2fc428e791": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "saison6_11",
+      "title": "saison6 11"
+    },
+    "e2322af332be0184": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "san",
+      "title": "san"
+    },
+    "651c49074bee0300": {
+      "decision": "private",
+      "kind": "image"
+    },
+    "78c195464b4a6595": {
+      "decision": "private",
+      "kind": "image"
+    },
+    "1d1cf8eb2b7a528b": {
+      "decision": "private",
+      "kind": "image"
+    },
+    "0e57dd26764bce51": {
+      "decision": "private",
+      "kind": "swf"
+    },
+    "d30594dd8bf17dc2": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "setback",
+      "title": "setback"
+    },
+    "55cd70c7b439d470": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "habillage",
+      "group": "signer",
+      "title": "signer"
+    },
+    "9003c8eaa66c5607": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "habillage",
+      "group": "signerguest",
+      "title": "signerguest"
+    },
+    "d3954915af960db1": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "sirene",
+      "title": "sirene"
+    },
+    "545166eaa849a7d7": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "skilet",
+      "title": "skilet"
+    },
+    "5daea10282273ac0": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "skyjump",
+      "title": "skyjump"
+    },
+    "f0ae0343aba32e42": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "sliders",
+      "title": "sliders"
+    },
+    "7392205071475d16": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "smashball",
+      "title": "smashball"
+    },
+    "3942e0890e7f30a3": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "smile enemy",
+      "title": "smile enemy"
+    },
+    "432e614a5d1c4476": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "snake",
+      "title": "snake"
+    },
+    "f8e8ee4f52ef2af4": {
+      "decision": "private",
+      "kind": "image"
+    },
+    "835fa0cd9bc204ff": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "space",
+      "title": "space"
+    },
+    "41ecc2aa8dba5601": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "spaceinvaders",
+      "title": "spaceinvaders"
+    },
+    "ebddaa7f967f0c50": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "speeder",
+      "title": "speeder"
+    },
+    "07db5f126b044774": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "speederman",
+      "title": "speederman"
+    },
+    "8e03ee81c7b0c99f": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "spider",
+      "title": "spider"
+    },
+    "c9b8d8c9201cb887": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "spiderx",
+      "title": "spiderx"
+    },
+    "0b02a44c7c8b1e37": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "starting",
+      "title": "starting"
+    },
+    "d1bd2f9f70d9f0aa": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "step_kodama",
+      "title": "step kodama"
+    },
+    "c789550ac8434f6e": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "stevvie",
+      "title": "stevvie"
+    },
+    "9806eefed2c6ebe3": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "stitch",
+      "title": "stitch"
+    },
+    "a1c88f9a918eca8a": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "stitch",
+      "title": "stitch"
+    },
+    "239072a61ceb22b8": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "stream",
+      "title": "stream"
+    },
+    "5b7f208e84dcda6a": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "streamred",
+      "title": "streamred"
+    },
+    "a4da7dc635f8e0e4": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "stretched2",
+      "title": "stretched2"
+    },
+    "0c418551306288c8": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "supermanarea",
+      "title": "supermanarea"
+    },
+    "c8ebab198efa2696": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "tagone",
+      "title": "tagone"
+    },
+    "4fa1b6fbcea9b973": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "tatoo",
+      "title": "tatoo"
+    },
+    "f5997239e1d65948": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "tatoo2",
+      "title": "tatoo2"
+    },
+    "09a26b9444b8c9d6": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "tatoo3",
+      "title": "tatoo3"
+    },
+    "f3056db251f1dcba": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "telepathik",
+      "title": "telepathik"
+    },
+    "a9bee3019d79a165": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "telepatik",
+      "title": "telepatik"
+    },
+    "0b9c24b779076b46": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "teleport",
+      "title": "teleport"
+    },
+    "bbf60343247295f9": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "theversus",
+      "title": "theversus"
+    },
+    "e568be56b63aa988": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "thumb/wt_bigbang_cold",
+      "title": "WT bigbang cold"
+    },
+    "e0e85e5c3bd8c6db": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "thumb/wt_chute",
+      "title": "WT chute"
+    },
+    "e6e9873ae8cc9cdc": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "thumb/wt_haine2",
+      "title": "WT haine2"
+    },
+    "303dfc84a3f9e4ad": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "thumb/wt_mahakala",
+      "title": "WT mahakala"
+    },
+    "ad4be37107f46d93": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "thumb/wt_monistea",
+      "title": "WT monistea"
+    },
+    "6aadb4ac7761a659": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "thumb/wt_out_of_space",
+      "title": "WT out of space"
+    },
+    "a41dd9b55971f80c": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "thumb/wt_saut_supreme",
+      "title": "WT saut supreme"
+    },
+    "6f1587a170de8773": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "thumb/wt_shaman",
+      "title": "WT shaman"
+    },
+    "91bd9bc9e5faed22": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "thumb/wt_un_pied_sur_terre",
+      "title": "WT un pied sur terre"
+    },
+    "3bab4fc03164fce5": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "thumb/bugs",
+      "title": "bugs"
+    },
+    "471b50b2b9c53c59": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "thumb/bugs",
+      "title": "bugs"
+    },
+    "7c108afc4dda0666": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "thumb/forrest",
+      "title": "forrest"
+    },
+    "35d6dec75fb7d506": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "thumb/forrest",
+      "title": "forrest"
+    },
+    "9673188d8fb633e2": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "thumb/icanfly",
+      "title": "icanfly"
+    },
+    "8ef0c0f554c0c497": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "thumb/icanfly",
+      "title": "icanfly"
+    },
+    "29eb1c1f75656265": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "thumb/intense2",
+      "title": "intense2"
+    },
+    "68b67dbdbb85738f": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "thumb/l'alchimiste",
+      "title": "l'alchimiste"
+    },
+    "08a1166e3f95f52c": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "thumb/livre-ouvert",
+      "title": "livre-ouvert"
+    },
+    "e914f2a37194a050": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "thumb/machia_steevie",
+      "title": "machia steevie"
+    },
+    "c895a8f8ef09da01": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "thumb/machiasteevie1",
+      "title": "machiasteevie1"
+    },
+    "9d3e0a52d504de09": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "thumb/mame",
+      "title": "mame"
+    },
+    "45e000da34e9ddf0": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "thumb/mame",
+      "title": "mame"
+    },
+    "9136337a7953dc36": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "thumb/mandala",
+      "title": "mandala"
+    },
+    "1dcdb9ea549718ba": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "thumb/mod",
+      "title": "mod"
+    },
+    "0222e4283f817d78": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "thumb/mod",
+      "title": "mod"
+    },
+    "38b5417545a5fc67": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "thumb/multisnake",
+      "title": "multisnake"
+    },
+    "83ab1d131953d8a1": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "thumb/multisnake1024",
+      "title": "multisnake1024"
+    },
+    "5c6d6218519d6aa6": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "thumb/proserpine",
+      "title": "proserpine"
+    },
+    "7a952618a3472332": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "thumb/proserpine",
+      "title": "proserpine"
+    },
+    "1bb1bb1b197bd892": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "thumb/saint-seya-is-dead",
+      "title": "saint-seya-is-dead"
+    },
+    "92f55754bfae5fe3": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "thumb/saint-seya1",
+      "title": "saint-seya1"
+    },
+    "89ceff410f9d25fc": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "timehunter",
+      "title": "timehunter"
+    },
+    "34348c4912bd26c5": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "tinyteck",
+      "title": "tinyteck"
+    },
+    "7ccd2ae55c1b3a4d": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "tinyteck3",
+      "title": "tinyteck3"
+    },
+    "ee0a12b47f9b241d": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "totem",
+      "title": "totem"
+    },
+    "305ce259fcd7f115": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "tranbover",
+      "title": "tranbover"
+    },
+    "5a5c55673802a75f": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "transfert/13",
+      "title": "13"
+    },
+    "5029a438915dc932": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "transfert/day11",
+      "title": "day11"
+    },
+    "997c28b50a45f428": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "transfert/day15",
+      "title": "day15"
+    },
+    "4e5a428e5ad90e4f": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "transfert/day16",
+      "title": "day16"
+    },
+    "18d077aa76139417": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "transfert/duel",
+      "title": "duel"
+    },
+    "c161f6537ff3f46d": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "transfert/totemposter",
+      "title": "totemposter"
+    },
+    "db7d693a3dfd71aa": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "tree",
+      "title": "tree"
+    },
+    "05af77bb40799615": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "tree2",
+      "title": "tree2"
+    },
+    "36ddce3d9e82ac01": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "tree3",
+      "title": "tree3"
+    },
+    "d2d7ebb9512baa19": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "tree4",
+      "title": "tree4"
+    },
+    "1c42e8e2dddd2d35": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "tree5",
+      "title": "tree5"
+    },
+    "bb6867186b5bf23e": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "union2",
+      "title": "union2"
+    },
+    "288e017af5ab2aad": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "upload",
+      "title": "upload"
+    },
+    "41320df756d1a938": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "versus",
+      "title": "versus"
+    },
+    "bca4410462b061dd": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "versus2",
+      "title": "versus2"
+    },
+    "d40db1ca2b76928f": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "vert",
+      "title": "vert"
+    },
+    "60c9c416b079311d": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "wallmatrice",
+      "title": "wallmatrice"
+    },
+    "93f875f9b8db6b8f": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "war",
+      "title": "war"
+    },
+    "31a8e9fc29529066": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "warning",
+      "title": "warning"
+    },
+    "87eb3794c50048ac": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "watchstar",
+      "title": "watchstar"
+    },
+    "4d126d07971cef63": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "wild",
+      "title": "wild"
+    },
+    "1469930fa88ee752": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "wildchild",
+      "title": "wildchild"
+    },
+    "b45b05ceb34b2069": {
+      "decision": "include",
+      "kind": "swf",
+      "collection": "animations",
+      "group": "witchcraft",
+      "title": "witchcraft"
+    },
+    "50c1bd8deb60077f": {
+      "decision": "include",
+      "kind": "image",
+      "collection": "illustrations",
+      "group": "wyclef",
+      "title": "wyclef"
+    }
+  }
+}
