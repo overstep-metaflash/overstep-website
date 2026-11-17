@@ -8,7 +8,7 @@
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary | plainify | truncate 160 }}{{ else }}{{ site.Params.description }}{{ end }}{{ end }}">
   <link rel="canonical" href="{{ .Permalink }}">
   {{ with .OutputFormats.Get "RSS" }}<link rel="alternate" type="application/rss+xml" title="{{ site.Title }}" href="{{ .RelPermalink }}">{{ end }}
-  <link rel="stylesheet" href="{{ "css/step.css" | relURL }}">
+  <link rel="stylesheet" href="{{ "css/step.css" | relURL }}?v=2">
   <link rel="stylesheet" href="{{ "css/ruffle-player.css" | relURL }}">
   <script defer src="{{ "js/ruffle-player.js" | relURL }}?v=3"></script>
   <script defer src="{{ "js/totem-renderer.js" | relURL }}?v=1"></script>
