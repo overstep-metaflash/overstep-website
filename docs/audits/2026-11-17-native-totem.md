@@ -39,10 +39,11 @@ browser hit testing. `docs/native-totem.json` pins generated asset hashes.
 
 ## Verification
 
-All **133 Python and 44 JavaScript tests passed**. New fixtures cover real Hugo
+All **133 Python and 45 JavaScript tests passed**. New fixtures cover real Hugo
 rendering at root/project prefixes, source/audio hashes, SVG dependency closure,
 clip timing and identity, audio races, pointer/focus transitions, mobile startup
-and history cleanup. The native output validator checks all 1,415 pages with
+and history cleanup. The sound control waits for its manifest so a first gesture
+on a slower public connection is not ignored. The native output validator checks all 1,415 pages with
 the sidebar, every destination, prefix handling and original/generated hashes.
 
 Both builds retain 491 historical content pages, 2,639 comments, 124 recovered

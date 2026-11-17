@@ -78,3 +78,13 @@ test('audio remains silent until enabled and stops when the page is hidden', asy
   assert.deepEqual(f.renderers[0].calls.at(-1), ['pause', true]);
   assert.deepEqual(f.audioCalls.at(-1), ['stop']);
 });
+
+test('sound control waits for its manifest before accepting the first gesture', async () => {
+  const f = fixture();
+  assert.equal(f.sound.hidden, true);
+  await Promise.resolve();
+  assert.equal(f.sound.hidden, false);
+  f.sound.dispatchEvent(new Event('click'));
+  await Promise.resolve();
+  assert.deepEqual(f.audioCalls, [['enable']]);
+});

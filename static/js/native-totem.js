@@ -72,11 +72,10 @@
       }
     }
     if (window.StepTotemAudio && (window.AudioContext || window.webkitAudioContext)) {
-      button.hidden = false;
       audioPromise = window.StepTotemAudio.create({manifestUrl: container.dataset.audioManifest, prefetchOnEnable: true});
       audioPromise.then(audio => {
         if (instance.disposed) audio.dispose();
-        else instance.audio = audio;
+        else {instance.audio = audio; button.hidden = false;}
       }).catch(error => {
         button.hidden = true;
         console.warn('Unable to prepare native totem audio', error);
